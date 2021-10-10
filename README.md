@@ -28,6 +28,7 @@ __________
 * [Goals](#goals)
 * [Personality](#personality)
 * [Capabilites](#capabilities)
+* [Technologies](#technologies)
 __________
 
 Below, you will find a reverse chronological overview of my journey as a professional and student through employment and volunteer experiences that I have accrued since the beginning of my secondary education.
@@ -53,3 +54,47 @@ Personality traits are defined as habitual patterns of emotions, thoughts, and b
 - **Hard Skills**: Quantitative Analysis, Multimedia Production
 - **Soft Skills**: Critical Thinking, Communication
 __________
+### Technologies
+* **Front-End**:
+  * **Development**:
+    * HTML
+    * CSS
+    * Bootstrap CSS Framework
+    * JavaScript
+  * **Deployment**:
+    * GitHub Pages
+    * Heroku
+* **Back-End**:
+  * **Server**:
+    * Node.js
+    * Express.js ("express" npm Package)
+  * **Database**:
+    * MySQL ("mysql2" npm Package)
+    * Sequelize Object-relational Mapper (ORM) ("sequelize" npm Package)
+    * MongoDB ("mongodb" npm Package)
+    * Mongoose ODM ("mongoose" npm package)
+    * MongoDB Atlas
+    * GraphQL ("graphql" npm Package)
+  * **Templating Engine**:
+    * Handlebars.js ("express-handlebars" npm Package)
+    * React ("react" npm Package)
+  * **Security**:
+    * bcrypt ("bcrypt" npm Package)
+    * dotenv ("dotenv" npm Package)
+    * JSON Web Tokens (JWT) ("jsonwebtoken" npm Package)
+  * **Financial Transactions**:
+    * Stripe ("stripe" npm Package)
+
+### Collaboration
+I am open to collaborating on projects that have real-world business applications. Please [email](jaspreet.khela@gmail.com) if you would like to collaborate.
+
+### Employment Opportunities
+I am open to employment opportunities in:
+* **Technical Roles**:
+  * Software development
+  * Data science
+  * Design
+* **Non-Technical Roles**:
+  * Product Management
+  * Sales and Business Development
+  * Operations
