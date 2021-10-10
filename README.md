@@ -63,7 +63,7 @@ __________
 ### Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaspreetKhela)](https://github.com/JaspreetKhela/github-readme-stats)
 
-In order of preference:
+Here are my favourite languages in order of preference:
 * JavaScript
 * Python
 * Java
