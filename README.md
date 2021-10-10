@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="centre">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/80941606/136677607-4351b544-8b61-43e4-b0bc-72c6203a4d53.gif" alt="JSK Brain Logo"/>
 </p>
 
