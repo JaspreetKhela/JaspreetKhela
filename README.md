@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/80941606/136682166-eaa2e606-54ca-4215-9424-b9195e161336.gif" alt="JSK Brain Logo" width=500/>
+<img src="https://user-images.githubusercontent.com/80941606/136682166-eaa2e606-54ca-4215-9424-b9195e161336.gif" alt="JSK Brain Logo" width=750/>
 </p>
 
 ### Hi there 👋
