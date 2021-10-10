@@ -1,4 +1,4 @@
-### Hi there 👋
+# JSK X brain Repository
 
 <!--
 **JaspreetKhela/JaspreetKhela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/80941606/136677607-4351b544-8b61-43e4-b0bc-72c6203a4d53.gif" alt="JSK Brain Logo"/>
 </p>
 
-Hello! Welcome to my repository, which contains codebases for my web development, Android, iOS, data analytics/science, cybersecurity, financial technologies, and user experience/interface research and design projects.
+### Hi there 👋
+Welcome to my repository, which contains codebases for my web development, Android, iOS, data analytics/science, cybersecurity, financial technologies, and user experience/interface research and design projects.
 
 I also have video tutorials for these software-development areas that can be found here: [JSK x brain](https://www.youtube.com/user/JaspreetKhela).
 __________
@@ -93,9 +94,9 @@ I am open to collaborating on projects that have real-world business application
 ### Employment
 I am open to employment opportunities in:
 * **Technical Roles**:
-  * Software development
-  * Data science
-  * Design
+  * Software Development
+  * Data Science
+  * Product Design
 * **Non-Technical Roles**:
   * Product Management
   * Sales and Business Development
