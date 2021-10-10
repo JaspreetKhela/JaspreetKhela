@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 </p>
 
 ### Hi there 👋
-Welcome to my repository, which contains existing and future codebases for my web development, Android, iOS, data analytics/science, cybersecurity, financial technologies, and user experience/interface research and design projects.
+Welcome to my GitHub profile, which contains existing and future codebases, tutorials, and gists for my web development, Android, iOS, data analytics/science, cybersecurity, financial technologies, and user experience/interface research and design projects.
 
-I also have video tutorials for these software-development areas that can be found here: [JSK X brain](https://www.youtube.com/user/JaspreetKhela). The gists corresponding to some of these tutorials can be found [here](https://gist.github.com/JaspreetKhela).
+Video tutorials for these software-development areas that can be found here: [JSK X brain](https://www.youtube.com/user/JaspreetKhela). The gists corresponding to some of these tutorials can be found [here](https://gist.github.com/JaspreetKhela).
 __________
 ## Table of Contents
 * [Motto](#motto)
@@ -32,6 +32,7 @@ __________
 * [Technologies](#technologies)
 * [Collaboration](#collaboration)
 * [Employment Opportunities](#employment)
+* [Contact](#contact)
 __________
 
 Below, you will find a reverse chronological overview of my journey as a professional and student through employment and volunteer experiences that I have accrued since the beginning of my secondary education.
@@ -101,3 +102,6 @@ I am open to employment opportunities in:
   * Product Management
   * Sales and Business Development
   * Operations
+
+### Contact
+Feel free to [email me](jaspreet.khela@gmail.com) if you would like to reach out to me.
