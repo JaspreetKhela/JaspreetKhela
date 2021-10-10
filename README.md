@@ -29,6 +29,7 @@ __________
 * [Goals](#goals)
 * [Personality](#personality)
 * [Capabilites](#capabilities)
+* [Languages](#languages)
 * [Technologies](#technologies)
 * [Collaboration](#collaboration)
 * [Employment Opportunities](#employment)
@@ -58,6 +59,13 @@ Personality traits are defined as habitual patterns of emotions, thoughts, and b
 - **Hard Skills**: Quantitative Analysis, Multimedia Production
 - **Soft Skills**: Critical Thinking, Communication
 __________
+### Languages
+In order of preference:
+* JavaScript
+* Python
+* Java
+* C#
+
 ### Technologies
 * **Front-End**:
   * **Development**:
