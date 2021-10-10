@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 Welcome to my repository, which contains codebases for my web development, Android, iOS, data analytics/science, cybersecurity, financial technologies, and user experience/interface research and design projects.
 
-I also have video tutorials for these software-development areas that can be found here: [JSK x brain](https://www.youtube.com/user/JaspreetKhela).
+I also have video tutorials for these software-development areas that can be found here: [JSK X brain](https://www.youtube.com/user/JaspreetKhela).
 __________
 ## Table of Contents
 * [Motto](#motto)
