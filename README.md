@@ -29,6 +29,8 @@ __________
 * [Personality](#personality)
 * [Capabilites](#capabilities)
 * [Technologies](#technologies)
+* [Collaboration](#collaboration)
+* [Employment Opportunities](#employment opportunities)
 __________
 
 Below, you will find a reverse chronological overview of my journey as a professional and student through employment and volunteer experiences that I have accrued since the beginning of my secondary education.
