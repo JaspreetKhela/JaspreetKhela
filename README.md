@@ -102,6 +102,7 @@ I am open to start-up, scale-up, and enterprise employment opportunities in:
   * Product Management
   * Sales and Business Development
   * Operations
+
 My preference is in back-end software development roles developing infrastructure technologies.
 
 ### Contact
