@@ -1,4 +1,4 @@
-# JSK X brain Repositories
+# JSK X brain Repositories, Tutorials, and Gists
 
 <!--
 **JaspreetKhela/JaspreetKhela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
