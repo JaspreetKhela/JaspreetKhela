@@ -30,7 +30,7 @@ __________
 * [Capabilites](#capabilities)
 * [Technologies](#technologies)
 * [Collaboration](#collaboration)
-* [Employment Opportunities](#employment opportunities)
+* [Employment Opportunities](#employment)
 __________
 
 Below, you will find a reverse chronological overview of my journey as a professional and student through employment and volunteer experiences that I have accrued since the beginning of my secondary education.
@@ -90,7 +90,7 @@ __________
 ### Collaboration
 I am open to collaborating on projects that have real-world business applications. Please [email](jaspreet.khela@gmail.com) if you would like to collaborate.
 
-### Employment Opportunities
+### Employment
 I am open to employment opportunities in:
 * **Technical Roles**:
   * Software development
