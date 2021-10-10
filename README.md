@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="centre">
 ![JSK Brain Logo](https://user-images.githubusercontent.com/80941606/136677607-4351b544-8b61-43e4-b0bc-72c6203a4d53.gif)
+</p>
 
 Hello! Welcome to my repository, which contains codebases for my web development, Android, iOS, data analytics/science, cybersecurity, financial technologies, and user experience/interface research and design projects.
 
