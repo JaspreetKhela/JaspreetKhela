@@ -89,7 +89,7 @@ __________
     * Stripe ("stripe" npm Package)
 
 ### Collaboration
-I am open to collaborating on projects that have real-world business applications. Please [email](jaspreet.khela@gmail.com) if you would like to collaborate.
+I am open to collaborating on projects that have real-world business applications. Please [email me](jaspreet.khela@gmail.com) if you would like to collaborate.
 
 ### Employment
 I am open to employment opportunities in:
