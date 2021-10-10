@@ -93,7 +93,7 @@ __________
 I am open to collaborating on projects that have real-world business applications. Please [email me](jaspreet.khela@gmail.com) if you would like to collaborate.
 
 ### Employment
-I am open to employment opportunities in:
+I am open to start-up, scale-up, and enterprise employment opportunities in:
 * **Technical Roles**:
   * Software Development
   * Data Science
@@ -102,6 +102,7 @@ I am open to employment opportunities in:
   * Product Management
   * Sales and Business Development
   * Operations
+My preference is in back-end software development roles developing infrastructure technologies.
 
 ### Contact
 Feel free to [email me](jaspreet.khela@gmail.com) if you would like to reach out to me.
