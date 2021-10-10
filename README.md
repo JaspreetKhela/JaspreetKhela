@@ -31,6 +31,7 @@ __________
 * [Capabilites](#capabilities)
 * [Languages](#languages)
 * [Technologies](#technologies)
+* [Performance](#performance)
 * [Collaboration](#collaboration)
 * [Employment Opportunities](#employment)
 * [Contact](#contact)
@@ -60,6 +61,8 @@ Personality traits are defined as habitual patterns of emotions, thoughts, and b
 - **Soft Skills**: Critical Thinking, Communication
 __________
 ### Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaspreetKhela)](https://github.com/JaspreetKhela/github-readme-stats)
+
 In order of preference:
 * JavaScript
 * Python
@@ -79,23 +82,27 @@ In order of preference:
 * **Back-End**:
   * **Server**:
     * Node.js
-    * Express.js ("express" npm Package)
+    * Express.js ('express' npm Package)
   * **Database**:
-    * MySQL ("mysql2" npm Package)
-    * Sequelize Object-relational Mapper (ORM) ("sequelize" npm Package)
-    * MongoDB ("mongodb" npm Package)
-    * Mongoose ODM ("mongoose" npm package)
+    * MySQL ('mysql2' npm Package)
+    * Sequelize Object-relational Mapper (ORM) ('sequelize' npm Package)
+    * MongoDB ('mongdb' npm Package)
+    * Mongoose ODM ('mongoose' npm package)
     * MongoDB Atlas
-    * GraphQL ("graphql" npm Package)
+    * GraphQL ('graphql' npm Package)
   * **Templating Engine**:
-    * Handlebars.js ("express-handlebars" npm Package)
-    * React ("react" npm Package)
+    * Handlebars.js ('express-handlebars' npm Package)
+    * React ('react' npm Package)
   * **Security**:
-    * bcrypt ("bcrypt" npm Package)
-    * dotenv ("dotenv" npm Package)
-    * JSON Web Tokens (JWT) ("jsonwebtoken" npm Package)
+    * bcrypt ('bcrypt' npm Package)
+    * dotenv ('dotenv' npm Package)
+    * JSON Web Tokens (JWT) ('jsonwebtoken' npm Package)
   * **Financial Transactions**:
-    * Stripe ("stripe" npm Package)
+    * Stripe ('stripe' npm Package)
+
+### Performance
+Here are my performance statistics for my GitHub profile:
+![Jaspreet's GitHub Performance Statistics](https://github-readme-stats.vercel.app/api?username=JaspreetKhela&show_icons=true&theme=gruvbox&bg_color=#000000&show_icons=true&count_private=true)
 
 ### Collaboration
 I am open to collaborating on projects that have real-world business applications. Please [email me](jaspreet.khela@gmail.com) if you would like to collaborate.
