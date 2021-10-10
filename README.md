@@ -102,7 +102,8 @@ In order of preference:
 
 ### Performance
 Here are my performance statistics for my GitHub profile:
-![Jaspreet's GitHub Performance Statistics](https://github-readme-stats.vercel.app/api?username=JaspreetKhela&show_icons=true&theme=gruvbox&bg_color=#000000&show_icons=true&count_private=true)
+
+![Jaspreet's GitHub Performance Statistics](https://github-readme-stats.vercel.app/api?username=JaspreetKhela&show_icons=true&theme=tokyonight&bg_color=#FFFFFF&show_icons=true&count_private=true)
 
 ### Collaboration
 I am open to collaborating on projects that have real-world business applications. Please [email me](jaspreet.khela@gmail.com) if you would like to collaborate.
