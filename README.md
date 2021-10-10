@@ -1,4 +1,4 @@
-# JSK X brain Repository
+# JSK X brain Repositories
 
 <!--
 **JaspreetKhela/JaspreetKhela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 </p>
 
 ### Hi there 👋
-Welcome to my repository, which contains codebases for my web development, Android, iOS, data analytics/science, cybersecurity, financial technologies, and user experience/interface research and design projects.
+Welcome to my repository, which contains existing and future codebases for my web development, Android, iOS, data analytics/science, cybersecurity, financial technologies, and user experience/interface research and design projects.
 
-I also have video tutorials for these software-development areas that can be found here: [JSK X brain](https://www.youtube.com/user/JaspreetKhela).
+I also have video tutorials for these software-development areas that can be found here: [JSK X brain](https://www.youtube.com/user/JaspreetKhela). The gists corresponding to some of these tutorials can be found [here](https://gist.github.com/JaspreetKhela).
 __________
 ## Table of Contents
 * [Motto](#motto)
