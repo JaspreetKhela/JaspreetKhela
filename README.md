@@ -29,7 +29,7 @@ Video tutorials for these software-development areas that can be found here: [JS
 - [So You Want to Become a Web Developer? $$$](https://www.youtube.com/watch?v=H4Y0L7acJVw)
 <!-- YOUTUBE:END -->
 
-### Checkout My Lastest Hashnode Blog Posts Below:
+### Checkout My Lastest hashnode Blog Posts Below:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 __________
