@@ -23,11 +23,15 @@ Welcome to my GitHub profile, which contains existing and future codebases, tuto
 
 Video tutorials for these software-development areas that can be found here: [JSK X brain](https://www.youtube.com/user/JaspreetKhela). The gists corresponding to some of these tutorials can be found [here](https://gist.github.com/JaspreetKhela).
 
-### Checkout Out My Latest YouTube Videos Below:
+### Checkout My Latest YouTube Videos Below:
 <!-- YOUTUBE:START -->
 - [What is the Command-Line Interface? Terminal/Git Bash Overview](https://www.youtube.com/watch?v=hXNH1giaaLw)
 - [So You Want to Become a Web Developer? $$$](https://www.youtube.com/watch?v=H4Y0L7acJVw)
 <!-- YOUTUBE:END -->
+
+### Checkout My Lastest Hashnode Blog Posts Below:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 __________
 ## Table of Contents
 * [Motto](#motto)
