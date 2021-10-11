@@ -24,23 +24,8 @@ Welcome to my GitHub profile, which contains existing and future codebases, tuto
 Video tutorials for these software-development areas that can be found here: [JSK X brain](https://www.youtube.com/user/JaspreetKhela). The gists corresponding to some of these tutorials can be found [here](https://gist.github.com/JaspreetKhela).
 
 ### Checkout Out My Latest YoutTube Videos Below:
-name: Latest YouTube Videos
-on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
-
-jobs:
-  update-readme-with-youtube:
-    name: Update this repo's README with latest videos from YouTube
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ybM4pfG9mW_r5YcpmVRPg"
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 __________
 ## Table of Contents
 * [Motto](#motto)
