@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 ### Hi there 👋
-Welcome to my GitHub profile, which contains existing and future codebases, tutorials, and gists for my web development, Android, iOS, data analytics/science, cybersecurity, financial technologies, and user experience/interface research and design projects.
+Welcome to my GitHub profile, which contains/will contain codebases, tutorials, and gists for my web development, Android, iOS, data analytics/science, cybersecurity, financial technologies, and user experience/interface research and design projects.
 
 Video tutorials for these software-development areas that can be found here: [JSK X brain](https://www.youtube.com/user/JaspreetKhela). The gists corresponding to some of these tutorials can be found [here](https://gist.github.com/JaspreetKhela).
 
