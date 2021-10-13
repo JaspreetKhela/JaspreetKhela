@@ -40,7 +40,7 @@ __________
 * [Goals](#goals)
 * [Personality](#personality)
 * [Capabilites](#capabilities)
-* [Academic Background](#academics)
+* [Academics](#academics)
 * [Languages](#languages)
 * [Technologies](#technologies)
 * [Repositories](#repositories)
@@ -77,27 +77,27 @@ __________
 ### Academics
 The following academic history outlines my areas of expertise developed through post-secondary programs and their corresponding courses that I have taken.
 * **Trinity College, University of Toronto**: 
- * **Degree Name**: Honours Bachelor of Science Degree
- * **Field Of Study**: Mathematics and Physics Specialist, Mathematical Applications in Economics and Finance Specialist, Chemistry Minor
+  * **Degree Name**: Honours Bachelor of Science Degree
+  * **Field Of Study**: Mathematics and Physics Specialist, Mathematical Applications in Economics and Finance Specialist, Chemistry Minor
  * **Mathematics Courses**:
-  * 
+   * 
  * **Physics Courses**:
-  * 
+   * 
  * **Economics Courses**:
-  * 
+   * 
  * **Finance Courses**:
-  * 
+   * 
  * **Chemistry Courses**:
-  * 
+   * 
  * **Computer Science Courses**:
-  * 
+   * 
 * **University of Toronto School of Continuing Studies**:
- * **Bootcamps**:
-  * 
+  * **Bootcamps**:
+    * 
  * **Certificate Programs**:
-  * 
+    * 
 * **George Brown College**:
- * N/A
+  * N/A
 
 ### Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaspreetKhela)](https://github.com/JaspreetKhela/github-readme-stats)
