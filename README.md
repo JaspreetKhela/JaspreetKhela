@@ -47,6 +47,7 @@ __________
 * [Gists](#gists)
 * [Performance](#performance)
 * [Collaboration](#collaboration)
+* [Experience](#experience)
 * [Employment Opportunities](#employment)
 * [Contact](#contact)
 __________
@@ -64,7 +65,7 @@ I aspire to become a mathematician (specializing in mathematical applications in
 
 ### Personality
 Personality traits are defined as habitual patterns of emotions, thoughts, and behaviours. They are relatively stable over time, are relatively consistent across situations, influence behaviour, and differ across individuals. My personality is summarized as follows:
-- **Five-Factor Model (FFM)**: I possess: a relatively low-level of extraversion; average levels of agreeableness, neuroticism, and openness; and a relatively high level of conscientiousness.
+- **Five-Factor Model (FFM)**: I possess: a relatively low level of extraversion; average levels of agreeableness, neuroticism, and openness; and a relatively high level of conscientiousness.
 - **HEXACO-PI-R**: dropbox.com/s/ocep5hmbkduw6lh/Test%20Result.pdf?dl=0
 - **Myers-Briggs Type Indicator (MBTI)**: INTJ (16personalities.com/intj-personality)
 - **Dark Triad Test**: dropbox.com/s/l063j1feu0dbejt/Dark%20Triad%20Test%20Results.pdf?dl=0
@@ -75,7 +76,7 @@ Personality traits are defined as habitual patterns of emotions, thoughts, and b
 - **Soft Skills**: Critical Thinking, Communication
 __________
 ### Academics
-The following academic history outlines my areas of expertise developed through post-secondary programs and their corresponding courses that I have taken.
+The following academic history outlines my areas of expertise developed through post-secondary programs and the corresponding courses that I have taken.
 * **Trinity College, University of Toronto**: 
   * **Degree Name**: Honours Bachelor of Science Degree
   * **Field Of Study**: Mathematics and Physics Specialist, Mathematical Applications in Economics and Finance Specialist, Chemistry Minor
@@ -153,6 +154,23 @@ Here are my performance statistics for my GitHub profile:
 
 ### Collaboration
 I am open to collaborating on projects that have real-world business applications. Please [email me](jaspreet.khela@gmail.com) if you would like to collaborate.
+
+### Experience
+The following list provides an outline of my work experience related to the following roles.
+* **Technical Roles**:
+  * Software Development
+    * 
+  * Data Science
+    * 
+  * Product Design
+    * 
+* **Non-Technical Roles**:
+  * Product Management
+    * 
+  * Sales and Business Development
+    * 
+  * Operations
+    * 
 
 ### Employment
 I am open to start-up, scale-up, and enterprise employment opportunities in:
