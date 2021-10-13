@@ -79,23 +79,23 @@ The following academic history outlines my areas of expertise developed through 
 * **Trinity College, University of Toronto**: 
   * **Degree Name**: Honours Bachelor of Science Degree
   * **Field Of Study**: Mathematics and Physics Specialist, Mathematical Applications in Economics and Finance Specialist, Chemistry Minor
- * **Mathematics Courses**:
-   * 
- * **Physics Courses**:
-   * 
- * **Economics Courses**:
-   * 
- * **Finance Courses**:
-   * 
- * **Chemistry Courses**:
-   * 
- * **Computer Science Courses**:
-   * 
+  * **Mathematics Courses**:
+    * Coming Soon
+  * **Physics Courses**:
+    * Coming Soon
+  * **Economics Courses**:
+    * Coming Soon
+  * **Finance Courses**:
+    * Coming Soon
+  * **Chemistry Courses**:
+    * Coming Soon
+  * **Computer Science Courses**:
+    * Coming Soon
 * **University of Toronto School of Continuing Studies**:
   * **Bootcamps**:
-    * 
- * **Certificate Programs**:
-    * 
+    * Coming Soon
+  * **Certificate Programs**:
+    * Coming Soon
 * **George Brown College**:
   * N/A
 
