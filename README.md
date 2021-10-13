@@ -159,18 +159,18 @@ I am open to collaborating on projects that have real-world business application
 The following list provides an outline of my work experience related to the following roles.
 * **Technical Roles**:
   * Software Development
-    * 
+    * Coming Soon
   * Data Science
-    * 
+    * Coming Soon
   * Product Design
-    * 
+    * Coming Soon
 * **Non-Technical Roles**:
   * Product Management
-    * 
+    * Coming Soon
   * Sales and Business Development
-    * 
+    * Coming Soon
   * Operations
-    * 
+    * Coming Soon
 
 ### Employment
 I am open to start-up, scale-up, and enterprise employment opportunities in:
