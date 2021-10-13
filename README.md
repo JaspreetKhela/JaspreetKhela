@@ -40,8 +40,11 @@ __________
 * [Goals](#goals)
 * [Personality](#personality)
 * [Capabilites](#capabilities)
+* [Academic Background](#academics)
 * [Languages](#languages)
 * [Technologies](#technologies)
+* [Repositories](#repositories)
+* [Gists](#gists)
 * [Performance](#performance)
 * [Collaboration](#collaboration)
 * [Employment Opportunities](#employment)
@@ -71,6 +74,31 @@ Personality traits are defined as habitual patterns of emotions, thoughts, and b
 - **Hard Skills**: Quantitative Analysis, Multimedia Production
 - **Soft Skills**: Critical Thinking, Communication
 __________
+### Academics
+The following academic history outlines my areas of expertise developed through post-secondary programs and their corresponding courses that I have taken.
+* **Trinity College, University of Toronto**: 
+ * **Degree Name**: Honours Bachelor of Science Degree
+ * **Field Of Study**: Mathematics and Physics Specialist, Mathematical Applications in Economics and Finance Specialist, Chemistry Minor
+ * **Mathematics Courses**:
+  * 
+ * **Physics Courses**:
+  * 
+ * **Economics Courses**:
+  * 
+ * **Finance Courses**:
+  * 
+ * **Chemistry Courses**:
+  * 
+ * **Computer Science Courses**:
+  * 
+* **University of Toronto School of Continuing Studies**:
+ * **Bootcamps**:
+  * 
+ * **Certificate Programs**:
+  * 
+* **George Brown College**:
+ * N/A
+
 ### Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaspreetKhela)](https://github.com/JaspreetKhela/github-readme-stats)
 
@@ -110,6 +138,13 @@ Here are my favourite languages in order of preference:
     * JSON Web Tokens (JWT) ('jsonwebtoken' npm Package)
   * **Financial Transactions**:
     * Stripe ('stripe' npm Package)
+
+### Repositories
+The following list provides an outline of my GitHub repositories by category.
+* 
+
+### Gists
+The following list provides an outline of my GitHub gists by category.
 
 ### Performance
 Here are my performance statistics for my GitHub profile:
