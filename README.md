@@ -84,13 +84,15 @@ The following academic history outlines my areas of expertise developed through 
     * Coming Soon
   * **Physics Courses**:
     * Coming Soon
+  * **Computer Science Courses**:
+    * Coming Soon
   * **Economics Courses**:
+    * Coming Soon
+  * **Statistics Courses**:
     * Coming Soon
   * **Finance Courses**:
     * Coming Soon
   * **Chemistry Courses**:
-    * Coming Soon
-  * **Computer Science Courses**:
     * Coming Soon
 * **University of Toronto School of Continuing Studies**:
   * **Bootcamps**:
