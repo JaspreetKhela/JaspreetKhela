@@ -132,7 +132,7 @@ Here are my favourite languages in order of preference:
     * Mongoose ODM ('mongoose' npm package)
     * MongoDB Atlas
     * GraphQL ('graphql' npm Package)
-  * **Templating Engine**:
+  * **Webpage Rendering Engine**:
     * Handlebars.js ('express-handlebars' npm Package)
     * React ('react' npm Package)
   * **Security**:
