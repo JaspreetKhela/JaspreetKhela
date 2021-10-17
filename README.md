@@ -32,6 +32,7 @@ Video tutorials for these software-development areas that can be found here: [JS
 
 ### Check Out My Latest Hashnode Blog Posts Below:
 <!-- BLOG-POST-LIST:START -->
+- [My Coding Boot Camp Experience and Takeaways](https://jaspreetkhela.hashnode.dev/my-coding-boot-camp-experience-and-takeaways)
 - [Hello World!](https://jaspreetkhela.hashnode.dev/hello-world)
 <!-- BLOG-POST-LIST:END -->
 __________
