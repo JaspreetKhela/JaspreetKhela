@@ -25,6 +25,7 @@ Video tutorials for these software-development areas that can be found here: [JS
 
 ### Check Out My Latest YouTube Videos Below:
 <!-- YOUTUBE:START -->
+- [What is HTML? HTML Boilerplate Code and Tags Overview](https://www.youtube.com/watch?v=p8ADk7Jtt84)
 - [What is the Command-Line Interface? Terminal/Git Bash Overview](https://www.youtube.com/watch?v=hXNH1giaaLw)
 - [So You Want to Become a Web Developer? $$$](https://www.youtube.com/watch?v=H4Y0L7acJVw)
 <!-- YOUTUBE:END -->
