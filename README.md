@@ -183,21 +183,49 @@ The following academic history outlines my areas of expertise developed through 
     *  [In Queue] **STA442H1 - Methods of Applied Statistics**: Advanced topics in statistics and data analysis with emphasis on applications. Diagnostics and residuals in linear models, introduction to generalized linear models, graphical methods, additional topics such as random effects models, designed experiments, model selection, analysis of censored data, introduced as needed in the context of case studies.
     *  [In Queue] **STA447H1 - Stochastic Processes**: Discrete and continuous time processes with an emphasis on Markov, Gaussian and renewal processes. Martingales and further limit theorems. A variety of applications taken from some of the following areas are discussed in the context of stochastic modeling: Information Theory, Quantum Mechanics, Statistical Analyses of Stochastic Processes, Population Growth Models, Reliability, Queuing Models, Stochastic Calculus, Simulation (Monte Carlo Methods).
     *  [In Queue] **STA452H1 - Mathematical Statistics I**: Statistical theory and its applications at an advanced mathematical level. Topics include probability and distribution theory as it specifically pertains to the statistical analysis of data. Linear models and the geometry of data, least squares and the connection to conditional expectation. The basic concept of inference and the likelihood function.
-    *  [In Queue] **Continuation of STA452H1**: statistical theory and its applications at an advanced mathematical level. Topics include classical estimation, theory with methods based on the likelihood function and the likelihood statistics. Testing hypothesis and the evaluation of confidence from both a Bayesian and frequentist point of view.
+    *  [In Queue] **STA453H1 S: Mathematical Statistics II**: Continuation of STA452H1: statistical theory and its applications at an advanced mathematical level. Topics include classical estimation, theory with methods based on the likelihood function and the likelihood statistics. Testing hypothesis and the evaluation of confidence from both a Bayesian and frequentist point of view.
     *  [In Queue] **STA457H1 - Time Series Analysis**: An overview of methods and problems in the analysis of time series data. Topics include: descriptive methods, filtering and smoothing time series, theory of stationary processes, identification and estimation of time series models, forecasting, seasonal adjustment, spectral estimation, bivariate time series models.
     *  [In Queue] **STA465H1 - Theory and Methods for Complex Spatial Data**: Data acquisition trends in the environmental, physical and health sciences are increasingly spatial in character and novel in the sense that modern sophisticated methods are required for analysis. This course will cover different types of random spatial processes and how to incorporate them into mixed effects models for Normal and non-Normal data. Students will be trained in a variety of advanced techniques for analyzing complex spatial data and, upon completion, will be able to undertake a variety of analyses on spatially dependent data, understand which methods are appropriate for various research questions, and interpret and convey results in the light of the original questions posed.
     *  [In Queue] **STA490Y1 - Statistical Consultation, Communication, and Collaboration**: Through case studies and collaboration with researchers in other disciplines, students develop skills in the collaborative practice of Statistics. Focus is on pragmatic solutions to practical issues including study design, dealing with common complications in data analysis, and ethical practice, with particular emphasis on written communication.
     *  [In Queue] **STA492H1 - Seminar in Statistical Science**:This course is intended for students completing the Statistical Science: Theory and Methods Specialist program. Novel influential ideas and current research topics in statistics will be explored through readings and discussion. Content will generally vary from semester to semester. Student presentations and written reports will be required.
   * **Finance Courses**:
-    * [In Queue] **Certified Financial Analyst (CFA) Examination Level I**: The Level I computer-based exam consists of 180 multiple choice questions, split between two 135-minute sessions (session times are approximate). There is an optional break between sessions. Candidates must take both sessions in order to receive an exam result.
-      * First session (2 hours, 15 minutes): 90 multiple choice questions, covering the topics of ethics & professional standards, quantitative methods, economics, and financial reporting and analysis 
-      * Second session (2 hours, 15 minutes): 90 multiple choice questions, covering the topics of corporate finance, equity, fixed income, derivatives, alternative investments and portfolio management 
-    * [In Queue] **Certified Financial Analyst (CFA) Examination Level II**:
-      * Structure: The CFA Level II exam consists of item sets comprised of vignettes with 88 accompanying multiple-choice questions.
-      * Duration: The Level II computer-based exam will be 4 hours and 24 minutes, split into two equal sessions of 2 hours and 12 minutes, with an optional break in-between.
-    * [In Queue] **Certified Financial Analyst (CFA) Examination Level III**:
-      * Structure: The Level III exam consists of item sets comprised of vignettes with accompanying multiple-choice items and constructed response (essay) questions.
-      * Duration: The Level III computer-based exam will be 4 hours and 24 minutes, split into two equal sessions of 2 hours and 12 minutes, with an optional break in-between. 
+    * [In Queue] **Certified Financial Analyst (CFA) Examination Level I**: The exam covers the following topics:
+      * Ethical and Professional Standards
+      * Quantitative Methods
+      * Economics
+      * Financial Reporting and Analysis
+      * Corporate Finance
+      * Equity Investments
+      * Fixed Income
+      * Derivatives
+      * Alternative Investments
+      * Portfolio Management
+    * [In Queue] **Certified Financial Analyst (CFA) Examination Level II**: The exam covers the following topics:
+      * Ethical and Professional Standards
+      * Investment Tools
+        * Corporate Finance
+        * Economics
+        * Financial Reporting and Analysis
+        * Quantitative Methods
+      * Asset Classes
+        * Alternative Investments
+        * Derivatives
+        * Equity Investments
+        * Fixed Income
+      * Portfolio Management and Wealth Planning
+    * [In Queue] **Certified Financial Analyst (CFA) Examination Level III**: The exam covers the following topics:
+      * Ethical and Professional Standards
+      * Investment Tools
+        * Corporate Finance
+        * Economics
+        * Financial Reporting and Analysis
+        * Quantitative Methods
+      * Asset Classes
+        * Alternative Investments
+        * Derivatives
+        * Equity Investments
+        * Fixed Income
+      * Portfolio Management and Wealth Planning 
   * **Chemistry Courses**:
     * [In Queue] **CHM151Y1 - Chemistry: The Molecular Science**: An introduction to the major areas of modern chemistry, including organic and biological chemistry; physical chemistry and chemical physics; and inorganic/materials chemistry. The course is intended for students who will be following one of the chemistry specialist programs (including Biological Chemistry and Environmental Chemistry) or who will be including a substantial amount of chemistry in their degree (such as those following a chemistry major program). The combination of CHM151Y1 and CHM249H1 serves as a full year introductory course in organic chemistry with laboratory. (Lab Materials Fee: $50). Note: CHM151Y1 has a unique Course Community where the undergraduate experience in chemistry is greatly enhanced through a series of workshops, research seminars, tours, outreach opportunities and social activities. Two hour biweekly Course Community meetings, during laboratory class hours will alternate weeks with the CHM151Y1 lab classes. The lab time is reserved for CHM151Y1 activities every week of each semester.
     * [In Queue] **CHM217H1 - Introduction to Analytical Chemistry**: Introduction to the science of chemical measurement, from sampling through analysis to the interpretation of results, including how water, food products, pharmaceuticals, and dietary supplements are analysed for content, quality, and potential contaminants. Also how to interpret experimental measurements, compare results and procedures, and calibrate analytical instrumentation. Through closely integrated lectures, laboratories, and tutorials, this highly practical course introduces a variety of analytical techniques including volumetric methods, potentiometry, uv/visible and infrared spectrophotometry, flame atomic absorption spectrometry, and chromatography. Additional information can be found at http://www.chem.utoronto.ca/coursenotes/CHM217/.
@@ -213,12 +241,167 @@ The following academic history outlines my areas of expertise developed through 
     * [In Queue] **CHM348H1 - Organic Reaction Mechanisms**: Principles and methods of analyzing and predicting organic chemical reactivity: advanced stereochemistry, conformational analysis, molecular orbitals, reaction kinetics, isotope effects, linear free energy relationships, orbital transformations, systematization of mechanisms. The laboratory section is used to illustrate the operation of the principles, including examples of data acquisition for mechanistic analysis and theoretical computations. Regular original reports on methods and outcomes are an important part of the laboratory.
 * **University of Toronto School of Continuing Studies**:
   * **Bootcamps**:
-    * **3440 - UofT SCS Coding Boot Camp**:
-    * [In Queue] **3541 - UofT SCS Data Analytics Boot Camp**:
-    * [In Queue] **3542 - UofT SCS Cybersecurity Boot Camp**:
-    * [In Queue] **3716 - UofT SCS FinTech Boot Camp**:
-    * [In Queue] **3692 - UofT SCS UX/UI Boot Camp**:
-    * [In Queue] **3775 - UofT SCS Digital Marketing Boot Camp**:
+    * **3440 - UofT SCS Coding Boot Camp**: The boot camp covered the following technologies:
+      * **JavaScript**: A high-level, interpreted scripting language found on most of today’s web pages, this is the programming language that brings your site to life.
+      * **HTML**: Defines the structure and layout of a webpage. This language is critical as it dictates a site’s organization.
+      * **CSS**: Defines the style of a webpage and how it is presented to the user. This language is important because it determines fonts, colors, and positions of webpage elements.
+      * **jQuery**: A JavaScript library that simplifies programming. Considered to be the most popular and most utilized JavaScript library to date.
+      * **Bootstrap**: A front end framework used to design responsive websites and web apps. This framework is fundamental to achieving good performance.
+      * **Node.js**: A JavaScript runtime built on Chrome’s V8 JavaScript engine. Essential to any developer looking to build scalable network applications.
+      * **MySQL**: A database management system used to store and retrieve data. This system is critical for developers as most applications today require a MySQL database to preserve information.
+      * **MongoDB**: A document-oriented NoSQL database. This database is critical for security and it is trusted to power business-critical applications in over 50 percent of the Fortune 100 companies.
+      * **Express.js**: A web application framework for Node.js. This framework play a crucial role in the flow of data between server and routes in server-side applications.
+      * **React.js**: The most widely used JavaScript library today. This library is essential for creating web apps in an agile manner.
+    * [In Queue] **3541 - UofT SCS Data Analytics Boot Camp**: The boot camp covers the following technologies:
+      * **Intermediate Excel Functions**:
+        * Pivot Tables
+        * VBA Scripting
+      * **Fundamental Statistics**:
+        * Modelling
+        * Forecasting
+      * **Python Programming**:
+        * Python 3
+        * NumPy
+        * Pandas
+        * Matplotlib
+        * API Interactions
+      * **Databases**:
+        * PostgreSQL
+        * MongoDB
+        * Extract-Transform-Load (ETL)
+      * **Front End Web Visualization**:
+        * HTML
+        * CSS
+        * Bootstrap
+        * Dashboarding
+        * JavaScript Charting
+        * Geomapping with Leaflet.js
+      * **Business Intelligence Software**:
+        * Tableau
+      * **Advanced Topics**:
+        * Big Data Analytics with Hadoop
+        * Machine Learning
+    * [In Queue] **3542 - UofT SCS Cybersecurity Boot Camp**: The boot camp covers the following technologies:
+      * **Networking**:
+        * Packet Analysis
+        * Wireshark
+      * **Systems**:
+        * Windows and Linux Administration Techniques
+        * Windows and Linux Hardening
+      * **Cybersecurity:
+        * Secure Network Design and Architecture
+        * Risk Management
+        * Cryptography
+        * Vulnerability Assessment
+        * Identity and Access Management
+        * Cloud Security
+      * **Ethical Hacking and Penetration**:
+        * Kali Linux
+        * Metasploit
+        * Hashcat
+        * Burp Suite
+        * Web Vulnerabilities and Security
+      * **Cybersecurity Careers**:
+        * Digital Forensics Methods
+        * Penetration Testing
+        * Vulnerability Assessment
+        * Security Operations and Analytics
+      * **Programming and Scripting**:
+        * Bash Scripting
+        * PowerShell Scripting
+    * [In Queue] **3716 - UofT SCS FinTech Boot Camp**: The boot camp covers the following technologies:
+      * **Financial Fundamentals**:
+        * Time-Series Analysis
+        * Financial Ratios
+        * Financial Analysis
+        * Financial Modeling
+      * **Blockchain and Cryptocurrency**:
+        * Solidity
+        * Ethereum
+        * Smart Contracts
+        * Consensus Algorithms
+        * Transactions
+        * Validation
+        * Distributed Ledger
+        * Cryptocurrency
+        * Truffle Suite
+        * Ganache
+      * **Machine Learning Applications in Finance**:
+        * Algorithmic Trading
+        * Random Forests
+        * k-Nearest Neighbors (kNN)
+        * Support Vector Machines (SVM)
+        * Linear Regression
+        * Scikit-learn
+        * Forecasting
+        * Logistic Regression
+        * Deep Learning
+        * Recurrent Neural Networks
+        * TensorFlow
+        * Keras
+        * AWS SageMaker
+      * **Programming and Financial Libraries**:
+        * Python
+        * Pandas
+        * PyViz
+        * APIs 
+        * Amazon Web Services
+        * SQL
+        * Numpy
+        * SciPy
+    * [In Queue] **3692 - UofT SCS UX/UI Boot Camp**: The boot camp covers the following technologies:
+      * **User-Centric Design Research**:
+        * Qualitative and Quantitative Research Practices
+        * Information Architecture and Flow
+        * User Need Identification
+        * User Experience Interviewing
+        * Persona Creation
+        * Insight Synthesis
+      * **Visual Prototyping and Wireframing**:
+        * Adobe XD
+        * Figma
+        * InVision
+        * Google Slides
+        * Storyboarding
+        * Decision Mapping
+        * Decision Flow Diagrams
+      * **User Interface Development**:
+        * Atomic Design
+        * UI Grids and Composition
+        * Color Theory
+        * Heuristic Evaluation
+        * Typography
+        * Interaction Design and Iconography
+      * **Web Prototyping**:
+        * HTML/CSS
+        * GitHub
+        * Bootstrap
+        * JavaScript
+        * jQuery
+    * [In Queue] **3775 - UofT SCS Digital Marketing Boot Camp**: The boot camp covers the following technologies:
+      * Marketing Strategy
+        * Brand Strategy
+        * Brand Building
+        * Campaign Objectives
+        * Lead Generation
+        * Conversion Funnels
+        * Competitive Research
+        * Content Strategy
+      * Digital Advertising, Data Organization, and Automation
+        * Paid Search Advertising and Analytics
+        * Display Advertising and Analytics
+        * Paid Social Media Advertising and Analytics
+        * Retargeting and Audience Building
+        * Measurement and Optimization
+        * Customer Relationship Management
+        * Marketing Automation
+      * Optimizing Campaigns and Websites
+        * WordPress
+        * Content Optimization
+        * Search Engine Optimization (SEO)
+        * Link Building and Backlinks
+        * Domain Authority
+        * Conversion Tracking
   * **Certificate Programs**:
     * Coming Soon
 * **George Brown College**:
