@@ -61,14 +61,22 @@ __________
 
 Below, you will find a reverse chronological overview of my journey as a professional and student through employment and volunteer experiences that I have accrued since the beginning of my secondary education.
 
+<a name="motto"/>
+
 ### Motto
 **Preparation. Pace. Patience. Persistence. Facta, Non Verba.**
+
+<a name="background"/>
 
 ### Background
 I was curious about the universe's intricacies during my formative years: the Zermelo-Fraenkel-Choice (ZFC) axiomatic system and logically-deduced theorems of mathematics; the precision of the natural sciences; the godly feats of engineering and technology; the vastness of the life sciences and medicine; the complexities of the social sciences and management; the transcendental experiences of the arts and humanities; and my athletic capabilities. I am focused on actualizing my potential in these domains. Excellence is what I aspire to and self-improvement is what I strive for. Echoing the University of Toronto's motto, Velut Arbor Ævo.
 
+<a name="goals"/>
+
 ### Goals
 I aspire to become a mathematician (specializing in mathematical applications in physics, computer science, statistics, economics, chemistry, biology, and philosophy). Specifically, over the short-term, I desire to work on: technical research and development/engineering projects in quantum computing, machine learning, cryptography, nuclear fusion, surgery, and finance; and non-technical projects in business development, operations, and sales. Generally, over the long-term, I desire to work in: the private sector as an entrepreneur and a creative artist; and the public sector as a mathematician in academic and government research institutes and facilities, Combat Arms operator in the Canadian Armed Forces, healthcare worker, social worker, and public servant.
+
+<a name="personality"/>
 
 ### Personality
 Personality traits are defined as habitual patterns of emotions, thoughts, and behaviours. They are relatively stable over time, are relatively consistent across situations, influence behaviour, and differ across individuals. My personality is summarized as follows:
@@ -77,13 +85,21 @@ Personality traits are defined as habitual patterns of emotions, thoughts, and b
 - **Myers-Briggs Type Indicator (MBTI)**: INTJ (16personalities.com/intj-personality)
 - **Dark Triad Test**: dropbox.com/s/l063j1feu0dbejt/Dark%20Triad%20Test%20Results.pdf?dl=0
 
+<a name="capabilities"/>
+
 ### Capabilities
 - **Strengths**: Strategizing, Creating, Leading
 - **Hard Skills**: Quantitative Analysis, Multimedia Production
 - **Soft Skills**: Critical Thinking, Communication
 __________
-### Academics
-The following academic history outlines my areas of expertise developed through post-secondary programs and the corresponding courses that I have taken.
+<a name="personal"/>
+
+### Personal Development History and Pursuits
+The following personal development history and pursuits section outlines my non-academic and non-professional pursuits that I have embarked during my adulthood. 
+* Coming Soon
+
+### Academic Development History and Pursuits
+The following academic development history and pursuits section outlines my areas of expertise developed through my enrollment in post-secondary programs and their corresponding courses during my adulthood.
 * **Trinity College, University of Toronto**: 
   * **Degree**: Honours Bachelor of Science Degree
   * **Fields Of Study**: 
@@ -203,7 +219,14 @@ The following academic history outlines my areas of expertise developed through 
     *  [In Queue] **STA465H1 - Theory and Methods for Complex Spatial Data**: Data acquisition trends in the environmental, physical and health sciences are increasingly spatial in character and novel in the sense that modern sophisticated methods are required for analysis. This course will cover different types of random spatial processes and how to incorporate them into mixed effects models for Normal and non-Normal data. Students will be trained in a variety of advanced techniques for analyzing complex spatial data and, upon completion, will be able to undertake a variety of analyses on spatially dependent data, understand which methods are appropriate for various research questions, and interpret and convey results in the light of the original questions posed.
     *  [In Queue] **STA490Y1 - Statistical Consultation, Communication, and Collaboration**: Through case studies and collaboration with researchers in other disciplines, students develop skills in the collaborative practice of Statistics. Focus is on pragmatic solutions to practical issues including study design, dealing with common complications in data analysis, and ethical practice, with particular emphasis on written communication.
     *  [In Queue] **STA492H1 - Seminar in Statistical Science**:This course is intended for students completing the Statistical Science: Theory and Methods Specialist program. Novel influential ideas and current research topics in statistics will be explored through readings and discussion. Content will generally vary from semester to semester. Student presentations and written reports will be required.
-  * **Finance Courses**:
+* **George Brown College**:
+  * N/A
+
+<a name="professional"/>
+
+### Professional Development History and Pursuits
+The following professional development history and pursuits section outlines my professional pursuits that I have embarked during my adulthood. 
+  * **Finance**:
     * [In Queue] **Certified Financial Analyst (CFA) Examination Level I**: The exam covers the following topics:
       * Ethical and Professional Standards
       * Quantitative Methods
@@ -242,7 +265,7 @@ The following academic history outlines my areas of expertise developed through 
         * Fixed Income
       * Portfolio Management and Wealth Planning
 * **University of Toronto School of Continuing Studies**:
-  * **Bootcamps**:
+  * **Boot Camps**:
     * **3440 - UofT SCS Coding Boot Camp**: The boot camp covered the following technologies:
       * **JavaScript**: A high-level, interpreted scripting language found on most of today’s web pages, this is the programming language that brings your site to life.
       * **HTML**: Defines the structure and layout of a webpage. This language is critical as it dictates a site’s organization.
@@ -406,10 +429,10 @@ The following academic history outlines my areas of expertise developed through 
         * Conversion Tracking
   * **Certificate Programs**:
     * Coming Soon
-* **George Brown College**:
-  * N/A
 
-### Languages
+<a name="languages"/>
+
+### Software Development Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaspreetKhela)](https://github.com/JaspreetKhela/github-readme-stats)
 
 Here are my favourite languages in order of preference:
@@ -419,7 +442,9 @@ Here are my favourite languages in order of preference:
 * C#
 * C/C++
 
-### Technologies
+<a name="technologies"/>
+
+### Software Development Technologies
 * **Front-End**:
   * **Development**:
     * HTML
@@ -450,22 +475,30 @@ Here are my favourite languages in order of preference:
   * **Financial Transactions**:
     * Stripe ('stripe' npm Package)
 
-### Repositories
+<a name="repositories"/>
+
+### Software Development Repositories
 The following list provides an outline of my GitHub repositories by category.
 * 
 
-### Gists
+<a name="gists"/>
+
+### GitHub Gists Tutorials
 The following list provides an outline of my GitHub gists by category.
 
-### Performance
+### GitHub Performance Statistics 
 Here are my performance statistics for my GitHub profile:
 
 ![Jaspreet's GitHub Performance Statistics](https://github-readme-stats.vercel.app/api?username=JaspreetKhela&show_icons=true&show_icons=true&count_private=true)
 
-### Collaboration
+<a name="collaboration"/>
+
+### Software Development Projects Collaboration
 I am open to collaborating on projects that have real-world business applications. Please [email me](jaspreet.khela@gmail.com) if you would like to collaborate.
 
-### Experience
+<a name="experience"/>
+
+### Software Development-Related Practioner Experience
 The following list provides an outline of my work experience related to the following roles.
 * **Technical Roles**:
   * Software Development
@@ -482,7 +515,9 @@ The following list provides an outline of my work experience related to the foll
   * Operations
     * Coming Soon
 
-### Employment
+<a name="employment"/>
+
+### Employment Opportunities
 I am open to start-up, scale-up, and enterprise employment opportunities in:
 * **Technical Roles**:
   * Software Development
@@ -495,5 +530,7 @@ I am open to start-up, scale-up, and enterprise employment opportunities in:
 
 My preference is in back-end software development roles developing infrastructure technologies.
 
-### Contact
+<a name="contact"/>
+
+### Contact Me
 Feel free to [email me](jaspreet.khela@gmail.com) if you would like to reach out to me.
