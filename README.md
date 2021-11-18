@@ -53,8 +53,8 @@ __________
 * [Software Development Repositories](#repositories)
 * [GitHub Gists Tutorials](#gists)
 * [GitHub Performance Statistics](#performance)
-* [Software Development Projects Collaboration](#collaboration)
-* [Software Development-Related Practioner Experience](#experience)
+* [Software Development Project Collaboration Opportunities](#collaboration)
+* [Software Development-Related Practioner Experiences](#experience)
 * [Employment Opportunities](#employment)
 * [Contact Me](#contact)
 __________
@@ -495,12 +495,12 @@ Here are my performance statistics for my GitHub profile:
 
 <a name="collaboration"/>
 
-### Software Development Projects Collaboration
+### Software Development Project Collaboration Opportunities
 I am open to collaborating on projects that have real-world business applications. Please [email me](jaspreet.khela@gmail.com) if you would like to collaborate.
 
 <a name="experience"/>
 
-### Software Development-Related Practioner Experience
+### Software Development-Related Practioner Experiences
 The following list provides an outline of my work experience related to the following roles.
 * **Technical Roles**:
   * Software Development
