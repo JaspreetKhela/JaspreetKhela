@@ -54,7 +54,7 @@ __________
 * [GitHub Gists Tutorials](#gists)
 * [GitHub Performance Statistics](#performance)
 * [Software Development Project Collaboration Opportunities](#collaboration)
-* [Software Development-Related Practioner Experiences](#experience)
+* [Software Development-Related Practitioner Experiences](#experience)
 * [Employment Opportunities](#employment)
 * [Contact Me](#contact)
 __________
@@ -101,7 +101,7 @@ The following personal development history and pursuits section outlines my non-
 <a name="academics"/>
 
 ### Academic Development History and Pursuits
-The following academic development history and pursuits section outlines my areas of expertise developed through my enrollment in post-secondary programs and their corresponding courses during my adulthood. I have primarily focused on developing my expertise in: theoretical and applied [mathematics](#mathematics); theoretical, applied, and experimental [physics](#physics); theoretical and applied [computer science](#computer-science); theoretical and applied [economics](#economics); theoretical and applied [chemistry](#chemistry); and theoretical and applied [statistics](#statistics). My interest in the domains of mathematics (i.e. mathematics, statistics, and computer science) and the natural sciences (i.e. physics and chemistry) stems from my desire to develop a deep, broad, and rigorous understanding of the nature of logical reasoning, abstract thinking, geometric intution, physical intuition, and pattern recognition to better navigate the complexities of reality in an efficient and effective manner. My interest in the domains of the social sciences (i.e. economics) stems from my desire to develop a deep, broad, and rigorous understanding of the nature of the how and why economies (i.e. the transactions of value) function the way that they do. Moreover, I hope to leverage my understanding of these domains in various practioner roles (e.g. software engineer, data scientist, product designer, product manager, entrepreneur, physician-scientist, etc. roles) and theoretician roles (i.e. mathematical physicist roles in industrial research and development departments, academic institutions, etc.) that I aspire to be in over the span of my lifetime.
+The following academic development history and pursuits section outlines my areas of expertise developed through my enrollment in post-secondary programs and their corresponding courses during my adulthood. I have primarily focused on developing my expertise in: theoretical and applied [mathematics](#mathematics); theoretical, applied, and experimental [physics](#physics); theoretical and applied [computer science](#computer-science); theoretical and applied [economics](#economics); theoretical and applied [chemistry](#chemistry); and theoretical and applied [statistics](#statistics). My interest in the domains of mathematics (i.e. mathematics, statistics, and computer science) and the natural sciences (i.e. physics and chemistry) stems from my desire to develop a deep, broad, and rigorous understanding of the nature of logical reasoning, abstract thinking, geometric intution, physical intuition, and pattern recognition to better navigate the complexities of reality in an efficient and effective manner. My interest in the domains of the social sciences (i.e. economics) stems from my desire to develop a deep, broad, and rigorous understanding of the nature of the how and why economies (i.e. the transactions of value) function the way that they do. Moreover, I hope to leverage my understanding of these domains in various practitioner roles (e.g. software engineer, data scientist, product designer, product manager, entrepreneur, physician-scientist, etc. roles) and theoretician roles (i.e. mathematical physicist roles in industrial research and development departments, academic institutions, etc.) that I aspire to be in over the span of my lifetime.
 * **Trinity College, University of Toronto**:  <a name="utoronto"/>
   * **Degree**: Honours Bachelor of Science Degree
   * **Fields Of Study**: 
@@ -500,7 +500,7 @@ I am open to collaborating on projects that have real-world business application
 
 <a name="experience"/>
 
-### Software Development-Related Practioner Experiences
+### Software Development-Related Practitioner Experiences
 The following list provides an outline of my work experience related to the following roles.
 * **Technical Roles**:
   * Software Development
