@@ -95,13 +95,16 @@ __________
 <a name="personal"/>
 
 ### Personal Development History and Pursuits
-The following personal development history and pursuits section outlines the non-academic and non-professional pursuits that I have embarked during my adulthood. I have primarily focused on developing my expertise in music, the arts and humanities, multimedia production, and mixed martial arts.
+The following personal development history and pursuits section outlines the non-academic and non-professional pursuits that I have embarked upon or will embark upon over the span of my adulthood. 
+I have primarily focused on developing my expertise in music, the arts and humanities, multimedia production, and mixed martial arts.
 * Coming Soon
 
 <a name="academics"/>
 
 ### Academic Development History and Pursuits
-The following academic development history and pursuits section outlines my areas of expertise developed through my enrollment in post-secondary programs and their corresponding courses during my adulthood. I have primarily focused on developing my expertise in: theoretical and applied [mathematics](#mathematics); theoretical, applied, and experimental [physics](#physics); theoretical and applied [computer science](#computer-science); theoretical and applied [economics](#economics); theoretical and applied [chemistry](#chemistry); and theoretical and applied [statistics](#statistics). My interest in the domains of mathematics (i.e. mathematics, statistics, and computer science) and the natural sciences (i.e. physics and chemistry) stems from my desire to develop a deep, broad, and rigorous understanding of the nature of logical reasoning, abstract thinking, geometric intuition, physical intuition, and pattern recognition to better navigate the complexities of reality in an efficient and effective manner. My interest in the domains of the social sciences (i.e. economics) stems from my desire to develop a deep, broad, and rigorous understanding of the nature of the how and why economies (i.e. various modes of value transactions) function the way that they do. Moreover, I hope to leverage my understanding of these domains in various practitioner roles (e.g. software engineer, data scientist, product designer, product manager, entrepreneur, physician-scientist, etc. roles) and theoretician roles (i.e. mathematical physicist roles in industrial research and development departments, academic institutions, etc.) that I aspire to be in over the span of my lifetime.
+The following academic development history and pursuits section outlines my areas of expertise developed through my enrollment in post-secondary programs and their corresponding courses during my adulthood. 
+I have primarily focused on developing my expertise in: theoretical and applied [mathematics](#mathematics); theoretical, applied, and experimental [physics](#physics); theoretical and applied [computer science](#computer-science); theoretical and applied [economics](#economics); theoretical and applied [chemistry](#chemistry); and theoretical and applied [statistics](#statistics). My interest in the domains of mathematics (i.e. mathematics, statistics, and computer science) and the natural sciences (i.e. physics and chemistry) stems from my desire to develop a deep, broad, and rigorous understanding of the nature of logical reasoning, abstract thinking, geometric intuition, physical intuition, and pattern recognition to better navigate the complexities of reality in an efficient and effective manner. My interest in the domains of the social sciences (i.e. economics) stems from my desire to develop a deep, broad, and rigorous understanding of the nature of the how and why economies (i.e. various modes of value transactions) function the way that they do. 
+Moreover, I hope to leverage my understanding of these domains in various practitioner roles (e.g. software engineer, data scientist, product designer, product manager, entrepreneur, physician-scientist, etc. roles) and theoretician roles (i.e. mathematical physicist roles in industrial research and development departments, academic institutions, etc.) that I aspire to be in over the span of my lifetime.
 * **Trinity College, University of Toronto**:  <a name="utoronto"/>
   * **Degree**: Honours Bachelor of Science Degree
   * **Fields Of Study**: 
@@ -232,9 +235,10 @@ The following academic development history and pursuits section outlines my area
 <a name="professional"/>
 
 ### Professional Development History and Pursuits
-The following professional development history and pursuits section outlines my professional pursuits that I have embarked during my adulthood. 
+The following professional development history and pursuits section outlines my professional pursuits that I have embarked upon or will embark upon over the span of my adulthood. 
+I have primarily focued on developing my expertise in: real estate selling, brokering, and investing; corporate finance; accounting; web and mobile development; data analytics and science; cybersecurity; financial technologies; user experience research and design; and digital marketing. My interest in the real estate domain stems from... 
   * **Finance**:
-    * [In Queue] **Certified Financial Analyst (CFA) Examination Level I**: The exam covers the following topics:
+    * [In Queue] **Certified Financial Analyst (CFA) Examination Level I**: This exam covers the following topics:
       * Ethical and Professional Standards
       * Quantitative Methods
       * Economics
@@ -245,7 +249,7 @@ The following professional development history and pursuits section outlines my 
       * Derivatives
       * Alternative Investments
       * Portfolio Management
-    * [In Queue] **Certified Financial Analyst (CFA) Examination Level II**: The exam covers the following topics:
+    * [In Queue] **Certified Financial Analyst (CFA) Examination Level II**: This exam covers the following topics:
       * Ethical and Professional Standards
       * Investment Tools
         * Corporate Finance
@@ -258,7 +262,7 @@ The following professional development history and pursuits section outlines my 
         * Equity Investments
         * Fixed Income
       * Portfolio Management and Wealth Planning
-    * [In Queue] **Certified Financial Analyst (CFA) Examination Level III**: The exam covers the following topics:
+    * [In Queue] **Certified Financial Analyst (CFA) Examination Level III**: This exam covers the following topics:
       * Ethical and Professional Standards
       * Investment Tools
         * Corporate Finance
