@@ -236,45 +236,7 @@ Moreover, I hope to leverage my understanding of these domains in various practi
 
 ### Professional Development History and Pursuits
 The following professional development history and pursuits section outlines my professional pursuits that I have embarked upon or will embark upon over the span of my adulthood. 
-I have primarily focued on developing my expertise in: real estate selling, brokering, and investing; corporate finance; accounting; web and mobile development; data analytics and science; cybersecurity; financial technologies; user experience research and design; and digital marketing. My interest in the real estate domain stems from... 
-  * **Finance**:
-    * [In Queue] **Certified Financial Analyst (CFA) Examination Level I**: This exam covers the following topics:
-      * Ethical and Professional Standards
-      * Quantitative Methods
-      * Economics
-      * Financial Reporting and Analysis
-      * Corporate Finance
-      * Equity Investments
-      * Fixed Income
-      * Derivatives
-      * Alternative Investments
-      * Portfolio Management
-    * [In Queue] **Certified Financial Analyst (CFA) Examination Level II**: This exam covers the following topics:
-      * Ethical and Professional Standards
-      * Investment Tools
-        * Corporate Finance
-        * Economics
-        * Financial Reporting and Analysis
-        * Quantitative Methods
-      * Asset Classes
-        * Alternative Investments
-        * Derivatives
-        * Equity Investments
-        * Fixed Income
-      * Portfolio Management and Wealth Planning
-    * [In Queue] **Certified Financial Analyst (CFA) Examination Level III**: This exam covers the following topics:
-      * Ethical and Professional Standards
-      * Investment Tools
-        * Corporate Finance
-        * Economics
-        * Financial Reporting and Analysis
-        * Quantitative Methods
-      * Asset Classes
-        * Alternative Investments
-        * Derivatives
-        * Equity Investments
-        * Fixed Income
-      * Portfolio Management and Wealth Planning
+I have primarily focused on developing my expertise in: web and mobile development; data analytics and science; cybersecurity; financial technologies; user experience research and design; and digital marketing; real estate selling, brokering, and investing; corporate finance; and accounting. My interest in the real estate domain stems from my desire to develop a broad and deep understanding of residential and commercial property leasing and ownership primarily for investment purposes. My interest in corporate finance and accounting stems from my desire to develop a broad and deep understanding of how value (i.e. money) flows throughout a start-up, a scale-up, and an enterprise organization. My interest in web and mobile development, data analytics and science, cybersecurity, financial technologies, user experience research and design, and digital marketing stems from my desire to develop a broad and deep understanding of the digital technologies used to create digital products and services.
 * **University of Toronto School of Continuing Studies**:
   * **Boot Camps**:
     * **3440 - UofT SCS Coding Boot Camp**: The boot camp covered the following technologies:
@@ -440,6 +402,69 @@ I have primarily focued on developing my expertise in: real estate selling, brok
         * Conversion Tracking
   * **Certificate Programs**:
     * Coming Soon
+
+* **Professional Certifications**
+  * **Real Estate Sales and Brokerage:**:
+    * Real Estate Essentials
+    * Residential Real Estate Transactions
+    * Additional Residential Real Estate Transactions
+    * Commercial Real Estate Transactions
+    * Commercial Real Estate Transactions
+  * **Chartered Financial Analyst (CFA) Institute**:
+    * [In Queue] **Chartered Financial Analyst (CFA) Examination Level I**: This exam covers the following topics:
+      * Ethical and Professional Standards
+      * Quantitative Methods
+      * Economics
+      * Financial Reporting and Analysis
+      * Corporate Finance
+      * Equity Investments
+      * Fixed Income
+      * Derivatives
+      * Alternative Investments
+      * Portfolio Management
+    * [In Queue] **Chartered Financial Analyst (CFA) Examination Level II**: This exam covers the following topics:
+      * Ethical and Professional Standards
+      * Investment Tools
+        * Corporate Finance
+        * Economics
+        * Financial Reporting and Analysis
+        * Quantitative Methods
+      * Asset Classes
+        * Alternative Investments
+        * Derivatives
+        * Equity Investments
+        * Fixed Income
+      * Portfolio Management and Wealth Planning
+    * [In Queue] **Chartered Financial Analyst (CFA) Examination Level III**: This exam covers the following topics:
+      * Ethical and Professional Standards
+      * Investment Tools
+        * Corporate Finance
+        * Economics
+        * Financial Reporting and Analysis
+        * Quantitative Methods
+      * Asset Classes
+        * Alternative Investments
+        * Derivatives
+        * Equity Investments
+        * Fixed Income
+      * Portfolio Management and Wealth Planning
+  * Ontario-Based Chartered Professional Accountant (CPA):
+    * Non-Core Courses:
+      * IFA: Introductory Financial Accounting
+      * IMA: Introductory Management Accounting
+      * ECO: Economics
+      * STA: Statistics
+      * BUL: Business Law
+      * ITE: Information Technology
+    * Core Courses:
+      * IF1: Intermediate Financial Reporting 1
+      * COF: Corporate Finance
+      * IF2: Intermediate Financial Reporting 2
+      * MAA: Intermediate Management Accounting
+      * AFR: Advanced Financial Reporting
+      * AUA: Audit and Assurance
+      * TAX: Taxation
+      * PMA: Performance Management
 
 <a name="languages"/>
 
