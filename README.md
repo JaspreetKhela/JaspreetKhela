@@ -404,11 +404,9 @@ I have primarily focused on developing my expertise in: web and mobile developme
     * Coming Soon
 
 * **Professional Certifications**
-  * **Real Estate Sales and Brokerage:**:
+  * [In Queue] **Real Estate Sales and Brokerage (Humber College Program)**: This program covers the following topics:
     * Real Estate Essentials
     * Residential Real Estate Transactions
-    * Additional Residential Real Estate Transactions
-    * Commercial Real Estate Transactions
     * Commercial Real Estate Transactions
   * **Chartered Financial Analyst (CFA) Institute**:
     * [In Queue] **Chartered Financial Analyst (CFA) Examination Level I**: This exam covers the following topics:
@@ -448,23 +446,23 @@ I have primarily focused on developing my expertise in: web and mobile developme
         * Equity Investments
         * Fixed Income
       * Portfolio Management and Wealth Planning
-  * Ontario-Based Chartered Professional Accountant (CPA):
-    * Non-Core Courses:
-      * IFA: Introductory Financial Accounting
-      * IMA: Introductory Management Accounting
-      * ECO: Economics
-      * STA: Statistics
-      * BUL: Business Law
-      * ITE: Information Technology
-    * Core Courses:
-      * IF1: Intermediate Financial Reporting 1
-      * COF: Corporate Finance
-      * IF2: Intermediate Financial Reporting 2
-      * MAA: Intermediate Management Accounting
-      * AFR: Advanced Financial Reporting
-      * AUA: Audit and Assurance
-      * TAX: Taxation
-      * PMA: Performance Management
+  * **Ontario-Based Chartered Professional Accountant (CPA)**: This program covers the following topics:
+    * **Non-Core Courses**:
+      * [In Queue] **IFA**: Introductory Financial Accounting
+      * [In Queue] **IMA**: Introductory Management Accounting
+      * [In Queue] **ECO**: Economics
+      * [In Queue] **STA**: Statistics
+      * [In Queue] **BUL**: Business Law
+      * [In Queue] **ITE**: Information Technology
+    * **Core Courses**:
+      * [In Queue] **IF1**: Intermediate Financial Reporting 1
+      * [In Queue] **COF**: Corporate Finance
+      * [In Queue] **IF2**: Intermediate Financial Reporting 2
+      * [In Queue] **MAA**: Intermediate Management Accounting
+      * [In Queue] **AFR**: Advanced Financial Reporting
+      * [In Queue] **AUA**: Audit and Assurance
+      * [In Queue] **TAX**: Taxation
+      * [In Queue] **PMA**: Performance Management
 
 <a name="languages"/>
 
@@ -554,7 +552,7 @@ The following list provides an outline of my work experience related to the foll
 <a name="employment"/>
 
 ### Employment Opportunities
-I am open to start-up, scale-up, and enterprise employment opportunities in:
+I am open to start-up, scale-up, and enterprise organization employment opportunities in the following areas (in order of preference):
 * **Technical Roles**:
   * Software Development
   * Data Science
@@ -563,6 +561,7 @@ I am open to start-up, scale-up, and enterprise employment opportunities in:
   * Product Management
   * Sales and Business Development
   * Operations
+My interest in the aforementioned technical roles stems from my desire to become a skilled practitioner in technical linchpin roles that spearhead the creation of products and services for an organization. My interest in the aforementioned non-technical roles stems from my desire to become a skilled practitioner in creating, leading, and managing the creation of value within an organization.
 
 My preference is in back-end software development roles developing infrastructure technologies.
 
