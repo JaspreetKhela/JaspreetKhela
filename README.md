@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 ### Hi there 👋
-Welcome to my GitHub profile, which contains/will contain codebases, tutorials, and gists for my web development, Android, iOS, data analytics/science, cybersecurity, financial technologies, and user experience/interface research and design projects.
+Welcome to my GitHub profile, which contains/will contain codebases, tutorials, and gists for my web development, Android, iOS, data analytics/science, cybersecurity, financial technologies, and user interface and experience research and design projects.
 
 Video tutorials for these software-development areas that can be found here: [JSK X brain](https://www.youtube.com/user/JaspreetKhela). The gists corresponding to some of these tutorials can be found [here](https://gist.github.com/JaspreetKhela).
 
@@ -96,8 +96,9 @@ __________
 
 ### Personal Development History and Pursuits
 The following personal development history and pursuits section outlines the non-academic and non-professional pursuits that I have embarked upon or will embark upon over the span of my adulthood. 
-I have primarily focused on developing my expertise in music, the arts and humanities, multimedia production, and mixed martial arts.
-* Coming Soon
+I have primarily focused on developing my expertise in the arts and humanities and mixed martial arts. My interest in the arts and humanities stems from my desire to develop a broad, deep, and rigorous understanding of the culinary arts, baking/pastry arts, photography, analogue and digital static and dynamic design materials and techniques (i.e. music performance and production, film production, illustration, graphic design, and animation techniques), art culture, storytelling, theatre arts, and dance performance. My interest in mixed martial arts stems from my desire to develop a braod and deep understanding of the mindset and mechanics of an individual dealing with physical interpersonal conflicts.
+* **George Brown College**:
+  * Coming Soon
 
 <a name="academics"/>
 
@@ -236,11 +237,11 @@ Moreover, I hope to leverage my understanding of these domains in various practi
 
 ### Professional Development History and Pursuits
 The following professional development history and pursuits section outlines my professional pursuits that I have embarked upon or will embark upon over the span of my adulthood. 
-I have primarily focused on developing my expertise in: web and mobile development; data analytics and science; cybersecurity; financial technologies; user experience research and design; and digital marketing; real estate selling, brokering, and investing; corporate finance; and accounting. My interest in web and mobile development, data analytics and science, cybersecurity, financial technologies, user experience research and design, and digital marketing stems from my desire to develop a broad and deep understanding of the digital technologies used to create digital products and services. My interest in the real estate domain stems from my desire to develop a broad and deep understanding of residential and commercial property leasing and ownership primarily for investment purposes. My interest in corporate finance and accounting stems from my desire to develop a broad and deep understanding of how value (i.e. money) flows throughout a start-up, a scale-up, and an enterprise organization.
+I have primarily focused on developing my expertise in: web and mobile development; data analytics and science; cybersecurity; financial technologies; user experience research and design; and digital marketing; real estate selling, brokering, and investing; corporate finance; and accounting. My interest in web and mobile development, data analytics and science, cybersecurity, financial technologies, user interface and experience research and design, and digital marketing stems from my desire to develop a broad and deep understanding of the digital technologies used to create digital products and services. My interest in the real estate domain stems from my desire to develop a broad and deep understanding of residential and commercial property leasing and ownership primarily for investment purposes. My interest in corporate finance and accounting stems from my desire to develop a broad and deep understanding of how value (i.e. money) flows throughout a start-up, a scale-up, and an enterprise organization.
 * **University of Toronto School of Continuing Studies**:
   * **Boot Camps**:
-    * **3440 - UofT SCS Coding Boot Camp**: The boot camp covered the following technologies:
-      * **JavaScript**: A high-level, interpreted scripting language found on most of today’s web pages, this is the programming language that brings your site to life.
+    * **3440 - UofT SCS Coding Boot Camp**: The boot camp covered the following topics:
+      * **JavaScript**: A high-level and interpreted scripting language found on most of today’s web pages, this is the programming language that brings websites to life.
       * **HTML**: Defines the structure and layout of a webpage. This language is critical as it dictates a site’s organization.
       * **CSS**: Defines the style of a webpage and how it is presented to the user. This language is important because it determines fonts, colors, and positions of webpage elements.
       * **jQuery**: A JavaScript library that simplifies programming. Considered to be the most popular and most utilized JavaScript library to date.
@@ -250,7 +251,7 @@ I have primarily focused on developing my expertise in: web and mobile developme
       * **MongoDB**: A document-oriented NoSQL database. This database is critical for security and it is trusted to power business-critical applications in over 50 percent of the Fortune 100 companies.
       * **Express.js**: A web application framework for Node.js. This framework play a crucial role in the flow of data between server and routes in server-side applications.
       * **React.js**: The most widely used JavaScript library today. This library is essential for creating web apps in an agile manner.
-    * [In Queue] **3541 - UofT SCS Data Analytics Boot Camp**: The boot camp covers the following technologies:
+    * [In Queue] **3541 - UofT SCS Data Analytics Boot Camp**: The boot camp covers the following topics:
       * **Intermediate Excel Functions**:
         * Pivot Tables
         * VBA Scripting
@@ -279,7 +280,7 @@ I have primarily focused on developing my expertise in: web and mobile developme
       * **Advanced Topics**:
         * Big Data Analytics with Hadoop
         * Machine Learning
-    * [In Queue] **3542 - UofT SCS Cybersecurity Boot Camp**: The boot camp covers the following technologies:
+    * [In Queue] **3542 - UofT SCS Cybersecurity Boot Camp**: The boot camp covers the following topics:
       * **Networking**:
         * Packet Analysis
         * Wireshark
@@ -307,7 +308,7 @@ I have primarily focused on developing my expertise in: web and mobile developme
       * **Programming and Scripting**:
         * Bash Scripting
         * PowerShell Scripting
-    * [In Queue] **3716 - UofT SCS FinTech Boot Camp**: The boot camp covers the following technologies:
+    * [In Queue] **3716 - UofT SCS FinTech Boot Camp**: The boot camp covers the following topics:
       * **Financial Fundamentals**:
         * Time-Series Analysis
         * Financial Ratios
@@ -347,7 +348,7 @@ I have primarily focused on developing my expertise in: web and mobile developme
         * SQL
         * Numpy
         * SciPy
-    * [In Queue] **3692 - UofT SCS UX/UI Boot Camp**: The boot camp covers the following technologies:
+    * [In Queue] **3692 - UofT SCS UX/UI Boot Camp**: The boot camp covers the following topics:
       * **User-Centric Design Research**:
         * Qualitative and Quantitative Research Practices
         * Information Architecture and Flow
@@ -376,7 +377,7 @@ I have primarily focused on developing my expertise in: web and mobile developme
         * Bootstrap
         * JavaScript
         * jQuery
-    * [In Queue] **3775 - UofT SCS Digital Marketing Boot Camp**: The boot camp covers the following technologies:
+    * [In Queue] **3775 - UofT SCS Digital Marketing Boot Camp**: The boot camp covers the following topics:
       * Marketing Strategy
         * Brand Strategy
         * Brand Building
@@ -513,12 +514,57 @@ Here are my favourite languages in order of preference:
 
 ### Software Development Repositories
 The following list provides an outline of my GitHub repositories by category.
-* 
+* **Web Development Projects**:
+  * **Front-End Projects**:
+    * Coming Soon
+  * **Back-End Projects**:
+    * Coming Soon
+  * **Full-Stack Projects**:
+    * Coming Soon
+* **Android Application Projects**:
+  * Coming Soon
+* **iOS Application Projects**:
+  * Coming Soon
+* **Data Analytics Projects**:
+  * Coming Soon
+* **Data Science Projects**:
+  * Coming Soon
+* **Cybersecurity Projects**:
+  * Coming Soon
+* **Financial Technology Projects**:
+  * Coming Soon 
+* **User Interface and Experience Research and Design Projects**:
+  * Coming Soon
+* **Digital Marketing Projects**:
+  * Coming Soon
 
 <a name="gists"/>
 
 ### GitHub Gists Tutorials
-The following list provides an outline of my GitHub gists by category.
+The following list provides an outline of my GitHub Gists by category.
+* **Web Development Tutorials**:
+  * **Front-End Tutorials**:
+    * Coming Soon
+  * **Back-End Tutorials**:
+    * Coming Soon
+  * **Full-Stack Tutorials**:
+    * Coming Soon
+* **Android Application Tutorials**:
+  * Coming Soon
+* **iOS Application Tutorials**:
+  * Coming Soon
+* **Data Analytics Tutorials**:
+  * Coming Soon
+* **Data Science Tutorials**:
+  * Coming Soon
+* **Cybersecurity Tutorials**:
+  * Coming Soon
+* **Financial Technology Tutorials**:
+  * Coming Soon 
+* **User Interface and Experience Research and Design Tutorials**:
+  * Coming Soon
+* **Digital Marketing Tutorials**:
+  * Coming Soon
 
 ### GitHub Performance Statistics 
 Here are my performance statistics for my GitHub profile:
