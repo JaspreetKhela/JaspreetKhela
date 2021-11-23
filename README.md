@@ -96,7 +96,7 @@ __________
 
 ### Personal Development History and Pursuits
 The following personal development history and pursuits section outlines the non-academic and non-professional pursuits that I have embarked upon or will embark upon over the span of my adulthood. 
-I have primarily focused on developing my expertise in the arts and humanities and mixed martial arts. My interest in the arts and humanities stems from my desire to develop a broad, deep, and rigorous understanding of the culinary arts, baking/pastry arts, photography, analog and digital static and dynamic design materials and techniques (i.e. music performance and production, film production, illustration, graphic design, and animation techniques), art culture, storytelling, theatre arts, and dance performance. My interest in mixed martial arts stems from my desire to develop a braod and deep understanding of the mindset and mechanics of an individual dealing with physical interpersonal conflicts.
+I have primarily focused on developing my expertise in the arts and humanities and mixed martial arts. My interest in the arts and humanities stems from my desire to develop a broad, deep, and rigorous understanding of the culinary arts, baking/pastry arts, storytelling, photography, analog and digital static and dynamic design materials and techniques (i.e. music performance and production, film production, illustration, graphic design, and animation techniques), theatre arts, dance performance, and art culture. My interest in mixed martial arts stems from my desire to develop a broad and deep understanding of the mindset and mechanics of an individual dealing with physical interpersonal conflicts.
 * **George Brown College**:
   * Coming Soon
 
