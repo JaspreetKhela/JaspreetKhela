@@ -96,10 +96,58 @@ __________
 
 ### Personal Development History and Pursuits
 The following personal development history and pursuits section outlines the non-academic and non-professional pursuits that I have embarked upon or will embark upon over the span of my adulthood. 
-I have primarily focused on developing my expertise in the arts and humanities and mixed martial arts. My interest in the arts and humanities stems from my desire to develop a broad, deep, and rigorous understanding of the culinary arts, baking/pastry arts, storytelling, photography, analog and digital static and dynamic design materials and techniques (i.e. music performance and production, film production, illustration, graphic design, and animation techniques), theatre arts, dance performance, and art culture. My interest in mixed martial arts stems from my desire to develop a broad and deep understanding of the mindset and mechanics of an individual dealing with physical interpersonal conflicts.
+I have primarily focused on developing my expertise in the arts and humanities, mixed martial arts, and the skilled trades. My interest in the arts and humanities stems from my desire to develop a broad, deep, and rigorous understanding of the culinary arts, baking/pastry arts, storytelling, photography, analog and digital static and dynamic design materials and techniques (i.e. music performance and production, film production, illustration, graphic design, and animation techniques), theatre arts, dance performance, and art culture. My interest in mixed martial arts stems from my desire to develop a broad and deep understanding of the mindset and mechanics of an individual dealing with physical interpersonal conflicts. My interest in the skilled trades stems from my desire to develop a broad and deep understanding of the building blocks of the physical world through studying construction, plumbing, electrical, and welding techniques.
 * **George Brown College**:
-  * Coming Soon
-
+  * [In Queue] **Culinary Management Program (Integrated Learning) H116**:
+    * Semester 1:
+      * [In Queue] **CMDI 1002	Baking and Pastry for Cooks**:
+      * [In Queue] **CMDI 1202	Culinary Foundations**:
+      * [In Queue] **CMDI 1203	Culinary Essentials**:
+      * [In Queue] **CMDI 1029	Theory of Food I (Sanitation Certificate included)**:
+      * [In Queue] **CMDI 1146	Emergency First Aid/Heartsaver CPR (weekend course)**:
+      * [In Queue] **CMDI 1296	Beverage and Service fundamentals (Smart Serve Certificate included)**:
+      * [In Queue] **CMDI 1297	The Sustainable Chef**:
+      * [In Queue] **COMM 1007	College English**:
+      * [In Queue] **MATH 1102	Mathematics for Hospitality**:
+      * [In Queue] **GNED	General Education Elective**:
+    * Semester 2:
+      * [In Queue] **CMDI 1204	Culinary Principles**:
+      * [In Queue] **CMDI 1205	Culinary Concepts**:
+      * [In Queue] **CMDI 1030	Theory of Food II (WHMIS certificate)**:
+      * [In Queue] **CMDI 1126	Career Preparation**:
+      * [In Queue] **CMDI 1166	Foods of the World**:
+      * [In Queue] **CMDI 1195	Butchery and Café Production**:
+      * [In Queue] **CMDI 1255	Nutrition Fundamentals from a Culinary Perspective (hybrid)**:
+      * [In Queue] **CMDI 1005	Food, Beverage and Labour Cost Control (hybrid)**:
+    * Semester 3:
+      * [In Queue] **CMDI 2022	Field Placement**:
+      * [In Queue] **CMDI 2081	Hospitality Leadership and Communication**:
+      * [In Queue] **CMDI 2024	Marriage of Food and Wine**:
+      * [In Queue] **GNED	General Education Elective (online)**:
+    * Semester 4:
+      * [In Queue] **CMDI 2076	Industry Mentor/Externship**:
+      * [In Queue] **CMDI 2064	Human Resources (online)**:
+      * [In Queue] **CMDI 2077	Marketing (online)**:
+      * [In Queue] **GNED	General Education Elective (online)**:
+  * [In Queue] **Art and Design Foundation Program G108**:
+    * Semester 1:
+      * [In Queue] **ART1019	Foundation Drawing I: Observational Drawing and Composition**:
+      * [In Queue] **ART1020	Foundation Design I: Form and Space**:
+      * [In Queue] **ART1029	Introduction to Digital Media**:
+      * [In Queue] **ART1030	Introduction to Photography**:
+      * [In Queue] **ART1031	Art Culture**:
+      * [In Queue] **COMM1007	College English**:
+    * Semester 2:
+      * [In Queue] **ART1021	Foundation Design II: Colour Theory and Practice**:
+      * [In Queue] **ART1036	Art and Design Portfolio Showcase**:
+      * [In Queue] **DESN1020	Design Process**:
+      * [In Queue] **ART1024	Foundation Drawing II: Life Drawing**:
+      * [In Queue] **ART1040	Painting and Mixed Media Studio**:
+      * [In Queue] **ART1025	3D Materials and Techniques**:
+      * [In Queue] **ART1035	Digital Media: Design Tools & Processes**:
+      * [In Queue] **ART1033	Multimedia Storytelling**:
+      * [In Queue] **ART1043	Photography: People, Concepts and Stories**:
+      * [In Queue] **DESN1084	2D Digital Art I**:
 <a name="academics"/>
 
 ### Academic Development History and Pursuits
