@@ -571,7 +571,7 @@ I have primarily focused on developing my expertise in: web and mobile developme
     * [In Queue] **ELNC 9029	Amplifier Circuits**:
     * [In Queue] **ELNC 9028	Integrated Circuits**:
     * [In Queue] **ELNC 9035	Digital Electronics**:
-    * [In Queue] **[In Queue] **ELNC 9054	Programmable Logic Controllers**:
+    * [In Queue] **ELNC 9054	Programmable Logic Controllers**:
   * [In Queue] **Robotics Technician Program (Distance Education) T948**:
     * [In Queue] **ELNC9101	Introduction to Robotics**:
     * [In Queue] **ELNC9103	Robot Classifications**:
