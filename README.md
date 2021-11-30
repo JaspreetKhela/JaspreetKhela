@@ -350,112 +350,6 @@ Moreover, I hope to leverage my understanding of these domains in various practi
     *  [In Queue] **STA465H1 - Theory and Methods for Complex Spatial Data**: Data acquisition trends in the environmental, physical and health sciences are increasingly spatial in character and novel in the sense that modern sophisticated methods are required for analysis. This course will cover different types of random spatial processes and how to incorporate them into mixed effects models for Normal and non-Normal data. Students will be trained in a variety of advanced techniques for analyzing complex spatial data and, upon completion, will be able to undertake a variety of analyses on spatially dependent data, understand which methods are appropriate for various research questions, and interpret and convey results in the light of the original questions posed.
     *  [In Queue] **STA490Y1 - Statistical Consultation, Communication, and Collaboration**: Through case studies and collaboration with researchers in other disciplines, students develop skills in the collaborative practice of Statistics. Focus is on pragmatic solutions to practical issues including study design, dealing with common complications in data analysis, and ethical practice, with particular emphasis on written communication.
     *  [In Queue] **STA492H1 - Seminar in Statistical Science**:This course is intended for students completing the Statistical Science: Theory and Methods Specialist program. Novel influential ideas and current research topics in statistics will be explored through readings and discussion. Content will generally vary from semester to semester. Student presentations and written reports will be required.
-* **George Brown College**: <a name="george-brown"/>
-  * * [In Queue] **Electronics Technician Program (Distance Education) T901**:
-    * [In Queue] **ELNC 9034	Introduction to Electronics**:
-    * [In Queue] **ELCL 9049	Current, Voltage and Resistance**:
-    * [In Queue] **ELCL 9050	Ohm’s Law, Power and Energy**:
-    * [In Queue] **ELCL 9048	Series Circuits**:
-    * [In Queue] **ELCL 9047	Parallel Circuits**:
-    * [In Queue] **ELCL 9046	Series-Parallel Circuits**:
-    * [In Queue] **ELNC 9036	DC Measuring Instruments**:
-    * [In Queue] **ELCL 9045	Network Theorems**:
-    * [In Queue] **ELCL 9044	Magnetism**:
-    * [In Queue] **ELCL 9043	Magnetic Circuits**:
-    * [In Queue] **ELCL 9042	Alternating Voltages and Currents**:
-    * [In Queue] **ELCL 9041	AC Measuring Instruments**:
-    * [In Queue] **ELCL 9040	Capacitance and Capacitors**:
-    * [In Queue] **ELCL 9039	Inductance and Inductors**:
-    * [In Queue] **ELNC 9033	Transformers**:
-    * [In Queue] **ELCL 9038	Alternating Current Circuits**:
-    * [In Queue] **ELNC 9032	Resonance**:
-    * [In Queue] **ELNC 9031	Coupling and Filter Circuits**:
-    * [In Queue] **ELNC 9030	Semiconductor Fundamentals**:
-    * [In Queue] **ELNC 9037	Transistors and Thyristors**:
-    * [In Queue] **ELNC 9029	Amplifier Circuits**:
-    * [In Queue] **ELNC 9028	Integrated Circuits**:
-    * [In Queue] **ELNC 9035	Digital Electronics**:
-    * [In Queue] **ELCL 9091	Microprocessors**:
-  * [In Queue] **Electromechanical Technician Program (Distance Education) T902**:
-    * [In Queue] **ELNC 9034	Introduction to Electronics**:
-    * [In Queue] **[In Queue] **ELCL 9049	Current, Voltage and Resistance**:
-    * [In Queue] **ELCL 9050	Ohm’s Law, Power and Energy**:
-    * [In Queue] **ELCL 9048	Series Circuits**:
-    * [In Queue] **ELCL 9047	Parallel Circuits**:
-    * [In Queue] **ELCL 9046	Series-Parallel Circuits**:
-    * [In Queue] **ELNC 9036	DC Measuring Instruments**:
-    * [In Queue] **ELNC 9053	Industrial Control Devices**:
-    * [In Queue] **ELCL 9044	Magnetism**:
-    * [In Queue] **ELCL 9059	DC Motors and Control Circuits**:
-    * [In Queue] **ELCL 9042	Alternating Voltages and Currents**:
-    * [In Queue] **ELCL 9041	AC Measuring Instruments**:
-    * [In Queue] **ELCL 9040	Capacitance and Capacitors**:
-    * [In Queue] **ELCL 9039	Inductance and Inductors**:
-    * [In Queue] **ELNC 9033	Transformers**:
-    * [In Queue] **ELNC 9056	AC Motors and Drives**:
-    * [In Queue] **ELCL 9060	Analog and Digital Transducers**:
-    * [In Queue] **ELNC 9055	Industrial Process Control**:
-    * [In Queue] **ELNC 9030	Semiconductor Fundamentals**:
-    * [In Queue] **ELNC 9037	Transistors and Thyristors**:
-    * [In Queue] **ELNC 9029	Amplifier Circuits**:
-    * [In Queue] **ELNC 9028	Integrated Circuits**:
-    * [In Queue] **ELNC 9035	Digital Electronics**:
-    * [In Queue] **[In Queue] **ELNC 9054	Programmable Logic Controllers**:
-  * [In Queue] **Robotics Technician Program (Distance Education) T948**:
-    * [In Queue] **ELNC9101	Introduction to Robotics**:
-    * [In Queue] **ELNC9103	Robot Classifications**:
-    * [In Queue] **ELNC9108	Manipulators and End Effectors**:
-    * [In Queue] **ELNC9102	Robot Drive Systems**:
-    * [In Queue] **ELNC9106	Servo Systems**:
-    * [In Queue] **ELNC9105	Payload, Repeatability and Accuracy**:
-    * [In Queue] **ELNC9107	Object Detection**:
-    * [In Queue] **ELNC9112	Vision, Touch and Sound**:
-    * [In Queue] **ELNC9113	Robot Programming**:
-    * [In Queue] **ELNC9111	Robot Safety**:
-    * [In Queue] **ELNC9110	Communications**:
-    * [In Queue] **ELNC9109	Applications**:
-    * [In Queue] **ELNC9104	Artificial Intelligence**:
-    * [In Queue] **ELNC9121	Autonomous Robots**:
-  * [In Queue] **Programmable Logic Controllers (PLC) Technician Program (Distance Education) T903**:
-    * [In Queue] **ELNC 9071	Overview of PLCs**:
-    * [In Queue] **ELNC 9072	Central Processing Unit**:
-    * [In Queue] **ELNC 9073	I/O System**:
-    * [In Queue] **ELNC 9074	Programming Terminals and Peripherals**:
-    * [In Queue] **ELNC 9075	Installation and Maintenance of PLCs**:
-    * [In Queue] **ELNC 9076	Relay Logic**:
-    * [In Queue] **ELNC 9077	Ladder Logic**:
-    * [In Queue] **ELNC 9078	Timers**:
-    * [In Queue] **ELNC 9079	Counters**:
-    * [In Queue] **ELNC 9080	MCR, JUMP and FORCE Instructions**:
-    * [In Queue] **ELNC 9081	Sequencers**:
-    * [In Queue] **ELNC 9082	Data Transfer**:
-    * [In Queue] **ELNC 9083	Math Functions**:
-    * [In Queue] **ELNC 9084	Process Control**:
-    * [In Queue] **ELNC 9085	Data Communications**:
-    * [In Queue] **ELNC 9086	Number Systems and Codes**:
-    * [In Queue] **ELNC 9087	Digital Logic**:
-    * [In Queue] **ELNC 9120	RTUs and PACs**:
-    * [In Queue] **ELNC 9116	Introduction to Automation**:
-  * [In Queue] **Programmable Logic Controllers (PLC) Technician II Program (Distance Education) T949**:
-    * [In Queue] **ELNC 9127	Introduction to Advanced PLCs**:
-    * [In Queue] **ELNC 9094	PLC Processors**:
-    * [In Queue] **ELNC 9073	I/O System**:
-    * [In Queue] **ELNC 9074	Programming Terminals and Peripherals**:
-    * [In Queue] **ELNC 9075	Installation and Maintenance of PLCs**:
-    * [In Queue] **ELNC 9124	Tag-Based PLCs**:
-    * [In Queue] **ELNC 9095	Ladder Logic Programming**:
-    * [In Queue] **ELNC 9078	Timers**:
-    * [In Queue] **ELNC 9079	Counters**:
-    * [In Queue] **ELNC 9096	Branch and Loop Control**:
-    * [In Queue] **ELNC 9081	Sequencers**:
-    * [In Queue] **ELNC 9097	Data Handling**:
-    * [In Queue] **ELNC 9098	Math Instructions**:
-    * [In Queue] **ELNC 9084	Process Control**:
-    * [In Queue] **ELNC 9099	PLC Communication**:
-    * [In Queue] **ELNC 9118	Distributed Control System (DCS)**:
-    * [In Queue] **ELNC 9119	SCADA System**:
-    * [In Queue] **ELNC 9093	Advanced Programming Languages**:
-    * [In Queue] **ELNC 9092	Robotics**:
 
 <a name="professional"/>
 
@@ -627,6 +521,112 @@ I have primarily focused on developing my expertise in: web and mobile developme
         * Conversion Tracking
   * **Certificate Programs**:
     * Coming Soon
+* **George Brown College**: <a name="george-brown"/>
+  * [In Queue] **Electronics Technician Program (Distance Education) T901**:
+    * [In Queue] **ELNC 9034	Introduction to Electronics**:
+    * [In Queue] **ELCL 9049	Current, Voltage and Resistance**:
+    * [In Queue] **ELCL 9050	Ohm’s Law, Power and Energy**:
+    * [In Queue] **ELCL 9048	Series Circuits**:
+    * [In Queue] **ELCL 9047	Parallel Circuits**:
+    * [In Queue] **ELCL 9046	Series-Parallel Circuits**:
+    * [In Queue] **ELNC 9036	DC Measuring Instruments**:
+    * [In Queue] **ELCL 9045	Network Theorems**:
+    * [In Queue] **ELCL 9044	Magnetism**:
+    * [In Queue] **ELCL 9043	Magnetic Circuits**:
+    * [In Queue] **ELCL 9042	Alternating Voltages and Currents**:
+    * [In Queue] **ELCL 9041	AC Measuring Instruments**:
+    * [In Queue] **ELCL 9040	Capacitance and Capacitors**:
+    * [In Queue] **ELCL 9039	Inductance and Inductors**:
+    * [In Queue] **ELNC 9033	Transformers**:
+    * [In Queue] **ELCL 9038	Alternating Current Circuits**:
+    * [In Queue] **ELNC 9032	Resonance**:
+    * [In Queue] **ELNC 9031	Coupling and Filter Circuits**:
+    * [In Queue] **ELNC 9030	Semiconductor Fundamentals**:
+    * [In Queue] **ELNC 9037	Transistors and Thyristors**:
+    * [In Queue] **ELNC 9029	Amplifier Circuits**:
+    * [In Queue] **ELNC 9028	Integrated Circuits**:
+    * [In Queue] **ELNC 9035	Digital Electronics**:
+    * [In Queue] **ELCL 9091	Microprocessors**:
+  * [In Queue] **Electromechanical Technician Program (Distance Education) T902**:
+    * [In Queue] **ELNC 9034	Introduction to Electronics**:
+    * [In Queue] **[In Queue] **ELCL 9049	Current, Voltage and Resistance**:
+    * [In Queue] **ELCL 9050	Ohm’s Law, Power and Energy**:
+    * [In Queue] **ELCL 9048	Series Circuits**:
+    * [In Queue] **ELCL 9047	Parallel Circuits**:
+    * [In Queue] **ELCL 9046	Series-Parallel Circuits**:
+    * [In Queue] **ELNC 9036	DC Measuring Instruments**:
+    * [In Queue] **ELNC 9053	Industrial Control Devices**:
+    * [In Queue] **ELCL 9044	Magnetism**:
+    * [In Queue] **ELCL 9059	DC Motors and Control Circuits**:
+    * [In Queue] **ELCL 9042	Alternating Voltages and Currents**:
+    * [In Queue] **ELCL 9041	AC Measuring Instruments**:
+    * [In Queue] **ELCL 9040	Capacitance and Capacitors**:
+    * [In Queue] **ELCL 9039	Inductance and Inductors**:
+    * [In Queue] **ELNC 9033	Transformers**:
+    * [In Queue] **ELNC 9056	AC Motors and Drives**:
+    * [In Queue] **ELCL 9060	Analog and Digital Transducers**:
+    * [In Queue] **ELNC 9055	Industrial Process Control**:
+    * [In Queue] **ELNC 9030	Semiconductor Fundamentals**:
+    * [In Queue] **ELNC 9037	Transistors and Thyristors**:
+    * [In Queue] **ELNC 9029	Amplifier Circuits**:
+    * [In Queue] **ELNC 9028	Integrated Circuits**:
+    * [In Queue] **ELNC 9035	Digital Electronics**:
+    * [In Queue] **[In Queue] **ELNC 9054	Programmable Logic Controllers**:
+  * [In Queue] **Robotics Technician Program (Distance Education) T948**:
+    * [In Queue] **ELNC9101	Introduction to Robotics**:
+    * [In Queue] **ELNC9103	Robot Classifications**:
+    * [In Queue] **ELNC9108	Manipulators and End Effectors**:
+    * [In Queue] **ELNC9102	Robot Drive Systems**:
+    * [In Queue] **ELNC9106	Servo Systems**:
+    * [In Queue] **ELNC9105	Payload, Repeatability and Accuracy**:
+    * [In Queue] **ELNC9107	Object Detection**:
+    * [In Queue] **ELNC9112	Vision, Touch and Sound**:
+    * [In Queue] **ELNC9113	Robot Programming**:
+    * [In Queue] **ELNC9111	Robot Safety**:
+    * [In Queue] **ELNC9110	Communications**:
+    * [In Queue] **ELNC9109	Applications**:
+    * [In Queue] **ELNC9104	Artificial Intelligence**:
+    * [In Queue] **ELNC9121	Autonomous Robots**:
+  * [In Queue] **Programmable Logic Controllers (PLC) Technician Program (Distance Education) T903**:
+    * [In Queue] **ELNC 9071	Overview of PLCs**:
+    * [In Queue] **ELNC 9072	Central Processing Unit**:
+    * [In Queue] **ELNC 9073	I/O System**:
+    * [In Queue] **ELNC 9074	Programming Terminals and Peripherals**:
+    * [In Queue] **ELNC 9075	Installation and Maintenance of PLCs**:
+    * [In Queue] **ELNC 9076	Relay Logic**:
+    * [In Queue] **ELNC 9077	Ladder Logic**:
+    * [In Queue] **ELNC 9078	Timers**:
+    * [In Queue] **ELNC 9079	Counters**:
+    * [In Queue] **ELNC 9080	MCR, JUMP and FORCE Instructions**:
+    * [In Queue] **ELNC 9081	Sequencers**:
+    * [In Queue] **ELNC 9082	Data Transfer**:
+    * [In Queue] **ELNC 9083	Math Functions**:
+    * [In Queue] **ELNC 9084	Process Control**:
+    * [In Queue] **ELNC 9085	Data Communications**:
+    * [In Queue] **ELNC 9086	Number Systems and Codes**:
+    * [In Queue] **ELNC 9087	Digital Logic**:
+    * [In Queue] **ELNC 9120	RTUs and PACs**:
+    * [In Queue] **ELNC 9116	Introduction to Automation**:
+  * [In Queue] **Programmable Logic Controllers (PLC) Technician II Program (Distance Education) T949**:
+    * [In Queue] **ELNC 9127	Introduction to Advanced PLCs**:
+    * [In Queue] **ELNC 9094	PLC Processors**:
+    * [In Queue] **ELNC 9073	I/O System**:
+    * [In Queue] **ELNC 9074	Programming Terminals and Peripherals**:
+    * [In Queue] **ELNC 9075	Installation and Maintenance of PLCs**:
+    * [In Queue] **ELNC 9124	Tag-Based PLCs**:
+    * [In Queue] **ELNC 9095	Ladder Logic Programming**:
+    * [In Queue] **ELNC 9078	Timers**:
+    * [In Queue] **ELNC 9079	Counters**:
+    * [In Queue] **ELNC 9096	Branch and Loop Control**:
+    * [In Queue] **ELNC 9081	Sequencers**:
+    * [In Queue] **ELNC 9097	Data Handling**:
+    * [In Queue] **ELNC 9098	Math Instructions**:
+    * [In Queue] **ELNC 9084	Process Control**:
+    * [In Queue] **ELNC 9099	PLC Communication**:
+    * [In Queue] **ELNC 9118	Distributed Control System (DCS)**:
+    * [In Queue] **ELNC 9119	SCADA System**:
+    * [In Queue] **ELNC 9093	Advanced Programming Languages**:
+    * [In Queue] **ELNC 9092	Robotics**:
 
 * **Professional Certifications**
   * [In Queue] **Real Estate Sales and Brokerage (Humber College Program)**: This program covers the following topics:
