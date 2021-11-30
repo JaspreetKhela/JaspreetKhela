@@ -549,7 +549,7 @@ I have primarily focused on developing my expertise in: web and mobile developme
     * [In Queue] **ELCL 9091	Microprocessors**:
   * [In Queue] **Electromechanical Technician Program (Distance Education) T902**:
     * [In Queue] **ELNC 9034	Introduction to Electronics**:
-    * [In Queue] **[In Queue] **ELCL 9049	Current, Voltage and Resistance**:
+    * [In Queue] **ELCL 9049	Current, Voltage and Resistance**:
     * [In Queue] **ELCL 9050	Ohm’s Law, Power and Energy**:
     * [In Queue] **ELCL 9048	Series Circuits**:
     * [In Queue] **ELCL 9047	Parallel Circuits**:
