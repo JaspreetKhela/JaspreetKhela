@@ -108,17 +108,17 @@ skills demonstration. In the 4-hour lab portion students implement their work pl
 engage in sensory evaluation, palate development, group dynamics and interpersonal skills through online discussions, collaborations, assignments and in-class activities.
       * [In Queue] **CMDI 1146	Emergency First Aid/Heartsaver CPR (weekend course)**: This course provides students with emergency first aid and heartsaver CPR principles and practices in foodservice operations. The course is based on standards and regulations from The Canadian Red Cross and The Heart and Stroke Foundation of Ontario which are both internationally recognized and meet the requirements of the Workers' Safety Insurance Board.
       * [In Queue] **CMDI 1296	Beverage and Service fundamentals (Smart Serve Certificate included)**: Beverage and Service Fundamentals is an introductory course with the cook’s role in mind. With beverages being a large part of the hospitality experience, we will study both alcoholic and non-alcoholic beverages and the role they play in a foodservice operation. We will also gain an understanding of the importance of offering ‘remarkable service’ while adhering to proper dining room etiquette. This course will be conducted through a series of weekly lectures, individual research questions and submissions, online quizzes/exams, and a final project.
-      * [In Queue] **CMDI 1297	The Sustainable Chef**: [Not Available]
+      * [In Queue] **CMDI 1297	The Sustainable Chef**: [Description Not Available]
       * [In Queue] **COMM 1007	College English**: College English is George Brown College's required course in communication and a prerequisite for advanced COMM courses. The focus is on learning to communicate clearly and strategically, and to analyze information critically. Students will learn and apply critical thinking and research skills to the communication process in order to create clear, logical, audience-appropriate, and purposeful works. Students will also learn and implement self-editing and revision techniques throughout the semester. This course offers students the opportunity to engage with a range of meaningful topics and issues that are reflective of our diverse student body and community.
-      * [In Queue] **MATH 1102	Mathematics for Hospitality**: [Not Available]
-      * [In Queue] **GNED	General Education Elective**:
+      * [In Queue] **MATH 1102	Mathematics for Hospitality**: [Description Not Available]
+      * [In Queue] **GNED	General Education Elective**: [Description Not Available]
     * **Semester 2**:
       * [In Queue] **CMDI 1204	Culinary Principles**: This 7-week course builds on and develops further the student's fundamental culinary skills through a series of three-hour demonstrations where the students take notes to prepare a work plan for the execution of their skills, and a four-hour culinary lab, where the students implement their work plan to recreate the professor's demonstration. The students will be evaluated on both their participation in the demonstration and laboratory. By successfully completing this course the students will be able to write work plans, practice culinary techniques of both basic and advanced methods of preparation, cook in a timely manner and present and taste food products, in preparation for successful employment in today's foodservice industry.
       * [In Queue] **CMDI 1205	Culinary Concepts**: This 7-week course builds and develops further the student's fundamental culinary skills through a series of three-hour demonstrations where the students take notes to prepare a work plan for the execution of their skills, and a four-hour culinary lab, where the students implement their work plan to recreate the professor's demonstration. The students will be evaluated on both their participation in the demonstration and laboratory. By successfully completing this course the students will be able to write work plans, practice culinary techniques of both basic and advanced methods of preparation, cook in a timely manner and present and taste food products, in preparation for successful employment in today's foodservice industry.
       * [In Queue] **CMDI 1030	Theory of Food II (WHMIS certificate)**: This Course builds on Theory of Food I. Students will expand on the repertoire of culinary theoretical knowledge acquired in the first semester. The Material will complement and expand on their practical studies in Principles and Concepts. Ingredients, techniques and culinary applications will be explored. Students are introduced to industry standards, philosophies, and practices pertaining to sustainability, nutrition, diversity, menu planning, innovation and quality of food. Students will practice industry standards of communication and interpersonal skills through online discussions, collaborations assignments, and in-class activities.
-      * [In Queue] **CMDI 1126	Career Preparation**: [Not Available]
+      * [In Queue] **CMDI 1126	Career Preparation**: [Description Not Available]
       * [In Queue] **CMDI 1166	Foods of the World**: During this seven-week course, Foods of the World will introduce students to seven different international cuisines, ingredients, and cooking methods from around the globe through interactive demonstrations and labs. Students, working in groups, will have to butcher, reproduce, cook and package international meals based on the instructor's demonstrations and guidance. Students will learn to create effective action plans and the basics of several cultural cuisines all of which will add valuable culinary assets to the student's portfolio.
-      * [In Queue] **CMDI 1195	Butchery and Café Production**: [Not Available]
+      * [In Queue] **CMDI 1195	Butchery and Café Production**: [Description Not Available]
       * [In Queue] **CMDI 1255	Nutrition Fundamentals from a Culinary Perspective (hybrid)**: Today's restaurant clientele consider nutrition a major factor in menu selection and overall satisfaction. In this course, students explore the science of nutrition and how it relates to the hospitality industry and food production. Students use nutrition standards in analyzing their own diet. Six nutrients (carbohydrate, protein, fat, vitamins, minerals and water), as well as current topics including nutrition labelling, nutrition in the media and multicultural food habits, are examined.
       * [In Queue] **CMDI 1005	Food, Beverage and Labour Cost Control (hybrid)**: This course introduces the student to the concept and importance of controlling the primary costs of food, and labour. The student will learn the various techniques, procedures, and calculations used in the foodservice industry to evaluate, monitor and maintain appropriate control policies and procedures through the various functions of
 purchasing, receiving, storing, issuing, and production and portioning.
@@ -137,95 +137,95 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
       * [In Queue] **GNED	General Education Elective (online)**:
   * [In Queue] **Art and Design Foundation Program G108**:
     * **Semester 1**:
-      * [In Queue] **ART1019	Foundation Drawing I: Observational Drawing and Composition**:
-      * [In Queue] **ART1020	Foundation Design I: Form and Space**:
-      * [In Queue] **ART1029	Introduction to Digital Media**:
-      * [In Queue] **ART1030	Introduction to Photography**:
-      * [In Queue] **ART1031	Art Culture**:
-      * [In Queue] **COMM1007	College English**:
+      * [In Queue] **ART1019	Foundation Drawing I: Observational Drawing and Composition**: Foundation Drawing 1 is an introduction to drawing, in both realistic and interpretive modes. Students complete projects to develop their comprehension of basic drawing principles. Topics including line, value, texture, basic perspective, negative space, composition and eye movement are explored through in class exercises, location drawings and homework drawings. Students learn to use the design process by generating thumbnail layouts, roughs, surface studies, comprehensives, and rendering drawings for presentation.
+      * [In Queue] **ART1020	Foundation Design I: Form and Space**: Students are introduced to all aspects of design including the procedures, principles, and elements of design, and the conceptual thought processes involved in design. Students learn about design through an exploration of the basic fundamentals of design, carefully selected visuals, and specific projects that provide exposure to a variety of ideas, techniques and media.
+      * [In Queue] **ART1029	Introduction to Digital Media**: Students apply the elements and principles of design using digital tools to generate visual responses to a range of increasingly complex visualization challenges. Students learn basic archiving methods, and industry standard illustration and visualization software. Students conceptualize, and illustrate abstract and representational compositions such as icons, brand identities and characters and render them in 2D and 3D contexts. Students practice meta-cognitive reflection on their learning by utilizing a community platform to document, share and provide feedback on one another's work.
+      * [In Queue] **ART1030	Introduction to Photography**: This course introduces students to the art of digital photography. Through lectures, presentations, demonstrations, a field trip and assignments, students learn the fundamentals of image capture, editing and output using a digital SLR camera, Adobe Photoshop and Adobe Photoshop Lightroom. Students investigate the elements and principles of visual design and the concepts of composition in the application of photography. Studio skills and a variety of digital imaging techniques are explored.
+      * [In Queue] **ART1031	Art Culture**: Students are exposed to theories about the ways in which art serves the state, society, the self and the human spirit—from early cave paintings to the present day. This course has two distinct parts: a lecture component and an assignment component. Lectures consist of one weekly topical lecture or field trip to a local museum or art gallery. Assignments include visual projects and written documents.
+      * [In Queue] **COMM1007	College English**: College English is George Brown College's required course in communication and a prerequisite for advanced COMM courses. The focus is on learning to communicate clearly and strategically, and to analyze information critically. Students will learn and apply critical thinking and research skills to the communication process in order to create clear, logical, audience-appropriate, and purposeful works. Students will also learn and implement self-editing and revision techniques throughout the semester. This course offers students the opportunity to engage with a range of meaningful topics and issues that are reflective of our diverse student body and community.
     * **Semester 2**:
-      * [In Queue] **ART1021	Foundation Design II: Colour Theory and Practice**:
-      * [In Queue] **ART1036	Art and Design Portfolio Showcase**:
-      * [In Queue] **DESN1020	Design Process**:
-      * [In Queue] **ART1024	Foundation Drawing II: Life Drawing**:
-      * [In Queue] **ART1040	Painting and Mixed Media Studio**:
-      * [In Queue] **ART1025	3D Materials and Techniques**:
-      * [In Queue] **ART1035	Digital Media: Design Tools & Processes**:
-      * [In Queue] **ART1033	Multimedia Storytelling**:
-      * [In Queue] **ART1043	Photography: People, Concepts and Stories**:
-      * [In Queue] **DESN1084	2D Digital Art I**:
+      * [In Queue] **ART1021	Foundation Design II: Colour Theory and Practice**: Students are introduced to the basic fundamentals of colour. Concepts and theories including visual creativity and process are explored. Students produce practical hands-on projects using a variety of analog and digital techniques that incorporate colour, and coulour interactions. In groups, students research and present the use of colour theories and practices in the works of prominent artists, designers and art and design movements.
+      * [In Queue] **ART1036	Art and Design Portfolio Showcase**: Art and Design Portfolio Showcase features professional practices and academic pathways from various design and art disciplines such as: fine arts, photography, graphic design, web design, industrial design, game design, and advertising. Students explore the aesthetic sensibilities, motivations and inspiration of what makes artistic careers tick. Through research and analysis, students are challenged to explore new ideas and concepts, apply investigative skills and partake in the creative process with the objective of developing their personal visual identity and academic portfolio.
+      * [In Queue] **DESN1020	Design Process**: Students will investigate the creative problem-solving process as it relates to visual communication. Projects challenge students to solve abstract visual problems and explore perceptions and concepts of visual creativity, with exposure to a variety of ideas and approaches. Research and investigative phases of the creative process and professional presentation techniques will be emphasized.
+      * [In Queue] **ART1024	Foundation Drawing II: Life Drawing**: This course introduces students to drawing the figure. Building and expanding on the principles and concepts studied in semester one, students learn new ways of seeing and drawing. These include gesture, perspective (foreshortening), contour, value, composition, proportion, shape, mass and tone. Emphasis is placed on mastering the fundamentals of drawing accuracy so that students can achieve high levels in realistic representation.
+      * [In Queue] **ART1040	Painting and Mixed Media Studio**: Through a series of individual and group projects, students creatively develop concepts and communicate ideas, using various forms of self-expression and contemporary practices of painting methods and mixed media techniques including collage and assemblage while demonstrating research skills as well as visual and critical thinking. Students explore new pictorial strategies through practice by building on their knowledge of elements of design and colour relationships, principles of design and materiality combined with the acquisition of a critical awareness of social, cultural and historical issues that aim to create meaningful forms within a global context.
+      * [In Queue] **ART1025	3D Materials and Techniques**: Foundation Materials examines the transformation into 3-D objects by utilizing natural and human-made materials. Students explore the creative process by producing hands-on projects by using a variety of ideas and approaches that incorporate materials and finishes in a workshop setting. The course emphasizes discovery and invention.
+      * [In Queue] **ART1035	Digital Media: Design Tools & Processes**: Through lectures, research, demonstrations and hands-on production, students integrate visual concepts to explore the principles of composition, colour combinations, layout and typography in graphic design projects. In this course, students explore the advanced functions of the graphic design software tools and features of the Adobe Suite programs and their use to produce design works such as logos, posters, magazine spreads and book covers. Desktop preparation techniques are implemented for a high-quality production of the final design work.
+      * [In Queue] **ART1033	Multimedia Storytelling**: This course focuses on storytelling using digital tools and workflows with a view to promoting habits of work that prepare the student for constructing a powerful and persuasive personal narrative that will form the basis of their online digital brand and identity. The construction of this brand identity will be enhanced through the use of a combination of audio, video, images and conventional text and these assets will help to form the basis of the student?s digital portfolio. The course also explores the role of mobile platforms and applications for the creation and consumption of content.
+      * [In Queue] **ART1043	Photography: People, Concepts and Stories**: In this advanced level course, students expand their technical and conceptual knowledge of digital photography through lectures, hands-on projects, field trips, workshops and events. Inspired by the life and work of prominent artists and photographers, students build creative ideas and develop stories based on observation, research and experimentation in a variety of settings and lighting conditions. Use of human figure and portrait shoot while capturing people's everyday life activities are combined with advanced studio and technical skills within a constructive critical learning environment.
+      * [In Queue] **DESN1084	2D Digital Art I**: 2D Digital Art I introduces students to the concepts, terminology and software used in 2D Game Development. Topics include: image scanning and editing, image manipulation, layout. Through in-class demonstrations, assignments and projects integrating the use of bitmap and vector-based applications, students gain a competent working knowledge of the process of creating game-ready digital art. These skills are also useful for creating a portfolio, for presenting assignments in other courses and as a basis for further study of more advanced digital design techniques in computer-aided design and artistic production.
   * [In Queue] **Construction Techniques Program (T176)**:
     * **Semester 1**:
-      * [In Queue] **BLDG 1124	Electrical Trade Theory**:
-      * [In Queue] **BLDG 1125	Introduction to Electrical – Code and Prints**:
-      * [In Queue] **BLDG 1121	Electrical Trade Shop**:
-      * [In Queue] **BLDG 1122	Technical Drawing**:
-      * [In Queue] **BLDG 1123	Millwrighting Trade Shop**:
-      * [In Queue] **COMM 1007	College English**:
+      * [In Queue] **BLDG 1124	Electrical Trade Theory**: [Description Not Available]
+      * [In Queue] **BLDG 1125	Introduction to Electrical – Code and Prints**: [Description Not Available]
+      * [In Queue] **BLDG 1121	Electrical Trade Shop**: [Description Not Available]
+      * [In Queue] **BLDG 1122	Technical Drawing**: [Description Not Available]
+      * [In Queue] **BLDG 1123	Millwrighting Trade Shop**: [Description Not Available]
+      * [In Queue] **COMM 1007	College English**: College English is George Brown College's required course in communication and a prerequisite for advanced COMM courses. The focus is on learning to communicate clearly and strategically, and to analyze information critically. Students will learn and apply critical thinking and research skills to the communication process in order to create clear, logical, audience-appropriate, and purposeful works. Students will also learn and implement self-editing and revision techniques throughout the semester. This course offers students the opportunity to engage with a range of meaningful topics and issues that are reflective of our diverse student body and community.
     * **Semester 2**:
-      * [In Queue] **BLDG 1132	Carpentry Trade Theory**:
-      * [In Queue] **BLDG 1133	Carpentry Trade Shop**:
-      * [In Queue] **BLDG 1134	Trade Calculations**:
-      * [In Queue] **BLDG 1135	Refrigeration Trade Theory**:
-      * [In Queue] **BLDG 1137	Sheet Metal Trade Theory**:
-      * [In Queue] **BLDG 1138	Refrigeration Trade Shop**:
-      * [In Queue] **BLDG 1139	Sheet Metal Trade Shop**:
-      * [In Queue] **GNED	General Education Elective**:
+      * [In Queue] **BLDG 1132	Carpentry Trade Theory**: [Description Not Available]
+      * [In Queue] **BLDG 1133	Carpentry Trade Shop**: [Description Not Available]
+      * [In Queue] **BLDG 1134	Trade Calculations**: [Description Not Available]
+      * [In Queue] **BLDG 1135	Refrigeration Trade Theory**: [Description Not Available]
+      * [In Queue] **BLDG 1137	Sheet Metal Trade Theory**: [Description Not Available]
+      * [In Queue] **BLDG 1138	Refrigeration Trade Shop**: [Description Not Available]
+      * [In Queue] **BLDG 1139	Sheet Metal Trade Shop**: [Description Not Available]
+      * [In Queue] **GNED	General Education Elective**: [Description Not Available]
     * **Semester 3**:
-      * [In Queue] **BLDG 1110	Welding Trade Theory**:
-      * [In Queue] **BLDG 1111	Welding Trade Shop**:
-      * [In Queue] **BLDG 1112	Plumbing Trade Theory**:
-      * [In Queue] **BLDG 1113	Plumbing Trade Shop**:
-      * [In Queue] **BLDG 1114	Trade Documentation**:
-      * [In Queue] **GNED	General Education Elective**:
+      * [In Queue] **BLDG 1110	Welding Trade Theory**: [Description Not Available]
+      * [In Queue] **BLDG 1111	Welding Trade Shop**: [Description Not Available]
+      * [In Queue] **BLDG 1112	Plumbing Trade Theory**: [Description Not Available]
+      * [In Queue] **BLDG 1113	Plumbing Trade Shop**: [Description Not Available]
+      * [In Queue] **BLDG 1114	Trade Documentation**: [Description Not Available]
+      * [In Queue] **GNED	General Education Elective**: [Description Not Available]
   * [In Queue] **Plumbing Techniques (T165)**:
     * **Semester 1**:
-      * [In Queue] **BLDG 1112	Plumbing Trade Theory**:
-      * [In Queue] **BLDG 1113	Plumbing Trade Shop**:
-      * [In Queue] **BLDG 1114	Trade Documentation**:
-      * [In Queue] **BLDG 1110	Welding Trade Theory**:
-      * [In Queue] **BLDG 1111	Welding Trade Shop**:
-      * [In Queue] **COMM 1007	College English**:
+      * [In Queue] **BLDG 1112	Plumbing Trade Theory**: [Description Not Available]
+      * [In Queue] **BLDG 1113	Plumbing Trade Shop**: [Description Not Available]
+      * [In Queue] **BLDG 1114	Trade Documentation**: [Description Not Available]
+      * [In Queue] **BLDG 1110	Welding Trade Theory**: [Description Not Available]
+      * [In Queue] **BLDG 1111	Welding Trade Shop**: [Description Not Available]
+      * [In Queue] **COMM 1007	College English**: College English is George Brown College's required course in communication and a prerequisite for advanced COMM courses. The focus is on learning to communicate clearly and strategically, and to analyze information critically. Students will learn and apply critical thinking and research skills to the communication process in order to create clear, logical, audience-appropriate, and purposeful works. Students will also learn and implement self-editing and revision techniques throughout the semester. This course offers students the opportunity to engage with a range of meaningful topics and issues that are reflective of our diverse student body and community.
     * **Semester 2**:
-      * [In Queue] **BLDG 1115	Safety, Hoisting and Rigging**:
-      * [In Queue] **BLDG 1116	Plumbing Theory**:
-      * [In Queue] **BLDG 1117	Plumbing Practical Techniques**:
-      * [In Queue] **BLDG 1118	Plumbing Math**:
-      * [In Queue] **BLDG 1119	Blueprints and Graphic Communication**:
-      * [In Queue] **GNED	General Education Elective**:
+      * [In Queue] **BLDG 1115	Safety, Hoisting and Rigging**: [Description Not Available]
+      * [In Queue] **BLDG 1116	Plumbing Theory**: [Description Not Available]
+      * [In Queue] **BLDG 1117	Plumbing Practical Techniques**: [Description Not Available]
+      * [In Queue] **BLDG 1118	Plumbing Math**: [Description Not Available]
+      * [In Queue] **BLDG 1119	Blueprints and Graphic Communication**: [Description Not Available]
+      * [In Queue] **GNED	General Education Elective**: [Description Not Available]
   * [In Queue] **Welding Techniques (T166)**:
     * **Semester 1**:
-      * [In Queue] **WELD 1010	Blueprint Reading and Production for Welders**:
-      * [In Queue] **WELD 1011	Mathematics for Welders**:
-      * [In Queue] **WELD 1012	Shielded Metal Arc Welding I**:
-      * [In Queue] **WELD 1013	Gas Metal Arc Welding I**:
-      * [In Queue] **WELD 1014	Bronze Welding, Oxyfuel Cutting and Plasma Arc Cutting**:
-      * [In Queue] **WELD 1015	Metallurgy for Welders I**:
-      * [In Queue] **COMM 1007	College English**:
+      * [In Queue] **WELD 1010	Blueprint Reading and Production for Welders**: [Description Not Available]
+      * [In Queue] **WELD 1011	Mathematics for Welders**: [Description Not Available]
+      * [In Queue] **WELD 1012	Shielded Metal Arc Welding I**: [Description Not Available]
+      * [In Queue] **WELD 1013	Gas Metal Arc Welding I**: [Description Not Available]
+      * [In Queue] **WELD 1014	Bronze Welding, Oxyfuel Cutting and Plasma Arc Cutting**: [Description Not Available]
+      * [In Queue] **WELD 1015	Metallurgy for Welders I**: [Description Not Available]
+      * [In Queue] **COMM 1007	College English**: College English is George Brown College's required course in communication and a prerequisite for advanced COMM courses. The focus is on learning to communicate clearly and strategically, and to analyze information critically. Students will learn and apply critical thinking and research skills to the communication process in order to create clear, logical, audience-appropriate, and purposeful works. Students will also learn and implement self-editing and revision techniques throughout the semester. This course offers students the opportunity to engage with a range of meaningful topics and issues that are reflective of our diverse student body and community.
     * **Semester 2**:
-      * [In Queue] **WELD 1112	Shielded Metal Arc Welding II**:
-      * [In Queue] **WELD 1113	Gas Metal Arc Welding II**:
-      * [In Queue] **WELD 1114	Gas Tungsten Welding**:
-      * [In Queue] **WELD 1115	Metallurgy for Welders II**:
-      * [In Queue] **WELD 1116	Fabrication**:
-      * [In Queue] **PORT 1001	Portfolio**:
-      * [In Queue] **WELD 1118	CAD for Welders**:
-      * [In Queue] **GNED	General Education Elective**:
+      * [In Queue] **WELD 1112	Shielded Metal Arc Welding II**: [Description Not Available]
+      * [In Queue] **WELD 1113	Gas Metal Arc Welding II**: [Description Not Available]
+      * [In Queue] **WELD 1114	Gas Tungsten Welding**: [Description Not Available]
+      * [In Queue] **WELD 1115	Metallurgy for Welders II**: [Description Not Available]
+      * [In Queue] **WELD 1116	Fabrication**: [Description Not Available]
+      * [In Queue] **PORT 1001	Portfolio**: In this course, students produce documents for presentation to prospective employers, including a high impact resume and cover letter, and a professional portfolio. Additionally, students develop interview techniques relevant to industry expectations and participate in mock interviews. Students also participate in discussions about key workplace topics, including job search strategies, networking, interview skills, and social media.
+      * [In Queue] **WELD 1118	CAD for Welders**: [Description Not Available]
+      * [In Queue] **GNED	General Education Elective**: [Description Not Available]
   * [In Queue] **Electrical Techniques (T167)**:
     * **Semester 1**:
-      * [In Queue] **ELCL 1047	Residential Prints and Electrical Safety Code 1**:
-      * [In Queue] **ELCL 1048	Electrical Installation Methods 1**:
-      * [In Queue] **ELCL 1049	Electrical Theory 1**:
-      * [In Queue] **ELCL 1050	Instrumentation 1**:
-      * [In Queue] **ELCL 1051	Electrical and Workplace Safety**:
-      * [In Queue] **COMM1007	College English**:
+      * [In Queue] **ELCL 1047	Residential Prints and Electrical Safety Code 1**: [Description Not Available]
+      * [In Queue] **ELCL 1048	Electrical Installation Methods 1**: [Description Not Available]
+      * [In Queue] **ELCL 1049	Electrical Theory 1**: [Description Not Available]
+      * [In Queue] **ELCL 1050	Instrumentation 1**: [Description Not Available]
+      * [In Queue] **ELCL 1051	Electrical and Workplace Safety**: [Description Not Available]
+      * [In Queue] **COMM1007	College English**: College English is George Brown College's required course in communication and a prerequisite for advanced COMM courses. The focus is on learning to communicate clearly and strategically, and to analyze information critically. Students will learn and apply critical thinking and research skills to the communication process in order to create clear, logical, audience-appropriate, and purposeful works. Students will also learn and implement self-editing and revision techniques throughout the semester. This course offers students the opportunity to engage with a range of meaningful topics and issues that are reflective of our diverse student body and community.
     * **Semester 2**:
-      * [In Queue] **ELCL 1057	Residential Prints and Electrical Safety Code 2**:
-      * [In Queue] **ELCL 1058	Electrical Installation Methods 2**:
-      * [In Queue] **ELCL 1059	Electrical Theory 2**:
-      * [In Queue] **ELCL 1060	Instrumentation 2**:
-      * [In Queue] **ELCL 1061	Electronics**:
-      * [In Queue] **GNED	General Education Elective**:
+      * [In Queue] **ELCL 1057	Residential Prints and Electrical Safety Code 2**: [Description Not Available]
+      * [In Queue] **ELCL 1058	Electrical Installation Methods 2**: [Description Not Available]
+      * [In Queue] **ELCL 1059	Electrical Theory 2**: [Description Not Available]
+      * [In Queue] **ELCL 1060	Instrumentation 2**: [Description Not Available]
+      * [In Queue] **ELCL 1061	Electronics**: [Description Not Available]
+      * [In Queue] **GNED	General Education Elective**: [Description Not Available]
 <a name="academics"/>
 
 ### Academic Development History and Pursuits
