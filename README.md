@@ -94,7 +94,7 @@ Personality traits are defined as habitual patterns of emotions, thoughts, and b
 __________
 **Note**: 'In Queue' refers to activities that are yet to be undertaken. Some of these activities may require acceptance into an educational program and/or a professional role within an organization.
 
-Below, you will find an outline of my personal, academic, and professional development history and (current and future) pursuits. The purpose of these sections is to provide readers with an overview of my self-development journey so that readers can better understand my domains of competencies and avenues for collaborations on prospective projects. My hope is that readers may also draw ideas/inspirations for their self-development journey as they puruse through my self-development journey.
+Below, you will find an outline of my personal, academic, and professional development history and (current and future) pursuits. The purpose of these sections is to provide readers with an overview of my self-development journey so that readers can better understand my domains of competencies and avenues for collaborations on prospective projects. My hope is that readers may also draw ideas/inspirations for their self-development journey as they examine my self-development journey.
 
 <a name="personal"/>
 
@@ -256,7 +256,8 @@ The following academic development history and pursuits section outlines my area
 I have primarily focused on developing my expertise in: theoretical and applied [mathematics](#mathematics); theoretical, applied, and experimental [physics](#physics); theoretical and applied [computer science](#computer-science); theoretical and applied [economics](#economics); theoretical and applied [chemistry](#chemistry); and theoretical and applied [statistics](#statistics). My interest in the domains of mathematics (i.e. mathematics, statistics, and computer science) and the natural sciences (i.e. physics and chemistry) stems from my desire to develop a broad, deep, and rigorous understanding of the nature of logical reasoning, abstract thinking, geometric intuition, physical intuition, and pattern recognition to better navigate the complexities of reality in an efficient and effective manner. Moreover, in general, I hope to actualize my fluid intelligence's potential. My interest in the domains of the social sciences (i.e. economics) stems from my desire to develop a broad, deep, and rigorous understanding of the nature of the how and why economies (i.e. various modes of value transactions) function the way that they do. 
 Moreover, I hope to leverage my understanding of these domains in various practitioner roles (e.g. software engineer, data scientist, product designer, product manager, entrepreneur, physician-scientist, etc. roles) and theoretician roles (i.e. mathematical physicist roles in industrial research and development departments, academic institutions, etc.) that I aspire to be in over the span of my lifetime.
 
-Note that I have not listed some graudate courses that I plan to take in the future since I am not sure of when those courses will be taken.
+Note that I have not listed some graudate courses that I plan to take in the future since I am not sure of when those courses will be taken. Additionally, many of the non-cross-listed undergraudate courses in mathematics and physics that I have or will be taking are accelerated courses that cover content that would normally be covered in graduate courses at other universities, which is why some of those courses are viewed as exclusion courses for their graduate-level counterparts.
+
 * **Trinity College, University of Toronto**:  <a name="utoronto"/>
   * **Degree**: Honours Bachelor of Science Degree
   * **Fields Of Study**: 
@@ -553,7 +554,7 @@ I have primarily focused on developing my expertise in: web and mobile developme
   * **Certificate Programs**:
     * Coming Soon
 * **George Brown College**: <a name="george-brown"/>
-  * [In Queue] **Electronics Technician Program (Distance Education) T901**:
+  * [In Queue] **Electronics Technician Program (Distance Education) T901**: This program focuses on the skills needed to assemble, install, troubleshoot and repair electronic equipment used by consumers, businesses and industry. Students learn electronics theory and how to work with circuits and the various components of electronic systems such as capacitors, resistors, semiconductors and amplifiers. The focus is on a broad understanding of the field that students can then apply to specific areas of interest or employment.
     * [In Queue] **ELNC 9034	Introduction to Electronics**:
     * [In Queue] **ELCL 9049	Current, Voltage and Resistance**:
     * [In Queue] **ELCL 9050	Ohm’s Law, Power and Energy**:
@@ -578,7 +579,7 @@ I have primarily focused on developing my expertise in: web and mobile developme
     * [In Queue] **ELNC 9028	Integrated Circuits**:
     * [In Queue] **ELNC 9035	Digital Electronics**:
     * [In Queue] **ELCL 9091	Microprocessors**:
-  * [In Queue] **Electromechanical Technician Program (Distance Education) T902**:
+  * [In Queue] **Electromechanical Technician Program (Distance Education) T902**: The Electromechanical Technician Certificate program provides a complete introduction to electronics and electromechanical systems. This program is often of interest to people who want to study electronics with an emphasis on mechanical systems, for example someone coming from a millwright background. The program covers mechanical topics outside of a typical electronics program, like industrial control devices, DC and AC motors and control circuits, transformers, analog and digital transducers, industrial process control and PLCs.
     * [In Queue] **ELNC 9034	Introduction to Electronics**:
     * [In Queue] **ELCL 9049	Current, Voltage and Resistance**:
     * [In Queue] **ELCL 9050	Ohm’s Law, Power and Energy**:
@@ -603,7 +604,7 @@ I have primarily focused on developing my expertise in: web and mobile developme
     * [In Queue] **ELNC 9028	Integrated Circuits**:
     * [In Queue] **ELNC 9035	Digital Electronics**:
     * [In Queue] **ELNC 9054	Programmable Logic Controllers**:
-  * [In Queue] **Robotics Technician Program (Distance Education) T948**:
+  * [In Queue] **Robotics Technician Program (Distance Education) T948**: Complete this comprehensive Robotics Technician training program using an interactive learning package. This certificate program introduces the concepts of industrial robots and explains how they are used in a plant or manufacturing system. The primary focus of the program is on automated manufacturing processes, as well as the role of robots and their support equipment. Receive instruction in both theoretical concepts and laboratory exercises using a combination of multimedia learning resources and a robotics simulation software package.
     * [In Queue] **ELNC9101	Introduction to Robotics**:
     * [In Queue] **ELNC9103	Robot Classifications**:
     * [In Queue] **ELNC9108	Manipulators and End Effectors**:
@@ -618,7 +619,7 @@ I have primarily focused on developing my expertise in: web and mobile developme
     * [In Queue] **ELNC9109	Applications**:
     * [In Queue] **ELNC9104	Artificial Intelligence**:
     * [In Queue] **ELNC9121	Autonomous Robots**:
-  * [In Queue] **Programmable Logic Controllers (PLC) Technician Program (Distance Education) T903**:
+  * [In Queue] **Programmable Logic Controllers (PLC) Technician Program (Distance Education) T903**: The Programmable Logic Controllers Technician (PLC) Certificate program provides the basic technical skills and knowledge necessary to work with programmable logic control systems found typically in an industrial/manufacturing environment. The program covers the operation of various PLC control systems including both discrete and analog control devices. The simulation software, PLCLogix 500, that is included with the program, simulates the Rockwell Logix 500 series of PLCs.
     * [In Queue] **ELNC 9071	Overview of PLCs**:
     * [In Queue] **ELNC 9072	Central Processing Unit**:
     * [In Queue] **ELNC 9073	I/O System**:
@@ -638,7 +639,7 @@ I have primarily focused on developing my expertise in: web and mobile developme
     * [In Queue] **ELNC 9087	Digital Logic**:
     * [In Queue] **ELNC 9120	RTUs and PACs**:
     * [In Queue] **ELNC 9116	Introduction to Automation**:
-  * [In Queue] **Programmable Logic Controllers (PLC) Technician II Program (Distance Education) T949**:
+  * [In Queue] **Programmable Logic Controllers (PLC) Technician II Program (Distance Education) T949**: The PLC Technician II Certificate program introduces the theory behind Programmable Logic Controllers, while maintaining an emphasis on the application of PLCs in plant and manufacturing systems. The PLC Technician II provides a more advanced study of PLCs in manufacturing including DCS & SCADA systems. The PLCLogix 5000 simulator integrated within in the program emulates the Rockwell 5000 series PLC control software and features 3D simulation and advanced programming.
     * [In Queue] **ELNC 9127	Introduction to Advanced PLCs**:
     * [In Queue] **ELNC 9094	PLC Processors**:
     * [In Queue] **ELNC 9073	I/O System**:
@@ -726,44 +727,44 @@ I have primarily focused on developing my expertise in: web and mobile developme
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaspreetKhela)](https://github.com/JaspreetKhela/github-readme-stats)
 
 Here are my favourite languages in order of preference:
-* JavaScript
-* Python
-* Java
-* C#
-* C/C++
+* **Full-Stack Web Applications**: JavaScript
+* **Data Analysis and Science**: Python
+* **Enterprise Software Development**: Java
+* **Hardware Development**: C/C++
 
 <a name="technologies"/>
 
 ### Software Development Technologies
-* **Front-End**:
-  * **Development**:
-    * HTML
-    * CSS
-    * Bootstrap CSS Framework
-    * JavaScript
-  * **Deployment**:
-    * GitHub Pages
-    * Heroku
-* **Back-End**:
-  * **Server**:
-    * Node.js
-    * Express.js ('express' npm Package)
-  * **Database**:
-    * MySQL ('mysql2' npm Package)
-    * Sequelize Object-relational Mapper (ORM) ('sequelize' npm Package)
-    * MongoDB ('mongdb' npm Package)
-    * Mongoose ODM ('mongoose' npm package)
-    * MongoDB Atlas
-    * GraphQL ('graphql' npm Package)
-  * **Webpage Rendering Engine**:
-    * Handlebars.js ('express-handlebars' npm Package)
-    * React ('react' npm Package)
-  * **Security**:
-    * bcrypt ('bcrypt' npm Package)
-    * dotenv ('dotenv' npm Package)
-    * JSON Web Tokens (JWT) ('jsonwebtoken' npm Package)
-  * **Financial Transactions**:
-    * Stripe ('stripe' npm Package)
+* **Full-Stack Web Development**:
+  * **Front-End**:
+    * **Development**:
+      * HTML
+      * CSS
+      * Bootstrap CSS Framework
+      * JavaScript
+    * **Deployment**:
+      * GitHub Pages
+      * Heroku
+  * **Back-End**:
+    * **Server**:
+      * Node.js
+      * Express.js ('express' npm Package)
+    * **Database**:
+      * MySQL ('mysql2' npm Package)
+      * Sequelize Object-relational Mapper (ORM) ('sequelize' npm Package)
+      * MongoDB ('mongdb' npm Package)
+      * Mongoose ODM ('mongoose' npm package)
+      * MongoDB Atlas
+      * GraphQL ('graphql' npm Package)
+    * **Webpage Rendering Engine**:
+      * Handlebars.js ('express-handlebars' npm Package)
+      * React ('react' npm Package)
+    * **Security**:
+      * bcrypt ('bcrypt' npm Package)
+      * dotenv ('dotenv' npm Package)
+      * JSON Web Tokens (JWT) ('jsonwebtoken' npm Package)
+    * **Financial Transactions**:
+      * Stripe ('stripe' npm Package)
 
 <a name="repositories"/>
 
