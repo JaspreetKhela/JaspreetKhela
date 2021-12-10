@@ -92,13 +92,19 @@ Personality traits are defined as habitual patterns of emotions, thoughts, and b
 - **Hard Skills**: Quantitative Analysis, Multimedia Production
 - **Soft Skills**: Critical Thinking, Communication
 __________
+**Note**: 'In Queue' refers to activities that are yet to be undertaken. Some of these activities may require acceptance into an educational program and/or a professional role within an organization.
+
+Below, you will find an outline of my personal, academic, and professional development history and (current and future) pursuits. The purpose of these sections is to provide readers with an overview of my self-development journey so that readers can better understand my domains of competencies and avenues for collaborations on prospective projects. My hope is that readers may also draw ideas/inspirations for their self-development journey as they puruse through my self-development journey.
+
 <a name="personal"/>
 
 ### Personal Development History and Pursuits
 The following personal development history and pursuits section outlines the non-academic and non-professional pursuits that I have embarked upon or will embark upon over the span of my adulthood. 
-I have primarily focused on developing my expertise in the arts and humanities, mixed martial arts, and the skilled trades. My interest in the arts and humanities stems from my desire to develop a broad, deep, and rigorous understanding of the culinary arts, baking and pastry arts, storytelling, analog and digital static and dynamic design materials and techniques (i.e. music performance and production, illustration, graphic design, animation, photography, and film production materials and techniques), theatre arts, dance performance, and art culture. My interest in mixed martial arts stems from my desire to develop a broad and deep understanding of the mindset and mechanics of an individual dealing with physical interpersonal conflicts. My interest in the skilled trades stems from my desire to develop a broad and deep understanding of the building blocks of the physical world through studying construction, plumbing, electrical, and welding techniques.
+I have primarily focused on developing my expertise in the arts and humanities, combat training, and the skilled trades. My interest in the arts and humanities stems from my desire to develop a broad, deep, and rigorous understanding of the culinary arts, baking and pastry arts, storytelling, analog and digital static and dynamic design materials and techniques (i.e. music performance and production, illustration, graphic design, animation, photography, and film production materials and techniques), theatre arts, dance performance, and art culture. My interest in combat training stems from my desire to develop a broad and deep understanding of the mindset and mechanics of an individual dealing with physical interpersonal conflicts. My interest in the skilled trades stems from my desire to develop a broad and deep understanding of the building blocks of the physical world through studying construction, plumbing, electrical, and welding techniques.
+
+**Arts and Humanities**:
 * **George Brown College**:
-  * [In Queue] **Culinary Management Program (Integrated Learning) H116**:
+  * [In Queue] **Culinary Management Program (Integrated Learning) H116**: The secret to great cooking is passion! Located in the heart of downtown Toronto, George Brown puts you at the centre of the culinary industry in Canada. This innovative Culinary Management (Integrated Learning) program takes an integrated experiential approach to learning, with industry placement, in-school studies, online and self-study learning. It was created to meet the immediate culinary industry need for highly skilled Culinary Management graduates with real-world kitchen experience and an understanding of important trends such as the use of local foods, nutrition and growing international influence.
     * **Semester 1**:
       * [In Queue] **CMDI 1002	Baking and Pastry for Cooks**: This course is designed to provide the Culinary Skills and Culinary Management Student with fundamental skills and techniques of baking and pastry arts, through a series of demonstrations and professor-directed laboratory classes. Each student will practice and produce a variety of baked goods and patisserie items, building a solid foundation of essential skills and knowledge required by today's industry.
       * [In Queue] **CMDI 1202	Culinary Foundations**: During this 7-week course students will build and develop fundamental culinary skills through a series of three-hour online demonstrations. Students will learn to manage their time, create action plans and review professor-curated
@@ -135,7 +141,7 @@ culminating in a case study in which they will apply lessons learned.
       * [In Queue] **CMDI 2077	Marketing (online)**: This course provides students with a fundamental understanding of marketing and its relationship to the restaurant industry. Students focus on basic marketing strategies and practices and research their application in current
 hospitality operations. The course also focuses on "in-house" marketing strategies such as attracting and keeping employees and guests, branding and internet marketing.
       * [In Queue] **GNED	General Education Elective (online)**:
-  * [In Queue] **Art and Design Foundation Program G108**:
+  * [In Queue] **Art and Design Foundation Program G108**: Art and Design Foundation is a one-year certificate program that provides students with a broad base of expert knowledge and technical skills in the field of art and design. This program is designed for students who want to explore a variety of art and design disciplines, to develop their portfolio for further study or for those who wish to enjoy learning creative skills in a studio-based environment.
     * **Semester 1**:
       * [In Queue] **ART1019	Foundation Drawing I: Observational Drawing and Composition**: Foundation Drawing 1 is an introduction to drawing, in both realistic and interpretive modes. Students complete projects to develop their comprehension of basic drawing principles. Topics including line, value, texture, basic perspective, negative space, composition and eye movement are explored through in class exercises, location drawings and homework drawings. Students learn to use the design process by generating thumbnail layouts, roughs, surface studies, comprehensives, and rendering drawings for presentation.
       * [In Queue] **ART1020	Foundation Design I: Form and Space**: Students are introduced to all aspects of design including the procedures, principles, and elements of design, and the conceptual thought processes involved in design. Students learn about design through an exploration of the basic fundamentals of design, carefully selected visuals, and specific projects that provide exposure to a variety of ideas, techniques and media.
@@ -154,7 +160,24 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
       * [In Queue] **ART1033	Multimedia Storytelling**: This course focuses on storytelling using digital tools and workflows with a view to promoting habits of work that prepare the student for constructing a powerful and persuasive personal narrative that will form the basis of their online digital brand and identity. The construction of this brand identity will be enhanced through the use of a combination of audio, video, images and conventional text and these assets will help to form the basis of the student?s digital portfolio. The course also explores the role of mobile platforms and applications for the creation and consumption of content.
       * [In Queue] **ART1043	Photography: People, Concepts and Stories**: In this advanced level course, students expand their technical and conceptual knowledge of digital photography through lectures, hands-on projects, field trips, workshops and events. Inspired by the life and work of prominent artists and photographers, students build creative ideas and develop stories based on observation, research and experimentation in a variety of settings and lighting conditions. Use of human figure and portrait shoot while capturing people's everyday life activities are combined with advanced studio and technical skills within a constructive critical learning environment.
       * [In Queue] **DESN1084	2D Digital Art I**: 2D Digital Art I introduces students to the concepts, terminology and software used in 2D Game Development. Topics include: image scanning and editing, image manipulation, layout. Through in-class demonstrations, assignments and projects integrating the use of bitmap and vector-based applications, students gain a competent working knowledge of the process of creating game-ready digital art. These skills are also useful for creating a portfolio, for presenting assignments in other courses and as a basis for further study of more advanced digital design techniques in computer-aided design and artistic production.
-  * [In Queue] **Construction Techniques Program (T176)**:
+
+**Combat Training**:
+* **Armed Training**:
+  * **Firearms Training**: [In Queue] Combat Arms role-specific training in the Canadian Armed Forces (CAF)
+  * **Combat Sports Training**:  
+    * Gatka: Intermediate level of training
+* **Unarmed Training**:
+  * **Combat Sports Training**:
+    * **Grappling Training**:
+      * [In Queue] Brazilian Jiu-Jitsu
+      * [In Queue] Wrestling
+    * **Striking Training**:
+      * [In Queue] Muay Thai
+      * [In Queue] Boxing 
+
+ **Skilled Trades**:
+ * **George Brown College**:
+  * [In Queue] **Construction Techniques Program (T176)**: Make more than a living. Build the future by entering the Trades. This Construction Techniques program is designed to provide you with choices when considering a career in the Skilled Trades sector. It exposes you to a variety of trades allowing you to determine which one interests you the most.
     * **Semester 1**:
       * [In Queue] **BLDG 1124	Electrical Trade Theory**: [Description Not Available]
       * [In Queue] **BLDG 1125	Introduction to Electrical – Code and Prints**: [Description Not Available]
@@ -178,7 +201,7 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
       * [In Queue] **BLDG 1113	Plumbing Trade Shop**: [Description Not Available]
       * [In Queue] **BLDG 1114	Trade Documentation**: [Description Not Available]
       * [In Queue] **GNED	General Education Elective**: [Description Not Available]
-  * [In Queue] **Plumbing Techniques (T165)**:
+  * [In Queue] **Plumbing Techniques (T165)**: This Plumbing Techniques program covers residential, commercial and industrial applications in the plumbing industry with a focus on residential plumbing. It is a hands-on program that may benefit anyone seeking to enter an apprenticeship or any construction-related career path.
     * **Semester 1**:
       * [In Queue] **BLDG 1112	Plumbing Trade Theory**: [Description Not Available]
       * [In Queue] **BLDG 1113	Plumbing Trade Shop**: [Description Not Available]
@@ -193,7 +216,7 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
       * [In Queue] **BLDG 1118	Plumbing Math**: [Description Not Available]
       * [In Queue] **BLDG 1119	Blueprints and Graphic Communication**: [Description Not Available]
       * [In Queue] **GNED	General Education Elective**: [Description Not Available]
-  * [In Queue] **Welding Techniques (T166)**:
+  * [In Queue] **Welding Techniques (T166)**: Welding is a high-demand trade, one that is critical for the success of many major development projects in every province across the country. The Welding Techniques program prepares students with practical, hands-on experience that applies the technical theory and elements of the welding field. Our state-of-the art welding lab includes 26 individual stations that allow students to train in a controlled environment as well as our virtual welding stations that offer students the opportunity to practise using realistic simulations. The Smart Welding Lab also provides a monitor and specialized infrared camera that lets instructors demonstrate and digitally document welding techniques.
     * **Semester 1**:
       * [In Queue] **WELD 1010	Blueprint Reading and Production for Welders**: [Description Not Available]
       * [In Queue] **WELD 1011	Mathematics for Welders**: [Description Not Available]
@@ -211,7 +234,7 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
       * [In Queue] **PORT 1001	Portfolio**: In this course, students produce documents for presentation to prospective employers, including a high impact resume and cover letter, and a professional portfolio. Additionally, students develop interview techniques relevant to industry expectations and participate in mock interviews. Students also participate in discussions about key workplace topics, including job search strategies, networking, interview skills, and social media.
       * [In Queue] **WELD 1118	CAD for Welders**: [Description Not Available]
       * [In Queue] **GNED	General Education Elective**: [Description Not Available]
-  * [In Queue] **Electrical Techniques (T167)**:
+  * [In Queue] **Electrical Techniques (T167)**: This Electrical Techniques program focuses on building a working knowledge of electricity and electronics in relation to residential and commercial electrician applications. Students will develop skills and competencies in electrical theory, network cabling, electrical system installation and electrical workplace safety.
     * **Semester 1**:
       * [In Queue] **ELCL 1047	Residential Prints and Electrical Safety Code 1**: [Description Not Available]
       * [In Queue] **ELCL 1048	Electrical Installation Methods 1**: [Description Not Available]
