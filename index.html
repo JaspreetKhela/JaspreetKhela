@@ -4,12 +4,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+
     <!-- Bootstrap CSS CDN -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
+    <!-- Linking the CSS Stylesheet -->
+    <link rel="stylesheet" href="./assets/css/style.css">
+
     <title>Jaspreet Khela</title>
 </head>
+<body class="bg-light">
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd;">
         <a class="navbar-brand" href="#">Jaspreet Khela</a>
@@ -25,11 +29,11 @@
             <a class="nav-link" href="#social-media-profiles">Social Media Profiles</a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="#contact-me">Contact Me</a>
+            <a class="nav-link" href="mailto:jaspreet.khela@gmail.com">Contact Me</a>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
             <a class="nav-link" href="#latest-posts">Latest Posts</a>
-            </li>
+            </li> -->
         </ul>
         </div>
     </nav>
@@ -37,54 +41,56 @@
     <!-- Jumbotron -->
     <div class="jumbotron jumbotron-fluid">
         <div class="container">
-          <h1 class="display-4">Jaspreet Khela's Profiles Hub</h1>
-          <p class="lead">Welcome! On this webpage, you will find general information about myself and links to my social media profiles.</p>
+          <h1 class="display-4">Jaspreet Khela's Webpages Directory</h1>
+          <br>
+          <p class="lead">Welcome! On this webpage, you will find general information about myself and links to my work-related social media profiles.</p>
+          <p class="lead #about">I am a full-stack software developer with a background in mathematics, physics, computer science, economics, statistics, finance, and chemistry.</p>
         </div>
     </div>
 
     <!-- Social Media Profile Cards -->
-    <div class="container">
+    <div class="container #social-media-profiles">
         <div class="row">
-            <div class="col">
+            <div class="col-12 col-md-3">
                 <!-- LinkedIn Profile -->
                 <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
-                    <div class="card-header">Header</div>
+                    <div class="card-header">Professional Work History</div>
                     <div class="card-body">
-                    <h5 class="card-title">Primary card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <h5 class="card-title"><a href="https://www.linkedin.com/in/jaspreetkhela/">LinkedIn Profile</a></h5>
+                        <p class="card-text">My LinkedIn profile provides a detailed overview of my academic and professional work history.</p>
                     </div>
                 </div>
             </div>
             
-            <div class="col">
+            <div class="col-12 col-md-3">
                 <!-- GitHub Profile -->
-                <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
-                    <div class="card-header">Header</div>
+                <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
+                    <div class="card-header">Technical Work</div>
                     <div class="card-body">
-                    <h5 class="card-title">Primary card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <h5 class="card-title"><a href="https://github.com/JaspreetKhela">GitHub Profile</a></h5>
+                        <p class="card-text">My GitHub profile provides a detailed overview of personal, academic, and professional development history and pursuits, including my technical work in a multitude of domains.</p>
                     </div>
                 </div>
             </div>
 
-            <div class="col">
+            <div class="col-12 col-md-3">
                 <!-- YouTube Channel -->
-                <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
-                    <div class="card-header">Header</div>
+                <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
+                    <div class="card-header">Technical Work Video Tutorials</div>
                     <div class="card-body">
-                    <h5 class="card-title">Primary card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <h5 class="card-title"><a href="https://www.youtube.com/channel/UC5ybM4pfG9mW_r5YcpmVRPg">YouTube Channel</a></h5>
+                        <p class="card-text">My YouTube channel contains video tutorials of technical skillsets primarily in software development.</p>
                     </div>
                 </div>
             </div>
 
-            <div class="col">
+            <div class="col-12 col-md-3">
                 <!-- Hashnode Blog -->
-                <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
-                    <div class="card-header">Header</div>
+                <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+                    <div class="card-header">Technical Work Blog Posts</div>
                     <div class="card-body">
-                    <h5 class="card-title">Primary card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <h5 class="card-title"><a href="https://jaspreetkhela.hashnode.dev/">Hashnode Blog</a></h5>
+                    <p class="card-text">My Hashnode profile contains blog posts regarding the trials and tribulations of learning and working on software development.</p>
                     </div>
                 </div>
             </div>
@@ -94,8 +100,6 @@
     <!-- Bootstrap JS CDN -->
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-<body>
-    
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>    
 </body>
 </html>

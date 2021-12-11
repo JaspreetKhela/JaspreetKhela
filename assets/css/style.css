@@ -1,0 +1,15 @@
+.jumbotron {
+    background-color: lightyellow;
+}
+
+.jumbotron, .card{
+    text-align: center;
+}
+
+div {
+    margin: auto;
+}
+
+a {
+    color: gold;
+}
