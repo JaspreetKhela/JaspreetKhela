@@ -102,7 +102,9 @@ Below, you will find an outline of my personal, academic, and professional devel
 
 ### Personal Development History and Pursuits
 The following personal development history and pursuits section outlines the non-academic and non-professional pursuits that I have embarked upon or will embark upon over the span of my adulthood. 
+
 I have primarily focused on developing my expertise in the arts and humanities, combat training, and the skilled trades. My interest in the arts and humanities stems from my desire to develop a broad, deep, and rigorous understanding of the culinary arts, baking and pastry arts, storytelling, analog and digital static and dynamic design materials and techniques (i.e. music performance and production, illustration, graphic design, animation, photography, and film production materials and techniques), theatre arts, dance performance, and art culture. My interest in combat training stems from my desire to develop a broad and deep understanding of the mindset and mechanics of an individual dealing with physical interpersonal conflicts. My interest in the skilled trades stems from my desire to develop a broad and deep understanding of the building blocks of the physical world through studying construction, plumbing, electrical, and welding techniques.
+
 The tail-end of this section also outlines works of literature that aid in the development of a growth and an antifragile mindset and help to facilitate a deeper understanding of the human condition.
 
 **Arts and Humanities**:
@@ -288,6 +290,7 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
 <a name="academics"/>
 
 **Mindset Literature**:
+
 The following works of literature that I have read or I am planning on reading are centred around the development of a growth and an antifragile mindset. Individuals who believe their talents can be developed (i.e. through hard work, good strategies, and input from others) have a growth mindset. They tend to achieve more than those with a more fixed mindset (i.e. those who believe their talents are innate gifts). Antifragility is defined as being resilient or adaptive in the face of extreme stressors, chaos, and disorder.
 * [In Queue] Mindset: The New Psychology By Carol Dweck
 * [In Queue] Extreme Ownership: How U.S. Navy Seals Lead And Win By Jocko Willink (Author) And Leif Babin
@@ -320,6 +323,7 @@ The following works of literature that I have read or I am planning on reading a
 * [In Queue] Disrupt You!: Master Personal Transformation, Seize Opportunity, And Thrive In The Era Of Endless Innovation By Jay Samit
 
 **Timeless Non-Fiction Literature**:
+
 The following works of literature that I have read or I am planning on reading are centered around understanding the human condition. The human condition is all of the characteristics and key events that compose the essentials of human existence, including birth, growth, emotion, aspiration, conflict, and mortality.
 * [In Queue] East of Eden by John Steinbeck
 * [In Queue] America Is in the Heart by Carlos Bulosan
@@ -422,8 +426,10 @@ The following works of literature that I have read or I am planning on reading a
 
 ### Academic Development History and Pursuits
 The following academic development history and pursuits section outlines my areas of expertise developed through my enrollment in post-secondary programs and their corresponding courses during my adulthood. 
+
 I have primarily focused on developing my expertise in: theoretical and applied [mathematics](#mathematics); theoretical, applied, and experimental [physics](#physics); theoretical and applied [computer science](#computer-science); theoretical and applied [economics](#economics); theoretical and applied [chemistry](#chemistry); and theoretical and applied [statistics](#statistics). My interest in the domains of mathematics (i.e. mathematics, statistics, and computer science) and the natural sciences (i.e. physics and chemistry) stems from my desire to develop a broad, deep, and rigorous understanding of the nature of logical reasoning, abstract thinking, geometric intuition, physical intuition, and pattern recognition to better navigate the complexities of reality in an efficient and effective manner. Moreover, in general, I hope to actualize my fluid intelligence's potential. My interest in the domains of the social sciences (i.e. economics) stems from my desire to develop a broad, deep, and rigorous understanding of the nature of the how and why economies (i.e. various modes of value transactions) function the way that they do. 
-Moreover, I hope to leverage my understanding of these domains in various practitioner roles (e.g. software engineer, data scientist, product designer, product manager, entrepreneur, physician-scientist, etc. roles) and theoretician roles (i.e. mathematical physicist roles in industrial research and development departments, academic institutions, etc.) that I aspire to be in over the span of my lifetime.
+
+Moreover, I hope to leverage my understanding of these domains in various practitioner roles (e.g. software engineer, data scientist, product designer, product manager, entrepreneur, etc. roles) and theoretician roles (i.e. mathematical physicist, physician-scientist, etc. roles in industrial research and development departments, academic institutions, etc.) that I aspire to be in over the span of my lifetime.
 
 Note that I have not listed some graudate courses that I plan to take in the future since I am not sure of when those courses will be taken. Additionally, many of the non-cross-listed undergraudate courses in mathematics and physics that I have or will be taking are accelerated courses that cover content that would normally be covered in graduate courses at other universities, which is why some of those courses are viewed as exclusion courses for their graduate-level counterparts.
 
@@ -556,6 +562,7 @@ Note that I have not listed some graudate courses that I plan to take in the fut
 
 ### Professional Development History and Pursuits
 The following professional development history and pursuits section outlines my professional pursuits that I have embarked upon or will embark upon over the span of my adulthood. 
+
 I have primarily focused on developing my expertise in: web and mobile development; data analytics and science; cybersecurity; financial technologies; user experience research and design; and digital marketing; real estate selling, brokering, and investing; corporate finance; and accounting. My interest in web and mobile development, data analytics and science, cybersecurity, financial technologies, user interface and experience research and design, and digital marketing stems from my desire to develop a broad and deep understanding of the digital technologies used to create digital products and services. My interest in the real estate domain stems from my desire to develop a broad and deep understanding of residential and commercial property leasing and ownership primarily for investment purposes. My interest in corporate finance and accounting stems from my desire to develop a broad and deep understanding of how value (i.e. money) flows throughout a start-up, a scale-up, and an enterprise organization.
 * **University of Toronto School of Continuing Studies**:
   * **Boot Camps**:
