@@ -103,6 +103,7 @@ Below, you will find an outline of my personal, academic, and professional devel
 ### Personal Development History and Pursuits
 The following personal development history and pursuits section outlines the non-academic and non-professional pursuits that I have embarked upon or will embark upon over the span of my adulthood. 
 I have primarily focused on developing my expertise in the arts and humanities, combat training, and the skilled trades. My interest in the arts and humanities stems from my desire to develop a broad, deep, and rigorous understanding of the culinary arts, baking and pastry arts, storytelling, analog and digital static and dynamic design materials and techniques (i.e. music performance and production, illustration, graphic design, animation, photography, and film production materials and techniques), theatre arts, dance performance, and art culture. My interest in combat training stems from my desire to develop a broad and deep understanding of the mindset and mechanics of an individual dealing with physical interpersonal conflicts. My interest in the skilled trades stems from my desire to develop a broad and deep understanding of the building blocks of the physical world through studying construction, plumbing, electrical, and welding techniques.
+The tail-end of this section also outlines works of literature that aid in the development of a growth and an antifragile mindset and help to facilitate a deeper understanding of the human condition.
 
 **Arts and Humanities**:
 * **George Brown College**:
@@ -164,7 +165,7 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
       * [In Queue] **DESN1084	2D Digital Art I**: 2D Digital Art I introduces students to the concepts, terminology and software used in 2D Game Development. Topics include: image scanning and editing, image manipulation, layout. Through in-class demonstrations, assignments and projects integrating the use of bitmap and vector-based applications, students gain a competent working knowledge of the process of creating game-ready digital art. These skills are also useful for creating a portfolio, for presenting assignments in other courses and as a basis for further study of more advanced digital design techniques in computer-aided design and artistic production.
 
 **Music Training**:
-* **The Royal Conservatory of Music**: 
+* **The Royal Conservatory of Music**: The Royal Conservatory is one of the largest and most respected music education institutions in the world. For more than 130 years, The Royal Conservatory has translated the latest thinking about creativity into inspiring programs benefiting millions of individuals around the world. Our mission – to develop human potential – is based on the conviction that the arts are humanity's greatest means to achieve personal growth and social cohesion.
   * [In Queue] **Royal Conservatory Certificate Program**: The Royal Conservatory Certificate Program provides a recognized national standard of musical success through an effectively sequenced course of study from beginner to advanced levels. The Program inspires excellence through individual student examinations and allows students to celebrate accomplishment and track their progress with others across the country. It also supports teachers with high-quality and innovative resources.
     * A Comprehensive Curriculum of Musical Development Encompassing:
       * Repertoire
@@ -285,6 +286,139 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
       * [In Queue] **ELCL 1061	Electronics**: [Description Not Available]
       * [In Queue] **GNED	General Education Elective**: [Description Not Available]
 <a name="academics"/>
+
+**Mindset Literature**:
+The following works of literature that I have read or I am planning on reading are centred around the development of a growth and an antifragile mindset. Individuals who believe their talents can be developed (i.e. through hard work, good strategies, and input from others) have a growth mindset. They tend to achieve more than those with a more fixed mindset (i.e. those who believe their talents are innate gifts). Antifragility is defined as being resilient or adaptive in the face of extreme stressors, chaos, and disorder.
+* [In Queue] Mindset: The New Psychology By Carol Dweck
+* [In Queue] Extreme Ownership: How U.S. Navy Seals Lead And Win By Jocko Willink (Author) And Leif Babin
+* [In Queue] Can’t Hurt Me: Master Your Mind And Defy The Odds By David Goggins
+* [In Queue] Man’s Search For Meaning By Viktor Frankl
+* [In Queue] Grit: The Power Of Passion And Perseverance By Angela Duckworth
+* [In Queue] Principles By Ray Dalio
+* [In Queue] Sometimes You Win Sometimes You Learn By John Maxwell
+* [In Queue] The Obstacle Is The Way: The Timeless Art Of Turning Trials Into Triumph By Ryan Holiday
+* [In Queue] Linchpin: Are You Indispensable? By Seth Godin
+* [In Queue] Relentless: From Good To Great To Unstoppable By Tim Grover
+* [In Queue] Start With Why: How Great Leaders Inspire Everyone To Take Action By Simon Sinek
+* [In Queue] Daring Greatly By Brene Brown
+* [In Queue] Think And Grow Rich By Napoleon Hill
+* [In Queue] The E Myth Revisited By Michael E. Gerber
+* [In Queue] Bold: How To Go Big, Create Wealth And Impact The World By P. Diamandis And S. Kotler
+* [In Queue] The Talent Code: Greatness Isn’t Born. It’s Grown. Here’s How. By Daniel Coyle
+* [In Queue] Eleven Rings: The Soul Of Success By Phil Jackson
+* [In Queue] Onward: How Starbucks Fought For Its Life Without Losing Its Soul By Howard Schultz
+* [In Queue] Leaders Eat Last By Simon Sinek
+* [In Queue] Mastery By Robert Greene
+* [In Queue] The Brain That Changes Itself By Norman Doidge
+* [In Queue] Zero To One: Notes On Start-Ups, Or How To Build The Future By Peter Thiel
+* [In Queue] Incognito: The Secret Lives Of The Brain By David Eagleman
+* [In Queue] Predictably Irrational: The Hidden Forces That Shape Our Decisions By Dan Ariely
+* [In Queue] The Power Of Myth By Joseph Campbell
+* [In Queue] Antifragile: Things That Gain From Disorder By Nassim Nicholas Taleb
+* [In Queue] The Moral Animal By Robert Wright
+* [In Queue] Phantoms In The Brain: Probing The Mysteries Of The Human Mind By V.S. Ramachandran
+* [In Queue] Disrupt You!: Master Personal Transformation, Seize Opportunity, And Thrive In The Era Of Endless Innovation By Jay Samit
+
+**Timeless Non-Fiction Literature**:
+The following works of literature that I have read or I am planning on reading are centered around understanding the human condition. The human condition is all of the characteristics and key events that compose the essentials of human existence, including birth, growth, emotion, aspiration, conflict, and mortality.
+* [In Queue] East of Eden by John Steinbeck
+* [In Queue] America Is in the Heart by Carlos Bulosan
+* [In Queue] Wuthering Heights by Emily Bronte
+* [In Queue] Little Women by Louisa May Alcott
+* [In Queue] Cane by Jean Toomer
+* [In Queue] Twelve Years a Slave by Solomon Northup
+* [In Queue] Devil on the Cross by Ngugi wa Thiong’o
+* [In Queue] Amiable with Big Teeth by Claude McKay
+* [In Queue] Dark Tales by Shirley Jackson
+* [In Queue] The Joy Luck Club by Amy Tan
+* [In Queue] The Bloody Chamber by Angela Carter
+* [In Queue] The Tale of the Heike by [?]
+* [In Queue] The River Between by Ngugi wa Thiong’o
+* [In Queue] Les Miserables by Victor Hugo
+* [In Queue] Something to Remember Me By by Saul Bellow
+* [In Queue] Narrative of the Life of Frederick Douglass, an American Slave by Frederick Douglass
+* [In Queue] On Being Different by Merle Miller
+* [In Queue] My Inventions and Other Writings by Nikola Tesla
+* [In Queue] The Beautiful and Damned by F. Scott Fitzgerald
+* [In Queue] The Adventures of Huckleberry Finn by Mark Twain
+* [In Queue] Revolutionary Suicide by Huey P. Newton
+* [In Queue] Pride and Prejudice by Jane Austen
+* [In Queue] Candide by Francois Voltaire
+* [In Queue] Lady Chatterley’s Lover by D. H. Lawrence
+* [In Queue] The Snow Leopard by Peter Matthiessen
+* [In Queue] On the Road: the Original Scroll by Jack Kerouac
+* [In Queue] Metamorphosis and Other Stories by Franz Kafka
+* [In Queue] The Pillow Book by Sei Shonagon
+* [In Queue] Under the Sea-Wind by Rachel L. Carson
+* [In Queue] Ceremony by Leslie Marmon Silko
+* [In Queue] The Haunting of Hill House by Shirley Jackson
+* [In Queue] The Odyssey by Homer
+* [In Queue] Gravity’s Rainbow by Thomas Pynchon
+* [In Queue] The Divine Comedy by Dante Alighieri
+* [In Queue] Twelve Angry Men by Reginald Rose
+* [In Queue] Jane Eyre by Charlotte Bronte
+* [In Queue] The Death of Ivan Ilyich and Other Stories by Leo Tolstoy
+* [In Queue] Kokoro by Natsume Soseki
+* [In Queue] Therese Raquin by Emile Zola
+* [In Queue] The Quiet American by Graham Greene
+* [In Queue] The Aleph and Other Stories by Jorge Luis Borges
+* [In Queue] Anna Karenina by Leo Tolstoy
+* [In Queue] East Goes West by Younghill Kang
+* [In Queue] Veinte poemas de amor y una canción desesperada by Pablo Neruda
+* [In Queue] Sixty Stories by Donald Barthelme
+* [In Queue] The Art of War by Sun Tzu and Thomas Cleary
+* [In Queue] The Hanging on Union Square by H. T. Tsiang
+* [In Queue] The Count of Monte Cristo by Alexandre Dumas
+* [In Queue] Frankenstein by Mary Shelley
+* [In Queue] Utopia by Thomas More
+* [In Queue] Lysistrata and Other Plays by Aristophanes
+* [In Queue] Dracula by Bram Stoker
+* [In Queue] Robinson Crusoe by Daniel Defoe
+* [In Queue] Alice’s Adventures in Wonderland and Through the Looking Glass by Lewis Carroll
+* [In Queue] The Last Days of Socrates by Plato
+* [In Queue] The Crucible by Arthur Miller
+* [In Queue] Middlemarch by George Eliot
+* [In Queue] The Bhagavad Gita by Anonymous
+* [In Queue] Gulliver’s Travels by Jonathan Swift
+* [In Queue] Don Quixote by Miguel De Cervantes Saavedra
+* [In Queue] Herzog by Saul Bellow
+* [In Queue] The Canterbury Tales by Geoffrey Chaucer
+* [In Queue] Pygmalion by George Bernard Shaw
+* [In Queue] Passing by Nella Larsen
+* [In Queue] The Prince by Niccolo Machiavelli
+* [In Queue] The Picture of Dorian Gray by Oscar Wilde
+* [In Queue] Great Expectations by Charles Dickens
+* [In Queue] Madame Bovary by Gustave Flaubert
+* [In Queue] Moby-Dick by Herman Melville and Coralie Bickford-Smith
+* [In Queue] Siddhartha by Hermann Hesse
+* [In Queue] One Flew Over the Cuckoo’s Nest by Ken Kesey
+* [In Queue] The Scarlet Letter by Nathaniel Hawthorne
+* [In Queue] The Tale of Genji by Murasaki Shikibu
+* [In Queue] The Communist Manifesto by Karl Marx and Friedrich Engels
+* [In Queue] Hamlet by William Shakespeare
+* [In Queue] A Room with a View by E. M. Forster
+* [In Queue] Treasure Island by Robert Louis Stevenson
+* [In Queue] Personal Memoirs by Ulysses S. Grant
+* [In Queue] The Souls of Black Folk by W. E. B. Du Bois
+* [In Queue] The Age of Innocence by Edith Wharton
+* [In Queue] Of Mice and Men by John Steinbeck
+* [In Queue] The Stonewall Reader by [?]
+* [In Queue] My Antonia by Willa Cather
+* [In Queue] Dubliners by James Joyce
+* [In Queue] The Joy Luck Club by Amy Tan
+* [In Queue] The Last of the Mohicans by James Fenimore Cooper
+* [In Queue] Fear and Trembling by Soren Kierkegaard
+* [In Queue] The Jungle by Upton Sinclair
+* [In Queue] Walden and Civil Disobedience by Henry David Thoreau
+* [In Queue] Uncle Tom’s Cabin by Harriet Beecher Stowe
+* [In Queue] The Analects by Confucius
+* [In Queue] Confessions by Augustine of Hippo
+* [In Queue] Leaves of Grass by Walt Whitman
+* [In Queue] The Epic of Gilgamesh by [?]
+* [In Queue] The Travels by Marco Polo
+* [In Queue] The Song of Roland by Anonymous
+* [In Queue] Beowulf by Anonymous
+* [In Queue] The Song of Kieu by Du Nguyen
 
 ### Academic Development History and Pursuits
 The following academic development history and pursuits section outlines my areas of expertise developed through my enrollment in post-secondary programs and their corresponding courses during my adulthood. 
