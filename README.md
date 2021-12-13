@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/80941606/136682166-eaa2e606-54ca-4215-9424-b9195e161336.gif" alt="JSK Brain Logo" width=1000/>
 </p>
 
+**Personal Webpages Directory**: https://jaspreetkhela.github.io/JaspreetKhela/
+
 ### Hi there 👋
 Welcome to my GitHub profile, which contains/will contain codebases, tutorials, and gists for my web development, Android, iOS, data analytics/science, cybersecurity, financial technologies, and user interface and experience research and design projects.
-
-**Personal Webpages Directory**: https://jaspreetkhela.github.io/JaspreetKhela/
 
 Video tutorials for these software-development areas that can be found here: [JSK X brain](https://www.youtube.com/user/JaspreetKhela). The gists corresponding to some of these tutorials can be found [here](https://gist.github.com/JaspreetKhela).
 
@@ -162,6 +162,39 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
       * [In Queue] **ART1033	Multimedia Storytelling**: This course focuses on storytelling using digital tools and workflows with a view to promoting habits of work that prepare the student for constructing a powerful and persuasive personal narrative that will form the basis of their online digital brand and identity. The construction of this brand identity will be enhanced through the use of a combination of audio, video, images and conventional text and these assets will help to form the basis of the student?s digital portfolio. The course also explores the role of mobile platforms and applications for the creation and consumption of content.
       * [In Queue] **ART1043	Photography: People, Concepts and Stories**: In this advanced level course, students expand their technical and conceptual knowledge of digital photography through lectures, hands-on projects, field trips, workshops and events. Inspired by the life and work of prominent artists and photographers, students build creative ideas and develop stories based on observation, research and experimentation in a variety of settings and lighting conditions. Use of human figure and portrait shoot while capturing people's everyday life activities are combined with advanced studio and technical skills within a constructive critical learning environment.
       * [In Queue] **DESN1084	2D Digital Art I**: 2D Digital Art I introduces students to the concepts, terminology and software used in 2D Game Development. Topics include: image scanning and editing, image manipulation, layout. Through in-class demonstrations, assignments and projects integrating the use of bitmap and vector-based applications, students gain a competent working knowledge of the process of creating game-ready digital art. These skills are also useful for creating a portfolio, for presenting assignments in other courses and as a basis for further study of more advanced digital design techniques in computer-aided design and artistic production.
+
+**Music Training**:
+* **The Royal Conservatory of Music**: 
+  * [In Queue] **Royal Conservatory Certificate Program**: The Royal Conservatory Certificate Program provides a recognized national standard of musical success through an effectively sequenced course of study from beginner to advanced levels. The Program inspires excellence through individual student examinations and allows students to celebrate accomplishment and track their progress with others across the country. It also supports teachers with high-quality and innovative resources.
+    * A Comprehensive Curriculum of Musical Development Encompassing:
+      * Repertoire
+        * Each level includes a broad selection of pieces representing a variety of styles and periods.
+        * Repertoire selections are leveled progressively in difficulty.
+        * Periodic reviews of the repertoire keep the selections fresh and innovative.
+        * Teachers and students can add favorite pieces through the Teacher's Choice and Own Choice selections.
+      * Technique
+        * Each level of technique is designed to support the demands of the repertoire for that level.
+        * Technique includes scales, chords, arpeggios, patterns, and études.
+      * Musicianship
+        * Musicianship is developed through a thoughtful and consistent approach to the development of reading and aural skills.
+        * Musicianship skills are developed in conjunction with repertoire goals and requirements.
+        * Musicianship skills give students a solid foundation for independent creative musical explorations.
+      * Musical Literacy
+        * The Certificate Program's academic subjects support students in acquiring the theoretical and historical knowledge necessary for music literacy.
+        * Theoretical levels are tied to practical (performance) levels, reinforcing concepts encountered in repertoire, technique, and musicianship studies.
+        * At-the-keyboard examinations of keyboard harmony and musicianship present students with an opportunity to develop skills in improvisation and composition.
+    * Disciplines Supported
+      * Practical Examinations
+        * Practical Examination candidates are tested on the performance of repertoire, studies and technique. Ear training and sight reading requirements help develop and reinforce solid musicianship skills.
+        * Practical Examinations are offered in the following subjects [that I plan to pursue in order of preference]:
+          * Piano
+          * Guitar
+          * Percussion
+          * Violin
+          * Voice
+          * Speech Arts and Drama
+       * Theory Examinations
+         * Theory Examinations, designed to complement practical studies, begin at the Level 5 practical level and are written in a formal classroom setting.
 
 **Combat Training**:
 * **Armed Training**:
