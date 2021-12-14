@@ -293,7 +293,7 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
 
 The following works of literature that I have read or I am planning on reading are centred around the development of a growth and an antifragile mindset. Individuals who believe their talents can be developed (i.e. through hard work, good strategies, and input from others) have a growth mindset. They tend to achieve more than those with a more fixed mindset (i.e. those who believe their talents are innate gifts). Antifragility is defined as being resilient or adaptive in the face of extreme stressors, chaos, and disorder.
 
-I will also provided links to summary notes for works of literature that I have/will read below.
+I have provided/will provide links to summary notes for works of literature that I have/will read below.
 * [In Queue] Mindset: The New Psychology By Carol Dweck
 * [In Queue] Extreme Ownership: How U.S. Navy Seals Lead And Win By Jocko Willink (Author) And Leif Babin
 * [In Queue] Can’t Hurt Me: Master Your Mind And Defy The Odds By David Goggins
@@ -328,7 +328,7 @@ I will also provided links to summary notes for works of literature that I have/
 
 The following works of literature that I have read or I am planning on reading are centered around understanding the human condition. The human condition is all of the characteristics and key events that compose the essentials of human existence, including birth, growth, emotion, aspiration, conflict, and mortality.
 
-I will also provided links to summary notes for works of literature that I have/will read below.
+I have provided/will provide links to summary notes for works of literature that I have/will read below.
 * [In Queue] East of Eden by John Steinbeck
 * [In Queue] America Is in the Heart by Carlos Bulosan
 * [In Queue] Wuthering Heights by Emily Bronte
