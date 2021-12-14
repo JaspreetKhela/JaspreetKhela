@@ -292,6 +292,8 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
 **Mindset Literature**:
 
 The following works of literature that I have read or I am planning on reading are centred around the development of a growth and an antifragile mindset. Individuals who believe their talents can be developed (i.e. through hard work, good strategies, and input from others) have a growth mindset. They tend to achieve more than those with a more fixed mindset (i.e. those who believe their talents are innate gifts). Antifragility is defined as being resilient or adaptive in the face of extreme stressors, chaos, and disorder.
+
+I will also provided links to summary notes for works of literature that I have/will read below.
 * [In Queue] Mindset: The New Psychology By Carol Dweck
 * [In Queue] Extreme Ownership: How U.S. Navy Seals Lead And Win By Jocko Willink (Author) And Leif Babin
 * [In Queue] Can’t Hurt Me: Master Your Mind And Defy The Odds By David Goggins
@@ -325,6 +327,8 @@ The following works of literature that I have read or I am planning on reading a
 **Timeless Non-Fiction Literature**:
 
 The following works of literature that I have read or I am planning on reading are centered around understanding the human condition. The human condition is all of the characteristics and key events that compose the essentials of human existence, including birth, growth, emotion, aspiration, conflict, and mortality.
+
+I will also provided links to summary notes for works of literature that I have/will read below.
 * [In Queue] East of Eden by John Steinbeck
 * [In Queue] America Is in the Heart by Carlos Bulosan
 * [In Queue] Wuthering Heights by Emily Bronte
@@ -731,110 +735,110 @@ I have primarily focused on developing my expertise in: web and mobile developme
     * Coming Soon
 * **George Brown College**: <a name="george-brown"/>
   * [In Queue] **Electronics Technician Program (Distance Education) T901**: This program focuses on the skills needed to assemble, install, troubleshoot and repair electronic equipment used by consumers, businesses and industry. Students learn electronics theory and how to work with circuits and the various components of electronic systems such as capacitors, resistors, semiconductors and amplifiers. The focus is on a broad understanding of the field that students can then apply to specific areas of interest or employment.
-    * [In Queue] **ELNC 9034	Introduction to Electronics**:
-    * [In Queue] **ELCL 9049	Current, Voltage and Resistance**:
-    * [In Queue] **ELCL 9050	Ohm’s Law, Power and Energy**:
-    * [In Queue] **ELCL 9048	Series Circuits**:
-    * [In Queue] **ELCL 9047	Parallel Circuits**:
-    * [In Queue] **ELCL 9046	Series-Parallel Circuits**:
-    * [In Queue] **ELNC 9036	DC Measuring Instruments**:
-    * [In Queue] **ELCL 9045	Network Theorems**:
-    * [In Queue] **ELCL 9044	Magnetism**:
-    * [In Queue] **ELCL 9043	Magnetic Circuits**:
-    * [In Queue] **ELCL 9042	Alternating Voltages and Currents**:
-    * [In Queue] **ELCL 9041	AC Measuring Instruments**:
-    * [In Queue] **ELCL 9040	Capacitance and Capacitors**:
-    * [In Queue] **ELCL 9039	Inductance and Inductors**:
-    * [In Queue] **ELNC 9033	Transformers**:
-    * [In Queue] **ELCL 9038	Alternating Current Circuits**:
-    * [In Queue] **ELNC 9032	Resonance**:
-    * [In Queue] **ELNC 9031	Coupling and Filter Circuits**:
-    * [In Queue] **ELNC 9030	Semiconductor Fundamentals**:
-    * [In Queue] **ELNC 9037	Transistors and Thyristors**:
-    * [In Queue] **ELNC 9029	Amplifier Circuits**:
-    * [In Queue] **ELNC 9028	Integrated Circuits**:
-    * [In Queue] **ELNC 9035	Digital Electronics**:
-    * [In Queue] **ELCL 9091	Microprocessors**:
+    * [In Queue] **ELNC 9034	Introduction to Electronics**: [Description Not Available]
+    * [In Queue] **ELCL 9049	Current, Voltage and Resistance**: [Description Not Available]
+    * [In Queue] **ELCL 9050	Ohm’s Law, Power and Energy**: [Description Not Available]
+    * [In Queue] **ELCL 9048	Series Circuits**: [Description Not Available]
+    * [In Queue] **ELCL 9047	Parallel Circuits**: [Description Not Available]
+    * [In Queue] **ELCL 9046	Series-Parallel Circuits**: [Description Not Available]
+    * [In Queue] **ELNC 9036	DC Measuring Instruments**: [Description Not Available]
+    * [In Queue] **ELCL 9045	Network Theorems**: [Description Not Available]
+    * [In Queue] **ELCL 9044	Magnetism**: [Description Not Available]
+    * [In Queue] **ELCL 9043	Magnetic Circuits**: [Description Not Available]
+    * [In Queue] **ELCL 9042	Alternating Voltages and Currents**: [Description Not Available]
+    * [In Queue] **ELCL 9041	AC Measuring Instruments**: [Description Not Available]
+    * [In Queue] **ELCL 9040	Capacitance and Capacitors**: [Description Not Available]
+    * [In Queue] **ELCL 9039	Inductance and Inductors**: [Description Not Available]
+    * [In Queue] **ELNC 9033	Transformers**: [Description Not Available]
+    * [In Queue] **ELCL 9038	Alternating Current Circuits**: [Description Not Available]
+    * [In Queue] **ELNC 9032	Resonance**: [Description Not Available]
+    * [In Queue] **ELNC 9031	Coupling and Filter Circuits**: [Description Not Available]
+    * [In Queue] **ELNC 9030	Semiconductor Fundamentals**: [Description Not Available]
+    * [In Queue] **ELNC 9037	Transistors and Thyristors**: [Description Not Available]
+    * [In Queue] **ELNC 9029	Amplifier Circuits**: [Description Not Available]
+    * [In Queue] **ELNC 9028	Integrated Circuits**: [Description Not Available]
+    * [In Queue] **ELNC 9035	Digital Electronics**: [Description Not Available]
+    * [In Queue] **ELCL 9091	Microprocessors**: [Description Not Available]
   * [In Queue] **Electromechanical Technician Program (Distance Education) T902**: The Electromechanical Technician Certificate program provides a complete introduction to electronics and electromechanical systems. This program is often of interest to people who want to study electronics with an emphasis on mechanical systems, for example someone coming from a millwright background. The program covers mechanical topics outside of a typical electronics program, like industrial control devices, DC and AC motors and control circuits, transformers, analog and digital transducers, industrial process control and PLCs.
-    * [In Queue] **ELNC 9034	Introduction to Electronics**:
-    * [In Queue] **ELCL 9049	Current, Voltage and Resistance**:
-    * [In Queue] **ELCL 9050	Ohm’s Law, Power and Energy**:
-    * [In Queue] **ELCL 9048	Series Circuits**:
-    * [In Queue] **ELCL 9047	Parallel Circuits**:
-    * [In Queue] **ELCL 9046	Series-Parallel Circuits**:
-    * [In Queue] **ELNC 9036	DC Measuring Instruments**:
-    * [In Queue] **ELNC 9053	Industrial Control Devices**:
-    * [In Queue] **ELCL 9044	Magnetism**:
-    * [In Queue] **ELCL 9059	DC Motors and Control Circuits**:
-    * [In Queue] **ELCL 9042	Alternating Voltages and Currents**:
-    * [In Queue] **ELCL 9041	AC Measuring Instruments**:
-    * [In Queue] **ELCL 9040	Capacitance and Capacitors**:
-    * [In Queue] **ELCL 9039	Inductance and Inductors**:
-    * [In Queue] **ELNC 9033	Transformers**:
-    * [In Queue] **ELNC 9056	AC Motors and Drives**:
-    * [In Queue] **ELCL 9060	Analog and Digital Transducers**:
-    * [In Queue] **ELNC 9055	Industrial Process Control**:
-    * [In Queue] **ELNC 9030	Semiconductor Fundamentals**:
-    * [In Queue] **ELNC 9037	Transistors and Thyristors**:
-    * [In Queue] **ELNC 9029	Amplifier Circuits**:
-    * [In Queue] **ELNC 9028	Integrated Circuits**:
-    * [In Queue] **ELNC 9035	Digital Electronics**:
-    * [In Queue] **ELNC 9054	Programmable Logic Controllers**:
+    * [In Queue] **ELNC 9034	Introduction to Electronics**: [Description Not Available]
+    * [In Queue] **ELCL 9049	Current, Voltage and Resistance**: [Description Not Available]
+    * [In Queue] **ELCL 9050	Ohm’s Law, Power and Energy**: [Description Not Available]
+    * [In Queue] **ELCL 9048	Series Circuits**: [Description Not Available]
+    * [In Queue] **ELCL 9047	Parallel Circuits**: [Description Not Available]
+    * [In Queue] **ELCL 9046	Series-Parallel Circuits**: [Description Not Available]
+    * [In Queue] **ELNC 9036	DC Measuring Instruments**: [Description Not Available]
+    * [In Queue] **ELNC 9053	Industrial Control Devices**: [Description Not Available]
+    * [In Queue] **ELCL 9044	Magnetism**: [Description Not Available]
+    * [In Queue] **ELCL 9059	DC Motors and Control Circuits**: [Description Not Available]
+    * [In Queue] **ELCL 9042	Alternating Voltages and Currents**: [Description Not Available]
+    * [In Queue] **ELCL 9041	AC Measuring Instruments**: [Description Not Available]
+    * [In Queue] **ELCL 9040	Capacitance and Capacitors**: [Description Not Available]
+    * [In Queue] **ELCL 9039	Inductance and Inductors**: [Description Not Available]
+    * [In Queue] **ELNC 9033	Transformers**: [Description Not Available]
+    * [In Queue] **ELNC 9056	AC Motors and Drives**: [Description Not Available]
+    * [In Queue] **ELCL 9060	Analog and Digital Transducers**: [Description Not Available]
+    * [In Queue] **ELNC 9055	Industrial Process Control**: [Description Not Available]
+    * [In Queue] **ELNC 9030	Semiconductor Fundamentals**: [Description Not Available]
+    * [In Queue] **ELNC 9037	Transistors and Thyristors**: [Description Not Available]
+    * [In Queue] **ELNC 9029	Amplifier Circuits**: [Description Not Available]
+    * [In Queue] **ELNC 9028	Integrated Circuits**: [Description Not Available]
+    * [In Queue] **ELNC 9035	Digital Electronics**: [Description Not Available]
+    * [In Queue] **ELNC 9054	Programmable Logic Controllers**: [Description Not Available]
   * [In Queue] **Robotics Technician Program (Distance Education) T948**: Complete this comprehensive Robotics Technician training program using an interactive learning package. This certificate program introduces the concepts of industrial robots and explains how they are used in a plant or manufacturing system. The primary focus of the program is on automated manufacturing processes, as well as the role of robots and their support equipment. Receive instruction in both theoretical concepts and laboratory exercises using a combination of multimedia learning resources and a robotics simulation software package.
-    * [In Queue] **ELNC9101	Introduction to Robotics**:
-    * [In Queue] **ELNC9103	Robot Classifications**:
-    * [In Queue] **ELNC9108	Manipulators and End Effectors**:
-    * [In Queue] **ELNC9102	Robot Drive Systems**:
-    * [In Queue] **ELNC9106	Servo Systems**:
-    * [In Queue] **ELNC9105	Payload, Repeatability and Accuracy**:
-    * [In Queue] **ELNC9107	Object Detection**:
-    * [In Queue] **ELNC9112	Vision, Touch and Sound**:
-    * [In Queue] **ELNC9113	Robot Programming**:
-    * [In Queue] **ELNC9111	Robot Safety**:
-    * [In Queue] **ELNC9110	Communications**:
-    * [In Queue] **ELNC9109	Applications**:
-    * [In Queue] **ELNC9104	Artificial Intelligence**:
-    * [In Queue] **ELNC9121	Autonomous Robots**:
+    * [In Queue] **ELNC9101	Introduction to Robotics**: This module is designed to introduce the student to the fundamental concepts of robotics  and describe some basic applications. This module covers operating principles of a manipulator and describes four types of actuators found in industry.  The history of robotics is presented, as well as an overview of the main applications of industrial robots. The advantages of robots are also outlined, and the main components associated with robotic systems are explored. An introduction to robot cost/benefit analysis is presented and the most common non-industrial applications of robots are explored.
+    * [In Queue] **ELNC9103	Robot Classifications**: This module introduces students to the fundamentals of robot environments and control systems. In addition, the module introduces essential concepts such as adaptive control and dynamic control and describes the various classifications of robot movement.  The module also covers servo and non-servo systems as well as an introduction to drive systems. The principles of line tracking robots and their control characteristics are provided emphasizing practical applications and troubleshooting techniques. Theoretical areas of study include point-to-point control and continuous path robot applications.
+    * [In Queue] **ELNC9108	Manipulators and End Effectors**: This module is designed to cover the fundamentals of manipulators, links, and joints.  Ohm's law, work, energy and power. A discussion of kinematics and haptic technology is presented, as well as dextrous manipulation, and an overview of the basic coordinate systems for a robot manipulator.   The theoretical and practical aspects of manipulators and spatial analysis are introduced in this module using a combination of video, animation, and a laboratory projects and featuring Robotics simulation software.
+    * [In Queue] **ELNC9102	Robot Drive Systems**: This module covers work, energy, power and torque, and presents an introduction to gears and linkages and direct drive systems.  The student will learn the principles of electric drives and fluid power and their application in industrial robotic systems.  Hydraulic and pneumatic drives are also presented with an emphasis on practical applications and troubleshooting.  In addition, this module also covers the basics of gears in power transmission and presents an overview of direct drive systems and drive system efficiency.
+    * [In Queue] **ELNC9106	Servo Systems**: This module will provide the student with an introduction to block diagrams and the application of open-loop and closed-loop control systems in industrial robotics.  The main sections of a controller are described, as well as the categories, components, and advantages of various control systems.  The module is designed to demonstrate the principles of PID control and describe how algorithms and flowcharts can be applied to design, problem-solving and troubleshooting techniques.  In addition, the module also introduces students to the concept of fuzzy logic and fuzzy control.
+    * [In Queue] **ELNC9105	Payload, Repeatability and Accuracy**: This module covers payload, accuracy, repeatability and resolution in modern industrial robotics.  The student will learn to apply compliance parameters to determine overall performance and explain the various factors affecting the accuracy of a robot.  The module also covers position error and describes common calibration techniques used in robot installation and maintenance.  In addition to the basics of kinematic coupling, the module also presents standard performance characteristics noted in ISO9283. The principles of spatial resolution and compliance are discussed with an emphasis on practical applications and troubleshooting techniques.
+    * [In Queue] **ELNC9107	Object Detection**: This module includes the study of both analog and digital sensors, including mechanical switches, temperature sensors, proximity detectors, strain gages and photoelectric sensors.  Displacement, pressure, and flow transducers are presented with an emphasis on practical applications and safe operation of these devices. This module also covers encoders and resolvers, as well as Hall effect devices and capacitive and ultrasonic sensors.  An introduction to object identification is also presented using practical and theoretical examples of industrial applications of this technology.
+    * [In Queue] **ELNC9112	Vision, Touch and Sound**: It is in this module that the student learns the principles of robotic vision systems including cameras, frame grabbers and vision algorithms. 3D vision, photogrammetry, and tactile sensing are covered with an emphasis on practical application and design. An introduction to robot inspection and speech recognition is also presented in this module. In addition, this module also provides an overview of CCD and CMOS cameras and describes their application in industrial robotics. The student will learn design techniques and the principles of F/T sensing as well as the most common characteristics of touch sensors.
+    * [In Queue] **ELNC9113	Robot Programming**: This module provides an introduction to robot software, programming languages, and various programming techniques associated with industrial robots. On-line  and off-line programming, teach pendants and automatic programming are presented using a combination of theoretical and laboratory exercises utilizing robotics simulation software.  In addition, this module also introduces the student to web-based programming and open architecture programming and provides coverage of some of the major robot programming languages and techniques, including Microsoft Robotics Studio.
+    * [In Queue] **ELNC9111	Robot Safety**: This module will focus on the principles of robot safety and the various types of safety equipment used in industrial robotics applications.   The student will learn the fundamentals of hazard analysis and safety-related control systems.  In addition, comprehensive coverage of common robot accidents is presented as well as techniques for safe installation, maintenance, and operation of robots in a variety of industrial settings.  This module also explores standard preventive maintenance techniques and the use of diagnostic systems in industrial robots.
+    * [In Queue] **ELNC9110	Communications**: This module introduces the student to the fundamentals of Local Area Networks, protocol and topology. In addition to transmission media, the module also covers classifications of communication systems and an overview of the 7-layer OSI model. The principles of token passing, CSMA/CD and ethernet are presented emphasizing practical applications and troubleshooting techniques. Theoretical areas of study include Controller Area Networks, network switching and WLANS. The student will also learn the differences between star, bus, and ring topology and their applications in industry. Emphasis is placed on design, problem solving and analysis of industrial communication systems.
+    * [In Queue] **ELNC9109	Applications**: This module will provide the student with an overview of robot uses, with an emphasis on the most common functions.  It includes applications such as welding, palletizing, assembly, injection molding, and spray painting.  In addition, the module also includes specialized robotic applications such as surgical and inspection robots.  Integration of 3D animation and robot simulation software enables the student to gain a better understanding of “real world" environments.  This module also covers a variety of welding processes, including MIG and TIG, and contains an introduction to specialized end effectors such as welding and spray guns.  An overview of mobile robots is also presented.
+    * [In Queue] **ELNC9104	Artificial Intelligence**: This module covers the principles of artificial intelligence and introduces the student to the concept of machine learning and knowledge.  In addition to Conventional AI, the module also provides an overview of evolutionary computation and computational intelligence.  Applications of robots using Neuro-fuzzy systems are presented with an emphasis on fundamentals of fuzzy logic and problem solving.   The types of reasoning systems covered in this module include both deductive and inductive.  Feedforward and recurrent networks are included in the module as well as an introduction to Natural Language Processing.
+    * [In Queue] **ELNC9121	Autonomous Robots**: This module will introduce basic concepts and techniques used within the field of mobile autonomous robots. It covers the principles of robot motion, forward and inverse kinematics of wheeled platforms, and provides a general overview of mobile robot control architectures, with an emphasis on the use of wheeled mobile robots and manipulators in industry and society. Areas including perception, error propagation, localization and path planning are presented.  This module also provides a concise study of modeling, control, and navigation methods for wheeled non-holonomic and omnidirectional mobile robots and manipulators. The module begins with a study of mobile robot drives and corresponding kinematic and dynamic models, and discusses the sensors used in mobile robotics. It then examines a variety of model-based, model-free, and vision-based controllers, with a comparison of stabilization and tracking performance. In addition, the problems of path, motion, and task planning, along with localization and mapping topics are covered.
   * [In Queue] **Programmable Logic Controllers (PLC) Technician Program (Distance Education) T903**: The Programmable Logic Controllers Technician (PLC) Certificate program provides the basic technical skills and knowledge necessary to work with programmable logic control systems found typically in an industrial/manufacturing environment. The program covers the operation of various PLC control systems including both discrete and analog control devices. The simulation software, PLCLogix 500, that is included with the program, simulates the Rockwell Logix 500 series of PLCs.
-    * [In Queue] **ELNC 9071	Overview of PLCs**:
-    * [In Queue] **ELNC 9072	Central Processing Unit**:
-    * [In Queue] **ELNC 9073	I/O System**:
-    * [In Queue] **ELNC 9074	Programming Terminals and Peripherals**:
-    * [In Queue] **ELNC 9075	Installation and Maintenance of PLCs**:
-    * [In Queue] **ELNC 9076	Relay Logic**:
-    * [In Queue] **ELNC 9077	Ladder Logic**:
-    * [In Queue] **ELNC 9078	Timers**:
-    * [In Queue] **ELNC 9079	Counters**:
-    * [In Queue] **ELNC 9080	MCR, JUMP and FORCE Instructions**:
-    * [In Queue] **ELNC 9081	Sequencers**:
-    * [In Queue] **ELNC 9082	Data Transfer**:
-    * [In Queue] **ELNC 9083	Math Functions**:
-    * [In Queue] **ELNC 9084	Process Control**:
-    * [In Queue] **ELNC 9085	Data Communications**:
-    * [In Queue] **ELNC 9086	Number Systems and Codes**:
-    * [In Queue] **ELNC 9087	Digital Logic**:
-    * [In Queue] **ELNC 9120	RTUs and PACs**:
-    * [In Queue] **ELNC 9116	Introduction to Automation**:
+    * [In Queue] **ELNC 9071	Overview of PLCs**: This module provides a general overview of PLCs and their application in industry. The origins of the PLC and its evolution are covered in detail. The advantages of PLCs are also outlined, and the main components associated with PLC systems are explored. An introduction to ladder logic is presented and the most common types of PLC signals are covered with an emphasis on practical application.
+    * [In Queue] **ELNC 9072	Central Processing Unit**: This module is intended to familiarize the student with the most important aspects of the PLC's central processing unit. Topics covered in the module include memory devices and memory storage, as well as an introduction to data storage and processing. In addition to covering memory utilization and memory mapping, the module also provides detailed information on multiprocessing and PLC scan functions.
+    * [In Queue] **ELNC 9073	I/O System**: This module covers all aspects of the Input/Output system for PLCs including discrete, analog, and data I/O. In addition, the module also presents an overview of I/O addressing and an introduction to Allen-Bradley I/O parameters. Module topics also include the principles of remote I/O and an introduction to scaling and resolution of analog devices and signals.
+    * [In Queue] **ELNC 9074	Programming Terminals and Peripherals**: This module is intended to provide students with an overview of the wide range of programming terminals currently in use and to outline some of the key differences between them. In addition, the module covers topics such as hand-held programming terminals and computer-based software packages. The operation of host computer-based systems is covered as well as the application of peripheral devices in a PLC network.
+    * [In Queue] **ELNC 9075	Installation and Maintenance of PLCs**: The purpose of this module is to provide the student with a thorough coverage of the various safety precautions, preventative maintenance, and troubleshooting techniques associated with a typical PLC system. In addition, the module also covers proper grounding techniques, sources of electrical interference, and I/O installation techniques. Field checkout and troubleshooting with an emphasis on practical troubleshooting and problem-solving strategies.
+    * [In Queue] **ELNC 9076	Relay Logic**: This module is intended to provide an introduction to relay logic and relay logic diagrams. The basic operating principles of relays are presented as well as detailed information regarding sizing and rating of electromagnetic contactors. Seal-in circuits and their application in control systems is discussed as well as an introduction to timing circuits. In addition, the module covers I/O devices and their application in PLC systems.
+    * [In Queue] **ELNC 9077	Ladder Logic**: This module provides an introduction to ladder logic programming techniques using laboratory simulation software. The lab component of the module provides the student with an opportunity to write ladder logic programs and test their operation through PLC simulation. Topics covered in the module include I/O instructions, safety circuitry, programming restrictions, and I/O addressing.
+    * [In Queue] **ELNC 9078	Timers**: This module is intended to provide students with an overview of PLC timers and their application in industrial control circuits. Allen-Bradley timing functions such as TON, TOF, and RTO are discussed in detail and the theory is reinforced through lab projects using lab simulation software. In addition, students will learn practical programming techniques for timers including cascading and reciprocating timing circuits.
+    * [In Queue] **ELNC 9079	Counters**: This module provides students with a broad overview of PLC counters and their application in control systems. Allen-Bradley counting functions such as CTU and CTD are presented in detail and the theory is reinforced through lab projects using lab simulation software. In addition, students will learn practical programming techniques for counters including cascading counters and combining counting and timing circuits.
+    * [In Queue] **ELNC 9080	MCR, JUMP and FORCE Instructions**: This module is intended to provide an overview of various zone control techniques and branching instructions. The principles of Master Control Relays are presented with an emphasis on safety considerations and compliance with safety codes and regulations. In addition, the module also provides coverage of subroutines and their application and benefit in complex control problems. Force instructions are presented and demonstrated through lab simulation software. The simulation software also allows the student to program and observe branching operations.
+    * [In Queue] **ELNC 9081	Sequencers**: This module is designed to provide the student with a clear understanding of the purpose and application of PLC sequencers, both through the theory of operation and through the actual demonstration using lab simulation software. The module will familiarize the learner with masking techniques and the various types of sequencers available including SQO. SQL and SQ1 instructions. In addition, sequencers charts are presented with an emphasis on maintenance and recording of sequencer chart information.
+    * [In Queue] **ELNC 9082	Data Transfer**: This module provides students with an introduction to the principles of data transfer, including bits, words, and files. Using lab simulation, various aspects of data transfer will be demonstrated and students will program and observe transfer instructions such as MOV. An introduction to shift registers is also presented with an emphasis on practical application in industrial control circuits.
+    * [In Queue] **ELNC 9083	Math Functions**: This module provides an overview of basic mathematical functions found in typical PLCs. It also provides thorough coverage of data comparison instructions such as EQU, LES, and GRT. In addition, this module provides a foundation for more advanced programming techniques including analog input and output control. Topics such as combining math functions are presented with an emphasis on practical application and are demonstrated through lab simulation.
+    * [In Queue] **ELNC 9084	Process Control**: The purpose of this module is to provide the student with a thorough understanding of the various aspects of process control and its application to PLC systems. In addition to open-loop and closed-loop systems, the module also covers advanced closed loop techniques including PID control. Analog I/O devices are presented in detail and tuning parameters for PID control systems is demonstrated through practical examples.
+    * [In Queue] **ELNC 9085	Data Communications**: This module is intended to provide the student with an introduction to networking using PLC systems and peripherals. The principles of data highways are discussed using windows platform and Allen-Bradley hardware and programming software. In addition, an introduction to ethernet and network switching is also presented as well as detailed descriptions of topology and the application of token passing in a data highway. The module also provides an overview of transmission media including fiber optic, coaxial, and twisted pair cable.
+    * [In Queue] **ELNC 9086	Number Systems and Codes**: This module is designed to provide the student with a thorough understanding of the various number systems used by PLCs and their application in industrial control. The module covers binary numbers and codes including BCD, Octal, and hexadecimal. In addition, the module also demonstrates through lab simulation how number systems are manipulated by the PLC's processor. Topics also covered in the module include negative binary numbers, parity bit, Gray code, and ASCII.
+    * [In Queue] **ELNC 9087	Digital Logic**: This module provides a thorough treatment of digital logic and its application in PLC programming and control. Boolean algebra and the theorems associated with it are presented and demonstrated through a series of programming examples. In addition, the student will become adept at converting digital logic to ladder logic and will apply DeMorgan's theorem to increase circuit efficiency and reduce redundency.
+    * [In Queue] **ELNC 9120	RTUs and PACs**: This module is designed to cover the fundamentals of Remote Terminal Units (RTUs) and Programmable Automation Controllers (PACs). The four types of connections used for interfacing with field devices are demonstrated, with an emphasis on practical application. A discussion of RTU architecture, communications and practical applications is presented. In addition, an overview of PACs and a comparison of PAC and RTU functionality is described and the differences between PLC and PACs are also highlighted. The main features of DNP3 protocols are introduced, and a discussion of alarm management and its application in RTUs and PACs is also included.
+    * [In Queue] **ELNC 9116	Introduction to Automation**: This module provides a general overview of automation systems and the role of automation in industry. It also covers the basic principles of flexible automation and flexible manufacturing systems. The advantages of automation are outlined, and the main components associated with automation systems are explored. Automation safety is also discussed in detail. An introduction to automation simulation is presented with an emphasis on practical application.
   * [In Queue] **Programmable Logic Controllers (PLC) Technician II Program (Distance Education) T949**: The PLC Technician II Certificate program introduces the theory behind Programmable Logic Controllers, while maintaining an emphasis on the application of PLCs in plant and manufacturing systems. The PLC Technician II provides a more advanced study of PLCs in manufacturing including DCS & SCADA systems. The PLCLogix 5000 simulator integrated within in the program emulates the Rockwell 5000 series PLC control software and features 3D simulation and advanced programming.
-    * [In Queue] **ELNC 9127	Introduction to Advanced PLCs**:
-    * [In Queue] **ELNC 9094	PLC Processors**:
-    * [In Queue] **ELNC 9073	I/O System**:
-    * [In Queue] **ELNC 9074	Programming Terminals and Peripherals**:
-    * [In Queue] **ELNC 9075	Installation and Maintenance of PLCs**:
-    * [In Queue] **ELNC 9124	Tag-Based PLCs**:
-    * [In Queue] **ELNC 9095	Ladder Logic Programming**:
-    * [In Queue] **ELNC 9078	Timers**:
-    * [In Queue] **ELNC 9079	Counters**:
-    * [In Queue] **ELNC 9096	Branch and Loop Control**:
-    * [In Queue] **ELNC 9081	Sequencers**:
-    * [In Queue] **ELNC 9097	Data Handling**:
-    * [In Queue] **ELNC 9098	Math Instructions**:
-    * [In Queue] **ELNC 9084	Process Control**:
-    * [In Queue] **ELNC 9099	PLC Communication**:
-    * [In Queue] **ELNC 9118	Distributed Control System (DCS)**:
-    * [In Queue] **ELNC 9119	SCADA System**:
-    * [In Queue] **ELNC 9093	Advanced Programming Languages**:
-    * [In Queue] **ELNC 9092	Robotics**:
+    * [In Queue] **ELNC 9127	Introduction to Advanced PLCs**: This module provides a general overview of the characteristics of advanced PLCs and their role in industry. The operation of deterministic systems and relational databases are described, and the advantages of using PLC languages based on the IEC-61131-3 standard are discussed. The differences between PLCs, PACs, and PCs are presented within the context of industrial automation and manufacturing. An introduction to Studio 5000 PLCs tag-based addressing is presented, and the benefits of simulation of advanced PLCs are described.
+    * [In Queue] **ELNC 9094	PLC Processors**: This module is intended to familiarize the student with the most important aspects of the PLC's central processing unit with a focus on the ControlLogix processor. Topics covered in the module include memory devices, memory storage, and data processing as well as an introduction to tag-based memory. In addition to covering memory utilization and protection, the module also provides detailed information on multiprocessing and PLC scan functions.
+    * [In Queue] **ELNC 9073	I/O System**: This module covers all aspects of the Input/Output system for PLCs including discrete, analog, and data I/O. In addition, the module also presents an overview of I/O addressing and an introduction to Allen-Bradley I/O parameters. Module topics also include the principles of remote I/O and an introduction to scaling and resolution of analog devices and signals.
+    * [In Queue] **ELNC 9074	Programming Terminals and Peripherals**: This module will provide the student with an introduction to dedicated and PC-based programming terminals and their application in advanced PLC systems.  The module also covers software used in programming terminals and describes the basic operating principles of host computer systems.  In addition, an introduction to HMI programming terminals is presented with an emphasis on PLC-based systems.  Peripheral devices are also described in detail including memory storage and data transfer systems.
+    * [In Queue] **ELNC 9075	Installation and Maintenance of PLCs**: The purpose of this module is to provide the student with a thorough coverage of the various safety precautions, preventative maintenance, and troubleshooting techniques associated with a typical PLC system. In addition, the module also covers proper grounding techniques, sources of electrical interference, and I/O installation techniques. Field checkout and troubleshooting with an emphasis on practical troubleshooting and problem-solving strategies.
+    * [In Queue] **ELNC 9124	Tag-Based PLCs**: This module introduces the student to the fundamentals of tags and tag-based PLC programming. In addition to produced and consumed tags, the module also covers common methods for creating tags and explains the purpose of User Defined Data Types (UDTs). Theoretical areas of study include continuous and periodic tasks as well as the various types of data used in tag-based I/O systems. The principles of projects, arrays, throughput, and scope are described in detail, emphasizing practical applications and standard programming techniques.
+    * [In Queue] **ELNC 9095	Ladder Logic Programming**: This module provides an introduction to ladder logic programming techniques using PLCLogix 5000 simulation software, which is based on Rockwell’s Studio 5000/RSLogix 5000 PLC programming software The lab component of the module provides the student with an opportunity to write ladder logic programs and test their operation through PLC simulation. Topics covered in the module include I/O instructions, safety circuitry, programming restrictions, I/O addressing, FORCE instructions and bit status flags.
+    * [In Queue] **ELNC 9078	Timers**: This module is intended to provide students with an overview of PLC timers and their application in industrial control circuits. Studio 5000/RSLogix 5000 timing instructions such as TON, TOF, and RTO are discussed in detail and the theory is reinforced through lab projects using lab simulation software. In addition, students will learn practical programming techniques for timers including cascading and reciprocating timing circuits.
+    * [In Queue] **ELNC 9079	Counters**: This module provides students with a broad overview of PLC counters and their application in control systems. Studio 5000/RSLogix 5000 counting instructions such as CTU and CTD are presented in detail and the theory is reinforced through lab projects using lab simulation software. In addition, students will learn practical programming techniques for counters including cascading counters and combining counting and timing circuits.
+    * [In Queue] **ELNC 9096	Branch and Loop Control**: This module is intended to provide an overview of various branch and loop instructions including MCR, JSR and JMP. The use of PLC simulation software in this module allows the student to program and observe branching operations and to perform troubleshooting tasks. The principles of fault routines are presented with an emphasis on safety considerations and compliance with safety codes and regulations. In addition, the module also provides coverage of subroutines and their application and benefit in complex control problems. Force instructions are presented and demonstrated using PLCLogix 5000 simulation software.
+    * [In Queue] **ELNC 9081	Sequencers**: This module is designed to provide the student with a clear understanding of the purpose and application of PLC sequencers, both through the theory of operation and through the actual demonstration using lab simulation software. The module will familiarize the learner with masking techniques and the various types of sequencers available including SQO. SQL and SQ1 instructions. In addition, sequencers charts are presented with an emphasis on maintenance and recording of sequencer chart information.
+    * [In Queue] **ELNC 9097	Data Handling**: This module provides students with an introduction to the principles of Studio 5000/RS Logix 5000 data handling, including bits, words, and arrays. Using PLCLogix 5000 simulation, various aspects of data transfer will be demonstrated and students will program and observe transfer instructions such as MOV, FIFO and LIFO. An introduction to shift registers is also presented with an emphasis on practical applications in industrial control circuits.
+    * [In Queue] **ELNC 9098	Math Instructions**: This module provides an overview of basic and advanced mathematical functions found in the Logix 5000 PLC. It provides thorough coverage of data comparison instructions such as SQR, EQU, LES, and GRT. In addition, this module provides a foundation for more advanced programming techniques including analog input and output control. Topics such as combining math functions, averaging, scaling and ramping are presented with an emphasis on practical application and are demonstrated using PLCLogix 5000 lab simulation.
+    * [In Queue] **ELNC 9084	Process Control**: It is in this module that the student learns the principles of industrial control systems including open- and closed-loop control. Proportional, Integral, and Derivative control are covered with an emphasis on practical application and design. PID instructions are described in detail, and an introduction to algorithms and flow charts is also presented in this module.
+    * [In Queue] **ELNC 9099	PLC Communication**: This module is intended to provide the student with an introduction to data communication using PLC systems and peripherals. The fundamentals of LANs and data communications are discussed using Windows platform and Rockwell hardware and programming software such as RSLinx. In addition, an introduction to ethernet and network switching is also presented as well as detailed descriptions of topology and the operation of token passing in a data highway. The module also provides an overview of transmission media, response time and the basic principles of proprietary networks including the seven OSI layers.
+    * [In Queue] **ELNC 9118	Distributed Control System (DCS)**: This module is intended to familiarize the student with the most important aspects of Distributed Control Systems. Topics covered in the module include remote terminal units (RTUs), HMIs and an introduction to LANs. The student will also learn the differences between star, bus and ring topology and their applications in automation systems. In addition to covering system architecture and algorithms, the module also provides detailed information on practical applications for DCS. Emphasis is placed on design, problem solving and analysis of industrial automation systems.
+    * [In Queue] **ELNC 9119	SCADA System**: This module is intended to provide the student with an introduction to SCADA using automation systems and peripherals. The principles of alarm management are presented along with an overview of the alarm management lifecycle and an introduction to Six Sigma. SCADA security and authentication methodologies are also discussed in detail. Practical examples of SCADA applications are presented and include a discussion of SCADA simulation techniques.
+    * [In Queue] **ELNC 9093	Advanced Programming Languages**: This module provides students with an introduction to advanced PLC programming languages which are widely used in industrial automation. In addition, this module also provides an introduction to C and C++ high level programming languages. Numerous programming examples are discussed using real-world applications and problem-solving techniques. This module also provides an overview of the Studio 5000/RSLogix 5000 programming language and controller organizer, including tag names, alias tags, and various editors (Structured Text (ST), Function Block Diagram (FBD), Sequential Function Chart (SFC), etc.).
+    * [In Queue] **ELNC 9092	Robotics**: This module provides an in-depth look at the industrial robot and the role it plays in industrial manufacturing processes. The origins of the industrial robot and its evolution are described. The types, components, accuracy, programming and applications of robots, among other topics, are thoroughly analyzed. Robot sensors, including vision and tactile detection are covered with an emphasis on practical application. This module also provides an overview of safety considerations including fail-safe operation and work-envelope design. The concept of Artificial Intelligence and how it relates to industrial machines is presented in detail.
 
 * **Professional Certifications**
   * [In Queue] **Real Estate Sales and Brokerage (Humber College Program)**: This program covers the following topics:
