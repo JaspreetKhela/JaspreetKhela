@@ -294,35 +294,93 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
 The following works of literature that I have read or I am planning on reading are centred around the development of a growth and an antifragile mindset. Individuals who believe their talents can be developed (i.e. through hard work, good strategies, and input from others) have a growth mindset. They tend to achieve more than those with a more fixed mindset (i.e. those who believe their talents are innate gifts). Antifragility is defined as being resilient or adaptive in the face of extreme stressors, chaos, and disorder.
 
 I have provided/will provide links to summary notes for works of literature that I have/will read below.
-* [In Queue] Mindset: The New Psychology By Carol Dweck
-* [In Queue] Extreme Ownership: How U.S. Navy Seals Lead And Win By Jocko Willink (Author) And Leif Babin
-* [In Queue] Can’t Hurt Me: Master Your Mind And Defy The Odds By David Goggins
-* [In Queue] Man’s Search For Meaning By Viktor Frankl
-* [In Queue] Grit: The Power Of Passion And Perseverance By Angela Duckworth
-* [In Queue] Principles By Ray Dalio
-* [In Queue] Sometimes You Win Sometimes You Learn By John Maxwell
-* [In Queue] The Obstacle Is The Way: The Timeless Art Of Turning Trials Into Triumph By Ryan Holiday
-* [In Queue] Linchpin: Are You Indispensable? By Seth Godin
-* [In Queue] Relentless: From Good To Great To Unstoppable By Tim Grover
-* [In Queue] Start With Why: How Great Leaders Inspire Everyone To Take Action By Simon Sinek
-* [In Queue] Daring Greatly By Brene Brown
-* [In Queue] Think And Grow Rich By Napoleon Hill
-* [In Queue] The E Myth Revisited By Michael E. Gerber
-* [In Queue] Bold: How To Go Big, Create Wealth And Impact The World By P. Diamandis And S. Kotler
-* [In Queue] The Talent Code: Greatness Isn’t Born. It’s Grown. Here’s How. By Daniel Coyle
-* [In Queue] Eleven Rings: The Soul Of Success By Phil Jackson
-* [In Queue] Onward: How Starbucks Fought For Its Life Without Losing Its Soul By Howard Schultz
-* [In Queue] Leaders Eat Last By Simon Sinek
-* [In Queue] Mastery By Robert Greene
-* [In Queue] The Brain That Changes Itself By Norman Doidge
-* [In Queue] Zero To One: Notes On Start-Ups, Or How To Build The Future By Peter Thiel
-* [In Queue] Incognito: The Secret Lives Of The Brain By David Eagleman
-* [In Queue] Predictably Irrational: The Hidden Forces That Shape Our Decisions By Dan Ariely
-* [In Queue] The Power Of Myth By Joseph Campbell
-* [In Queue] Antifragile: Things That Gain From Disorder By Nassim Nicholas Taleb
-* [In Queue] The Moral Animal By Robert Wright
-* [In Queue] Phantoms In The Brain: Probing The Mysteries Of The Human Mind By V.S. Ramachandran
-* [In Queue] Disrupt You!: Master Personal Transformation, Seize Opportunity, And Thrive In The Era Of Endless Innovation By Jay Samit
+* [In Queue] **Mindset: The New Psychology**
+  * **Author**: Carol Dweck
+  * **Description**:
+* [In Queue] **Extreme Ownership: How U.S. Navy Seals Lead And Win**
+  * **Authors**: Jocko Willink and Leif Babin
+  * **Description**:
+* [In Queue] Can’t Hurt Me: Master Your Mind And Defy The Odds
+  * **Author**: David Goggins
+  * **Description**:
+* [In Queue] Man’s Search For Meaning
+  * **Author**: Viktor Frankl
+  * **Description**:
+* [In Queue] Grit: The Power Of Passion And Perseverance
+  * **Author**: Angela Duckworth
+  * **Description**:
+* [In Queue] Principles
+  * **Author**: Ray Dalio
+  * **Description**:
+* [In Queue] Sometimes You Win Sometimes You Learn
+  * **Author**: John Maxwell
+  * **Description**:
+* [In Queue] The Obstacle Is The Way: The Timeless Art Of Turning Trials Into Triumph
+  * **Author**: Ryan Holiday
+  * **Description**:
+* [In Queue] Linchpin: Are You Indispensable?
+  * **Author**: Seth Godin
+  * **Description**:
+* [In Queue] Relentless: From Good To Great To Unstoppable
+  * **Author**: Tim Grover
+  * **Description**:
+* [In Queue] Start With Why: How Great Leaders Inspire Everyone To Take Action
+  * **Author**: Simon Sinek
+  * **Description**:
+* [In Queue] Daring Greatly
+  * **Author**: Brene Brown
+  * **Description**:
+* [In Queue] Think And Grow Rich
+  * **Author**: Napoleon Hill
+  * **Description**:
+* [In Queue] The E Myth Revisited
+  * **Author**: Michael E. Gerber
+  * **Description**:
+* [In Queue] Bold: How To Go Big, Create Wealth And Impact The World
+  * **Authors**: P. Diamandis and S. Kotler
+  * **Description**:
+* [In Queue] The Talent Code: Greatness Isn’t Born. It’s Grown. Here’s How.
+  * **Author**: Daniel Coyle
+  * **Description**:
+* [In Queue] Eleven Rings: The Soul Of Success
+  * **Author**: Phil Jackson
+  * **Description**:
+* [In Queue] Onward: How Starbucks Fought For Its Life Without Losing Its Soul
+  * **Author**: Howard Schultz
+  * **Description**:
+* [In Queue] Leaders Eat Last
+  * **Author**: Simon Sinek
+  * **Description**:
+* [In Queue] Mastery
+  * **Author**: Robert Greene
+  * **Description**:
+* [In Queue] The Brain That Changes Itself
+  * **Author**: Norman Doidge
+  * **Description**:
+* [In Queue] Zero To One: Notes On Start-Ups, Or How To Build The Future
+  * **Author**: Peter Thiel
+  * **Description**:
+* [In Queue] Incognito: The Secret Lives Of The Brain
+  * **Author**: David Eagleman
+  * **Description**:
+* [In Queue] Predictably Irrational: The Hidden Forces That Shape Our Decisions
+  * **Author**: Dan Ariely
+  * **Description**:
+* [In Queue] The Power Of Myth
+  * **Author**: Joseph Campbell
+  * **Description**:
+* [In Queue] Antifragile: Things That Gain From Disorder
+  * **Author**: Nassim Nicholas Taleb
+  * **Description**:
+* [In Queue] The Moral Animal
+  * **Author**: Robert Wright
+  * **Description**:
+* [In Queue] Phantoms In The Brain: Probing The Mysteries Of The Human Mind
+  * **Author**: V.S. Ramachandran
+  * **Description**:
+* [In Queue] Disrupt You!: Master Personal Transformation, Seize Opportunity, And Thrive In The Era Of Endless Innovation
+  * **Author**: Jay Samit
+  * **Description**:
 
 **Timeless Non-Fiction Literature**:
 
@@ -330,103 +388,299 @@ The following works of literature that I have read or I am planning on reading a
 
 I have provided/will provide links to summary notes for works of literature that I have/will read below.
 * [In Queue] East of Eden by John Steinbeck
+  * **Author**:
+  * **Description**:
 * [In Queue] America Is in the Heart by Carlos Bulosan
+  * **Author**:
+  * **Description**:
 * [In Queue] Wuthering Heights by Emily Bronte
+  * **Author**:
+  * **Description**:
 * [In Queue] Little Women by Louisa May Alcott
+  * **Author**:
+  * **Description**:
 * [In Queue] Cane by Jean Toomer
+  * **Author**:
+  * **Description**:
 * [In Queue] Twelve Years a Slave by Solomon Northup
+  * **Author**:
+  * **Description**:
 * [In Queue] Devil on the Cross by Ngugi wa Thiong’o
+  * **Author**:
+  * **Description**: 
 * [In Queue] Amiable with Big Teeth by Claude McKay
+  * **Author**:
+  * **Description**:
 * [In Queue] Dark Tales by Shirley Jackson
+  * **Author**:
+  * **Description**:
 * [In Queue] The Joy Luck Club by Amy Tan
+  * **Author**:
+  * **Description**:
 * [In Queue] The Bloody Chamber by Angela Carter
+  * **Author**:
+  * **Description**:
 * [In Queue] The Tale of the Heike by [?]
+  * **Author**:
+  * **Description**:
 * [In Queue] The River Between by Ngugi wa Thiong’o
+  * **Author**:
+  * **Description**:
 * [In Queue] Les Miserables by Victor Hugo
+  * **Author**:
+  * **Description**:
 * [In Queue] Something to Remember Me By by Saul Bellow
+  * **Author**:
+  * **Description**:
 * [In Queue] Narrative of the Life of Frederick Douglass, an American Slave by Frederick Douglass
+  * **Author**:
+  * **Description**:
 * [In Queue] On Being Different by Merle Miller
+  * **Author**:
+  * **Description**:
 * [In Queue] My Inventions and Other Writings by Nikola Tesla
+  * **Author**:
+  * **Description**:
 * [In Queue] The Beautiful and Damned by F. Scott Fitzgerald
+  * **Author**:
+  * **Description**:
 * [In Queue] The Adventures of Huckleberry Finn by Mark Twain
+  * **Author**:
+  * **Description**:
 * [In Queue] Revolutionary Suicide by Huey P. Newton
+  * **Author**:
+  * **Description**:
 * [In Queue] Pride and Prejudice by Jane Austen
+  * **Author**:
+  * **Description**:
 * [In Queue] Candide by Francois Voltaire
+  * **Author**:
+  * **Description**:
 * [In Queue] Lady Chatterley’s Lover by D. H. Lawrence
+  * **Author**:
+  * **Description**:
 * [In Queue] The Snow Leopard by Peter Matthiessen
+  * **Author**:
+  * **Description**:
 * [In Queue] On the Road: the Original Scroll by Jack Kerouac
+  * **Author**:
+  * **Description**:
 * [In Queue] Metamorphosis and Other Stories by Franz Kafka
+  * **Author**:
+  * **Description**:
 * [In Queue] The Pillow Book by Sei Shonagon
+  * **Author**:
+  * **Description**:
 * [In Queue] Under the Sea-Wind by Rachel L. Carson
+  * **Author**:
+  * **Description**:
 * [In Queue] Ceremony by Leslie Marmon Silko
+  * **Author**:
+  * **Description**:
 * [In Queue] The Haunting of Hill House by Shirley Jackson
+  * **Author**:
+  * **Description**:
 * [In Queue] The Odyssey by Homer
+  * **Author**:
+  * **Description**:
 * [In Queue] Gravity’s Rainbow by Thomas Pynchon
+  * **Author**:
+  * **Description**:
 * [In Queue] The Divine Comedy by Dante Alighieri
+  * **Author**:
+  * **Description**:
 * [In Queue] Twelve Angry Men by Reginald Rose
+  * **Author**:
+  * **Description**:
 * [In Queue] Jane Eyre by Charlotte Bronte
+  * **Author**:
+  * **Description**:
 * [In Queue] The Death of Ivan Ilyich and Other Stories by Leo Tolstoy
+  * **Author**:
+  * **Description**:
 * [In Queue] Kokoro by Natsume Soseki
+  * **Author**:
+  * **Description**:
 * [In Queue] Therese Raquin by Emile Zola
+  * **Author**:
+  * **Description**:
 * [In Queue] The Quiet American by Graham Greene
+  * **Author**:
+  * **Description**:
 * [In Queue] The Aleph and Other Stories by Jorge Luis Borges
+  * **Author**:
+  * **Description**:
 * [In Queue] Anna Karenina by Leo Tolstoy
+  * **Author**:
+  * **Description**:
 * [In Queue] East Goes West by Younghill Kang
+  * **Author**:
+  * **Description**:
 * [In Queue] Veinte poemas de amor y una canción desesperada by Pablo Neruda
+  * **Author**:
+  * **Description**:
 * [In Queue] Sixty Stories by Donald Barthelme
+  * **Author**:
+  * **Description**:
 * [In Queue] The Art of War by Sun Tzu and Thomas Cleary
+  * **Author**:
+  * **Description**:
 * [In Queue] The Hanging on Union Square by H. T. Tsiang
+  * **Author**:
+  * **Description**:
 * [In Queue] The Count of Monte Cristo by Alexandre Dumas
+  * **Author**:
+  * **Description**:
 * [In Queue] Frankenstein by Mary Shelley
+  * **Author**:
+  * **Description**:
 * [In Queue] Utopia by Thomas More
+  * **Author**:
+  * **Description**:
 * [In Queue] Lysistrata and Other Plays by Aristophanes
+  * **Author**:
+  * **Description**:
 * [In Queue] Dracula by Bram Stoker
+  * **Author**:
+  * **Description**:
 * [In Queue] Robinson Crusoe by Daniel Defoe
+  * **Author**:
+  * **Description**:
 * [In Queue] Alice’s Adventures in Wonderland and Through the Looking Glass by Lewis Carroll
+  * **Author**:
+  * **Description**:
 * [In Queue] The Last Days of Socrates by Plato
+  * **Author**:
+  * **Description**:
 * [In Queue] The Crucible by Arthur Miller
+  * **Author**:
+  * **Description**:
 * [In Queue] Middlemarch by George Eliot
+  * **Author**:
+  * **Description**:
 * [In Queue] The Bhagavad Gita by Anonymous
+  * **Author**:
+  * **Description**:
 * [In Queue] Gulliver’s Travels by Jonathan Swift
+  * **Author**:
+  * **Description**:
 * [In Queue] Don Quixote by Miguel De Cervantes Saavedra
+  * **Author**:
+  * **Description**:
 * [In Queue] Herzog by Saul Bellow
+  * **Author**:
+  * **Description**:
 * [In Queue] The Canterbury Tales by Geoffrey Chaucer
+  * **Author**:
+  * **Description**:
 * [In Queue] Pygmalion by George Bernard Shaw
+  * **Author**:
+  * **Description**:
 * [In Queue] Passing by Nella Larsen
+  * **Author**:
+  * **Description**:
 * [In Queue] The Prince by Niccolo Machiavelli
+  * **Author**:
+  * **Description**:
 * [In Queue] The Picture of Dorian Gray by Oscar Wilde
+  * **Author**:
+  * **Description**:
 * [In Queue] Great Expectations by Charles Dickens
+  * **Author**:
+  * **Description**:
 * [In Queue] Madame Bovary by Gustave Flaubert
+  * **Author**:
+  * **Description**:
 * [In Queue] Moby-Dick by Herman Melville and Coralie Bickford-Smith
+  * **Author**:
+  * **Description**:
 * [In Queue] Siddhartha by Hermann Hesse
+  * **Author**:
+  * **Description**:
 * [In Queue] One Flew Over the Cuckoo’s Nest by Ken Kesey
+  * **Author**:
+  * **Description**:
 * [In Queue] The Scarlet Letter by Nathaniel Hawthorne
+  * **Author**:
+  * **Description**:
 * [In Queue] The Tale of Genji by Murasaki Shikibu
+  * **Author**:
+  * **Description**:
 * [In Queue] The Communist Manifesto by Karl Marx and Friedrich Engels
+  * **Author**:
+  * **Description**:
 * [In Queue] Hamlet by William Shakespeare
+  * **Author**:
+  * **Description**:
 * [In Queue] A Room with a View by E. M. Forster
+  * **Author**:
+  * **Description**:
 * [In Queue] Treasure Island by Robert Louis Stevenson
+  * **Author**:
+  * **Description**:
 * [In Queue] Personal Memoirs by Ulysses S. Grant
+  * **Author**:
+  * **Description**:
 * [In Queue] The Souls of Black Folk by W. E. B. Du Bois
+  * **Author**:
+  * **Description**:
 * [In Queue] The Age of Innocence by Edith Wharton
+  * **Author**:
+  * **Description**:
 * [In Queue] Of Mice and Men by John Steinbeck
+  * **Author**:
+  * **Description**:
 * [In Queue] The Stonewall Reader by [?]
+  * **Author**:
+  * **Description**:
 * [In Queue] My Antonia by Willa Cather
+  * **Author**:
+  * **Description**:
 * [In Queue] Dubliners by James Joyce
+  * **Author**:
+  * **Description**:
 * [In Queue] The Joy Luck Club by Amy Tan
+  * **Author**:
+  * **Description**:
 * [In Queue] The Last of the Mohicans by James Fenimore Cooper
+  * **Author**:
+  * **Description**:
 * [In Queue] Fear and Trembling by Soren Kierkegaard
+  * **Author**:
+  * **Description**:
 * [In Queue] The Jungle by Upton Sinclair
+  * **Author**:
+  * **Description**:
 * [In Queue] Walden and Civil Disobedience by Henry David Thoreau
+  * **Author**:
+  * **Description**:
 * [In Queue] Uncle Tom’s Cabin by Harriet Beecher Stowe
+  * **Author**:
+  * **Description**:
 * [In Queue] The Analects by Confucius
+  * **Author**:
+  * **Description**:
 * [In Queue] Confessions by Augustine of Hippo
+  * **Author**:
+  * **Description**:
 * [In Queue] Leaves of Grass by Walt Whitman
+  * **Author**:
+  * **Description**:
 * [In Queue] The Epic of Gilgamesh by [?]
+  * **Author**:
+  * **Description**:
 * [In Queue] The Travels by Marco Polo
+  * **Author**:
+  * **Description**:
 * [In Queue] The Song of Roland by Anonymous
+  * **Author**:
+  * **Description**:
 * [In Queue] Beowulf by Anonymous
+  * **Author**:
+  * **Description**:
 * [In Queue] The Song of Kieu by Du Nguyen
+  * **Author**:
+  * **Description**:
 
 ### Academic Development History and Pursuits
 The following academic development history and pursuits section outlines my areas of expertise developed through my enrollment in post-secondary programs and their corresponding courses during my adulthood. 
