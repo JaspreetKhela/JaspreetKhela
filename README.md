@@ -1155,6 +1155,59 @@ I have primarily focused on developing my expertise in: web and mobile developme
       * [In Queue] **TAX**: Taxation
       * [In Queue] **PMA**: Performance Management
 
+**Business Management Literature**
+The following works of literature that I have read or I am planning on reading are centred around the development of my business management-related acumen. Business management includes all aspects of delegating and overseeing/supervising business operations. Management is the act of allocating resources to accomplish desired goals and objectives efficiently and effectively; it comprises planning, organizing, staffing, leading or directing, and controlling an organization (a group of one or more people or entities) or effort for the purpose of accomplishing a goal.
+
+I have provided/will provide links to summary notes for works of literature that I have/will read below.
+* HBR'S 10 Must Reads: The Essentials
+* HBR's 10 Must Reads on Managing Yourself (with bonus article "How Will You Measure Your Life?" by Clayton M. Christensen)
+* HBR's 10 Must Reads on Managing Yourself, Vol. 2 (with bonus article "Be Your Own Best Advocate" by Deborah M. Kolb)
+* HBR's 10 Must Reads on Managing People (with featured article "Leadership That Gets Results," by Daniel Goleman)
+* HBR's 10 Must Reads on Managing People, Vol. 2 (with bonus article “The Feedback Fallacy” by Marcus Buckingham and Ashley Goodall)
+* HBR's 10 Must Reads on Public Speaking and Presenting (with featured article "How to Give a Killer Presentation" By Chris Anderson)
+* HBR's 10 Must Reads on Change Management (including featured article "Leading Change," by John P. Kotter)
+* HBR's 10 Must Reads on Change Management, Vol. 2 (with bonus article "Accelerate!" by John P. Kotter)
+* HBR's 10 Must Reads on Leadership (with featured article "What Makes an Effective Executive," by Peter F. Drucker)
+* HBR's 10 Must Reads on Leadership, Vol. 2 (with bonus article "The Focused Leader" By Daniel Goleman)
+* HBR's 10 Must Reads on Strategy (including featured article "What Is Strategy?" by Michael E. Porter)
+* HBR's 10 Must Reads on Strategy, Vol. 2 (with bonus article "Creating Shared Value" By Michael E. Porter and Mark R. Kramer)
+* HBR's 10 Must Reads on Emotional Intelligence (with featured article "What Makes a Leader?" by Daniel Goleman)(HBR's 10 Must Reads)
+* HBR's 10 Must Reads for New Managers (with bonus article “How Managers Become Leaders” by Michael D. Watkins) (HBR's 10 Must Reads)
+* HBR's 10 Must Reads on Communication (with featured article "The Necessary Art of Persuasion," by Jay A. Conger)
+* HBR's 10 Must Reads on Communication, Vol. 2 (with bonus article "Leadership Is a Conversation" by Boris Groysberg and Michael Slind)
+* HBR’s 10 Must Reads on High Performance (with bonus article "The Right Way to Form New Habits” An interview with James Clear)
+* HBR's 10 Must Reads on Strategic Marketing (with featured article "Marketing Myopia," by Theodore Levitt)
+* HBR's 10 Must Reads on Innovation (with featured article "The Discipline of Innovation," by Peter F. Drucker)
+* HBR's 10 Must Reads on Making Smart Decisions (with featured article "Before You Make That Big Decision..." by Daniel Kahneman, Dan Lovallo, and Olivier Sibony)
+* HBR's 10 Must Reads on Mental Toughness (with bonus interview "Post-Traumatic Growth and Building Resilience" with Martin Seligman) (HBR's 10 Must Reads)
+* HBR's 10 Must Reads on Collaboration (with featured article "Social Intelligence and the Biology of Leadership," by Daniel Goleman and Richard Boyatzis)
+* HBR's 10 Must Reads on Teams (with featured article "The Discipline of Teams," by Jon R. Katzenbach and Douglas K. Smith)
+* HBR's 10 Must Reads on Entrepreneurship and Startups (featuring Bonus Article “Why the Lean Startup Changes Everything” by Steve Blank)
+* HBR's 10 Must Reads for CEOs (with bonus article "Your Strategy Needs a Strategy" by Martin Reeves, Claire Love, and Philipp Tillmanns)
+* HBR's 10 Must Reads on AI, Analytics, and the New Machine Age (with bonus article "Why Every Company Needs an Augmented Reality Strategy" by Michael E. Porter and James E. Heppelmann)
+* HBR's 10 Must Reads on Negotiation (with bonus article "15 Rules for Negotiating a Job Offer" by Deepak Malhotra)
+* HBR's 10 Must Reads on Women and Leadership (with bonus article "Sheryl Sandberg: The HBR Interview")
+* HBR's 10 Must Reads on Strategy for Healthcare (featuring articles by Michael E. Porter and Thomas H. Lee, MD)
+* HBR's 10 Must Reads on Nonprofits and the Social Sectors (featuring "What Business Can Learn from Nonprofits" by Peter F. Drucker)
+* HBR's 10 Must Reads on Building a Great Culture (with bonus article "How to Build a Culture of Originality" by Adam Grant)
+* HBR's 10 Must Reads on Creativity (with bonus article "How Pixar Fosters Collective Creativity" By Ed Catmull)
+* HBR's 10 Must Reads on Business Model Innovation (with featured article "Reinventing Your Business Model" by Mark W. Johnson, Clayton M. Christensen, and Henning Kagermann)
+* HBR's 10 Must Reads on Platforms and Ecosystems (with bonus article by "Why Some Platforms Thrive and Others Don't" By Feng Zhu and Marco Iansiti)
+* HBR's 10 Must Reads on Sales (with bonus interview of Andris Zoltners) (HBR's 10 Must Reads)
+* HBR's 10 Must Reads on Leadership Lessons from Sports (featuring interviews with Sir Alex Ferguson, Kareem Abdul-Jabbar, Andre Agassi)
+* HBR's 10 Must Reads on Reinventing HR (with bonus article "People Before Strategy" by Ram Charan, Dominic Barton, and Dennis Carey)
+* HBR’s 10 Must Reads on Boards (with bonus article “What Makes Great Boards Great” by Jeffrey A. Sonnenfeld)
+* HBR's 10 Must Reads on Managing Across Cultures (with featured article "Cultural Intelligence" by P. Christopher Earley and Elaine Mosakowski)
+* HBR's 10 Must Reads on Leadership for Healthcare (with bonus article by Thomas H. Lee, MD, and Toby Cosgrove, MD)
+* HBR's 10 Must Reads on Leading Digital Transformation (with bonus article "How Apple Is Organized for Innovation" by Joel M. Podolny and Morten T. Hansen)
+* HBR's 10 Must Reads on Design Thinking (with featured article "Design Thinking" By Tim Brown)
+* HBR's 10 Must Reads on Lifelong Learning (with bonus article "The Right Mindset for Success" with Carol Dweck)
+* HBR's 10 Must Reads on Career Resilience (with bonus article "Reawakening Your Passion for Work" By Richard E. Boyatzis, Annie McKee, and Daniel Goleman)
+* HBR's 10 Must Reads on Organizational Resilience (with bonus article "Organizational Grit" by Thomas H. Lee and Angela L. Duckworth)
+* HBR's 10 Must Reads on Managing in a Downturn, Expanded Edition (with bonus article "Preparing Your Business for a Post-Pandemic World" by Carsten Lund Pedersen and Thomas Ritter)
+* HBR's 10 Must Reads on Diversity (with bonus article "Making Differences Matter: A New Paradigm for Managing Diversity" By David A. Thomas and Robin J. Ely)
+* HBR's 10 Must Reads on Managing Risk (with bonus article "Managing 21st-Century Political Risk" by Condoleezza Rice and Amy Zegart)
+
 <a name="languages"/>
 
 ### Software Development Languages
