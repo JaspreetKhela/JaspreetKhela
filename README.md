@@ -300,85 +300,85 @@ I have provided/will provide links to summary notes for works of literature that
 * [In Queue] **Extreme Ownership: How U.S. Navy Seals Lead And Win**
   * **Authors**: Jocko Willink and Leif Babin
   * **Description**:
-* [In Queue] Can’t Hurt Me: Master Your Mind And Defy The Odds
+* [In Queue] **Can’t Hurt Me: Master Your Mind And Defy The Odds**
   * **Author**: David Goggins
   * **Description**:
-* [In Queue] Man’s Search For Meaning
+* [In Queue] **Man’s Search For Meaning**
   * **Author**: Viktor Frankl
   * **Description**:
-* [In Queue] Grit: The Power Of Passion And Perseverance
-  * **Author**: Angela Duckworth
+* [In Queue] **Grit: The Power Of Passion And Perseverance**
+  * **Author**: **Angela Duckworth**
   * **Description**:
-* [In Queue] Principles
+* [In Queue] **Principles**
   * **Author**: Ray Dalio
   * **Description**:
-* [In Queue] Sometimes You Win Sometimes You Learn
+* [In Queue] **Sometimes You Win Sometimes You Learn**
   * **Author**: John Maxwell
   * **Description**:
-* [In Queue] The Obstacle Is The Way: The Timeless Art Of Turning Trials Into Triumph
+* [In Queue] **The Obstacle Is The Way: The Timeless Art Of Turning Trials Into Triumph**
   * **Author**: Ryan Holiday
   * **Description**:
-* [In Queue] Linchpin: Are You Indispensable?
+* [In Queue] **Linchpin: Are You Indispensable?**
   * **Author**: Seth Godin
   * **Description**:
-* [In Queue] Relentless: From Good To Great To Unstoppable
+* [In Queue] **Relentless: From Good To Great To Unstoppable**
   * **Author**: Tim Grover
   * **Description**:
-* [In Queue] Start With Why: How Great Leaders Inspire Everyone To Take Action
+* [In Queue] **Start With Why: How Great Leaders Inspire Everyone To Take Action**
   * **Author**: Simon Sinek
   * **Description**:
-* [In Queue] Daring Greatly
+* [In Queue] **Daring Greatly**
   * **Author**: Brene Brown
   * **Description**:
-* [In Queue] Think And Grow Rich
+* [In Queue] **Think And Grow Rich**
   * **Author**: Napoleon Hill
   * **Description**:
-* [In Queue] The E Myth Revisited
+* [In Queue] **The E Myth Revisited**
   * **Author**: Michael E. Gerber
   * **Description**:
-* [In Queue] Bold: How To Go Big, Create Wealth And Impact The World
+* [In Queue] **Bold: How To Go Big, Create Wealth And Impact The World**
   * **Authors**: P. Diamandis and S. Kotler
   * **Description**:
-* [In Queue] The Talent Code: Greatness Isn’t Born. It’s Grown. Here’s How.
+* [In Queue] **The Talent Code: Greatness Isn’t Born. It’s Grown. Here’s How.**
   * **Author**: Daniel Coyle
   * **Description**:
-* [In Queue] Eleven Rings: The Soul Of Success
+* [In Queue] **Eleven Rings: The Soul Of Success****
   * **Author**: Phil Jackson
   * **Description**:
-* [In Queue] Onward: How Starbucks Fought For Its Life Without Losing Its Soul
+* [In Queue] **Onward: How Starbucks Fought For Its Life Without Losing Its Soul**
   * **Author**: Howard Schultz
   * **Description**:
-* [In Queue] Leaders Eat Last
+* [In Queue] **Leaders Eat Last**
   * **Author**: Simon Sinek
   * **Description**:
-* [In Queue] Mastery
+* [In Queue] **Mastery**
   * **Author**: Robert Greene
   * **Description**:
-* [In Queue] The Brain That Changes Itself
+* [In Queue] **The Brain That Changes Itself**
   * **Author**: Norman Doidge
   * **Description**:
-* [In Queue] Zero To One: Notes On Start-Ups, Or How To Build The Future
+* [In Queue] **Zero To One: Notes On Start-Ups, Or How To Build The Future**
   * **Author**: Peter Thiel
   * **Description**:
-* [In Queue] Incognito: The Secret Lives Of The Brain
+* [In Queue] **Incognito: The Secret Lives Of The Brain**
   * **Author**: David Eagleman
   * **Description**:
-* [In Queue] Predictably Irrational: The Hidden Forces That Shape Our Decisions
+* [In Queue] **Predictably Irrational: The Hidden Forces That Shape Our Decisions**
   * **Author**: Dan Ariely
   * **Description**:
-* [In Queue] The Power Of Myth
+* [In Queue] **The Power Of Myth**
   * **Author**: Joseph Campbell
   * **Description**:
-* [In Queue] Antifragile: Things That Gain From Disorder
+* [In Queue] **Antifragile: Things That Gain From Disorder**
   * **Author**: Nassim Nicholas Taleb
   * **Description**:
-* [In Queue] The Moral Animal
+* [In Queue] **The Moral Animal**
   * **Author**: Robert Wright
   * **Description**:
-* [In Queue] Phantoms In The Brain: Probing The Mysteries Of The Human Mind
+* [In Queue] **Phantoms In The Brain: Probing The Mysteries Of The Human Mind**
   * **Author**: V.S. Ramachandran
   * **Description**:
-* [In Queue] Disrupt You!: Master Personal Transformation, Seize Opportunity, And Thrive In The Era Of Endless Innovation
+* [In Queue] **Disrupt You!: Master Personal Transformation, Seize Opportunity, And Thrive In The Era Of Endless Innovation**
   * **Author**: Jay Samit
   * **Description**:
 
@@ -387,299 +387,299 @@ I have provided/will provide links to summary notes for works of literature that
 The following works of literature that I have read or I am planning on reading are centered around understanding the human condition. The human condition is all of the characteristics and key events that compose the essentials of human existence, including birth, growth, emotion, aspiration, conflict, and mortality.
 
 I have provided/will provide links to summary notes for works of literature that I have/will read below.
-* [In Queue] East of Eden by John Steinbeck
-  * **Author**:
+* [In Queue] **East of Eden**
+  * **Author**: John Steinbeck
   * **Description**:
-* [In Queue] America Is in the Heart by Carlos Bulosan
-  * **Author**:
+* [In Queue] **America Is in the Heart**
+  * **Author**: Carlos Bulosan
   * **Description**:
-* [In Queue] Wuthering Heights by Emily Bronte
-  * **Author**:
+* [In Queue] **Wuthering Heights**
+  * **Author**: Emily Bronte
   * **Description**:
-* [In Queue] Little Women by Louisa May Alcott
-  * **Author**:
+* [In Queue] **Little Women**
+  * **Author**: Louisa May Alcott
   * **Description**:
-* [In Queue] Cane by Jean Toomer
-  * **Author**:
+* [In Queue] **Cane**
+  * **Author**: Jean Toomer
   * **Description**:
-* [In Queue] Twelve Years a Slave by Solomon Northup
-  * **Author**:
+* [In Queue] **Twelve Years a Slave**
+  * **Author**: Solomon Northup
   * **Description**:
-* [In Queue] Devil on the Cross by Ngugi wa Thiong’o
-  * **Author**:
+* [In Queue] **Devil on the Cross**
+  * **Author**: Ngugi wa Thiong’o
   * **Description**: 
-* [In Queue] Amiable with Big Teeth by Claude McKay
-  * **Author**:
+* [In Queue] **Amiable with Big Teeth**
+  * **Author**: Claude McKay
   * **Description**:
-* [In Queue] Dark Tales by Shirley Jackson
-  * **Author**:
+* [In Queue] **Dark Tales**
+  * **Author**: Shirley Jackson
   * **Description**:
-* [In Queue] The Joy Luck Club by Amy Tan
-  * **Author**:
+* [In Queue] **The Joy Luck Club**
+  * **Author**: Amy Tan
   * **Description**:
-* [In Queue] The Bloody Chamber by Angela Carter
-  * **Author**:
+* [In Queue] **The Bloody Chamber**
+  * **Author**: Angela Carter
   * **Description**:
-* [In Queue] The Tale of the Heike by [?]
-  * **Author**:
+* [In Queue] **The Tale of the Heike**
+  * **Author**: [?]
   * **Description**:
-* [In Queue] The River Between by Ngugi wa Thiong’o
-  * **Author**:
+* [In Queue] **The River Between**
+  * **Author**: Ngugi wa Thiong’o
   * **Description**:
-* [In Queue] Les Miserables by Victor Hugo
-  * **Author**:
+* [In Queue] **Les Miserables**
+  * **Author**: Victor Hugo
   * **Description**:
-* [In Queue] Something to Remember Me By by Saul Bellow
-  * **Author**:
+* [In Queue] **Something to Remember Me By**
+  * **Author**: Saul Bellow
   * **Description**:
-* [In Queue] Narrative of the Life of Frederick Douglass, an American Slave by Frederick Douglass
-  * **Author**:
+* [In Queue] **Narrative of the Life of Frederick Douglass, an American Slave**
+  * **Author**: Frederick Douglass
   * **Description**:
-* [In Queue] On Being Different by Merle Miller
-  * **Author**:
+* [In Queue] **On Being Different**
+  * **Author**: Merle Miller
   * **Description**:
-* [In Queue] My Inventions and Other Writings by Nikola Tesla
-  * **Author**:
+* [In Queue] **My Inventions and Other Writings**
+  * **Author**: Nikola Tesla
   * **Description**:
-* [In Queue] The Beautiful and Damned by F. Scott Fitzgerald
-  * **Author**:
+* [In Queue] **The Beautiful and Damned**
+  * **Author**: F. Scott Fitzgerald
   * **Description**:
-* [In Queue] The Adventures of Huckleberry Finn by Mark Twain
-  * **Author**:
+* [In Queue] **The Adventures of Huckleberry Finn**
+  * **Author**: Mark Twain
   * **Description**:
-* [In Queue] Revolutionary Suicide by Huey P. Newton
-  * **Author**:
+* [In Queue] **Revolutionary Suicide**
+  * **Author**: Huey P. Newton
   * **Description**:
-* [In Queue] Pride and Prejudice by Jane Austen
-  * **Author**:
+* [In Queue] **Pride and Prejudice**
+  * **Author**: Jane Austen
   * **Description**:
-* [In Queue] Candide by Francois Voltaire
-  * **Author**:
+* [In Queue] **Candide**
+  * **Author**: Francois Voltaire
   * **Description**:
-* [In Queue] Lady Chatterley’s Lover by D. H. Lawrence
-  * **Author**:
+* [In Queue] **Lady Chatterley’s Lover**
+  * **Author**: D. H. Lawrence
   * **Description**:
-* [In Queue] The Snow Leopard by Peter Matthiessen
-  * **Author**:
+* [In Queue] **The Snow Leopard**
+  * **Author**: Peter Matthiessen
   * **Description**:
-* [In Queue] On the Road: the Original Scroll by Jack Kerouac
-  * **Author**:
+* [In Queue] **On the Road: the Original Scroll**
+  * **Author**: Jack Kerouac
   * **Description**:
-* [In Queue] Metamorphosis and Other Stories by Franz Kafka
-  * **Author**:
+* [In Queue] **Metamorphosis and Other Stories**
+  * **Author**: Franz Kafka
   * **Description**:
-* [In Queue] The Pillow Book by Sei Shonagon
-  * **Author**:
+* [In Queue] **The Pillow Book**
+  * **Author**: Sei Shonagon
   * **Description**:
-* [In Queue] Under the Sea-Wind by Rachel L. Carson
-  * **Author**:
+* [In Queue] **Under the Sea-Wind**
+  * **Author**: Rachel L. Carson
   * **Description**:
-* [In Queue] Ceremony by Leslie Marmon Silko
-  * **Author**:
+* [In Queue] **Ceremony**
+  * **Author**: Leslie Marmon Silko
   * **Description**:
-* [In Queue] The Haunting of Hill House by Shirley Jackson
-  * **Author**:
+* [In Queue] **The Haunting of Hill House**
+  * **Author**: Shirley Jackson
   * **Description**:
-* [In Queue] The Odyssey by Homer
-  * **Author**:
+* [In Queue] **The Odyssey**
+  * **Author**: Homer
   * **Description**:
-* [In Queue] Gravity’s Rainbow by Thomas Pynchon
-  * **Author**:
+* [In Queue] **Gravity’s Rainbow**
+  * **Author**: Thomas Pynchon
   * **Description**:
-* [In Queue] The Divine Comedy by Dante Alighieri
-  * **Author**:
+* [In Queue] **The Divine Comedy**
+  * **Author**: Dante Alighieri
   * **Description**:
-* [In Queue] Twelve Angry Men by Reginald Rose
-  * **Author**:
+* [In Queue] **Twelve Angry Men**
+  * **Author**: Reginald Rose
   * **Description**:
-* [In Queue] Jane Eyre by Charlotte Bronte
-  * **Author**:
+* [In Queue] **Jane Eyre**
+  * **Author**: Charlotte Bronte
   * **Description**:
-* [In Queue] The Death of Ivan Ilyich and Other Stories by Leo Tolstoy
-  * **Author**:
+* [In Queue] **The Death of Ivan Ilyich and Other Stories**
+  * **Author**: Leo Tolstoy
   * **Description**:
-* [In Queue] Kokoro by Natsume Soseki
-  * **Author**:
+* [In Queue] **Kokoro**
+  * **Author**: Natsume Soseki
   * **Description**:
-* [In Queue] Therese Raquin by Emile Zola
-  * **Author**:
+* [In Queue] **Therese Raquin**
+  * **Author**: Emile Zola
   * **Description**:
-* [In Queue] The Quiet American by Graham Greene
-  * **Author**:
+* [In Queue] **The Quiet American**
+  * **Author**: Graham Greene
   * **Description**:
-* [In Queue] The Aleph and Other Stories by Jorge Luis Borges
-  * **Author**:
+* [In Queue] **The Aleph and Other Stories**
+  * **Author**: Jorge Luis Borges
   * **Description**:
-* [In Queue] Anna Karenina by Leo Tolstoy
-  * **Author**:
+* [In Queue] **Anna Karenina**
+  * **Author**: Leo Tolstoy
   * **Description**:
-* [In Queue] East Goes West by Younghill Kang
-  * **Author**:
+* [In Queue] **East Goes West**
+  * **Author**: Younghill Kang
   * **Description**:
-* [In Queue] Veinte poemas de amor y una canción desesperada by Pablo Neruda
-  * **Author**:
+* [In Queue] **Veinte poemas de amor y una canción desesperada**
+  * **Author**: Pablo Neruda
   * **Description**:
-* [In Queue] Sixty Stories by Donald Barthelme
-  * **Author**:
+* [In Queue] **Sixty Stories**
+  * **Author**: Donald Barthelme
   * **Description**:
-* [In Queue] The Art of War by Sun Tzu and Thomas Cleary
-  * **Author**:
+* [In Queue] **The Art of War**
+  * **Authors**: Sun Tzu and Thomas Cleary
   * **Description**:
-* [In Queue] The Hanging on Union Square by H. T. Tsiang
-  * **Author**:
+* [In Queue] **The Hanging on Union Square**
+  * **Author**: H. T. Tsiang
   * **Description**:
-* [In Queue] The Count of Monte Cristo by Alexandre Dumas
-  * **Author**:
+* [In Queue] **The Count of Monte Cristo**
+  * **Author**: Alexandre Dumas
   * **Description**:
-* [In Queue] Frankenstein by Mary Shelley
-  * **Author**:
+* [In Queue] **Frankenstein**
+  * **Author**: Mary Shelley
   * **Description**:
-* [In Queue] Utopia by Thomas More
-  * **Author**:
+* [In Queue] **Utopia**
+  * **Author**: Thomas More
   * **Description**:
-* [In Queue] Lysistrata and Other Plays by Aristophanes
-  * **Author**:
+* [In Queue] **Lysistrata and Other Plays**
+  * **Author**: Aristophanes
   * **Description**:
-* [In Queue] Dracula by Bram Stoker
-  * **Author**:
+* [In Queue] **Dracula**
+  * **Author**: Bram Stoker
   * **Description**:
-* [In Queue] Robinson Crusoe by Daniel Defoe
-  * **Author**:
+* [In Queue] **Robinson Crusoe**
+  * **Author**: Daniel Defoe
   * **Description**:
-* [In Queue] Alice’s Adventures in Wonderland and Through the Looking Glass by Lewis Carroll
-  * **Author**:
+* [In Queue] **Alice’s Adventures in Wonderland and Through the Looking Glass**
+  * **Author**: Lewis Carroll
   * **Description**:
-* [In Queue] The Last Days of Socrates by Plato
-  * **Author**:
+* [In Queue] **The Last Days of Socrates**
+  * **Author**: Plato
   * **Description**:
-* [In Queue] The Crucible by Arthur Miller
-  * **Author**:
+* [In Queue] **The Crucible**
+  * **Author**: Arthur Miller
   * **Description**:
-* [In Queue] Middlemarch by George Eliot
-  * **Author**:
+* [In Queue] **Middlemarch**
+  * **Author**: George Eliot
   * **Description**:
-* [In Queue] The Bhagavad Gita by Anonymous
-  * **Author**:
+* [In Queue] **The Bhagavad Gita**
+  * **Author**: Anonymous
   * **Description**:
-* [In Queue] Gulliver’s Travels by Jonathan Swift
-  * **Author**:
+* [In Queue] **Gulliver’s Travels**
+  * **Author**: Jonathan Swift
   * **Description**:
-* [In Queue] Don Quixote by Miguel De Cervantes Saavedra
-  * **Author**:
+* [In Queue] **Don Quixote**
+  * **Author**: Miguel De Cervantes Saavedra
   * **Description**:
-* [In Queue] Herzog by Saul Bellow
-  * **Author**:
+* [In Queue] **Herzog**
+  * **Author**: Saul Bellow
   * **Description**:
-* [In Queue] The Canterbury Tales by Geoffrey Chaucer
-  * **Author**:
+* [In Queue] **The Canterbury Tales**
+  * **Author**: Geoffrey Chaucer
   * **Description**:
-* [In Queue] Pygmalion by George Bernard Shaw
-  * **Author**:
+* [In Queue] **Pygmalion**
+  * **Author**: George Bernard Shaw
   * **Description**:
-* [In Queue] Passing by Nella Larsen
-  * **Author**:
+* [In Queue] **Passing**
+  * **Author**: Nella Larsen
   * **Description**:
-* [In Queue] The Prince by Niccolo Machiavelli
-  * **Author**:
+* [In Queue] **The Prince**
+  * **Author**: Niccolo Machiavelli
   * **Description**:
-* [In Queue] The Picture of Dorian Gray by Oscar Wilde
-  * **Author**:
+* [In Queue] **The Picture of Dorian Gray**
+  * **Author**: Oscar Wilde
   * **Description**:
-* [In Queue] Great Expectations by Charles Dickens
-  * **Author**:
+* [In Queue] **Great Expectations**
+  * **Author**: Charles Dickens
   * **Description**:
-* [In Queue] Madame Bovary by Gustave Flaubert
-  * **Author**:
+* [In Queue] **Madame Bovary**
+  * **Author**: Gustave Flaubert
   * **Description**:
-* [In Queue] Moby-Dick by Herman Melville and Coralie Bickford-Smith
-  * **Author**:
+* [In Queue] **Moby-Dick**
+  * **Authors**: Herman Melville and Coralie Bickford-Smith
   * **Description**:
-* [In Queue] Siddhartha by Hermann Hesse
-  * **Author**:
+* [In Queue] **Siddhartha**
+  * **Author**: Hermann Hesse
   * **Description**:
-* [In Queue] One Flew Over the Cuckoo’s Nest by Ken Kesey
-  * **Author**:
+* [In Queue] **One Flew Over the Cuckoo’s Nest**
+  * **Author**: Ken Kesey
   * **Description**:
-* [In Queue] The Scarlet Letter by Nathaniel Hawthorne
-  * **Author**:
+* [In Queue] **The Scarlet Letter**
+  * **Author**: Nathaniel Hawthorne
   * **Description**:
-* [In Queue] The Tale of Genji by Murasaki Shikibu
-  * **Author**:
+* [In Queue] **The Tale of Genji**
+  * **Author**: Murasaki Shikibu
   * **Description**:
-* [In Queue] The Communist Manifesto by Karl Marx and Friedrich Engels
-  * **Author**:
+* [In Queue] **The Communist Manifesto**
+  * **Author**: Karl Marx and Friedrich Engels
   * **Description**:
-* [In Queue] Hamlet by William Shakespeare
-  * **Author**:
+* [In Queue] **Hamlet**
+  * **Author**: William Shakespeare
   * **Description**:
-* [In Queue] A Room with a View by E. M. Forster
-  * **Author**:
+* [In Queue] **A Room with a View**
+  * **Author**: E. M. Forster
   * **Description**:
-* [In Queue] Treasure Island by Robert Louis Stevenson
-  * **Author**:
+* [In Queue] **Treasure Island**
+  * **Author**: Robert Louis Stevenson
   * **Description**:
-* [In Queue] Personal Memoirs by Ulysses S. Grant
-  * **Author**:
+* [In Queue] **Personal Memoirs**
+  * **Author**: Ulysses S. Grant
   * **Description**:
-* [In Queue] The Souls of Black Folk by W. E. B. Du Bois
-  * **Author**:
+* [In Queue] **The Souls of Black Folk**
+  * **Author**: W. E. B. Du Bois
   * **Description**:
-* [In Queue] The Age of Innocence by Edith Wharton
-  * **Author**:
+* [In Queue] **The Age of Innocence**
+  * **Author**: Edith Wharton
   * **Description**:
-* [In Queue] Of Mice and Men by John Steinbeck
-  * **Author**:
+* [In Queue] **Of Mice and Men**
+  * **Author**: John Steinbeck
   * **Description**:
-* [In Queue] The Stonewall Reader by [?]
-  * **Author**:
+* [In Queue] **The Stonewall Reader**
+  * **Author**: [?]
   * **Description**:
-* [In Queue] My Antonia by Willa Cather
-  * **Author**:
+* [In Queue] **My Antonia**
+  * **Author**: Willa Cather
   * **Description**:
-* [In Queue] Dubliners by James Joyce
-  * **Author**:
+* [In Queue] **Dubliners**
+  * **Author**: James Joyce
   * **Description**:
-* [In Queue] The Joy Luck Club by Amy Tan
-  * **Author**:
+* [In Queue] **The Joy Luck Club**
+  * **Author**: Amy Tan
   * **Description**:
-* [In Queue] The Last of the Mohicans by James Fenimore Cooper
-  * **Author**:
+* [In Queue] **The Last of the Mohicans**
+  * **Author**: James Fenimore Cooper
   * **Description**:
-* [In Queue] Fear and Trembling by Soren Kierkegaard
-  * **Author**:
+* [In Queue] **Fear and Trembling**
+  * **Author**: Soren Kierkegaard
   * **Description**:
-* [In Queue] The Jungle by Upton Sinclair
-  * **Author**:
+* [In Queue] **The Jungle**
+  * **Author**: Upton Sinclair
   * **Description**:
-* [In Queue] Walden and Civil Disobedience by Henry David Thoreau
-  * **Author**:
+* [In Queue] **Walden and Civil Disobedience**
+  * **Author**: Henry David Thoreau
   * **Description**:
-* [In Queue] Uncle Tom’s Cabin by Harriet Beecher Stowe
-  * **Author**:
+* [In Queue] **Uncle Tom’s Cabin**
+  * **Author**: Harriet Beecher Stowe
   * **Description**:
-* [In Queue] The Analects by Confucius
-  * **Author**:
+* [In Queue] **The Analects**
+  * **Author**: Confucius
   * **Description**:
-* [In Queue] Confessions by Augustine of Hippo
-  * **Author**:
+* [In Queue] **Confessions**
+  * **Author**: Augustine of Hippo
   * **Description**:
-* [In Queue] Leaves of Grass by Walt Whitman
-  * **Author**:
+* [In Queue] **Leaves of Grass**
+  * **Author**: Walt Whitman
   * **Description**:
-* [In Queue] The Epic of Gilgamesh by [?]
-  * **Author**:
+* [In Queue] **The Epic of Gilgamesh**
+  * **Author**: [?]
   * **Description**:
-* [In Queue] The Travels by Marco Polo
-  * **Author**:
+* [In Queue] **The Travels**
+  * **Author**: Marco Polo
   * **Description**:
-* [In Queue] The Song of Roland by Anonymous
-  * **Author**:
+* [In Queue] **The Song of Roland**
+  * **Author**: Anonymous
   * **Description**:
-* [In Queue] Beowulf by Anonymous
-  * **Author**:
+* [In Queue] **Beowulf**
+  * **Author**: Anonymous
   * **Description**:
-* [In Queue] The Song of Kieu by Du Nguyen
-  * **Author**:
+* [In Queue] **The Song of Kieu**
+  * **Author**: Du Nguyen
   * **Description**:
 
 ### Academic Development History and Pursuits
