@@ -294,393 +294,520 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
 The following works of literature that I have read or I am planning on reading are centred around the development of a growth and an antifragile mindset. Individuals who believe their talents can be developed (i.e. through hard work, good strategies, and input from others) have a growth mindset. They tend to achieve more than those with a more fixed mindset (i.e. those who believe their talents are innate gifts). Antifragility is defined as being resilient or adaptive in the face of extreme stressors, chaos, and disorder.
 
 I have provided/will provide links to summary notes for works of literature that I have/will read below.
-* [In Queue] **Mindset: The New Psychology**
+* [In Queue] [**Mindset: The New Psychology**]()
   * **Author**: Carol Dweck
   * **Description**:
-* [In Queue] **Extreme Ownership: How U.S. Navy Seals Lead And Win**
+  * [**Summary Notes**]()
+* [In Queue] [**Extreme Ownership: How U.S. Navy Seals Lead And Win**]()
   * **Authors**: Jocko Willink and Leif Babin
   * **Description**:
-* [In Queue] **Can’t Hurt Me: Master Your Mind And Defy The Odds**
+  * [**Summary Notes**]()
+* [In Queue] [**Can’t Hurt Me: Master Your Mind And Defy The Odds**]()
   * **Author**: David Goggins
   * **Description**:
-* [In Queue] **Man’s Search For Meaning**
+  * [**Summary Notes**]()
+* [In Queue] [**Man’s Search For Meaning**]()
   * **Author**: Viktor Frankl
   * **Description**:
-* [In Queue] **Grit: The Power Of Passion And Perseverance**
+  * [**Summary Notes**]()
+* [In Queue] [**Grit: The Power Of Passion And Perseverance**]()
   * **Author**: **Angela Duckworth**
   * **Description**:
-* [In Queue] **Principles**
+  * [**Summary Notes**]()
+* [In Queue] [**Principles**]()
   * **Author**: Ray Dalio
   * **Description**:
-* [In Queue] **Sometimes You Win Sometimes You Learn**
+  * [**Summary Notes**]()
+* [In Queue] [**Sometimes You Win Sometimes You Learn**]()
   * **Author**: John Maxwell
   * **Description**:
-* [In Queue] **The Obstacle Is The Way: The Timeless Art Of Turning Trials Into Triumph**
+  * [**Summary Notes**]()
+* [In Queue] [**The Obstacle Is The Way: The Timeless Art Of Turning Trials Into Triumph**]()
   * **Author**: Ryan Holiday
   * **Description**:
-* [In Queue] **Linchpin: Are You Indispensable?**
+  * [**Summary Notes**]()
+* [In Queue] [**Linchpin: Are You Indispensable?**]()
   * **Author**: Seth Godin
   * **Description**:
-* [In Queue] **Relentless: From Good To Great To Unstoppable**
+  * [**Summary Notes**]()
+* [In Queue] [**Relentless: From Good To Great To Unstoppable**]()
   * **Author**: Tim Grover
   * **Description**:
-* [In Queue] **Start With Why: How Great Leaders Inspire Everyone To Take Action**
+  * [**Summary Notes**]()
+* [In Queue] [**Start With Why: How Great Leaders Inspire Everyone To Take Action**]()
   * **Author**: Simon Sinek
   * **Description**:
-* [In Queue] **Daring Greatly**
+  * [**Summary Notes**]()
+* [In Queue] [**Daring Greatly**]()
   * **Author**: Brene Brown
   * **Description**:
-* [In Queue] **Think And Grow Rich**
+  * [**Summary Notes**]()
+* [In Queue] [**Think And Grow Rich**]()
   * **Author**: Napoleon Hill
   * **Description**:
-* [In Queue] **The E Myth Revisited**
+  * [**Summary Notes**]()
+* [In Queue] [**The E Myth Revisited**]()
   * **Author**: Michael E. Gerber
   * **Description**:
-* [In Queue] **Bold: How To Go Big, Create Wealth And Impact The World**
+  * [**Summary Notes**]()
+* [In Queue] [**Bold: How To Go Big, Create Wealth And Impact The World**]()
   * **Authors**: P. Diamandis and S. Kotler
   * **Description**:
-* [In Queue] **The Talent Code: Greatness Isn’t Born. It’s Grown. Here’s How.**
+  * [**Summary Notes**]()
+* [In Queue] [**The Talent Code: Greatness Isn’t Born. It’s Grown. Here’s How.**]()
   * **Author**: Daniel Coyle
   * **Description**:
-* [In Queue] **Eleven Rings: The Soul Of Success****
+  * [**Summary Notes**]()
+* [In Queue] [**Eleven Rings: The Soul Of Success**]()
   * **Author**: Phil Jackson
   * **Description**:
-* [In Queue] **Onward: How Starbucks Fought For Its Life Without Losing Its Soul**
+  * [**Summary Notes**]()
+* [In Queue] [**Onward: How Starbucks Fought For Its Life Without Losing Its Soul**]()
   * **Author**: Howard Schultz
   * **Description**:
-* [In Queue] **Leaders Eat Last**
+  * [**Summary Notes**]()
+* [In Queue] [**Leaders Eat Last**]()
   * **Author**: Simon Sinek
   * **Description**:
-* [In Queue] **Mastery**
+  * [**Summary Notes**]()
+* [In Queue] [**Mastery**]()
   * **Author**: Robert Greene
   * **Description**:
-* [In Queue] **The Brain That Changes Itself**
+  * [**Summary Notes**]()
+* [In Queue] [**The Brain That Changes Itself**]()
   * **Author**: Norman Doidge
   * **Description**:
-* [In Queue] **Zero To One: Notes On Start-Ups, Or How To Build The Future**
+  * [**Summary Notes**]()
+* [In Queue] [**Zero To One: Notes On Start-Ups, Or How To Build The Future**]()
   * **Author**: Peter Thiel
   * **Description**:
-* [In Queue] **Incognito: The Secret Lives Of The Brain**
+  * [**Summary Notes**]()
+* [In Queue] [**Incognito: The Secret Lives Of The Brain**]()
   * **Author**: David Eagleman
   * **Description**:
-* [In Queue] **Predictably Irrational: The Hidden Forces That Shape Our Decisions**
+  * [**Summary Notes**]()
+* [In Queue] [**Predictably Irrational: The Hidden Forces That Shape Our Decisions**]()
   * **Author**: Dan Ariely
   * **Description**:
-* [In Queue] **The Power Of Myth**
+  * [**Summary Notes**]()
+* [In Queue] [**The Power Of Myth**]()
   * **Author**: Joseph Campbell
   * **Description**:
-* [In Queue] **Antifragile: Things That Gain From Disorder**
+  * [**Summary Notes**]()
+* [In Queue] [**Antifragile: Things That Gain From Disorder**]()
   * **Author**: Nassim Nicholas Taleb
   * **Description**:
-* [In Queue] **The Moral Animal**
+  * [**Summary Notes**]()
+* [In Queue] [**The Moral Animal**]()
   * **Author**: Robert Wright
   * **Description**:
-* [In Queue] **Phantoms In The Brain: Probing The Mysteries Of The Human Mind**
+  * [**Summary Notes**]()
+* [In Queue] [**Phantoms In The Brain: Probing The Mysteries Of The Human Mind**]()
   * **Author**: V.S. Ramachandran
   * **Description**:
-* [In Queue] **Disrupt You!: Master Personal Transformation, Seize Opportunity, And Thrive In The Era Of Endless Innovation**
+  * [**Summary Notes**]()
+* [In Queue] [**Disrupt You!: Master Personal Transformation, Seize Opportunity, And Thrive In The Era Of Endless Innovation**]()
   * **Author**: Jay Samit
   * **Description**:
+  * [**Summary Notes**]()
 
 **Timeless Non-Fiction Literature**:
 
 The following works of literature that I have read or I am planning on reading are centered around understanding the human condition. The human condition is all of the characteristics and key events that compose the essentials of human existence, including birth, growth, emotion, aspiration, conflict, and mortality.
 
 I have provided/will provide links to summary notes for works of literature that I have/will read below.
-* [In Queue] **East of Eden**
+* [In Queue] [**East of Eden**]()
   * **Author**: John Steinbeck
   * **Description**:
-* [In Queue] **America Is in the Heart**
+  * [**Summary Notes**]()
+* [In Queue] [**America Is in the Heart**]()
   * **Author**: Carlos Bulosan
   * **Description**:
-* [In Queue] **Wuthering Heights**
+  * [**Summary Notes**]()
+* [In Queue] [**Wuthering Heights**]()
   * **Author**: Emily Bronte
   * **Description**:
-* [In Queue] **Little Women**
+  * [**Summary Notes**]()
+* [In Queue] [**Little Women**]()
   * **Author**: Louisa May Alcott
   * **Description**:
-* [In Queue] **Cane**
+  * [**Summary Notes**]()
+* [In Queue] [**Cane**
   * **Author**: Jean Toomer
   * **Description**:
-* [In Queue] **Twelve Years a Slave**
+  * [**Summary Notes**]()
+* [In Queue] [**Twelve Years a Slave**]()
   * **Author**: Solomon Northup
   * **Description**:
-* [In Queue] **Devil on the Cross**
+  * [**Summary Notes**]()
+* [In Queue] [**Devil on the Cross**]()
   * **Author**: Ngugi wa Thiong’o
   * **Description**: 
-* [In Queue] **Amiable with Big Teeth**
+  * [**Summary Notes**]()
+* [In Queue] [**Amiable with Big Teeth**]()
   * **Author**: Claude McKay
   * **Description**:
-* [In Queue] **Dark Tales**
+  * [**Summary Notes**]()
+* [In Queue] [**Dark Tales**]()
   * **Author**: Shirley Jackson
   * **Description**:
-* [In Queue] **The Joy Luck Club**
+  * [**Summary Notes**]()
+* [In Queue] [**The Joy Luck Club**]()
   * **Author**: Amy Tan
   * **Description**:
-* [In Queue] **The Bloody Chamber**
+  * [**Summary Notes**]()
+* [In Queue] [**The Bloody Chamber**]()
   * **Author**: Angela Carter
   * **Description**:
-* [In Queue] **The Tale of the Heike**
+  * [**Summary Notes**]()
+* [In Queue] [**The Tale of the Heike**]()
   * **Author**: [?]
   * **Description**:
-* [In Queue] **The River Between**
+  * [**Summary Notes**]()
+* [In Queue] [**The River Between**]()]()
   * **Author**: Ngugi wa Thiong’o
   * **Description**:
-* [In Queue] **Les Miserables**
+  * [**Summary Notes**]()
+* [In Queue] [**Les Miserables**]()
   * **Author**: Victor Hugo
   * **Description**:
-* [In Queue] **Something to Remember Me By**
+  * [**Summary Notes**]()
+* [In Queue] [**Something to Remember Me By**]()
   * **Author**: Saul Bellow
   * **Description**:
-* [In Queue] **Narrative of the Life of Frederick Douglass, an American Slave**
+  * [**Summary Notes**]()
+* [In Queue] [**Narrative of the Life of Frederick Douglass, an American Slave**]()
   * **Author**: Frederick Douglass
   * **Description**:
-* [In Queue] **On Being Different**
+  * [**Summary Notes**]()
+* [In Queue] [**On Being Different**]()
   * **Author**: Merle Miller
   * **Description**:
-* [In Queue] **My Inventions and Other Writings**
+  * [**Summary Notes**]()
+* [In Queue] [**My Inventions and Other Writings**]()
   * **Author**: Nikola Tesla
   * **Description**:
-* [In Queue] **The Beautiful and Damned**
+  * [**Summary Notes**]()
+* [In Queue] [**The Beautiful and Damned**]()
   * **Author**: F. Scott Fitzgerald
   * **Description**:
-* [In Queue] **The Adventures of Huckleberry Finn**
+  * [**Summary Notes**]()
+* [In Queue] [**The Adventures of Huckleberry Finn**]()
   * **Author**: Mark Twain
   * **Description**:
-* [In Queue] **Revolutionary Suicide**
+  * [**Summary Notes**]()
+* [In Queue] [**Revolutionary Suicide**]()
   * **Author**: Huey P. Newton
   * **Description**:
-* [In Queue] **Pride and Prejudice**
+  * [**Summary Notes**]()
+* [In Queue] [**Pride and Prejudice**]()
   * **Author**: Jane Austen
   * **Description**:
-* [In Queue] **Candide**
+  * [**Summary Notes**]()
+* [In Queue] [**Candide**]()
   * **Author**: Francois Voltaire
   * **Description**:
-* [In Queue] **Lady Chatterley’s Lover**
+  * [**Summary Notes**]()
+* [In Queue] [**Lady Chatterley’s Lover**]()
   * **Author**: D. H. Lawrence
   * **Description**:
-* [In Queue] **The Snow Leopard**
+  * [**Summary Notes**]()
+* [In Queue] [**The Snow Leopard**]()
   * **Author**: Peter Matthiessen
   * **Description**:
-* [In Queue] **On the Road: the Original Scroll**
+  * [**Summary Notes**]()
+* [In Queue] [**On the Road: the Original Scroll**]()
   * **Author**: Jack Kerouac
   * **Description**:
-* [In Queue] **Metamorphosis and Other Stories**
+  * [**Summary Notes**]()
+* [In Queue] [**Metamorphosis and Other Stories**]()
   * **Author**: Franz Kafka
   * **Description**:
-* [In Queue] **The Pillow Book**
+  * [**Summary Notes**]()
+* [In Queue] [**The Pillow Book**]()
   * **Author**: Sei Shonagon
   * **Description**:
-* [In Queue] **Under the Sea-Wind**
+  * [**Summary Notes**]()
+* [In Queue] [**Under the Sea-Wind**]()
   * **Author**: Rachel L. Carson
   * **Description**:
-* [In Queue] **Ceremony**
+  * [**Summary Notes**]()
+* [In Queue] [**Ceremony**]()
   * **Author**: Leslie Marmon Silko
   * **Description**:
-* [In Queue] **The Haunting of Hill House**
+  * [**Summary Notes**]()
+* [In Queue] [**The Haunting of Hill House**]()
   * **Author**: Shirley Jackson
   * **Description**:
-* [In Queue] **The Odyssey**
+  * [**Summary Notes**]()
+* [In Queue] [**The Odyssey**]()
   * **Author**: Homer
   * **Description**:
-* [In Queue] **Gravity’s Rainbow**
+  * [**Summary Notes**]()
+* [In Queue] [**Gravity’s Rainbow**]()
   * **Author**: Thomas Pynchon
   * **Description**:
-* [In Queue] **The Divine Comedy**
+  * [**Summary Notes**]()
+* [In Queue] [**The Divine Comedy**]()
   * **Author**: Dante Alighieri
   * **Description**:
-* [In Queue] **Twelve Angry Men**
+  * [**Summary Notes**]()
+* [In Queue] [**Twelve Angry Men**]()
   * **Author**: Reginald Rose
   * **Description**:
-* [In Queue] **Jane Eyre**
+  * [**Summary Notes**]()
+* [In Queue] [**Jane Eyre**]()
   * **Author**: Charlotte Bronte
   * **Description**:
-* [In Queue] **The Death of Ivan Ilyich and Other Stories**
+  * [**Summary Notes**]()
+* [In Queue] [**The Death of Ivan Ilyich and Other Stories**]()
   * **Author**: Leo Tolstoy
   * **Description**:
-* [In Queue] **Kokoro**
+  * [**Summary Notes**]()
+* [In Queue] [**Kokoro**]()
   * **Author**: Natsume Soseki
   * **Description**:
-* [In Queue] **Therese Raquin**
+  * [**Summary Notes**]()
+* [In Queue] [**Therese Raquin**]()
   * **Author**: Emile Zola
   * **Description**:
-* [In Queue] **The Quiet American**
+  * [**Summary Notes**]()
+* [In Queue] [**The Quiet American**]()
   * **Author**: Graham Greene
   * **Description**:
-* [In Queue] **The Aleph and Other Stories**
+  * [**Summary Notes**]()
+* [In Queue] [**The Aleph and Other Stories**]()
   * **Author**: Jorge Luis Borges
   * **Description**:
-* [In Queue] **Anna Karenina**
+  * [**Summary Notes**]()
+* [In Queue] [**Anna Karenina**]()
   * **Author**: Leo Tolstoy
   * **Description**:
-* [In Queue] **East Goes West**
+  * [**Summary Notes**]()
+* [In Queue] [**East Goes West**]()
   * **Author**: Younghill Kang
   * **Description**:
-* [In Queue] **Veinte poemas de amor y una canción desesperada**
+  * [**Summary Notes**]()
+* [In Queue] [**Veinte poemas de amor y una canción desesperada**]()
   * **Author**: Pablo Neruda
   * **Description**:
-* [In Queue] **Sixty Stories**
+  * [**Summary Notes**]()
+* [In Queue] [**Sixty Stories**]()
   * **Author**: Donald Barthelme
   * **Description**:
-* [In Queue] **The Art of War**
+  * [**Summary Notes**]()
+* [In Queue] [**The Art of War**]()
   * **Authors**: Sun Tzu and Thomas Cleary
   * **Description**:
-* [In Queue] **The Hanging on Union Square**
+  * [**Summary Notes**]()
+* [In Queue] [**The Hanging on Union Square**]()
   * **Author**: H. T. Tsiang
   * **Description**:
-* [In Queue] **The Count of Monte Cristo**
+  * [**Summary Notes**]()
+* [In Queue] [**The Count of Monte Cristo**]()
   * **Author**: Alexandre Dumas
   * **Description**:
-* [In Queue] **Frankenstein**
+  * [**Summary Notes**]()
+* [In Queue] [**Frankenstein**]()
   * **Author**: Mary Shelley
   * **Description**:
-* [In Queue] **Utopia**
+  * [**Summary Notes**]()
+* [In Queue] [**Utopia**]()
   * **Author**: Thomas More
   * **Description**:
-* [In Queue] **Lysistrata and Other Plays**
+  * [**Summary Notes**]()
+* [In Queue] [**Lysistrata and Other Plays**]()
   * **Author**: Aristophanes
   * **Description**:
-* [In Queue] **Dracula**
+  * [**Summary Notes**]()
+* [In Queue] [**Dracula**]()
   * **Author**: Bram Stoker
   * **Description**:
-* [In Queue] **Robinson Crusoe**
+  * [**Summary Notes**]()
+* [In Queue] [**Robinson Crusoe**]()
   * **Author**: Daniel Defoe
   * **Description**:
-* [In Queue] **Alice’s Adventures in Wonderland and Through the Looking Glass**
+  * [**Summary Notes**]()
+* [In Queue] [**Alice’s Adventures in Wonderland and Through the Looking Glass**]()
   * **Author**: Lewis Carroll
   * **Description**:
-* [In Queue] **The Last Days of Socrates**
+  * [**Summary Notes**]()
+* [In Queue] [**The Last Days of Socrates**]()
   * **Author**: Plato
   * **Description**:
-* [In Queue] **The Crucible**
+  * [**Summary Notes**]()
+* [In Queue] [**The Crucible**]()
   * **Author**: Arthur Miller
   * **Description**:
-* [In Queue] **Middlemarch**
+  * [**Summary Notes**]()
+* [In Queue] [**Middlemarch**]()
   * **Author**: George Eliot
   * **Description**:
-* [In Queue] **The Bhagavad Gita**
+  * [**Summary Notes**]()
+* [In Queue] [**The Bhagavad Gita**]()
   * **Author**: Anonymous
   * **Description**:
-* [In Queue] **Gulliver’s Travels**
+  * [**Summary Notes**]()
+* [In Queue] [**Gulliver’s Travels**]()
   * **Author**: Jonathan Swift
   * **Description**:
-* [In Queue] **Don Quixote**
+  * [**Summary Notes**]()
+* [In Queue] [**Don Quixote**]()
   * **Author**: Miguel De Cervantes Saavedra
   * **Description**:
-* [In Queue] **Herzog**
+  * [**Summary Notes**]()
+* [In Queue] [**Herzog**]()
   * **Author**: Saul Bellow
   * **Description**:
-* [In Queue] **The Canterbury Tales**
+  * [**Summary Notes**]()
+* [In Queue] [**The Canterbury Tales**]()
   * **Author**: Geoffrey Chaucer
   * **Description**:
-* [In Queue] **Pygmalion**
+  * [**Summary Notes**]()
+* [In Queue] [**Pygmalion**]()
   * **Author**: George Bernard Shaw
   * **Description**:
-* [In Queue] **Passing**
+  * [**Summary Notes**]()
+* [In Queue] [**Passing**]()
   * **Author**: Nella Larsen
   * **Description**:
-* [In Queue] **The Prince**
+  * [**Summary Notes**]()
+* [In Queue] [**The Prince**]()
   * **Author**: Niccolo Machiavelli
   * **Description**:
-* [In Queue] **The Picture of Dorian Gray**
+  * [**Summary Notes**]()
+* [In Queue] [**The Picture of Dorian Gray**]()
   * **Author**: Oscar Wilde
   * **Description**:
-* [In Queue] **Great Expectations**
+  * [**Summary Notes**]()
+* [In Queue] [**Great Expectations**]()
   * **Author**: Charles Dickens
   * **Description**:
-* [In Queue] **Madame Bovary**
+  * [**Summary Notes**]()
+* [In Queue] [**Madame Bovary**]()
   * **Author**: Gustave Flaubert
   * **Description**:
-* [In Queue] **Moby-Dick**
+  * [**Summary Notes**]()
+* [In Queue] [**Moby-Dick**]()
   * **Authors**: Herman Melville and Coralie Bickford-Smith
   * **Description**:
-* [In Queue] **Siddhartha**
+  * [**Summary Notes**]()
+* [In Queue] [**Siddhartha**]()
   * **Author**: Hermann Hesse
   * **Description**:
-* [In Queue] **One Flew Over the Cuckoo’s Nest**
+  * [**Summary Notes**]()
+* [In Queue] [**One Flew Over the Cuckoo’s Nest**]()
   * **Author**: Ken Kesey
   * **Description**:
-* [In Queue] **The Scarlet Letter**
+  * [**Summary Notes**]()
+* [In Queue] [**The Scarlet Letter**]()
   * **Author**: Nathaniel Hawthorne
   * **Description**:
-* [In Queue] **The Tale of Genji**
+  * [**Summary Notes**]()
+* [In Queue] [**The Tale of Genji**]()
   * **Author**: Murasaki Shikibu
   * **Description**:
-* [In Queue] **The Communist Manifesto**
+  * [**Summary Notes**]()
+* [In Queue] [**The Communist Manifesto**]()
   * **Author**: Karl Marx and Friedrich Engels
   * **Description**:
-* [In Queue] **Hamlet**
+  * [**Summary Notes**]()
+* [In Queue] [**Hamlet**
   * **Author**: William Shakespeare
   * **Description**:
-* [In Queue] **A Room with a View**
+  * [**Summary Notes**]()
+* [In Queue] [**A Room with a View**]()
   * **Author**: E. M. Forster
   * **Description**:
-* [In Queue] **Treasure Island**
+  * [**Summary Notes**]()
+* [In Queue] [**Treasure Island**]()
   * **Author**: Robert Louis Stevenson
   * **Description**:
-* [In Queue] **Personal Memoirs**
+  * [**Summary Notes**]()
+* [In Queue] [**Personal Memoirs**]()
   * **Author**: Ulysses S. Grant
   * **Description**:
-* [In Queue] **The Souls of Black Folk**
+  * [**Summary Notes**]()
+* [In Queue] [**The Souls of Black Folk**]()
   * **Author**: W. E. B. Du Bois
   * **Description**:
-* [In Queue] **The Age of Innocence**
+  * [**Summary Notes**]()
+* [In Queue] [**The Age of Innocence**]()
   * **Author**: Edith Wharton
   * **Description**:
-* [In Queue] **Of Mice and Men**
+  * [**Summary Notes**]()
+* [In Queue] [**Of Mice and Men**]()
   * **Author**: John Steinbeck
   * **Description**:
-* [In Queue] **The Stonewall Reader**
+  * [**Summary Notes**]()
+* [In Queue] [**The Stonewall Reader**]()
   * **Author**: [?]
   * **Description**:
-* [In Queue] **My Antonia**
+  * [**Summary Notes**]()
+* [In Queue] [**My Antonia**]()
   * **Author**: Willa Cather
   * **Description**:
-* [In Queue] **Dubliners**
+  * [**Summary Notes**]()
+* [In Queue] [**Dubliners**]()
   * **Author**: James Joyce
   * **Description**:
-* [In Queue] **The Joy Luck Club**
+  * [**Summary Notes**]()
+* [In Queue] [**The Joy Luck Club**]()
   * **Author**: Amy Tan
   * **Description**:
-* [In Queue] **The Last of the Mohicans**
+  * [**Summary Notes**]()
+* [In Queue] [**The Last of the Mohicans**]()
   * **Author**: James Fenimore Cooper
   * **Description**:
-* [In Queue] **Fear and Trembling**
+  * [**Summary Notes**]()
+* [In Queue] [**Fear and Trembling**]()
   * **Author**: Soren Kierkegaard
   * **Description**:
-* [In Queue] **The Jungle**
+  * [**Summary Notes**]()
+* [In Queue] [**The Jungle**]()
   * **Author**: Upton Sinclair
   * **Description**:
-* [In Queue] **Walden and Civil Disobedience**
+  * [**Summary Notes**]()
+* [In Queue] [**Walden and Civil Disobedience**]()
   * **Author**: Henry David Thoreau
   * **Description**:
-* [In Queue] **Uncle Tom’s Cabin**
+  * [**Summary Notes**]()
+* [In Queue] [**Uncle Tom’s Cabin**]()
   * **Author**: Harriet Beecher Stowe
   * **Description**:
-* [In Queue] **The Analects**
+  * [**Summary Notes**]()
+* [In Queue] [**The Analects**]()
   * **Author**: Confucius
   * **Description**:
-* [In Queue] **Confessions**
+  * [**Summary Notes**]()
+* [In Queue] [**Confessions**]()
   * **Author**: Augustine of Hippo
   * **Description**:
-* [In Queue] **Leaves of Grass**
+  * [**Summary Notes**]()
+* [In Queue] [**Leaves of Grass**]()
   * **Author**: Walt Whitman
   * **Description**:
-* [In Queue] **The Epic of Gilgamesh**
+  * [**Summary Notes**]()
+* [In Queue] [**The Epic of Gilgamesh**]()
   * **Author**: [?]
   * **Description**:
-* [In Queue] **The Travels**
+  * [**Summary Notes**]()
+* [In Queue] [**The Travels**]()
   * **Author**: Marco Polo
   * **Description**:
-* [In Queue] **The Song of Roland**
+  * [**Summary Notes**]()
+* [In Queue] [**The Song of Roland**]()
   * **Author**: Anonymous
   * **Description**:
-* [In Queue] **Beowulf**
+  * [**Summary Notes**]()
+* [In Queue] [**Beowulf**]()
   * **Author**: Anonymous
   * **Description**:
-* [In Queue] **The Song of Kieu**
+  * [**Summary Notes**]()
+* [In Queue] [**The Song of Kieu**]()
   * **Author**: Du Nguyen
   * **Description**:
+  * [**Summary Notes**]()
 
 ### Academic Development History and Pursuits
 The following academic development history and pursuits section outlines my areas of expertise developed through my enrollment in post-secondary programs and their corresponding courses during my adulthood. 
@@ -1159,54 +1286,198 @@ I have primarily focused on developing my expertise in: web and mobile developme
 The following works of literature that I have read or I am planning on reading are centred around the development of my business management-related acumen. Business management includes all aspects of delegating and overseeing/supervising business operations. Management is the act of allocating resources to accomplish desired goals and objectives efficiently and effectively; it comprises planning, organizing, staffing, leading or directing, and controlling an organization (a group of one or more people or entities) or effort for the purpose of accomplishing a goal.
 
 I have provided/will provide links to summary notes for works of literature that I have/will read below.
-* HBR'S 10 Must Reads: The Essentials
-* HBR's 10 Must Reads on Managing Yourself (with bonus article "How Will You Measure Your Life?" by Clayton M. Christensen)
-* HBR's 10 Must Reads on Managing Yourself, Vol. 2 (with bonus article "Be Your Own Best Advocate" by Deborah M. Kolb)
-* HBR's 10 Must Reads on Lifelong Learning (with bonus article "The Right Mindset for Success" with Carol Dweck)
-* HBR's 10 Must Reads on Making Smart Decisions (with featured article "Before You Make That Big Decision..." by Daniel Kahneman, Dan Lovallo, and Olivier Sibony)
-* HBR’s 10 Must Reads on High Performance (with bonus article "The Right Way to Form New Habits” An interview with James Clear)
-* HBR's 10 Must Reads on Managing Risk (with bonus article "Managing 21st-Century Political Risk" by Condoleezza Rice and Amy Zegart)
-* HBR's 10 Must Reads on Mental Toughness (with bonus interview "Post-Traumatic Growth and Building Resilience" with Martin Seligman) (HBR's 10 Must Reads)
-* HBR's 10 Must Reads on Career Resilience (with bonus article "Reawakening Your Passion for Work" By Richard E. Boyatzis, Annie McKee, and Daniel Goleman)
-* HBR's 10 Must Reads on Creativity (with bonus article "How Pixar Fosters Collective Creativity" By Ed Catmull)
-* HBR's 10 Must Reads on Innovation (with featured article "The Discipline of Innovation," by Peter F. Drucker)
-* HBR's 10 Must Reads on Business Model Innovation (with featured article "Reinventing Your Business Model" by Mark W. Johnson, Clayton M. Christensen, and Henning Kagermann)
-* HBR's 10 Must Reads on Design Thinking (with featured article "Design Thinking" By Tim Brown)
-* HBR's 10 Must Reads on Strategy (including featured article "What Is Strategy?" by Michael E. Porter)
-* HBR's 10 Must Reads on Strategy, Vol. 2 (with bonus article "Creating Shared Value" By Michael E. Porter and Mark R. Kramer)
-* HBR's 10 Must Reads on Strategy for Healthcare (featuring articles by Michael E. Porter and Thomas H. Lee, MD)
-* HBR's 10 Must Reads on Nonprofits and the Social Sectors (featuring "What Business Can Learn from Nonprofits" by Peter F. Drucker)
-* HBR's 10 Must Reads on Strategic Marketing (with featured article "Marketing Myopia," by Theodore Levitt)
-* HBR's 10 Must Reads on Sales (with bonus interview of Andris Zoltners) (HBR's 10 Must Reads)
-* HBR's 10 Must Reads on Communication (with featured article "The Necessary Art of Persuasion," by Jay A. Conger)
-* HBR's 10 Must Reads on Communication, Vol. 2 (with bonus article "Leadership Is a Conversation" by Boris Groysberg and Michael Slind)
-* HBR's 10 Must Reads on Negotiation (with bonus article "15 Rules for Negotiating a Job Offer" by Deepak Malhotra)
-* HBR's 10 Must Reads on Collaboration (with featured article "Social Intelligence and the Biology of Leadership," by Daniel Goleman and Richard Boyatzis)
-* HBR's 10 Must Reads on Teams (with featured article "The Discipline of Teams," by Jon R. Katzenbach and Douglas K. Smith)
-* HBR's 10 Must Reads on Managing People (with featured article "Leadership That Gets Results," by Daniel Goleman)
-* HBR's 10 Must Reads on Managing People, Vol. 2 (with bonus article “The Feedback Fallacy” by Marcus Buckingham and Ashley Goodall)
-* HBR's 10 Must Reads for New Managers (with bonus article “How Managers Become Leaders” by Michael D. Watkins) (HBR's 10 Must Reads)
-* HBR's 10 Must Reads on Emotional Intelligence (with featured article "What Makes a Leader?" by Daniel Goleman)(HBR's 10 Must Reads)
-* HBR's 10 Must Reads on Leadership (with featured article "What Makes an Effective Executive," by Peter F. Drucker)
-* HBR's 10 Must Reads on Leadership, Vol. 2 (with bonus article "The Focused Leader" By Daniel Goleman)
-* HBR's 10 Must Reads on Leadership Lessons from Sports (featuring interviews with Sir Alex Ferguson, Kareem Abdul-Jabbar, Andre Agassi)
-* HBR's 10 Must Reads on Leadership for Healthcare (with bonus article by Thomas H. Lee, MD, and Toby Cosgrove, MD)
-* HBR's 10 Must Reads on Leading Digital Transformation (with bonus article "How Apple Is Organized for Innovation" by Joel M. Podolny and Morten T. Hansen)
-* HBR's 10 Must Reads on Public Speaking and Presenting (with featured article "How to Give a Killer Presentation" By Chris Anderson)
-* HBR's 10 Must Reads on Entrepreneurship and Startups (featuring Bonus Article “Why the Lean Startup Changes Everything” by Steve Blank)
-* HBR's 10 Must Reads on Platforms and Ecosystems (with bonus article by "Why Some Platforms Thrive and Others Don't" By Feng Zhu and Marco Iansiti)
-* HBR's 10 Must Reads for CEOs (with bonus article "Your Strategy Needs a Strategy" by Martin Reeves, Claire Love, and Philipp Tillmanns)
-* HBR's 10 Must Reads on Building a Great Culture (with bonus article "How to Build a Culture of Originality" by Adam Grant)
-* HBR's 10 Must Reads on Managing Across Cultures (with featured article "Cultural Intelligence" by P. Christopher Earley and Elaine Mosakowski)
-* HBR's 10 Must Reads on Organizational Resilience (with bonus article "Organizational Grit" by Thomas H. Lee and Angela L. Duckworth)
-* HBR's 10 Must Reads on Reinventing HR (with bonus article "People Before Strategy" by Ram Charan, Dominic Barton, and Dennis Carey)
-* HBR's 10 Must Reads on AI, Analytics, and the New Machine Age (with bonus article "Why Every Company Needs an Augmented Reality Strategy" by Michael E. Porter and James E. Heppelmann)
-* HBR’s 10 Must Reads on Boards (with bonus article “What Makes Great Boards Great” by Jeffrey A. Sonnenfeld)
-* HBR's 10 Must Reads on Managing in a Downturn, Expanded Edition (with bonus article "Preparing Your Business for a Post-Pandemic World" by Carsten Lund Pedersen and Thomas Ritter)
-* HBR's 10 Must Reads on Change Management (including featured article "Leading Change," by John P. Kotter)
-* HBR's 10 Must Reads on Change Management, Vol. 2 (with bonus article "Accelerate!" by John P. Kotter)
-* HBR's 10 Must Reads on Diversity (with bonus article "Making Differences Matter: A New Paradigm for Managing Diversity" By David A. Thomas and Robin J. Ely)
-* HBR's 10 Must Reads on Women and Leadership (with bonus article "Sheryl Sandberg: The HBR Interview")
+* [In Queue] [**HBR'S 10 Must Reads: The Essentials**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Managing Yourself (with bonus article "How Will You Measure Your Life?" by Clayton M. Christensen)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Managing Yourself, Vol. 2 (with bonus article "Be Your Own Best Advocate" by Deborah M. Kolb)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Lifelong Learning (with bonus article "The Right Mindset for Success" with Carol Dweck)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Making Smart Decisions (with featured article "Before You Make That Big Decision..." by Daniel Kahneman, Dan Lovallo, and Olivier Sibony)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR’s 10 Must Reads on High Performance (with bonus article "The Right Way to Form New Habits” An interview with James Clear)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Managing Risk (with bonus article "Managing 21st-Century Political Risk" by Condoleezza Rice and Amy Zegart)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Mental Toughness (with bonus interview "Post-Traumatic Growth and Building Resilience" with Martin Seligman) (HBR's 10 Must Reads)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Career Resilience (with bonus article "Reawakening Your Passion for Work" By Richard E. Boyatzis, Annie McKee, and Daniel Goleman)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Creativity (with bonus article "How Pixar Fosters Collective Creativity" By Ed Catmull)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Innovation (with featured article "The Discipline of Innovation," by Peter F. Drucker)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Business Model Innovation (with featured article "Reinventing Your Business Model" by Mark W. Johnson, Clayton M. Christensen, and Henning Kagermann)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Design Thinking (with featured article "Design Thinking" By Tim Brown)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Strategy (including featured article "What Is Strategy?" by Michael E. Porter)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Strategy, Vol. 2 (with bonus article "Creating Shared Value" By Michael E. Porter and Mark R. Kramer)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Strategy for Healthcare (featuring articles by Michael E. Porter and Thomas H. Lee, MD)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Nonprofits and the Social Sectors (featuring "What Business Can Learn from Nonprofits" by Peter F. Drucker)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Strategic Marketing (with featured article "Marketing Myopia," by Theodore Levitt)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Sales (with bonus interview of Andris Zoltners) (HBR's 10 Must Reads)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Communication (with featured article "The Necessary Art of Persuasion," by Jay A. Conger)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Communication, Vol. 2 (with bonus article "Leadership Is a Conversation" by Boris Groysberg and Michael Slind)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Negotiation (with bonus article "15 Rules for Negotiating a Job Offer" by Deepak Malhotra)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Collaboration (with featured article "Social Intelligence and the Biology of Leadership," by Daniel Goleman and Richard Boyatzis)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Teams (with featured article "The Discipline of Teams," by Jon R. Katzenbach and Douglas K. Smith)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Managing People (with featured article "Leadership That Gets Results," by Daniel Goleman)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Managing People, Vol. 2 (with bonus article “The Feedback Fallacy” by Marcus Buckingham and Ashley Goodall)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads for New Managers (with bonus article “How Managers Become Leaders” by Michael D. Watkins) (HBR's 10 Must Reads)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Emotional Intelligence (with featured article "What Makes a Leader?" by Daniel Goleman)(HBR's 10 Must Reads)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Leadership (with featured article "What Makes an Effective Executive," by Peter F. Drucker)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Leadership, Vol. 2 (with bonus article "The Focused Leader" By Daniel Goleman)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Leadership Lessons from Sports (featuring interviews with Sir Alex Ferguson, Kareem Abdul-Jabbar, Andre Agassi)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Leadership for Healthcare (with bonus article by Thomas H. Lee, MD, and Toby Cosgrove, MD)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Leading Digital Transformation (with bonus article "How Apple Is Organized for Innovation" by Joel M. Podolny and Morten T. Hansen)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Public Speaking and Presenting (with featured article "How to Give a Killer Presentation" By Chris Anderson)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Entrepreneurship and Startups (featuring Bonus Article “Why the Lean Startup Changes Everything” by Steve Blank)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Platforms and Ecosystems (with bonus article by "Why Some Platforms Thrive and Others Don't" By Feng Zhu and Marco Iansiti)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads for CEOs (with bonus article "Your Strategy Needs a Strategy" by Martin Reeves, Claire Love, and Philipp Tillmanns)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Building a Great Culture (with bonus article "How to Build a Culture of Originality" by Adam Grant)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Managing Across Cultures (with featured article "Cultural Intelligence" by P. Christopher Earley and Elaine Mosakowski)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Organizational Resilience (with bonus article "Organizational Grit" by Thomas H. Lee and Angela L. Duckworth)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Reinventing HR (with bonus article "People Before Strategy" by Ram Charan, Dominic Barton, and Dennis Carey)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on AI, Analytics, and the New Machine Age (with bonus article "Why Every Company Needs an Augmented Reality Strategy" by Michael E. Porter and James E. Heppelmann)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR’s 10 Must Reads on Boards (with bonus article “What Makes Great Boards Great” by Jeffrey A. Sonnenfeld)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Managing in a Downturn, Expanded Edition (with bonus article "Preparing Your Business for a Post-Pandemic World" by Carsten Lund Pedersen and Thomas Ritter)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Change Management (including featured article "Leading Change," by John P. Kotter)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Change Management, Vol. 2 (with bonus article "Accelerate!" by John P. Kotter)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Diversity (with bonus article "Making Differences Matter: A New Paradigm for Managing Diversity" By David A. Thomas and Robin J. Ely)**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
+* [In Queue] [**HBR's 10 Must Reads on Women and Leadership (with bonus article "Sheryl Sandberg: The HBR Interview")**]()
+  * **Authors**:
+  * **Description**:
+  * [**Summary Notes**]()
 
 <a name="languages"/>
 
