@@ -115,6 +115,7 @@ __________
 <img src="https://user-images.githubusercontent.com/80941606/146662039-c2b583a9-29b4-4fd1-95ae-324ec04a9740.jpg" alt="Culinary Arts" width=1000/>
 </p>
 **Image Credits**: 
+
 __________
 
   * [In Queue] **Culinary Management Program (Integrated Learning) H116**: The secret to great cooking is passion! Located in the heart of downtown Toronto, George Brown puts you at the centre of the culinary industry in Canada. This innovative Culinary Management (Integrated Learning) program takes an integrated experiential approach to learning, with industry placement, in-school studies, online and self-study learning. It was created to meet the immediate culinary industry need for highly skilled Culinary Management graduates with real-world kitchen experience and an understanding of important trends such as the use of local foods, nutrition and growing international influence.
@@ -160,6 +161,7 @@ __________
 <img src="https://user-images.githubusercontent.com/80941606/146662055-073f87ed-a352-4bf4-862b-9331e373f69b.jpg" alt="Art Tools" width=1000/>
 </p>
 **Image Credits**: 
+
 __________
 
   * [In Queue] **Art and Design Foundation Program G108**: Art and Design Foundation is a one-year certificate program that provides students with a broad base of expert knowledge and technical skills in the field of art and design. This program is designed for students who want to explore a variety of art and design disciplines, to develop their portfolio for further study or for those who wish to enjoy learning creative skills in a studio-based environment.
@@ -187,6 +189,7 @@ __________
 <img src="https://user-images.githubusercontent.com/80941606/146662066-5a892521-2256-4aa3-a06b-cc50c3311f3a.jpg" alt="Sheet Music" width=1000/>
 </p>
 **Image Credits**: 
+
 __________
 
 **Music Training**:
@@ -227,6 +230,7 @@ __________
 <img src="https://user-images.githubusercontent.com/80941606/146662100-22b340bc-cd3b-4b6a-ad08-a452d03880a3.jpg" alt="Judo" width=1000/>
 </p>
 **Image Credits**: 
+
 __________
 
 **Combat Training**:
@@ -251,6 +255,7 @@ __________
 <img src="https://user-images.githubusercontent.com/80941606/146662114-151b3f1e-795a-477c-a9f7-71d2b639a879.jpg" alt="Construction" width=1000/>
 </p>
 **Image Credits**: 
+
 __________
 
   * [In Queue] **Construction Techniques Program (T176)**: Make more than a living. Build the future by entering the Trades. This Construction Techniques program is designed to provide you with choices when considering a career in the Skilled Trades sector. It exposes you to a variety of trades allowing you to determine which one interests you the most.
@@ -283,6 +288,7 @@ __________
 <img src="https://user-images.githubusercontent.com/80941606/146662130-565ac3d5-f8a0-41dd-af75-82395b19b19f.jpg" alt="Plumbing" width=1000/>
 </p>
 **Image Credits**: 
+
 __________
 
   * [In Queue] **Plumbing Techniques (T165)**: This Plumbing Techniques program covers residential, commercial and industrial applications in the plumbing industry with a focus on residential plumbing. It is a hands-on program that may benefit anyone seeking to enter an apprenticeship or any construction-related career path.
@@ -306,6 +312,7 @@ __________
 <img src="https://user-images.githubusercontent.com/80941606/146662142-d23deaa4-dd15-4793-a5bd-b25a7acf2529.jpg" alt="Welding" width=1000/>
 </p>
 **Image Credits**: 
+
 __________
 
   * [In Queue] **Welding Techniques (T166)**: Welding is a high-demand trade, one that is critical for the success of many major development projects in every province across the country. The Welding Techniques program prepares students with practical, hands-on experience that applies the technical theory and elements of the welding field. Our state-of-the art welding lab includes 26 individual stations that allow students to train in a controlled environment as well as our virtual welding stations that offer students the opportunity to practise using realistic simulations. The Smart Welding Lab also provides a monitor and specialized infrared camera that lets instructors demonstrate and digitally document welding techniques.
@@ -332,6 +339,7 @@ __________
 <img src="https://user-images.githubusercontent.com/80941606/146662171-300b5f4a-3894-4134-b8c2-2b0deef5d499.jpg" alt="Electrical Box" width=1000/>
 </p>
 **Image Credits**: 
+
 __________
 
   * [In Queue] **Electrical Techniques (T167)**: This Electrical Techniques program focuses on building a working knowledge of electricity and electronics in relation to residential and commercial electrician applications. Students will develop skills and competencies in electrical theory, network cabling, electrical system installation and electrical workplace safety.
@@ -355,6 +363,7 @@ __________
 <img src="https://user-images.githubusercontent.com/80941606/146662189-aaebce60-e49c-40c5-aaeb-fd3c94a7d131.jpg" alt="Mindset" width=1000/>
 </p>
 **Image Credits**: 
+
 __________
 
 **Mindset Literature**:
@@ -484,6 +493,7 @@ __________
 <img src="https://user-images.githubusercontent.com/80941606/146662295-8507184c-28dd-46e5-b3ad-a9a33319d56e.jpg" alt="Literature" width=1000/>
 </p>
 **Image Credits**: 
+
 __________
 
 **Timeless Non-Fiction Literature**:
