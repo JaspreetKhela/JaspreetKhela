@@ -96,7 +96,7 @@ Personality traits are defined as habitual patterns of emotions, thoughts, and b
 __________
 **Note**: 'In Queue' refers to activities that are yet to be undertaken. Some of these activities may require acceptance into an educational program and/or a professional role within an organization.
 
-Below, you will find an outline of my personal, academic, and professional development history and (current and future) pursuits. The purpose of these sections is to provide readers with an overview of my self-development journey so that readers can better understand my domains of competencies and avenues for collaborations on prospective projects. My hope is that readers may also draw ideas/inspirations for their self-development journey as they examine my self-development journey.
+Below, you will find an outline of my personal, academic, and professional development history and (current and future) pursuits. The purpose of these sections is to provide readers with an overview of my self-development journey so that readers can better understand my current and future domains of competencies and avenues for collaborations on prospective projects. My hope is that readers may also draw ideas/inspirations for their self-development journey as they examine my self-development journey.
 
 <a name="personal"/>
 
