@@ -109,6 +109,14 @@ The tail-end of this section also outlines works of literature that aid in the d
 
 **Arts and Humanities**:
 * **George Brown College**:
+
+__________
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80941606/146662039-c2b583a9-29b4-4fd1-95ae-324ec04a9740.jpg" alt="Culinary Arts" width=1000/>
+</p>
+**Image Credits**: 
+__________
+
   * [In Queue] **Culinary Management Program (Integrated Learning) H116**: The secret to great cooking is passion! Located in the heart of downtown Toronto, George Brown puts you at the centre of the culinary industry in Canada. This innovative Culinary Management (Integrated Learning) program takes an integrated experiential approach to learning, with industry placement, in-school studies, online and self-study learning. It was created to meet the immediate culinary industry need for highly skilled Culinary Management graduates with real-world kitchen experience and an understanding of important trends such as the use of local foods, nutrition and growing international influence.
     * **Semester 1**:
       * [In Queue] **CMDI 1002	Baking and Pastry for Cooks**: This course is designed to provide the Culinary Skills and Culinary Management Student with fundamental skills and techniques of baking and pastry arts, through a series of demonstrations and professor-directed laboratory classes. Each student will practice and produce a variety of baked goods and patisserie items, building a solid foundation of essential skills and knowledge required by today's industry.
@@ -146,6 +154,14 @@ culminating in a case study in which they will apply lessons learned.
       * [In Queue] **CMDI 2077	Marketing (online)**: This course provides students with a fundamental understanding of marketing and its relationship to the restaurant industry. Students focus on basic marketing strategies and practices and research their application in current
 hospitality operations. The course also focuses on "in-house" marketing strategies such as attracting and keeping employees and guests, branding and internet marketing.
       * [In Queue] **GNED	General Education Elective (online)**:
+
+__________
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80941606/146662055-073f87ed-a352-4bf4-862b-9331e373f69b.jpg" alt="Art Tools" width=1000/>
+</p>
+**Image Credits**: 
+__________
+
   * [In Queue] **Art and Design Foundation Program G108**: Art and Design Foundation is a one-year certificate program that provides students with a broad base of expert knowledge and technical skills in the field of art and design. This program is designed for students who want to explore a variety of art and design disciplines, to develop their portfolio for further study or for those who wish to enjoy learning creative skills in a studio-based environment.
     * **Semester 1**:
       * [In Queue] **ART1019	Foundation Drawing I: Observational Drawing and Composition**: Foundation Drawing 1 is an introduction to drawing, in both realistic and interpretive modes. Students complete projects to develop their comprehension of basic drawing principles. Topics including line, value, texture, basic perspective, negative space, composition and eye movement are explored through in class exercises, location drawings and homework drawings. Students learn to use the design process by generating thumbnail layouts, roughs, surface studies, comprehensives, and rendering drawings for presentation.
@@ -165,6 +181,13 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
       * [In Queue] **ART1033	Multimedia Storytelling**: This course focuses on storytelling using digital tools and workflows with a view to promoting habits of work that prepare the student for constructing a powerful and persuasive personal narrative that will form the basis of their online digital brand and identity. The construction of this brand identity will be enhanced through the use of a combination of audio, video, images and conventional text and these assets will help to form the basis of the student?s digital portfolio. The course also explores the role of mobile platforms and applications for the creation and consumption of content.
       * [In Queue] **ART1043	Photography: People, Concepts and Stories**: In this advanced level course, students expand their technical and conceptual knowledge of digital photography through lectures, hands-on projects, field trips, workshops and events. Inspired by the life and work of prominent artists and photographers, students build creative ideas and develop stories based on observation, research and experimentation in a variety of settings and lighting conditions. Use of human figure and portrait shoot while capturing people's everyday life activities are combined with advanced studio and technical skills within a constructive critical learning environment.
       * [In Queue] **DESN1084	2D Digital Art I**: 2D Digital Art I introduces students to the concepts, terminology and software used in 2D Game Development. Topics include: image scanning and editing, image manipulation, layout. Through in-class demonstrations, assignments and projects integrating the use of bitmap and vector-based applications, students gain a competent working knowledge of the process of creating game-ready digital art. These skills are also useful for creating a portfolio, for presenting assignments in other courses and as a basis for further study of more advanced digital design techniques in computer-aided design and artistic production.
+
+__________
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80941606/146662066-5a892521-2256-4aa3-a06b-cc50c3311f3a.jpg" alt="Sheet Music" width=1000/>
+</p>
+**Image Credits**: 
+__________
 
 **Music Training**:
 * **The Royal Conservatory of Music**: The Royal Conservatory is one of the largest and most respected music education institutions in the world. For more than 130 years, The Royal Conservatory has translated the latest thinking about creativity into inspiring programs benefiting millions of individuals around the world. Our mission – to develop human potential – is based on the conviction that the arts are humanity's greatest means to achieve personal growth and social cohesion.
@@ -199,6 +222,13 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
        * Theory Examinations
          * Theory Examinations, designed to complement practical studies, begin at the Level 5 practical level and are written in a formal classroom setting.
 
+__________
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80941606/146662100-22b340bc-cd3b-4b6a-ad08-a452d03880a3.jpg" alt="Judo" width=1000/>
+</p>
+**Image Credits**: 
+__________
+
 **Combat Training**:
 * **Armed Training**:
   * **Firearms Training**: [In Queue] Combat Arms role-specific training in the Canadian Armed Forces (CAF)
@@ -215,6 +245,14 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
 
  **Skilled Trades**:
  * **George Brown College**:
+
+__________
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80941606/146662114-151b3f1e-795a-477c-a9f7-71d2b639a879.jpg" alt="Construction" width=1000/>
+</p>
+**Image Credits**: 
+__________
+
   * [In Queue] **Construction Techniques Program (T176)**: Make more than a living. Build the future by entering the Trades. This Construction Techniques program is designed to provide you with choices when considering a career in the Skilled Trades sector. It exposes you to a variety of trades allowing you to determine which one interests you the most.
     * **Semester 1**:
       * [In Queue] **BLDG 1124	Electrical Trade Theory**: [Description Not Available]
@@ -239,6 +277,14 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
       * [In Queue] **BLDG 1113	Plumbing Trade Shop**: [Description Not Available]
       * [In Queue] **BLDG 1114	Trade Documentation**: [Description Not Available]
       * [In Queue] **GNED	General Education Elective**: [Description Not Available]
+
+__________
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80941606/146662130-565ac3d5-f8a0-41dd-af75-82395b19b19f.jpg" alt="Plumbing" width=1000/>
+</p>
+**Image Credits**: 
+__________
+
   * [In Queue] **Plumbing Techniques (T165)**: This Plumbing Techniques program covers residential, commercial and industrial applications in the plumbing industry with a focus on residential plumbing. It is a hands-on program that may benefit anyone seeking to enter an apprenticeship or any construction-related career path.
     * **Semester 1**:
       * [In Queue] **BLDG 1112	Plumbing Trade Theory**: [Description Not Available]
@@ -254,6 +300,14 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
       * [In Queue] **BLDG 1118	Plumbing Math**: [Description Not Available]
       * [In Queue] **BLDG 1119	Blueprints and Graphic Communication**: [Description Not Available]
       * [In Queue] **GNED	General Education Elective**: [Description Not Available]
+
+__________
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80941606/146662142-d23deaa4-dd15-4793-a5bd-b25a7acf2529.jpg" alt="Welding" width=1000/>
+</p>
+**Image Credits**: 
+__________
+
   * [In Queue] **Welding Techniques (T166)**: Welding is a high-demand trade, one that is critical for the success of many major development projects in every province across the country. The Welding Techniques program prepares students with practical, hands-on experience that applies the technical theory and elements of the welding field. Our state-of-the art welding lab includes 26 individual stations that allow students to train in a controlled environment as well as our virtual welding stations that offer students the opportunity to practise using realistic simulations. The Smart Welding Lab also provides a monitor and specialized infrared camera that lets instructors demonstrate and digitally document welding techniques.
     * **Semester 1**:
       * [In Queue] **WELD 1010	Blueprint Reading and Production for Welders**: [Description Not Available]
@@ -272,6 +326,14 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
       * [In Queue] **PORT 1001	Portfolio**: In this course, students produce documents for presentation to prospective employers, including a high impact resume and cover letter, and a professional portfolio. Additionally, students develop interview techniques relevant to industry expectations and participate in mock interviews. Students also participate in discussions about key workplace topics, including job search strategies, networking, interview skills, and social media.
       * [In Queue] **WELD 1118	CAD for Welders**: [Description Not Available]
       * [In Queue] **GNED	General Education Elective**: [Description Not Available]
+
+__________
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80941606/146662171-300b5f4a-3894-4134-b8c2-2b0deef5d499.jpg" alt="Electrical Box" width=1000/>
+</p>
+**Image Credits**: 
+__________
+
   * [In Queue] **Electrical Techniques (T167)**: This Electrical Techniques program focuses on building a working knowledge of electricity and electronics in relation to residential and commercial electrician applications. Students will develop skills and competencies in electrical theory, network cabling, electrical system installation and electrical workplace safety.
     * **Semester 1**:
       * [In Queue] **ELCL 1047	Residential Prints and Electrical Safety Code 1**: [Description Not Available]
@@ -287,7 +349,13 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
       * [In Queue] **ELCL 1060	Instrumentation 2**: [Description Not Available]
       * [In Queue] **ELCL 1061	Electronics**: [Description Not Available]
       * [In Queue] **GNED	General Education Elective**: [Description Not Available]
-<a name="academics"/>
+
+__________
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80941606/146662189-aaebce60-e49c-40c5-aaeb-fd3c94a7d131.jpg" alt="Mindset" width=1000/>
+</p>
+**Image Credits**: 
+__________
 
 **Mindset Literature**:
 
@@ -410,6 +478,13 @@ I have provided/will provide links to summary notes for works of literature that
   * **Author**: Jay Samit
   * **Description**:
   * [**Summary Notes**]()
+
+__________
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80941606/146662295-8507184c-28dd-46e5-b3ad-a9a33319d56e.jpg" alt="Literature" width=1000/>
+</p>
+**Image Credits**: 
+__________
 
 **Timeless Non-Fiction Literature**:
 
@@ -808,6 +883,8 @@ I have provided/will provide links to summary notes for works of literature that
   * **Author**: Du Nguyen
   * **Description**:
   * [**Summary Notes**]()
+
+<a name="academics"/>
 
 ### Academic Development History and Pursuits
 The following academic development history and pursuits section outlines my areas of expertise developed through my enrollment in post-secondary programs and their corresponding courses during my adulthood. 
