@@ -900,10 +900,10 @@ I have provided/will provide links to summary notes for works of literature that
 
 __________
 <p align="center">
-<img src="https://user-images.githubusercontent.com/80941606/146692930-d06478c8-a637-4e30-9699-3ff00ba3e0fb.jpg" alt="Sheet Music" width=1000/>
+<img src="https://user-images.githubusercontent.com/80941606/146693088-0d12b151-215d-4b34-be48-3bfb51d99924.jpg" alt="Sheet Music" width=1000/>
 </p>
 
-**Image Credits**:
+**Image Credits**: David Nicolai
 
 __________
 
