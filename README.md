@@ -112,8 +112,9 @@ The tail-end of this section also outlines works of literature that aid in the d
 
 __________
 <p align="center">
-<img src="https://user-images.githubusercontent.com/80941606/146662039-c2b583a9-29b4-4fd1-95ae-324ec04a9740.jpg" alt="Culinary Arts" width=1000/>
+<img src="https://user-images.githubusercontent.com/80941606/146664292-675edb02-49b0-491e-ba59-2f5e8ddd81f9.jpg" alt="Culinary Arts" width=1000/>
 </p>
+
 **Image Credits**: 
 
 __________
@@ -158,8 +159,9 @@ hospitality operations. The course also focuses on "in-house" marketing strategi
 
 __________
 <p align="center">
-<img src="https://user-images.githubusercontent.com/80941606/146662055-073f87ed-a352-4bf4-862b-9331e373f69b.jpg" alt="Art Tools" width=1000/>
+<img src="https://user-images.githubusercontent.com/80941606/146664309-1f04bcec-02ea-4b07-b718-9bccb4356fcc.jpg" alt="Art Tools" width=1000/>
 </p>
+
 **Image Credits**: 
 
 __________
@@ -188,6 +190,7 @@ __________
 <p align="center">
 <img src="https://user-images.githubusercontent.com/80941606/146662066-5a892521-2256-4aa3-a06b-cc50c3311f3a.jpg" alt="Sheet Music" width=1000/>
 </p>
+
 **Image Credits**: 
 
 __________
@@ -229,6 +232,7 @@ __________
 <p align="center">
 <img src="https://user-images.githubusercontent.com/80941606/146662100-22b340bc-cd3b-4b6a-ad08-a452d03880a3.jpg" alt="Judo" width=1000/>
 </p>
+
 **Image Credits**: 
 
 __________
@@ -254,6 +258,7 @@ __________
 <p align="center">
 <img src="https://user-images.githubusercontent.com/80941606/146662114-151b3f1e-795a-477c-a9f7-71d2b639a879.jpg" alt="Construction" width=1000/>
 </p>
+
 **Image Credits**: 
 
 __________
@@ -287,6 +292,7 @@ __________
 <p align="center">
 <img src="https://user-images.githubusercontent.com/80941606/146662130-565ac3d5-f8a0-41dd-af75-82395b19b19f.jpg" alt="Plumbing" width=1000/>
 </p>
+
 **Image Credits**: 
 
 __________
@@ -311,6 +317,7 @@ __________
 <p align="center">
 <img src="https://user-images.githubusercontent.com/80941606/146662142-d23deaa4-dd15-4793-a5bd-b25a7acf2529.jpg" alt="Welding" width=1000/>
 </p>
+
 **Image Credits**: 
 
 __________
@@ -338,6 +345,7 @@ __________
 <p align="center">
 <img src="https://user-images.githubusercontent.com/80941606/146662171-300b5f4a-3894-4134-b8c2-2b0deef5d499.jpg" alt="Electrical Box" width=1000/>
 </p>
+
 **Image Credits**: 
 
 __________
@@ -362,6 +370,7 @@ __________
 <p align="center">
 <img src="https://user-images.githubusercontent.com/80941606/146662189-aaebce60-e49c-40c5-aaeb-fd3c94a7d131.jpg" alt="Mindset" width=1000/>
 </p>
+
 **Image Credits**: 
 
 __________
@@ -492,6 +501,7 @@ __________
 <p align="center">
 <img src="https://user-images.githubusercontent.com/80941606/146662295-8507184c-28dd-46e5-b3ad-a9a33319d56e.jpg" alt="Literature" width=1000/>
 </p>
+
 **Image Credits**: 
 
 __________
