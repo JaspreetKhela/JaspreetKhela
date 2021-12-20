@@ -52,7 +52,7 @@ __________
 * [Academic Development History and Pursuits](#academics)
 * [Professional Development History and Pursuits](#professional)
 * [Software Development Languages](#languages)
-* [Softweare Development Technologies](#technologies)
+* [Software Development Technologies](#technologies)
 * [Software Development Repositories](#repositories)
 * [GitHub Gists Tutorials](#gists)
 * [GitHub Performance Statistics](#performance)
