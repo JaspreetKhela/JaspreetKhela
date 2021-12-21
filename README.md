@@ -998,134 +998,134 @@ The following podcasts that I have or will listen too are centred around accruin
     * **Publisher**: TED
     * **Description**: Every weekday, TED Talks Daily brings you the latest talks in audio. Join host and journalist Elise Hu for thought-provoking ideas on every subject imaginable — from Artificial Intelligence to Zoology, and everything in between — given by the world's leading thinkers and creators. With TED Talks Daily, find some space in your day to change your perspectives, ignite your curiosity, and learn something new.
     * [**Summary Notes**]()
-		* [**Making Sense with Sam Harris**]()
+  * [**Making Sense with Sam Harris**]()
     * **Publisher**: Sam Harris
     * **Description**: Join neuroscientist, philosopher, and best-selling author Sam Harris as he explores important and controversial questions about the human mind, society, and current events. Sam Harris is the author of five New York Times bestsellers. His books include The End of Faith, Letter to a Christian Nation, The Moral Landscape, Free Will, Lying, Waking Up, and Islam and the Future of Tolerance (with Maajid Nawaz). The End of Faith won the 2005 PEN Award for Nonfiction. His writing and public lectures cover a wide range of topics—neuroscience, moral philosophy, religion, meditation practice, human violence, rationality—but generally focus on how a growing understanding of ourselves and the world is changing our sense of how we should live. Harris's work has been published in more than 20 languages and has been discussed in The New York Times, Time, Scientific American, Nature, Newsweek, Rolling Stone, and many other journals. He has written for The New York Times, The Los Angeles Times, The Economist, The Times (London), The Boston Globe, The Atlantic, The Annals of Neurology, and elsewhere. Sam Harris received a degree in philosophy from Stanford University and a Ph.D. in neuroscience from UCLA.
     * [**Summary Notes**]()
-	 * [**Invisibilia**]()
+  * [**Invisibilia**]()
     * **Publisher**: NPR
     * **Description**: Unseeable forces control human behavior and shape our ideas, beliefs, and assumptions. Invisibilia—Latin for invisible things—fuses narrative storytelling with science that will make you see your own life differently.
     * [**Summary Notes**]()
-	 * [**Checking In with Susan David**]()
+  * [**Checking In with Susan David**]()
     * **Publisher**: TED
     * **Description**: Fear, boredom, grief, confusion—we're all feeling... a lot right now. How do we cope with our heightened emotions during this global pandemic? Susan David—a psychologist at Harvard Medical School—is here to offer us strategies. This show is an urgent response to an urgent moment—a support system, toolkit, and understanding voice during a time of great uncertainty.
     * [**Summary Notes**]()
-	 * [**Stuff You Should Know**]()
+  * [**Stuff You Should Know**]()
     * **Publisher**: iHeartRadio
     * **Description**: If you've ever wanted to know about champagne, satanism, the Stonewall Uprising, chaos theory, LSD, El Nino, true crime and Rosa Parks, then look no further. Josh and Chuck have you covered.
     * [**Summary Notes**]()
-	 * [**Stuff You Missed in History Class**]()
+  * [**Stuff You Missed in History Class**]()
     * **Publisher**: iHeartRadio
     * **Description**: Join Holly and Tracy as they bring you the greatest and strangest Stuff You Missed In History Class in this podcast by iHeartRadio.
     * [**Summary Notes**]()
-	 * [**Ridiculous History**]()
+  * [**Ridiculous History**]()
     * **Publisher**: iHeartRadio
     * **Description**: History is beautiful, brutal and, often, ridiculous. Join Ben Bowlin and Noel Brown as they dive into some of the weirdest stories from across the span of human civilization in Ridiculous History, a podcast by iHeartRadio.
     * [**Summary Notes**]()
-	 * [**Stuff They Don't Want You To Know**]()
+  * [**Stuff They Don't Want You To Know**]()
     * **Publisher**: iHeartRadio
     * **Description**: From UFOs to psychic powers and government conspiracies, history is riddled with unexplained events. You can turn back now or learn the Stuff They Don't Want You To Know ... an audio podcast from iHeartRadio.
     * [**Summary Notes**]()
-	 * [**Stuff To Blow Your Mind**]()
+  * [**Stuff To Blow Your Mind**]()
     * **Publisher**: iHeartRadio
     * **Description**: Deep in the back of your mind, you’ve always had the feeling that there’s something strange about reality. There is. Join Robert Lamb and Joe McCormick as they examine neurological quandaries, cosmic mysteries, evolutionary marvels and our transhuman future.
     * [**Summary Notes**]()
-	 * [**Sincerely, X**]()
+  * [**Sincerely, X**]()
     * **Publisher**: TED
     * **Description**: Stories shared on the TED stage are seen and heard by millions around the world. But some ideas can’t be shared in the open — there are stories that are too risky, painful, or controversial. Sincerely, X provides a space to share powerful ideas anonymously. Stories that deserve to be heard, from people who remain hidden.
     * [**Summary Notes**]()
-	 * [**Dear Sugars**]()
+  * [**Dear Sugars**]()
     * **Publisher**: WBUR and The New York Times
     * **Description**: Radically empathic advice
     * [**Summary Notes**]()
-	 * [**The Griefcast with Cariad Lloyd**]()
+  * [**The Griefcast with Cariad Lloyd**]()
     * **Publisher**: Cariad Lloyd
     * **Description**: Funny people talking about death and grief, a podcast. Hosted by Cariad Lloyd. Podcast of the Year 2018 / Best Podcast ARIA 2018 / Rose D'or Nominee 2019 You Are Not Alone Support this show at http://supporter.acast.com/griefcast
     * [**Summary Notes**]()
 * **Secondary Podcasts: General Insights via Interviews**:
-	 * [**TED Radio Hour**]()
+  * [**TED Radio Hour**]()
     * **Publisher**: TED
     * **Description**: Exploring the biggest questions of our time with the help of the world's greatest thinkers. Host Manoush Zomorodi inspires us to learn more about the world, our communities, and most importantly, ourselves.
     * [**Summary Notes**]()
-	 * [**The TED Interview**]()
+  * [**The TED Interview**]()
     * **Publisher**: TED
     * **Description**: Head of TED Chris Anderson speaks with some of the world’s most interesting people to dig into the provocative and powerful ideas of our time.
     * [**Summary Notes**]()
-	 * [**Full Disclosure With James O’Brien**]()
+  * [**Full Disclosure With James O’Brien**]()
     * **Publisher**: LBC
     * **Description**: Award-winning LBC presenter and best-selling author James O’Brien hosts a series of compelling conversations with fascinating people. These are revealing interviews with people who rarely give in-depth interviews, be it from politics, entertainment or news. Subscribe to get a new episode every Monday.
     * [**Summary Notes**]()
-	 * [**Hidden Brain**]()
+  * [**Hidden Brain**]()
     * **Publisher**: Hidden Brain
     * **Description**: Shankar Vedantam uses science and storytelling to reveal the unconscious patterns that drive human behavior, shape our choices and direct our relationships.
     * [**Summary Notes**]()
-	 * [**Freakonomics Radio**]()
+  * [**Freakonomics Radio**]()
     * **Publisher**: Freakonomics Radio + Stitcher
     * **Description**: Discover the hidden side of everything with Stephen J. Dubner, co-author of the Freakonomics books. Each week, Freakonomics Radio tells you things you always thought you knew (but didn’t) and things you never thought you wanted to know (but do) — from the economics of sleep to how to become great at just about anything. Dubner speaks with Nobel laureates and provocateurs, intellectuals and entrepreneurs, and various other underachievers. The entire archive, going back to 2010, is available on the Stitcher podcast app and at freakonomics.com.
     * [**Summary Notes**]()
-	 * [**The Jordan B. Peterson Podcast**]()
+  * [**The Jordan B. Peterson Podcast**]()
     * **Publisher**: Dr. Jordan B. Peterson
     * **Description**: Join intellectual phenomenon Dr. Jordan Peterson and his daughter Mikhaila for enlightening discourse that will change the way you think. This podcast breaks down the dichotomy of life through interviews and lectures that explain how individuals and culture are shaped by values, music, religion, and beyond. It will give you a new perspective and a modern understanding of your creativity, competence, and personality.
     * [**Summary Notes**]()
-	 * [**The Mikhaila Peterson Podcast**]()
+  * [**The Mikhaila Peterson Podcast**]()
     * **Publisher**: Mikhaila Peterson
     * **Description**: Mikhaila Peterson speaks with thought leaders, influencers and industry changers - continually finding the best ways to improve the human experience. From stay at home moms to CEOs, fitness enthusiasts to spiritual guides, nutrition researchers to health professionals - Mikhaila has interview-style conversations aimed at provoking thought, addressing difficult subjects, and delving into topics that are generally shied away from.
     * [**Summary Notes**]()
-	 * [**The Moth**]()
+  * [**The Moth**]()
     * **Publisher**: The Moth
     * **Description**: Since its launch in 1997, The Moth has presented thousands of true stories, told live and without notes, to standing-room-only crowds worldwide. Moth storytellers stand alone, under a spotlight, with only a microphone and a roomful of strangers. The storyteller and the audience embark on a high-wire act of shared experience which is both terrifying and exhilarating. Since 2008, The Moth podcast has featured many of our favorite stories told live on Moth stages around the country. For information on all of our programs and live events, visit themoth.org.
     * [**Summary Notes**]()
-	 * [**Love and Radio**]()
+  * [**Love and Radio**]()
     * **Publisher**: Love and Radio
     * **Description**: Nick van der Kolk's Love and Radio features in-depth, otherworldly-produced interviews with an eclectic range of subjects, from the seedy to the sublime. Get inside the mind of a rogue taxidermist. Find out what it's like to experience a stroke firsthand. Or spend time with an artist who gives away her life savings every night. You've never heard anything like it before. This show is moving to Luminary! For more, go to LuminaryPodcasts.com.
     * [**Summary Notes**]()
 * **Tertiary Podcasts: Business Insights via Lectures**:
-	 * [**Dear HBR;**]()
+  * [**Dear HBR;**]()
     * **Publisher**: Harvard Business Review
     * **Description**: Work can be frustrating. How can you get along with that maddening coworker? Figure out what your unapproachable boss really wants? Motivate your demoralized team? "Dear HBR:" is here to help. With empathy, experience, and humor, veteran Harvard Business Review editors and co-hosts Alison Beard and Dan McGinn explore solutions to your workplace dilemmas. Bolstered by insights from guests and academic research, they help you navigate thorny situations to find a better way forward.
     * [**Summary Notes**]()
-	 * [**TED Business**]()
+  * [**TED Business**]()
     * **Publisher**: TED
     * **Description**: Whatever your business conundrum, there’s a TED Talk for that—whether you want to learn how to land that promotion, set smart goals, undo injustice at work, or unlock the next big innovation. Every Monday, host Modupe Akinola of Columbia Business School presents the most powerful and surprising ideas that illuminate the business world. After the talk, you'll get a mini-lesson from Modupe on how to apply the ideas in your own life. Because business evolves every day, and our ideas about it should, too.
     * [**Summary Notes**]()
-	 * [**TED Talks Business**]()
+  * [**TED Talks Business**]()
     * **Publisher**: TED
     * **Description**: Some of the world's greatest innovators, entrepreneurs, and business researchers share their stories and insights from the stage at TED conferences, TEDx events and partner events around the world. You can also download these and many other videos for free from TED.com that features interactive English transcript, and subtitles in as many as 80 languages. TED is a nonprofit devoted to Ideas Worth Spreading.
     * [**Summary Notes**]()
-	 * [**Planet Money**]()
+  * [**Planet Money**]()
     * **Publisher**: NPR
     * **Description**: The economy explained. Imagine you could call up a friend and say, "Meet me at the bar and tell me what's going on with the economy." Now imagine that's actually a fun evening.
     * [**Summary Notes**]()
 * **Tertiary Podcasts: Business Insights via Interviews**:
-	 * [**HBR IdeaCast**]()
+  * [**HBR IdeaCast**]()
     * **Publisher**: Harvard Business Review
     * **Description**: A weekly podcast featuring the leading thinkers in business and management.
     * [**Summary Notes**]()
-	 * [**HBR IdeaCast**]()
+  * [**HBR IdeaCast**]()
     * **Publisher**: HBR Ideacast
     * **Description**: A weekly podcast featuring the leading thinkers in business and management from Harvard Business Review.
     * [**Summary Notes**]()
-	 * [**Masters of Scale with Reid Hoffman**]()
+  * [**Masters of Scale with Reid Hoffman**]()
     * **Publisher**: WaitWhat
     * **Description**: The best startup advice from Silicon Valley & beyond. Iconic CEOs — from Nike to Netflix, Starbucks to Slack — share the stories & strategies that helped them grow from startups into global brands. On each episode, host Reid Hoffman — LinkedIn cofounder, Greylock partner and legendary Silicon Valley investor — proves an unconventional theory about how businesses scale, while his guests share the story of how I built this company. Reid and guests talk entrepreneurship, leadership, strategy, management, fundraising. But they also talk about the human journey — with all its failures and setbacks.  With original, cinematic music and hilariously honest stories, Masters of Scale is a business podcast that doesn’t sound like a business podcast. Guests on Masters of Scale have included the founders and CEOs of Netflix, Google, Facebook, Starbucks, Nike, Fiat, Spotify, Instagram, Airbnb, Uber, Paypal, Huffington Post, Twitter, Medium, Bumble, Yahoo, Slack, Spanx, Shake Shack, Dropbox, TaskRabbit, 23&Me, Mailchimp, Evite, Flickr, CharityWater, Endeavor, IAC and many more.
     * [**Summary Notes**]()
-	 * [**How I Built This with Guy Raz**]()
+  * [**How I Built This with Guy Raz**]()
     * **Publisher**: NPR
     * **Description**: Guy Raz dives into the stories behind some of the world's best known companies. How I Built This weaves a narrative journey about innovators, entrepreneurs and idealists—and the movements they built. Order the How I Built This book at https://www.guyraz.com/
     * [**Summary Notes**]()
-	 * [**DealMakers**]()
+  * [**DealMakers**]()
     * **Publisher**: Alejandro Cremades
     * **Description**: Welcome to the DealMakers show, hosted by Alejandro Cremades. Alejandro is a serial entrepreneur, best-selling author, and cofounder at Panthera Advisors (M&A and fundraising advisory). On this podcast you will find interviews with entrepreneurs that have been very successful at raising capital or getting their company acquired. You will learn what they did right and what mistakes they made through the process of closing the deal. DealMakers is the ultimate guide for entrepreneurs and senior executives that are in the process of fundraising or selling their company.
     * [**Summary Notes**]()
-	 * [**Game Plan**]()
+  * [**Game Plan**]()
     * **Publisher**: Bloomberg
     * **Description**: You spend more time at your job than just about anywhere else. Game Plan, a weekly show hosted by Bloomberg reporter Rebecca Greenfield and editor Francesca Levy, takes a close look at the way we live our lives at work. Greenfield and Levy dive into everything from how we started speaking in office jargon to the strategic value of being nice to your colleagues. It turns out that there’s a lot more to say about the office grind than you may have realized.
     * [**Summary Notes**]()
-	 * [**WSJ Secrets of Wealthy Women**]()
+  * [**WSJ Secrets of Wealthy Women**]()
     * **Publisher**: Wall Street Journal
     * **Description**: Empower yourself financially. Successful women executives, workplace pioneers, self-made entrepreneurs, industry trendsetters and money-savvy experts reveal insights on how to get ahead, reach your goals, and achieve professional success. They join host Veronica Dagher every Tuesday.
     * [**Summary Notes**]()
-	 * [**The Prof G Show with Scott Galloway**]()
+  * [**The Prof G Show with Scott Galloway**]()
     * **Publisher**: Section 4 / Westwood One Podcast Network
     * **Description**: We live in a winner-take-all economy that’s bifurcating into those who are part of the innovation economy and those who aren’t. Every week best-selling author, professor and entrepreneur Scott Galloway answers questions from you (his listeners) on who’s winning and losing, and how you can get ahead. Other professors, practitioners, and entrepreneurs join Scott to contribute ideas, alternate opinions, and insights to help you thrive at work. Tune in for a no mercy, no malice take on how you can level up your game in the world of business. To submit a question, email a voice recording to OfficeHours@Section4.com.
     * [**Summary Notes**]()
