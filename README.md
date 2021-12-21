@@ -192,7 +192,7 @@ __________
 
 **Music Training**:
 * **The Royal Conservatory of Music**: The Royal Conservatory is one of the largest and most respected music education institutions in the world. For more than 130 years, The Royal Conservatory has translated the latest thinking about creativity into inspiring programs benefiting millions of individuals around the world. Our mission – to develop human potential – is based on the conviction that the arts are humanity's greatest means to achieve personal growth and social cohesion.
-  * [In Queue] **Royal Conservatory Certificate Program**: The Royal Conservatory Certificate Program provides a recognized national standard of musical success through an effectively sequenced course of study from beginner to advanced levels. The Program inspires excellence through individual student examinations and allows students to celebrate accomplishment and track their progress with others across the country. It also supports teachers with high-quality and innovative resources.
+  * [In Queue] [**Royal Conservatory Certificate Program**](): The Royal Conservatory Certificate Program provides a recognized national standard of musical success through an effectively sequenced course of study from beginner to advanced levels. The Program inspires excellence through individual student examinations and allows students to celebrate accomplishment and track their progress with others across the country. It also supports teachers with high-quality and innovative resources.
     * A Comprehensive Curriculum of Musical Development Encompassing:
       * Repertoire
         * Each level includes a broad selection of pieces representing a variety of styles and periods.
@@ -258,30 +258,30 @@ __________
 
 __________
 
-  * [In Queue] **Construction Techniques Program (T176)**: Make more than a living. Build the future by entering the Trades. This Construction Techniques program is designed to provide you with choices when considering a career in the Skilled Trades sector. It exposes you to a variety of trades allowing you to determine which one interests you the most.
+  * [In Queue] [**Construction Techniques Program (T176)**](): Make more than a living. Build the future by entering the Trades. This Construction Techniques program is designed to provide you with choices when considering a career in the Skilled Trades sector. It exposes you to a variety of trades allowing you to determine which one interests you the most.
     * **Semester 1**:
-      * [In Queue] **BLDG 1124	Electrical Trade Theory**: [Description Not Available]
-      * [In Queue] **BLDG 1125	Introduction to Electrical – Code and Prints**: [Description Not Available]
-      * [In Queue] **BLDG 1121	Electrical Trade Shop**: [Description Not Available]
-      * [In Queue] **BLDG 1122	Technical Drawing**: [Description Not Available]
-      * [In Queue] **BLDG 1123	Millwrighting Trade Shop**: [Description Not Available]
-      * [In Queue] **COMM 1007	College English**: College English is George Brown College's required course in communication and a prerequisite for advanced COMM courses. The focus is on learning to communicate clearly and strategically, and to analyze information critically. Students will learn and apply critical thinking and research skills to the communication process in order to create clear, logical, audience-appropriate, and purposeful works. Students will also learn and implement self-editing and revision techniques throughout the semester. This course offers students the opportunity to engage with a range of meaningful topics and issues that are reflective of our diverse student body and community.
+      * [In Queue] [**BLDG 1124	Electrical Trade Theory**](): [Description Not Available]
+      * [In Queue] [**BLDG 1125	Introduction to Electrical – Code and Prints**](): [Description Not Available]
+      * [In Queue] [**BLDG 1121	Electrical Trade Shop**](): [Description Not Available]
+      * [In Queue] [**BLDG 1122	Technical Drawing**](): [Description Not Available]
+      * [In Queue] [**BLDG 1123	Millwrighting Trade Shop**](): [Description Not Available]
+      * [In Queue] [**COMM 1007	College English**](): College English is George Brown College's required course in communication and a prerequisite for advanced COMM courses. The focus is on learning to communicate clearly and strategically, and to analyze information critically. Students will learn and apply critical thinking and research skills to the communication process in order to create clear, logical, audience-appropriate, and purposeful works. Students will also learn and implement self-editing and revision techniques throughout the semester. This course offers students the opportunity to engage with a range of meaningful topics and issues that are reflective of our diverse student body and community.
     * **Semester 2**:
-      * [In Queue] **BLDG 1132	Carpentry Trade Theory**: [Description Not Available]
-      * [In Queue] **BLDG 1133	Carpentry Trade Shop**: [Description Not Available]
-      * [In Queue] **BLDG 1134	Trade Calculations**: [Description Not Available]
-      * [In Queue] **BLDG 1135	Refrigeration Trade Theory**: [Description Not Available]
-      * [In Queue] **BLDG 1137	Sheet Metal Trade Theory**: [Description Not Available]
-      * [In Queue] **BLDG 1138	Refrigeration Trade Shop**: [Description Not Available]
-      * [In Queue] **BLDG 1139	Sheet Metal Trade Shop**: [Description Not Available]
-      * [In Queue] **GNED	General Education Elective**: [Description Not Available]
+      * [In Queue] [**BLDG 1132	Carpentry Trade Theory**](): [Description Not Available]
+      * [In Queue] [**BLDG 1133	Carpentry Trade Shop**](): [Description Not Available]
+      * [In Queue] [**BLDG 1134	Trade Calculations**](): [Description Not Available]
+      * [In Queue] [**BLDG 1135	Refrigeration Trade Theory**](): [Description Not Available]
+      * [In Queue] [**BLDG 1137	Sheet Metal Trade Theory**](): [Description Not Available]
+      * [In Queue] [**BLDG 1138	Refrigeration Trade Shop**](): [Description Not Available]
+      * [In Queue] [**BLDG 1139	Sheet Metal Trade Shop**](): [Description Not Available]
+      * [In Queue] [**GNED	General Education Elective**](): [Description Not Available]
     * **Semester 3**:
-      * [In Queue] **BLDG 1110	Welding Trade Theory**: [Description Not Available]
-      * [In Queue] **BLDG 1111	Welding Trade Shop**: [Description Not Available]
-      * [In Queue] **BLDG 1112	Plumbing Trade Theory**: [Description Not Available]
-      * [In Queue] **BLDG 1113	Plumbing Trade Shop**: [Description Not Available]
-      * [In Queue] **BLDG 1114	Trade Documentation**: [Description Not Available]
-      * [In Queue] **GNED	General Education Elective**: [Description Not Available]
+      * [In Queue] [**BLDG 1110	Welding Trade Theory**](): [Description Not Available]
+      * [In Queue] [**BLDG 1111	Welding Trade Shop**](): [Description Not Available]
+      * [In Queue] [**BLDG 1112	Plumbing Trade Theory**](): [Description Not Available]
+      * [In Queue] [**BLDG 1113	Plumbing Trade Shop**](): [Description Not Available]
+      * [In Queue] [**BLDG 1114	Trade Documentation**](): [Description Not Available]
+      * [In Queue] [**GNED	General Education Elective**](): [Description Not Available]
 
 __________
 <p align="center">
@@ -292,21 +292,21 @@ __________
 
 __________
 
-  * [In Queue] **Plumbing Techniques (T165)**: This Plumbing Techniques program covers residential, commercial and industrial applications in the plumbing industry with a focus on residential plumbing. It is a hands-on program that may benefit anyone seeking to enter an apprenticeship or any construction-related career path.
+  * [In Queue] [**Plumbing Techniques (T165)**](): This Plumbing Techniques program covers residential, commercial and industrial applications in the plumbing industry with a focus on residential plumbing. It is a hands-on program that may benefit anyone seeking to enter an apprenticeship or any construction-related career path.
     * **Semester 1**:
-      * [In Queue] **BLDG 1112	Plumbing Trade Theory**: [Description Not Available]
-      * [In Queue] **BLDG 1113	Plumbing Trade Shop**: [Description Not Available]
-      * [In Queue] **BLDG 1114	Trade Documentation**: [Description Not Available]
-      * [In Queue] **BLDG 1110	Welding Trade Theory**: [Description Not Available]
-      * [In Queue] **BLDG 1111	Welding Trade Shop**: [Description Not Available]
-      * [In Queue] **COMM 1007	College English**: College English is George Brown College's required course in communication and a prerequisite for advanced COMM courses. The focus is on learning to communicate clearly and strategically, and to analyze information critically. Students will learn and apply critical thinking and research skills to the communication process in order to create clear, logical, audience-appropriate, and purposeful works. Students will also learn and implement self-editing and revision techniques throughout the semester. This course offers students the opportunity to engage with a range of meaningful topics and issues that are reflective of our diverse student body and community.
+      * [In Queue] [**BLDG 1112	Plumbing Trade Theory**](): [Description Not Available]
+      * [In Queue] [**BLDG 1113	Plumbing Trade Shop**](): [Description Not Available]
+      * [In Queue] [**BLDG 1114	Trade Documentation**](): [Description Not Available]
+      * [In Queue] [**BLDG 1110	Welding Trade Theory**](): [Description Not Available]
+      * [In Queue] [**BLDG 1111	Welding Trade Shop**](): [Description Not Available]
+      * [In Queue] [**COMM 1007	College English**](): College English is George Brown College's required course in communication and a prerequisite for advanced COMM courses. The focus is on learning to communicate clearly and strategically, and to analyze information critically. Students will learn and apply critical thinking and research skills to the communication process in order to create clear, logical, audience-appropriate, and purposeful works. Students will also learn and implement self-editing and revision techniques throughout the semester. This course offers students the opportunity to engage with a range of meaningful topics and issues that are reflective of our diverse student body and community.
     * **Semester 2**:
-      * [In Queue] **BLDG 1115	Safety, Hoisting and Rigging**: [Description Not Available]
-      * [In Queue] **BLDG 1116	Plumbing Theory**: [Description Not Available]
-      * [In Queue] **BLDG 1117	Plumbing Practical Techniques**: [Description Not Available]
-      * [In Queue] **BLDG 1118	Plumbing Math**: [Description Not Available]
-      * [In Queue] **BLDG 1119	Blueprints and Graphic Communication**: [Description Not Available]
-      * [In Queue] **GNED	General Education Elective**: [Description Not Available]
+      * [In Queue] [**BLDG 1115	Safety, Hoisting and Rigging**](): [Description Not Available]
+      * [In Queue] [**BLDG 1116	Plumbing Theory**](): [Description Not Available]
+      * [In Queue] [**BLDG 1117	Plumbing Practical Techniques**](): [Description Not Available]
+      * [In Queue] [**BLDG 1118	Plumbing Math**](): [Description Not Available]
+      * [In Queue] [**BLDG 1119	Blueprints and Graphic Communication**](): [Description Not Available]
+      * [In Queue] [**GNED	General Education Elective**](): [Description Not Available]
 
 __________
 <p align="center">
@@ -317,24 +317,24 @@ __________
 
 __________
 
-  * [In Queue] **Welding Techniques (T166)**: Welding is a high-demand trade, one that is critical for the success of many major development projects in every province across the country. The Welding Techniques program prepares students with practical, hands-on experience that applies the technical theory and elements of the welding field. Our state-of-the art welding lab includes 26 individual stations that allow students to train in a controlled environment as well as our virtual welding stations that offer students the opportunity to practise using realistic simulations. The Smart Welding Lab also provides a monitor and specialized infrared camera that lets instructors demonstrate and digitally document welding techniques.
+  * [In Queue] [**Welding Techniques (T166)**](): Welding is a high-demand trade, one that is critical for the success of many major development projects in every province across the country. The Welding Techniques program prepares students with practical, hands-on experience that applies the technical theory and elements of the welding field. Our state-of-the art welding lab includes 26 individual stations that allow students to train in a controlled environment as well as our virtual welding stations that offer students the opportunity to practise using realistic simulations. The Smart Welding Lab also provides a monitor and specialized infrared camera that lets instructors demonstrate and digitally document welding techniques.
     * **Semester 1**:
-      * [In Queue] **WELD 1010	Blueprint Reading and Production for Welders**: [Description Not Available]
-      * [In Queue] **WELD 1011	Mathematics for Welders**: [Description Not Available]
-      * [In Queue] **WELD 1012	Shielded Metal Arc Welding I**: [Description Not Available]
-      * [In Queue] **WELD 1013	Gas Metal Arc Welding I**: [Description Not Available]
-      * [In Queue] **WELD 1014	Bronze Welding, Oxyfuel Cutting and Plasma Arc Cutting**: [Description Not Available]
-      * [In Queue] **WELD 1015	Metallurgy for Welders I**: [Description Not Available]
-      * [In Queue] **COMM 1007	College English**: College English is George Brown College's required course in communication and a prerequisite for advanced COMM courses. The focus is on learning to communicate clearly and strategically, and to analyze information critically. Students will learn and apply critical thinking and research skills to the communication process in order to create clear, logical, audience-appropriate, and purposeful works. Students will also learn and implement self-editing and revision techniques throughout the semester. This course offers students the opportunity to engage with a range of meaningful topics and issues that are reflective of our diverse student body and community.
+      * [In Queue] [**WELD 1010	Blueprint Reading and Production for Welders**](): [Description Not Available]
+      * [In Queue] [**WELD 1011	Mathematics for Welders**](): [Description Not Available]
+      * [In Queue] [**WELD 1012	Shielded Metal Arc Welding I**](): [Description Not Available]
+      * [In Queue] [**WELD 1013	Gas Metal Arc Welding I**](): [Description Not Available]
+      * [In Queue] [**WELD 1014	Bronze Welding, Oxyfuel Cutting and Plasma Arc Cutting**](): [Description Not Available]
+      * [In Queue] [**WELD 1015	Metallurgy for Welders I**](): [Description Not Available]
+      * [In Queue] [**COMM 1007	College English**](): College English is George Brown College's required course in communication and a prerequisite for advanced COMM courses. The focus is on learning to communicate clearly and strategically, and to analyze information critically. Students will learn and apply critical thinking and research skills to the communication process in order to create clear, logical, audience-appropriate, and purposeful works. Students will also learn and implement self-editing and revision techniques throughout the semester. This course offers students the opportunity to engage with a range of meaningful topics and issues that are reflective of our diverse student body and community.
     * **Semester 2**:
-      * [In Queue] **WELD 1112	Shielded Metal Arc Welding II**: [Description Not Available]
-      * [In Queue] **WELD 1113	Gas Metal Arc Welding II**: [Description Not Available]
-      * [In Queue] **WELD 1114	Gas Tungsten Welding**: [Description Not Available]
-      * [In Queue] **WELD 1115	Metallurgy for Welders II**: [Description Not Available]
-      * [In Queue] **WELD 1116	Fabrication**: [Description Not Available]
-      * [In Queue] **PORT 1001	Portfolio**: In this course, students produce documents for presentation to prospective employers, including a high impact resume and cover letter, and a professional portfolio. Additionally, students develop interview techniques relevant to industry expectations and participate in mock interviews. Students also participate in discussions about key workplace topics, including job search strategies, networking, interview skills, and social media.
-      * [In Queue] **WELD 1118	CAD for Welders**: [Description Not Available]
-      * [In Queue] **GNED	General Education Elective**: [Description Not Available]
+      * [In Queue] [**WELD 1112	Shielded Metal Arc Welding II**](): [Description Not Available]
+      * [In Queue] [**WELD 1113	Gas Metal Arc Welding II**](): [Description Not Available]
+      * [In Queue] [**WELD 1114	Gas Tungsten Welding**](): [Description Not Available]
+      * [In Queue] [**WELD 1115	Metallurgy for Welders II**](): [Description Not Available]
+      * [In Queue] [**WELD 1116	Fabrication**](): [Description Not Available]
+      * [In Queue] [**PORT 1001	Portfolio**](): In this course, students produce documents for presentation to prospective employers, including a high impact resume and cover letter, and a professional portfolio. Additionally, students develop interview techniques relevant to industry expectations and participate in mock interviews. Students also participate in discussions about key workplace topics, including job search strategies, networking, interview skills, and social media.
+      * [In Queue] [**WELD 1118	CAD for Welders**](): [Description Not Available]
+      * [In Queue] [**GNED	General Education Elective**](): [Description Not Available]
 
 __________
 <p align="center">
@@ -345,21 +345,21 @@ __________
 
 __________
 
-  * [In Queue] **Electrical Techniques (T167)**: This Electrical Techniques program focuses on building a working knowledge of electricity and electronics in relation to residential and commercial electrician applications. Students will develop skills and competencies in electrical theory, network cabling, electrical system installation and electrical workplace safety.
+  * [In Queue] [**Electrical Techniques (T167)**](): This Electrical Techniques program focuses on building a working knowledge of electricity and electronics in relation to residential and commercial electrician applications. Students will develop skills and competencies in electrical theory, network cabling, electrical system installation and electrical workplace safety.
     * **Semester 1**:
-      * [In Queue] **ELCL 1047	Residential Prints and Electrical Safety Code 1**: [Description Not Available]
-      * [In Queue] **ELCL 1048	Electrical Installation Methods 1**: [Description Not Available]
-      * [In Queue] **ELCL 1049	Electrical Theory 1**: [Description Not Available]
-      * [In Queue] **ELCL 1050	Instrumentation 1**: [Description Not Available]
-      * [In Queue] **ELCL 1051	Electrical and Workplace Safety**: [Description Not Available]
-      * [In Queue] **COMM1007	College English**: College English is George Brown College's required course in communication and a prerequisite for advanced COMM courses. The focus is on learning to communicate clearly and strategically, and to analyze information critically. Students will learn and apply critical thinking and research skills to the communication process in order to create clear, logical, audience-appropriate, and purposeful works. Students will also learn and implement self-editing and revision techniques throughout the semester. This course offers students the opportunity to engage with a range of meaningful topics and issues that are reflective of our diverse student body and community.
+      * [In Queue] [**ELCL 1047	Residential Prints and Electrical Safety Code 1**](): [Description Not Available]
+      * [In Queue] [**ELCL 1048	Electrical Installation Methods 1**](): [Description Not Available]
+      * [In Queue] [**ELCL 1049	Electrical Theory 1**](): [Description Not Available]
+      * [In Queue] [**ELCL 1050	Instrumentation 1**](): [Description Not Available]
+      * [In Queue] [**ELCL 1051	Electrical and Workplace Safety**](): [Description Not Available]
+      * [In Queue] [**COMM1007	College English**](): College English is George Brown College's required course in communication and a prerequisite for advanced COMM courses. The focus is on learning to communicate clearly and strategically, and to analyze information critically. Students will learn and apply critical thinking and research skills to the communication process in order to create clear, logical, audience-appropriate, and purposeful works. Students will also learn and implement self-editing and revision techniques throughout the semester. This course offers students the opportunity to engage with a range of meaningful topics and issues that are reflective of our diverse student body and community.
     * **Semester 2**:
-      * [In Queue] **ELCL 1057	Residential Prints and Electrical Safety Code 2**: [Description Not Available]
-      * [In Queue] **ELCL 1058	Electrical Installation Methods 2**: [Description Not Available]
-      * [In Queue] **ELCL 1059	Electrical Theory 2**: [Description Not Available]
-      * [In Queue] **ELCL 1060	Instrumentation 2**: [Description Not Available]
-      * [In Queue] **ELCL 1061	Electronics**: [Description Not Available]
-      * [In Queue] **GNED	General Education Elective**: [Description Not Available]
+      * [In Queue] [**ELCL 1057	Residential Prints and Electrical Safety Code 2**](): [Description Not Available]
+      * [In Queue] [**ELCL 1058	Electrical Installation Methods 2**](): [Description Not Available]
+      * [In Queue] [**ELCL 1059	Electrical Theory 2**](): [Description Not Available]
+      * [In Queue] [**ELCL 1060	Instrumentation 2**](): [Description Not Available]
+      * [In Queue] [**ELCL 1061	Electronics**](): [Description Not Available]
+      * [In Queue] [**GNED	General Education Elective**](): [Description Not Available]
 
 __________
 <p align="center">
@@ -940,45 +940,195 @@ The following podcasts that I have or will listen too are centred around accruin
   * [**Impact Theory**]()
     * **Publisher**: Tom Bilyeu
     * **Description**: Impact Theory is a business and mindset-focused interview show that will teach anyone aspiring to greatness the secrets to success. The show is hosted by Tom Bilyeu - a serial entrepreneur and co-founder of the #2 Inc. 500 company Quest Nutrition and former host of the viral hit Youtube series Inside Quest (viewed over 100,000,000 times). Bilyeu is known for his passion and preparation. Always eager to truly learn from his guests, Bilyeu digs deep and brings the urgency of someone hungry to put what he’s learning to immediate use - making the show not only entertaining and energetic, but also hyper-useful.
+    * [**Summary Notes**]()
   * [**The Jordan Harbinger Show**]()
     * **Publisher**: Jordan Harbinger
     * **Description**: (Apple's Best of 2018) In-depth conversations with people at the top of their game. Jordan Harbinger unpacks guests' wisdom into practical nuggets you can use to impact your work, life, and relationships. Learn from leaders (Ray Dalio, Simon Sinek, Mark Cuban), entertainers (Moby, Tip "T.I." Harris, Dennis Quaid), scientists (Neil deGrasse Tyson, Bill Nye), athletes (Kobe Bryant, Dennis Rodman, Tony Hawk) and an eclectic array of fascinating minds, from art forgers and arms traffickers to spies and psychologists.
+    * [**Summary Notes**]()
   * [**The Tony Robbins Podcast**]()
     * **Publisher**: Tony Robbins
     * **Description**: “Why live an ordinary life, when you can live an extraordinary one?” Tony Robbins, the #1 Life and Business Strategist, has helped over 50 million people from 100 countries create real and lasting change in their lives. In this podcast, he shares proven strategies and tactics so you, too, can achieve massive results in your business, relationships, health and finances. In addition to excerpts from his signature events and other exclusive, never-before-released audio content, Tony and his team also conduct deeply insightful interviews with the most prominent masterminds and experts on the global stage.
+    * [**Summary Notes**]()
   * [**The Tim Ferriss Show**]()
     * **Publisher**: Tim Ferriss
     * **Description**: Tim Ferriss is a self-experimenter and bestselling author, best known for The 4-Hour Workweek, which has been translated into 40+ languages. Newsweek calls him "the world's best human guinea pig," and The New York Times calls him "a cross between Jack Welch and a Buddhist monk." In this show, he deconstructs world-class performers from eclectic areas (investing, chess, pro sports, etc.), digging deep to find the tools, tactics, and tricks that listeners can use.
+    * [**Summary Notes**]()
   * [**On Purpose with Jay Shetty**]()
     * **Publisher**: Jay Shetty
     * **Description**: My name is Jay Shetty, and my purpose is to make wisdom go viral. I’m fortunate to have fascinating conversations with the most insightful people in the world, and on my podcast, I’m sharing those conversation with you. New episodes Mondays and Fridays. Listen anywhere you get your podcasts, and please rate and review the podcast if you enjoy it. Live life today ON PURPOSE.
+    * [**Summary Notes**]()
   * [**This is Success**]()
     * **Publisher**: Business Insider
     * **Description**: Revealing conversations with today's most inspiring business, sports, entertainment, and government leaders. Candid interviews with the likes of Sheryl Sandberg, LeBron James, and the founders of companies like Lyft and Tinder. Insightful stories and useful advice about how to get to the top.
+    * [**Summary Notes**]()
   * [**Without Fail**]()
     * **Publisher**: Gimlet
     * **Description**: Candid conversations with entrepreneurs, artists, athletes, visionaries of all kinds—about their successes, and their failures, and what they learned from both. Hosted by Alex Blumberg, from Gimlet Media.
+    * [**Summary Notes**]()
   * [**WTF with Marc Maron**]()
     * **Publisher**: Marc Maron
     * **Description**: Marc Maron welcomes comedians, actors, directors, writers, authors, musicians and folks from all walks of life to his home for amazingly revealing conversations. Marc's probing, comprehensive interview style allows guests to express themselves in ways listeners have never heard.
+    * [**Summary Notes**]()
   * [**Fresh Air**]()
     * **Publisher**: NPR
     * **Description**: Fresh Air from WHYY, the Peabody Award-winning weekday magazine of contemporary arts and issues, is one of public radio's most popular programs. Hosted by Terry Gross, the show features intimate conversations with today's biggest luminaries.
+    * [**Summary Notes**]()
   * [**7 Good Minutes Daily Self-Improvement Podcast with Clyde Lee Dennis**]()
     * **Publisher**: Clyde Lee Dennis
     * **Description**: Start Each Day The Right Way With The 7 Good Minutes Daily Self-Improvement Podcast. The Podcast for Busy High Achievers, Hosted by Clyde Lee Dennis. Where you get self-improvement tips, life skills training, and the inspiration you need as you work toward achieving your goals. With a new 7 minute episode every day 7 days a week featuring the best teachers and speakers like Brendon Burchard, Joel Osteen, Mel Robbins, Simon Sinek, Eddie Pinero, Lisa Nichols, Robin Sharma, Jay Shetty, and many more. Subscribe now so you never miss a new episode!
+    * [**Summary Notes**]()
   * [**Unlocking Us with Brené Brown**]()
     * **Publisher**: Parcast Network
     * **Description**: I’ve spent over 20 years studying the emotions and experiences that bring meaning and purpose to our lives, and if there’s one thing I’ve learned it’s this: We are hardwired for connection, and connecting requires courage, vulnerability, and conversation. I want this to be a podcast that’s real, unpolished, honest, and reflects both the magic and the messiness of what it means to be human. Episodes will include conversations with the people who are teaching me, challenging me, confusing me, or maybe even ticking me off a little. I'll also have direct conversations with you about what I’m learning from new research, and we'll do some episodes dedicated to answering your questions. We don’t have to do life alone. We were never meant to.
+    * [**Summary Notes**]()
   * [**Armchair Expert with Dax Shepard**]()
     * **Publisher**: Armchair Umbrella
     * **Description**: Hi, I’m Dax Shepard, and I love talking to people. I am endlessly fascinated by the messiness of being human, and I find people who are vulnerable and honest about their struggles and shortcomings to be incredibly sexy. I invite you to join me as I explore other people’s stories. We will celebrate, above all, the challenges and setbacks that ultimately lead to growth and betterment. What qualifies me for such an endeavor? More than a decade of sobriety, a degree in Anthropology and four years of improv training. I will attempt to discover human “truths” without any laboratory work, clinical trials or data collection. I will be, in the great tradition of 16th-century scientists, an Armchair Expert.
+    * [**Summary Notes**]()
   * [**SmartLess**]()
     * **Publisher**: Will Arnett, Test Pattern Media, Jason Bateman, Sean Hayes, Bryan Cranston
     * **Description**: "SmartLess" with Jason Bateman, Sean Hayes, & Will Arnett is a podcast that connects and unites people from all walks of life to learn about shared experiences through thoughtful dialogue and organic hilarity. A nice surprise: in each episode of SmartLess, one of the hosts reveals his mystery guest to the other two. What ensues is a genuinely improvised and authentic conversation filled with laughter and newfound knowledge to feed the SmartLess mind.
+    * [**Summary Notes**]()
   * [**Unfiltered with James O'Brien**]()
     * **Publisher**: JOE
     * **Description**: Revealing and candid one-hour conversations with a different special guest every week, featuring fascinating people from the worlds of sport, politics, entertainment, activism and the media. Subscribe to get a brand new episode every Monday.
+    * [**Summary Notes**]()
+* **Secondary Podcasts: General Insights via Lectures**:
+  * [**TED Talks Daily**]()
+    * **Publisher**: TED
+    * **Description**: Every weekday, TED Talks Daily brings you the latest talks in audio. Join host and journalist Elise Hu for thought-provoking ideas on every subject imaginable — from Artificial Intelligence to Zoology, and everything in between — given by the world's leading thinkers and creators. With TED Talks Daily, find some space in your day to change your perspectives, ignite your curiosity, and learn something new.
+    * [**Summary Notes**]()
+		* [**Making Sense with Sam Harris**]()
+    * **Publisher**: Sam Harris
+    * **Description**: Join neuroscientist, philosopher, and best-selling author Sam Harris as he explores important and controversial questions about the human mind, society, and current events. Sam Harris is the author of five New York Times bestsellers. His books include The End of Faith, Letter to a Christian Nation, The Moral Landscape, Free Will, Lying, Waking Up, and Islam and the Future of Tolerance (with Maajid Nawaz). The End of Faith won the 2005 PEN Award for Nonfiction. His writing and public lectures cover a wide range of topics—neuroscience, moral philosophy, religion, meditation practice, human violence, rationality—but generally focus on how a growing understanding of ourselves and the world is changing our sense of how we should live. Harris's work has been published in more than 20 languages and has been discussed in The New York Times, Time, Scientific American, Nature, Newsweek, Rolling Stone, and many other journals. He has written for The New York Times, The Los Angeles Times, The Economist, The Times (London), The Boston Globe, The Atlantic, The Annals of Neurology, and elsewhere. Sam Harris received a degree in philosophy from Stanford University and a Ph.D. in neuroscience from UCLA.
+    * [**Summary Notes**]()
+	 * [**Invisibilia**]()
+    * **Publisher**: NPR
+    * **Description**: Unseeable forces control human behavior and shape our ideas, beliefs, and assumptions. Invisibilia—Latin for invisible things—fuses narrative storytelling with science that will make you see your own life differently.
+    * [**Summary Notes**]()
+	 * [**Checking In with Susan David**]()
+    * **Publisher**: TED
+    * **Description**: Fear, boredom, grief, confusion—we're all feeling... a lot right now. How do we cope with our heightened emotions during this global pandemic? Susan David—a psychologist at Harvard Medical School—is here to offer us strategies. This show is an urgent response to an urgent moment—a support system, toolkit, and understanding voice during a time of great uncertainty.
+    * [**Summary Notes**]()
+	 * [**Stuff You Should Know**]()
+    * **Publisher**: iHeartRadio
+    * **Description**: If you've ever wanted to know about champagne, satanism, the Stonewall Uprising, chaos theory, LSD, El Nino, true crime and Rosa Parks, then look no further. Josh and Chuck have you covered.
+    * [**Summary Notes**]()
+	 * [**Stuff You Missed in History Class**]()
+    * **Publisher**: iHeartRadio
+    * **Description**: Join Holly and Tracy as they bring you the greatest and strangest Stuff You Missed In History Class in this podcast by iHeartRadio.
+    * [**Summary Notes**]()
+	 * [**Ridiculous History**]()
+    * **Publisher**: iHeartRadio
+    * **Description**: History is beautiful, brutal and, often, ridiculous. Join Ben Bowlin and Noel Brown as they dive into some of the weirdest stories from across the span of human civilization in Ridiculous History, a podcast by iHeartRadio.
+    * [**Summary Notes**]()
+	 * [**Stuff They Don't Want You To Know**]()
+    * **Publisher**: iHeartRadio
+    * **Description**: From UFOs to psychic powers and government conspiracies, history is riddled with unexplained events. You can turn back now or learn the Stuff They Don't Want You To Know ... an audio podcast from iHeartRadio.
+    * [**Summary Notes**]()
+	 * [**Stuff To Blow Your Mind**]()
+    * **Publisher**: iHeartRadio
+    * **Description**: Deep in the back of your mind, you’ve always had the feeling that there’s something strange about reality. There is. Join Robert Lamb and Joe McCormick as they examine neurological quandaries, cosmic mysteries, evolutionary marvels and our transhuman future.
+    * [**Summary Notes**]()
+	 * [**Sincerely, X**]()
+    * **Publisher**: TED
+    * **Description**: Stories shared on the TED stage are seen and heard by millions around the world. But some ideas can’t be shared in the open — there are stories that are too risky, painful, or controversial. Sincerely, X provides a space to share powerful ideas anonymously. Stories that deserve to be heard, from people who remain hidden.
+    * [**Summary Notes**]()
+	 * [**Dear Sugars**]()
+    * **Publisher**: WBUR and The New York Times
+    * **Description**: Radically empathic advice
+    * [**Summary Notes**]()
+	 * [**The Griefcast with Cariad Lloyd**]()
+    * **Publisher**: Cariad Lloyd
+    * **Description**: Funny people talking about death and grief, a podcast. Hosted by Cariad Lloyd. Podcast of the Year 2018 / Best Podcast ARIA 2018 / Rose D'or Nominee 2019 You Are Not Alone Support this show at http://supporter.acast.com/griefcast
+    * [**Summary Notes**]()
+* **Secondary Podcasts: General Insights via Interviews**:
+	 * [**TED Radio Hour**]()
+    * **Publisher**: TED
+    * **Description**: Exploring the biggest questions of our time with the help of the world's greatest thinkers. Host Manoush Zomorodi inspires us to learn more about the world, our communities, and most importantly, ourselves.
+    * [**Summary Notes**]()
+	 * [**The TED Interview**]()
+    * **Publisher**: TED
+    * **Description**: Head of TED Chris Anderson speaks with some of the world’s most interesting people to dig into the provocative and powerful ideas of our time.
+    * [**Summary Notes**]()
+	 * [**Full Disclosure With James O’Brien**]()
+    * **Publisher**: LBC
+    * **Description**: Award-winning LBC presenter and best-selling author James O’Brien hosts a series of compelling conversations with fascinating people. These are revealing interviews with people who rarely give in-depth interviews, be it from politics, entertainment or news. Subscribe to get a new episode every Monday.
+    * [**Summary Notes**]()
+	 * [**Hidden Brain**]()
+    * **Publisher**: Hidden Brain
+    * **Description**: Shankar Vedantam uses science and storytelling to reveal the unconscious patterns that drive human behavior, shape our choices and direct our relationships.
+    * [**Summary Notes**]()
+	 * [**Freakonomics Radio**]()
+    * **Publisher**: Freakonomics Radio + Stitcher
+    * **Description**: Discover the hidden side of everything with Stephen J. Dubner, co-author of the Freakonomics books. Each week, Freakonomics Radio tells you things you always thought you knew (but didn’t) and things you never thought you wanted to know (but do) — from the economics of sleep to how to become great at just about anything. Dubner speaks with Nobel laureates and provocateurs, intellectuals and entrepreneurs, and various other underachievers. The entire archive, going back to 2010, is available on the Stitcher podcast app and at freakonomics.com.
+    * [**Summary Notes**]()
+	 * [**The Jordan B. Peterson Podcast**]()
+    * **Publisher**: Dr. Jordan B. Peterson
+    * **Description**: Join intellectual phenomenon Dr. Jordan Peterson and his daughter Mikhaila for enlightening discourse that will change the way you think. This podcast breaks down the dichotomy of life through interviews and lectures that explain how individuals and culture are shaped by values, music, religion, and beyond. It will give you a new perspective and a modern understanding of your creativity, competence, and personality.
+    * [**Summary Notes**]()
+	 * [**The Mikhaila Peterson Podcast**]()
+    * **Publisher**: Mikhaila Peterson
+    * **Description**: Mikhaila Peterson speaks with thought leaders, influencers and industry changers - continually finding the best ways to improve the human experience. From stay at home moms to CEOs, fitness enthusiasts to spiritual guides, nutrition researchers to health professionals - Mikhaila has interview-style conversations aimed at provoking thought, addressing difficult subjects, and delving into topics that are generally shied away from.
+    * [**Summary Notes**]()
+	 * [**The Moth**]()
+    * **Publisher**: The Moth
+    * **Description**: Since its launch in 1997, The Moth has presented thousands of true stories, told live and without notes, to standing-room-only crowds worldwide. Moth storytellers stand alone, under a spotlight, with only a microphone and a roomful of strangers. The storyteller and the audience embark on a high-wire act of shared experience which is both terrifying and exhilarating. Since 2008, The Moth podcast has featured many of our favorite stories told live on Moth stages around the country. For information on all of our programs and live events, visit themoth.org.
+    * [**Summary Notes**]()
+	 * [**Love and Radio**]()
+    * **Publisher**: Love and Radio
+    * **Description**: Nick van der Kolk's Love and Radio features in-depth, otherworldly-produced interviews with an eclectic range of subjects, from the seedy to the sublime. Get inside the mind of a rogue taxidermist. Find out what it's like to experience a stroke firsthand. Or spend time with an artist who gives away her life savings every night. You've never heard anything like it before. This show is moving to Luminary! For more, go to LuminaryPodcasts.com.
+    * [**Summary Notes**]()
+* **Tertiary Podcasts: Business Insights via Lectures**:
+	 * [**Dear HBR;**]()
+    * **Publisher**: Harvard Business Review
+    * **Description**: Work can be frustrating. How can you get along with that maddening coworker? Figure out what your unapproachable boss really wants? Motivate your demoralized team? "Dear HBR:" is here to help. With empathy, experience, and humor, veteran Harvard Business Review editors and co-hosts Alison Beard and Dan McGinn explore solutions to your workplace dilemmas. Bolstered by insights from guests and academic research, they help you navigate thorny situations to find a better way forward.
+    * [**Summary Notes**]()
+	 * [**TED Business**]()
+    * **Publisher**: TED
+    * **Description**: Whatever your business conundrum, there’s a TED Talk for that—whether you want to learn how to land that promotion, set smart goals, undo injustice at work, or unlock the next big innovation. Every Monday, host Modupe Akinola of Columbia Business School presents the most powerful and surprising ideas that illuminate the business world. After the talk, you'll get a mini-lesson from Modupe on how to apply the ideas in your own life. Because business evolves every day, and our ideas about it should, too.
+    * [**Summary Notes**]()
+	 * [**TED Talks Business**]()
+    * **Publisher**: TED
+    * **Description**: Some of the world's greatest innovators, entrepreneurs, and business researchers share their stories and insights from the stage at TED conferences, TEDx events and partner events around the world. You can also download these and many other videos for free from TED.com that features interactive English transcript, and subtitles in as many as 80 languages. TED is a nonprofit devoted to Ideas Worth Spreading.
+    * [**Summary Notes**]()
+	 * [**Planet Money**]()
+    * **Publisher**: NPR
+    * **Description**: The economy explained. Imagine you could call up a friend and say, "Meet me at the bar and tell me what's going on with the economy." Now imagine that's actually a fun evening.
+    * [**Summary Notes**]()
+* **Tertiary Podcasts: Business Insights via Interviews**:
+	 * [**HBR IdeaCast**]()
+    * **Publisher**: Harvard Business Review
+    * **Description**: A weekly podcast featuring the leading thinkers in business and management.
+    * [**Summary Notes**]()
+	 * [**HBR IdeaCast**]()
+    * **Publisher**: HBR Ideacast
+    * **Description**: A weekly podcast featuring the leading thinkers in business and management from Harvard Business Review.
+    * [**Summary Notes**]()
+	 * [**Masters of Scale with Reid Hoffman**]()
+    * **Publisher**: WaitWhat
+    * **Description**: The best startup advice from Silicon Valley & beyond. Iconic CEOs — from Nike to Netflix, Starbucks to Slack — share the stories & strategies that helped them grow from startups into global brands. On each episode, host Reid Hoffman — LinkedIn cofounder, Greylock partner and legendary Silicon Valley investor — proves an unconventional theory about how businesses scale, while his guests share the story of how I built this company. Reid and guests talk entrepreneurship, leadership, strategy, management, fundraising. But they also talk about the human journey — with all its failures and setbacks.  With original, cinematic music and hilariously honest stories, Masters of Scale is a business podcast that doesn’t sound like a business podcast. Guests on Masters of Scale have included the founders and CEOs of Netflix, Google, Facebook, Starbucks, Nike, Fiat, Spotify, Instagram, Airbnb, Uber, Paypal, Huffington Post, Twitter, Medium, Bumble, Yahoo, Slack, Spanx, Shake Shack, Dropbox, TaskRabbit, 23&Me, Mailchimp, Evite, Flickr, CharityWater, Endeavor, IAC and many more.
+    * [**Summary Notes**]()
+	 * [**How I Built This with Guy Raz**]()
+    * **Publisher**: NPR
+    * **Description**: Guy Raz dives into the stories behind some of the world's best known companies. How I Built This weaves a narrative journey about innovators, entrepreneurs and idealists—and the movements they built. Order the How I Built This book at https://www.guyraz.com/
+    * [**Summary Notes**]()
+	 * [**DealMakers**]()
+    * **Publisher**: Alejandro Cremades
+    * **Description**: Welcome to the DealMakers show, hosted by Alejandro Cremades. Alejandro is a serial entrepreneur, best-selling author, and cofounder at Panthera Advisors (M&A and fundraising advisory). On this podcast you will find interviews with entrepreneurs that have been very successful at raising capital or getting their company acquired. You will learn what they did right and what mistakes they made through the process of closing the deal. DealMakers is the ultimate guide for entrepreneurs and senior executives that are in the process of fundraising or selling their company.
+    * [**Summary Notes**]()
+	 * [**Game Plan**]()
+    * **Publisher**: Bloomberg
+    * **Description**: You spend more time at your job than just about anywhere else. Game Plan, a weekly show hosted by Bloomberg reporter Rebecca Greenfield and editor Francesca Levy, takes a close look at the way we live our lives at work. Greenfield and Levy dive into everything from how we started speaking in office jargon to the strategic value of being nice to your colleagues. It turns out that there’s a lot more to say about the office grind than you may have realized.
+    * [**Summary Notes**]()
+	 * [**WSJ Secrets of Wealthy Women**]()
+    * **Publisher**: Wall Street Journal
+    * **Description**: Empower yourself financially. Successful women executives, workplace pioneers, self-made entrepreneurs, industry trendsetters and money-savvy experts reveal insights on how to get ahead, reach your goals, and achieve professional success. They join host Veronica Dagher every Tuesday.
+    * [**Summary Notes**]()
+	 * [**The Prof G Show with Scott Galloway**]()
+    * **Publisher**: Section 4 / Westwood One Podcast Network
+    * **Description**: We live in a winner-take-all economy that’s bifurcating into those who are part of the innovation economy and those who aren’t. Every week best-selling author, professor and entrepreneur Scott Galloway answers questions from you (his listeners) on who’s winning and losing, and how you can get ahead. Other professors, practitioners, and entrepreneurs join Scott to contribute ideas, alternate opinions, and insights to help you thrive at work. Tune in for a no mercy, no malice take on how you can level up your game in the world of business. To submit a question, email a voice recording to OfficeHours@Section4.com.
+    * [**Summary Notes**]()
 
 <a name="academics"/>
 
