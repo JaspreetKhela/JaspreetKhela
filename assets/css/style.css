@@ -4,8 +4,13 @@
     background-color: lightyellow;
 }
 
-.jumbotron, .card{
+.jumbotron{
     text-align: center;
+}
+
+.card {
+    text-align: center;
+    /* vertical-align: top; */
 }
 
 .about-section {
