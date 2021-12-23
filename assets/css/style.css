@@ -1,9 +1,22 @@
 .jumbotron {
+    border: 1px solid;
+    border-width: thick;
     background-color: lightyellow;
 }
 
 .jumbotron, .card{
     text-align: center;
+}
+
+.about-section {
+    padding: 3%;
+    border: 1px solid;
+    border-width: thick;
+    background-color:lightcyan;
+}
+
+b {
+    font-weight: 600;
 }
 
 div {
