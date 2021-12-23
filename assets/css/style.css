@@ -13,6 +13,24 @@
     /* vertical-align: top; */
 }
 
+.card-header {
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-title {
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-text {
+    height: 260px;
+}
+
 .about-section {
     padding: 3%;
     border: 1px solid;
