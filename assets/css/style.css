@@ -17,3 +17,28 @@ a {
 h1 {
     text-align: center;
 }
+
+.category-heading {
+    padding: 1%;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-width: thick;
+    background-color:lightyellow;
+}
+
+h2 {
+    padding: 1%;
+    text-align: center;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-width: thick;
+    background-color:lightgreen;
+}
+
+.social-media-profiles, .software-work-portfolios, .hardware-work-portfolios, .business-work-portfolios {
+    margin-bottom: 2%;
+    padding: 3%;
+    border: 1px solid;
+    border-width: thick;
+    background-color:lightcyan;
+}
