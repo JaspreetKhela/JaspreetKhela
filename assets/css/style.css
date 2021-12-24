@@ -1,16 +1,30 @@
-.jumbotron {
-    border: 1px solid;
-    border-width: thick;
-    background-color: lightyellow;
+body {
+    background-image: url("../images/background-images/simone-hutsch-8p6pdSkA-6A-unsplash.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
 }
 
-.jumbotron{
+.jumbotron {
     text-align: center;
+    /* border: 1px solid;
+    border-width: thick; */
+    background-color: lightyellow;
+    background-color: transparent;
+}
+
+.display-4 {
+    border-radius: 25px;    
 }
 
 .card {
     text-align: center;
     /* vertical-align: top; */
+}
+
+img {
+    height: 200px;
+    object-fit: cover;
 }
 
 .card-header {
@@ -33,8 +47,9 @@
 
 .about-section {
     padding: 3%;
-    border: 1px solid;
-    border-width: thick;
+    border-radius: 25px;
+    /* border: 1px solid;
+    border-width: thick; */
     background-color:lightcyan;
 }
 
@@ -51,13 +66,15 @@ a {
 }
 
 h1 {
+    padding: 1%;
     text-align: center;
+    background-color: lightyellow;
 }
 
 .category-heading {
     padding: 1%;
-    border-top: 1px solid;
-    border-bottom: 1px solid;
+    /* border-top: 1px solid;
+    border-bottom: 1px solid; */
     border-width: thick;
     background-color:lightyellow;
 }
@@ -65,16 +82,17 @@ h1 {
 h2 {
     padding: 1%;
     text-align: center;
-    border-top: 1px solid;
+    /* border-top: 1px solid;
     border-bottom: 1px solid;
-    border-width: thick;
+    border-width: thick; */
     background-color:lightgreen;
 }
 
 .social-media-profiles, .software-work-portfolios, .hardware-work-portfolios, .business-work-portfolios {
     margin-bottom: 2%;
     padding: 3%;
-    border: 1px solid;
-    border-width: thick;
+    border-radius: 25px;
+    /* border: 1px solid;
+    border-width: thick; */
     background-color:lightcyan;
 }
