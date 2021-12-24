@@ -1,8 +1,12 @@
 body {
+    padding: 4%;
     background-image: url("../images/background-images/simone-hutsch-8p6pdSkA-6A-unsplash.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
+}
+nav {
+    border-radius: 25px;
 }
 
 .jumbotron {
@@ -67,7 +71,9 @@ a {
 
 h1 {
     padding: 1%;
-    text-align: center;
+    margin: auto;
+    width: fit-content;
+    border-radius: 25px;
     background-color: lightyellow;
 }
 
@@ -81,15 +87,17 @@ h1 {
 
 h2 {
     padding: 1%;
-    text-align: center;
+    margin: auto;
+    width: fit-content;
     /* border-top: 1px solid;
     border-bottom: 1px solid;
     border-width: thick; */
-    background-color:lightgreen;
+    border-radius: 25px;
+    color: lightyellow;
+    background-color:crimson;
 }
 
 .social-media-profiles, .software-work-portfolios, .hardware-work-portfolios, .business-work-portfolios {
-    margin-bottom: 2%;
     padding: 3%;
     border-radius: 25px;
     /* border: 1px solid;
