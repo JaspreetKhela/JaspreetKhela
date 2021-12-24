@@ -6,6 +6,7 @@ body {
     background-position: center;
 }
 nav {
+    font-size: 85%;
     border-radius: 25px;
 }
 
@@ -146,6 +147,19 @@ h2 {
     border-radius: 25px;
     color: yellow;
     background-color: blueviolet;
+}
+
+h3 {
+    padding: 1%;
+    margin: auto;
+    width: fit-content;
+    text-align: center;
+    border-radius: 0px 0px 25px 25px;
+    background-color:lightcyan;
+}
+
+h3 a {
+    color: darkblue;
 }
 
 .social-media-profiles, .software-work-portfolios, .hardware-work-portfolios, .business-work-portfolios {
