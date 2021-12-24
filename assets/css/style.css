@@ -82,7 +82,7 @@ h1 {
     /* border-top: 1px solid;
     border-bottom: 1px solid; */
     border-width: thick;
-    background-color:lightyellow;
+    background-color: lightyellow;
 }
 
 h2 {
@@ -93,8 +93,8 @@ h2 {
     border-bottom: 1px solid;
     border-width: thick; */
     border-radius: 25px;
-    color: lightyellow;
-    background-color:crimson;
+    color: yellow;
+    background-color: blueviolet;
 }
 
 .social-media-profiles, .software-work-portfolios, .hardware-work-portfolios, .business-work-portfolios {
@@ -102,5 +102,5 @@ h2 {
     border-radius: 25px;
     /* border: 1px solid;
     border-width: thick; */
-    background-color:lightcyan;
+    background-color: lightcyan;
 }
