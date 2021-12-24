@@ -22,8 +22,10 @@ nav {
 }
 
 .card {
+    margin: 5%;
     text-align: center;
-    /* vertical-align: top; */
+    border-radius: 25px;
+    background-color:lightcyan;
 }
 
 img {
@@ -31,11 +33,24 @@ img {
     object-fit: cover;
 }
 
+.card-img-top {
+    border-radius: 25px 25px 0px 0px;
+}
+
 .card-header {
     height: 75px;
+    box-sizing: border-box;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 150%;
+    background-color: lightyellow;
+}
+
+.overview {
+    width:75%;
+    font-size: 225%;
 }
 
 .professional-work-history {
@@ -78,7 +93,7 @@ img {
 }
 
 .card-text {
-    height: 260px;
+    height: 300px;
 }
 
 .about-section {
@@ -105,6 +120,7 @@ h1 {
     padding: 1%;
     margin: auto;
     width: fit-content;
+    font-size: 300%;
     text-align: center;
     border-radius: 25px;
     background-color: lightyellow;
@@ -122,6 +138,7 @@ h2 {
     padding: 1%;
     margin: auto;
     width: fit-content;
+    font-size: 250%;
     text-align: center;
     /* border-top: 1px solid;
     border-bottom: 1px solid;
