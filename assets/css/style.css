@@ -38,6 +38,38 @@ img {
     align-items: center;
 }
 
+.professional-work-history {
+    background-color: darkgreen;
+}
+
+.technical-work {
+    background-color: darkblue;
+}
+
+.technical-work-video-tutorials {
+    background-color: darkblue;
+}
+
+.technical-work-blog-posts {
+    background-color: darkblue;
+}
+
+.non-technical-work {
+    background-color: darkred;
+}
+
+.technical-education {
+    background-color: darkblue;
+}
+
+.non-technical-education {
+    background-color: darkred;
+}
+
+.interests {
+    background-color: darkslateblue;
+}
+
 .card-title {
     height: 75px;
     display: flex;
