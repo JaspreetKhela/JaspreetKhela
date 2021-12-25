@@ -4,10 +4,12 @@ body {
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
+    font-size: large;
 }
 nav {
     font-size: 85%;
     border-radius: 25px;
+    text-align: center;
 }
 
 .jumbotron {
@@ -22,11 +24,46 @@ nav {
     border-radius: 25px;    
 }
 
+.color-box {
+    display: inline-block;
+    height: fit-content;
+    width: fit-content;
+    margin: 1%;
+    padding: 3%;
+    border-radius: 25px;
+    color: yellow;
+}
+
 .card {
     margin: 2%;
     text-align: center;
     border-radius: 25px;
     background-color:lightcyan;
+}
+
+.card-body {
+    width: 100%;
+    border-radius: 0px 0px 25px 25px;
+}
+
+.tier-1-color {
+    background-color:darkred;
+}
+
+.tier-2-color {
+    background-color: darkgreen;
+}
+
+.tier-3-color {
+    background-color: darkcyan;
+}
+
+.tier-4-color {
+    background-color: darkmagenta;
+}
+
+.tier-5-color {
+    background-color:darkslateblue;
 }
 
 img {
@@ -39,7 +76,7 @@ img {
 }
 
 .card-header {
-    height: 100px;
+    height: 150px;
     box-sizing: border-box;
     width: 100%;
     display: flex;
@@ -55,35 +92,27 @@ img {
 }
 
 .professional-work-history {
-    background-color: darkgreen;
+    background-color:mediumturquoise;
 }
 
-.technical-work {
-    background-color: darkblue;
+.technical-education-and-work {
+    background-color: mediumblue;
 }
 
-.technical-work-video-tutorials {
-    background-color: darkblue;
+.technical-education-and-work-video-tutorials {
+    background-color: mediumblue;
 }
 
-.technical-work-blog-posts {
-    background-color: darkblue;
+.technical-education-and-work-blog-posts {
+    background-color: mediumblue;
 }
 
-.non-technical-work {
-    background-color: darkred;
-}
-
-.technical-education {
-    background-color: darkblue;
-}
-
-.non-technical-education {
-    background-color: darkred;
+.non-technical-education-and-work {
+    background-color:mediumseagreen;
 }
 
 .interests {
-    background-color: darkslateblue;
+    background-color: mediumvioletred;
 }
 
 .card-title {
@@ -94,7 +123,7 @@ img {
 }
 
 .card-text {
-    height: 300px;
+    height: 350px;
 }
 
 .about-section {
@@ -114,11 +143,11 @@ div {
 }
 
 a {
-    color: gold;
+    color: yellow;
 }
 
 h1 {
-    padding: 1%;
+    padding: 3%;
     margin: auto;
     width: fit-content;
     font-size: 300%;
@@ -128,7 +157,7 @@ h1 {
 }
 
 .category-heading {
-    padding: 1%;
+    padding: 3%;
     /* border-top: 1px solid;
     border-bottom: 1px solid; */
     border-width: thick;
@@ -136,7 +165,7 @@ h1 {
 }
 
 h2 {
-    padding: 1%;
+    padding: 3%;
     margin: auto;
     width: fit-content;
     font-size: 250%;
@@ -146,11 +175,11 @@ h2 {
     border-width: thick; */
     border-radius: 25px;
     color: yellow;
-    background-color: blueviolet;
+    background-color: darkblue;
 }
 
 h6 {
-    padding: 1%;
+    padding: 3%;
     margin: auto;
     width: fit-content;
     text-align: center;
