@@ -20,6 +20,17 @@ nav {
     background-color: transparent;
 }
 
+.hero-image {
+    height: fit-content;
+    width: 100%;
+    display: block;
+    /* margin-top: 2%; */
+    margin-bottom: 6%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
+
 .display-4 {
     border-radius: 25px;    
 }
@@ -116,7 +127,7 @@ img {
 }
 
 .card-title {
-    height: 100px;
+    height: 125px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -191,7 +202,7 @@ h6 a {
     color: darkblue;
 }
 
-.social-media-profiles, .software-work-portfolios, .hardware-work-portfolios, .business-work-portfolios {
+.social-media-profiles, .software-work-portfolios, .hardware-work-portfolios, .multimedia-production-portfolios, .skilled-trades-portfolios, .performance-arts-portfolios, .business-work-portfolios {
     padding: 3%;
     border-radius: 25px;
     /* border: 1px solid;
