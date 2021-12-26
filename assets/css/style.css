@@ -208,4 +208,8 @@ h6 a {
     /* border: 1px solid;
     border-width: thick; */
     background-color: lightcyan;
+    background-image: url("../images/background-images/efe-kurnaz-RnCPiXixooY-unsplash.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
 }
