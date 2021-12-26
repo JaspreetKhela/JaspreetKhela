@@ -202,7 +202,7 @@ h6 a {
     color: darkblue;
 }
 
-.social-media-profiles, .software-work-portfolios, .hardware-work-portfolios, .multimedia-production-portfolios, .skilled-trades-portfolios, .performance-arts-portfolios, .business-work-portfolios {
+.social-media-profiles, .software-education-and-work-category, .hardware-education-and-work-category, .multimedia-production-portfolios, .skilled-trades-portfolios, .performance-arts-portfolios, .business-education-and-work-category, .academic-education-and-work-category, .personal-development-education-and-work-category, .interests-education-and-work-category {
     padding: 3%;
     border-radius: 25px;
     /* border: 1px solid;
@@ -212,4 +212,15 @@ h6 a {
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
+}
+
+.reveal{
+    position: relative;
+    transform: translateY(150px);
+    opacity: 0;
+    transition: 2s all ease;
+}
+.reveal.active{
+    transform: translateY(0);
+    opacity: 1;
 }
