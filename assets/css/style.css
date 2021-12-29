@@ -20,12 +20,23 @@ nav {
     background-color: transparent;
 }
 
-.hero-image {
+#hero-image {
     height: fit-content;
     width: 100%;
     display: block;
     /* margin-top: 2%; */
     margin-bottom: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
+
+#software-development-education-and-work-image, #hardware-development-education-and-work-image, #skilled-trades-education-and-work-image, #multimedia-production-education-and-work-image, #performance-arts-education-and-work-image, #business-development-education-and-work-image, #academic-development-history-and-pursuits-image, #personal-development-history-and-pursuits-image, #personal-interests-image {
+    height: 650px;
+    width: 100%;
+    display: block;
+    margin-top: 2%;
+    margin-bottom: 2%;
     margin-left: auto;
     margin-right: auto;
     border-radius: 100px;
@@ -43,6 +54,10 @@ nav {
     padding: 3%;
     border-radius: 25px;
     color: yellow;
+}
+
+#color-legend {
+    background-image: url("../images/background-images/daniel-olah-VS_kFx4yF5g-unsplash.jpg");
 }
 
 .card {
@@ -87,7 +102,7 @@ img {
 }
 
 .card-header {
-    height: 150px;
+    height: 175px;
     box-sizing: border-box;
     width: 100%;
     display: flex;
