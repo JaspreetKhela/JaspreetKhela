@@ -117,7 +117,7 @@ img {
     font-size: 225%;
 }
 
-.professional-work-history {
+#professional-work-history {
     background-color:mediumslateblue;
 }
 
@@ -125,11 +125,11 @@ img {
     background-color: mediumblue;
 }
 
-.technical-education-and-work-video-tutorials {
+#technical-education-and-work-video-tutorials {
     background-color: mediumblue;
 }
 
-.technical-education-and-work-blog-posts {
+#technical-education-and-work-blog-posts {
     background-color: mediumblue;
 }
 
@@ -152,7 +152,7 @@ img {
     height: 400px;
 }
 
-.about-section {
+#about-section {
     padding: 3%;
     border-radius: 25px;
     /* border: 1px solid;
@@ -217,7 +217,7 @@ h6 a {
     color: darkblue;
 }
 
-.social-media-profiles, .software-education-and-work-category, .hardware-education-and-work-category, .multimedia-production-portfolios, .skilled-trades-portfolios, .performance-arts-portfolios, .business-education-and-work-category, .academic-education-and-work-category, .personal-development-education-and-work-category, .interests-education-and-work-category {
+#social-media-profiles, #software-education-and-work-category, #hardware-education-and-work-category, #multimedia-production-portfolios, #skilled-trades-portfolios, #performance-arts-portfolios, #business-education-and-work-category, #academic-education-and-work-category, #personal-development-education-and-work-category, #interests-education-and-work-category {
     padding: 3%;
     border-radius: 25px;
     /* border: 1px solid;
