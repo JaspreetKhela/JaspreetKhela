@@ -1,5 +1,5 @@
 body {
-    padding: 4%;
+    /* padding: 4%; */
     background-image: url("../images/background-images/simone-hutsch-8p6pdSkA-6A-unsplash.jpg");
     background-size: cover;
     background-attachment: fixed;
@@ -7,6 +7,7 @@ body {
     font-size: large;
 }
 nav {
+    margin: 4%;
     font-size: 85%;
     border-radius: 25px;
     text-align: center;
@@ -22,13 +23,13 @@ nav {
 
 #hero-image {
     height: fit-content;
-    width: 100%;
+    width: 107%;
     display: block;
     /* margin-top: 2%; */
     margin-bottom: 15%;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 100px;
+    /* border-radius: 100px; */
 }
 
 #software-development-education-and-work-image, #hardware-development-education-and-work-image, #skilled-trades-education-and-work-image, #multimedia-production-education-and-work-image, #performance-arts-education-and-work-image, #business-development-education-and-work-image, #academic-development-history-and-pursuits-image, #personal-development-history-and-pursuits-image, #personal-interests-image {
