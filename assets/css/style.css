@@ -31,7 +31,7 @@ nav {
     border-radius: 100px;
 }
 
-#software-development-education-and-work-image, #hardware-development-education-and-work-image, #skilled-trades-education-and-work-image, #multimedia-production-education-and-work-image, #performance-arts-education-and-work-image, #business-development-education-and-work-image, #academic-development-history-and-pursuits-image, #personal-development-history-and-pursuits-image, #personal-interests-image {
+#work-history-image, #software-development-education-and-work-image, #hardware-development-education-and-work-image, #skilled-trades-education-and-work-image, #multimedia-production-education-and-work-image, #performance-arts-education-and-work-image, #business-development-education-and-work-image, #academic-development-history-and-pursuits-image, #personal-development-history-and-pursuits-image, #personal-interests-image {
     height: 650px;
     width: 100%;
     display: block;
@@ -217,7 +217,7 @@ h6 a {
     color: darkblue;
 }
 
-#social-media-profiles, #software-education-and-work-category, #hardware-education-and-work-category, #multimedia-production-portfolios, #skilled-trades-portfolios, #performance-arts-portfolios, #business-education-and-work-category, #academic-education-and-work-category, #personal-development-education-and-work-category, #interests-education-and-work-category {
+#social-media-profiles, #work-history-category, #software-education-and-work-category, #hardware-education-and-work-category, #multimedia-production-portfolios, #skilled-trades-portfolios, #performance-arts-portfolios, #business-education-and-work-category, #academic-education-and-work-category, #personal-development-education-and-work-category, #interests-education-and-work-category {
     padding: 3%;
     border-radius: 25px;
     /* border: 1px solid;
