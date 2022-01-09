@@ -48,18 +48,26 @@ __________
 * [Goals](#goals)
 * [Personality](#personality)
 * [Capabilites](#capabilities)
-* [Personal Development History and Pursuits](#personal)
-* [Academic Development History and Pursuits](#academics)
-* [Professional Development History and Pursuits](#professional)
-* [Software Development Languages](#languages)
-* [Software Development Technologies](#technologies)
-* [Software Development Repositories](#repositories)
-* [GitHub Gists Tutorials](#gists)
-* [GitHub Performance Statistics](#performance)
-* [Software Development Project Collaboration Opportunities](#collaboration)
-* [Software Development-Related Practitioner Experiences](#experience)
-* [Employment Opportunities](#employment)
-* [Contact Me](#contact)
+* [Social Media Profiles](#social-media-profiles)
+* [Work History](#work-history)
+* [Professional Development History and Pursuits: Software Development Education and Work](#software-development-education-and-work)
+* [Professional Development History and Pursuits: Hardware Development Education and Work](#hardware-development-education-and-work)
+* [Professional Development History and Pursuits: Skilled Trades Education and Work](#skilled-trades-education-and-work)
+* [Professional Development History and Pursuits: Multimedia Production Education and Work](#multimedia-production-education-and-work)
+* [Professional Development History and Pursuits: Performance Arts Education and Work](#performance-arts-education-and-work)
+* [Professional Development History and Pursuits: Business Development Education and Work](#business-development-education-and-work)
+* [Academic Development History and Pursuits](#academic-development-history-and-pursuits)
+* [Personal Development History and Pursuits](#personal-development-history-and-pursuits)
+* [Personal Interests](#personal-interests)
+* [Software Development Languages](#software-development-languages)
+* [Software Development Technologies](#software-development-technologies)
+* [Software Development Repositories](#software-development-repositories)
+* [GitHub Gists Tutorials](#github-gists-tutorials)
+* [GitHub Performance Statistics](#github-performance-statistics)
+* [Software Development Project Collaboration Opportunities](#software-development-project-collaboration-opportunities)
+* [Software Development-Related Practitioner Experiences](#software-development-related-practitioner-experience)
+* [Employment Opportunities](#employment-opportunities)
+* [Contact Me](#contact-me)
 __________
 
 Below, you will find a reverse chronological overview of my journey as a professional and student through employment and volunteer experiences that I have accrued since the beginning of my secondary education.
@@ -99,7 +107,37 @@ __________
 
 Below, you will find an outline of my personal, academic, and professional development history and (current and future) pursuits. The purpose of these sections is to provide readers with an overview of my self-development journey so that readers can better understand my current and future domains of competencies and avenues for collaborations on prospective projects. My hope is that readers may also draw ideas/inspirations for their self-development journey as they examine my self-development journey.
 
-<a name="personal"/>
+<a name="social-media-profiles"/>
+
+### Social Media Profiles
+
+<a name="work-history"/>
+
+### Work History
+
+<a name="software-development-education-and-work"/>
+
+### Professional Development History and Pursuits: Software Development Education and Work
+
+<a name="hardware-development-education-and-work"/>
+
+### Professional Development History and Pursuits: Hardware Development Education and Work
+
+<a name="skilled-trades-education-and-work"/>
+
+### Professional Development History and Pursuits: Skilled Trades Education and Work
+
+<a name="multimedia-production-education-and-work"/>
+
+### Professional Development History and Pursuits: Multimedia Production Education and Work
+
+<a name="business-development-education-and-work"/>
+
+### Professional Development History and Pursuits: Business Development Education and Work
+
+### Academic Development History and Pursuits
+
+<a name="personal-development-history-and-pursuits"/>
 
 ### Personal Development History and Pursuits
 The following personal development history and pursuits section outlines the non-academic and non-professional pursuits that I have embarked upon or will embark upon over the span of my adulthood. 
@@ -108,7 +146,7 @@ I have primarily focused on developing my expertise in the arts and humanities, 
 
 The tail-end of this section also outlines works of literature that aid in the development of a growth and an antifragile mindset and help to facilitate a deeper understanding of the human condition.
 
-**Arts and Humanities**:
+**Technical Education and Work**:
 * **George Brown College**:
 
 __________
@@ -151,6 +189,68 @@ __________
       * [In Queue] [**CMDI 2064	Human Resources (online)**](): Dealing with people is what the hospitality industry is all about. Therefore, the effective management of human resources (i.e. employees) plays a vital role in the success of hospitality, including kitchen operations. This course examines the strategic role the human resource department plays in daily operations with an emphasis on effective human resources practices. Such practices include workforce planning, recruitment, selection, training, performance management, development and retention. Students will also be introduced to employment and human rights legislation, workplace ethics, and health and safety. To include experiential learning, student internships will be leveraged to show comprehension of learning objectives through a series of weekly reflections, ultimately culminating in a case study in which they will apply lessons learned.
       * [In Queue] [**CMDI 2077	Marketing (online)**](): This course provides students with a fundamental understanding of marketing and its relationship to the restaurant industry. Students focus on basic marketing strategies and practices and research their application in current hospitality operations. The course also focuses on "in-house" marketing strategies such as attracting and keeping employees and guests, branding and internet marketing.
       * [In Queue] [**GNED	General Education Elective (online)**]():
+
+__________
+<p align="center">
+<img src="" alt="Baking and Pastry Arts" width=1000/>
+</p>
+
+**Image Credits**: 
+
+__________
+
+  * [In Queue] **Baking and Pastry Arts Management Program H113**: Live the sweet life! Located in the heart of downtown Toronto, George Brown puts you at the centre of the Baking & Pastry industry in Canada. Designed by leaders in the industry, this two-year program in Baking and Pastry Arts Management gives you the best of both worlds – advanced patisserie training and the management skills you need to operate a successful business.
+    * **Semester 1**:
+      * [In Queue] **[HOSF1094	Baking and Pastry Arts Theory I (Sanitation Certificate included)]()**:
+      * [In Queue] **[HOSF1093	Baking and Pastry Arts Skills I]()**:
+      * [In Queue] **[HOSF1146	Emergency First Aid/Heartsaver CPR (weekend course)]()**:
+      * [In Queue] **[COMM1007	College English]()**:
+      * [In Queue] **[MATH1102	Math for Hospitality]()**:
+      * [In Queue] **[GNED	General Education Elective]()**:
+    * **Semester 2**:
+      * [In Queue] **[HOSF1097	Baking and Pastry Arts Theory II (WHMIS Certificate included)]()**:
+      * [In Queue] **[HOSF1096	Baking and Pastry Arts Skills II]()**:
+      * [In Queue] **[HOSF1224	Dessert Menu Management (Smart Serve Certificate)]()**:
+      * [In Queue] **[HOSF2060	Baking & Pastry Production I]()**:
+      * [In Queue] **[HOST1126	Career Preparation]()**:
+      * [In Queue] **[HOSF1255	Nutrition Fundamentals from a Culinary Perspective]()**:
+      * [In Queue] **[HOSF1206	Cost Control (hybrid)]()**:
+    * **Semester 3**:
+      * [In Queue] **[HOSF2032	Baking and Pastry Arts Skills III]()**:
+      * [In Queue] **[HOSF2033	Baking and Pastry Arts Theory III]()**:
+      * [In Queue] **[HOST2065	Industry Externship]()**:
+      * [In Queue] **[HOSF2061	Baking and Pastry Production II]()**:
+      * [In Queue] **[GNED	General Education Elective]()**:
+    * **Semester 4**:
+      * [In Queue] **[HOSF2052	Baking and Pastry Arts Skills IV]()**:
+      * [In Queue] **[HOST1035	Marketing and Entrepreneurship]()**:
+      * [In Queue] **[HOST2074	Cheese and Beverage]()**:
+      * [In Queue] **[HOSF2058	Baking and Pastry Arts Theory IV]()**:
+      * [In Queue] **[HOSF2081	Hospitality Leadership and Communication]()**:
+      * [In Queue] **[GNED	General Education Elective]()**:
+
+__________
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80941606/146662100-22b340bc-cd3b-4b6a-ad08-a452d03880a3.jpg" alt="Judo" width=1000/>
+</p>
+
+**Image Credits**: 
+
+__________
+
+**Combat Training**:
+* **Armed Training**:
+  * **Firearms Training**: [In Queue] Combat Arms role-specific training in the Canadian Armed Forces (CAF)
+  * **Combat Sports Training**:  
+    * Gatka: Intermediate level of training
+* **Unarmed Training**:
+  * **Combat Sports Training**:
+    * **Grappling Training**:
+      * [In Queue] Brazilian Jiu-Jitsu
+      * [In Queue] Wrestling
+    * **Striking Training**:
+      * [In Queue] Muay Thai
+      * [In Queue] Boxing
 
 __________
 <p align="center">
@@ -222,29 +322,6 @@ __________
           * Speech Arts and Drama
        * Theory Examinations
          * Theory Examinations, designed to complement practical studies, begin at the Level 5 practical level and are written in a formal classroom setting.
-
-__________
-<p align="center">
-<img src="https://user-images.githubusercontent.com/80941606/146662100-22b340bc-cd3b-4b6a-ad08-a452d03880a3.jpg" alt="Judo" width=1000/>
-</p>
-
-**Image Credits**: 
-
-__________
-
-**Combat Training**:
-* **Armed Training**:
-  * **Firearms Training**: [In Queue] Combat Arms role-specific training in the Canadian Armed Forces (CAF)
-  * **Combat Sports Training**:  
-    * Gatka: Intermediate level of training
-* **Unarmed Training**:
-  * **Combat Sports Training**:
-    * **Grappling Training**:
-      * [In Queue] Brazilian Jiu-Jitsu
-      * [In Queue] Wrestling
-    * **Striking Training**:
-      * [In Queue] Muay Thai
-      * [In Queue] Boxing 
 
  **Skilled Trades**:
  * **George Brown College**:
@@ -1130,7 +1207,11 @@ The following podcasts that I have or will listen too are centred around accruin
     * **Description**: We live in a winner-take-all economy that’s bifurcating into those who are part of the innovation economy and those who aren’t. Every week best-selling author, professor and entrepreneur Scott Galloway answers questions from you (his listeners) on who’s winning and losing, and how you can get ahead. Other professors, practitioners, and entrepreneurs join Scott to contribute ideas, alternate opinions, and insights to help you thrive at work. Tune in for a no mercy, no malice take on how you can level up your game in the world of business. To submit a question, email a voice recording to OfficeHours@Section4.com.
     * [**Summary Notes**]()
 
-<a name="academics"/>
+<a name="personal-interests"/>
+
+### Personal Interests
+
+<a name="academic-development-history-and-pursuits"/>
 
 ### Academic Development History and Pursuits
 The following academic development history and pursuits section outlines my areas of expertise developed through my enrollment in post-secondary programs and their corresponding courses during my adulthood. 
