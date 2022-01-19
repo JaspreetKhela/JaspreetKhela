@@ -122,28 +122,36 @@ __________
 
 ### Work History
 
-<b style="color:blue;">Technical Education and Work</b>: <b>Software Development Work History</b>
+**Technical Education and Work**: **Software Development Work History**
+
 [Coming Soon]
 
-<p style="color:blue;">Technical Education and Work</p>: <b>Data Science Work History</b>
+**Technical Education and Work**: **Data Science Work History**
+
 [Coming Soon]
  
-<p style="color:blue"><b>Technical Education and Work</b></p>: <b>Product Design Work History</b>
+**Technical Education and Work**: **Product Design Work History**
+
 [Coming Soon]
  
-<p style="color:blue"><b>Technical Education and Work</b></p>: <b>Product Management Work History</b>
+**Technical Education and Work**: **Product Management Work History**
+
 [Coming Soon]
  
-<p style="color:blue"><b>Technical Education and Work</b></p>: <b>Business Sales and Development Work History</b>
+**Technical Education and Work**: **Business Sales and Development Work History**
+
 [Coming Soon]
  
-<p style="color:blue"><b>Technical Education and Work</b></p>: <b>Business Operations Work History</b>
+**Technical Education and Work**: **Business Operations Work History**
+
 [Coming Soon]
  
-<p style="color:blue"><b>Technical Education and Work</b></p>: <b>Military Combat Arms Operator Work History</b>
+**Technical Education and Work**: **Military Combat Arms Operator Work History**
+
 [Coming Soon]
  
-<p style="color:blue"><b>Technical Education and Work</b></p>: <b>Mathematical Physics and Mathematical Medicine Work History</b>
+**Technical Education and Work**: **Mathematical Physics and Mathematical Medicine Work History**
+
 [Coming Soon]
 
 __________
@@ -151,6 +159,61 @@ __________
 <a name="software-development-education-and-work"/>
 
 ### Professional Development History and Pursuits: Software Development Education and Work
+
+**Technical Education and Work**: **Front-End Web Development Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Back-End Web Development Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Full-Stack Web Development Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Android Application Development Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **iOS Application Development Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Data Analytics and Science Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Cybersecurity Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Financial Technologies Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **User Experience and Interface Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Digital Marketing Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Artificial Intelligence Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Cloud Computing Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Enterprise Architecture Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Information Management Education and Work**
+[Coming Soon]
 
 __________
 
