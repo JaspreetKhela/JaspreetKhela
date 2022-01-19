@@ -122,10 +122,10 @@ __________
 
 ### Work History
 
-<b style="color:blue">Technical Education and Work</b>: <b>Software Development Work History</b>
+<b style="color:blue;">Technical Education and Work</b>: <b>Software Development Work History</b>
 [Coming Soon]
 
-<p style="color:blue"><b>Technical Education and Work</b></p>: <b>Data Science Work History</b>
+<p style="color:blue;">Technical Education and Work</p>: <b>Data Science Work History</b>
 [Coming Soon]
  
 <p style="color:blue"><b>Technical Education and Work</b></p>: <b>Product Design Work History</b>
