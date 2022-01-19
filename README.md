@@ -85,7 +85,7 @@ I was curious about the universe's intricacies during my formative years: the Ze
 <a name="goals"/>
 
 ### Goals
-I aspire to become a mathematician (specializing in mathematical applications in physics, computer science, statistics, economics, chemistry, biology, and philosophy). Specifically, over the short-term, I desire to work on: technical research and development/engineering projects in quantum computing, machine learning, cryptography, nuclear fusion, surgery, and finance; and non-technical projects in business development, operations, and sales. Generally, over the long-term, I desire to work in: the private sector as an entrepreneur and a creative artist; and the public sector as a mathematician in academic and government research institutes and facilities, Combat Arms operator in the Canadian Armed Forces, healthcare worker, social worker, and public servant.
+I aspire to become a mathematician (specializing in mathematical applications in physics, computer science, statistics, economics, chemistry, biology, and philosophy). Specifically, over the short-term, I desire to work on: technical research and development/engineering projects in quantum computing, machine learning, cryptography, nuclear fusion, surgery, and finance; and non-technical projects in business development, operations, and sales. Generally, over the long-term, I desire to work in: the private sector as an entrepreneur and a creative artist; and the public sector as a mathematician in academic and government research institutes and facilities, Combat Arms operator in a military, healthcare worker, social worker, and public servant.
 
 <a name="personality"/>
 
@@ -103,39 +103,84 @@ Personality traits are defined as habitual patterns of emotions, thoughts, and b
 - **Hard Skills**: Quantitative Analysis, Multimedia Production
 - **Soft Skills**: Critical Thinking, Communication
 __________
+
 **Note**: 'In Queue' refers to activities that are yet to be undertaken. Some of these activities may require acceptance into an educational program and/or a professional role within an organization.
 
-Below, you will find an outline of my personal, academic, and professional development history and (current and future) pursuits. The purpose of these sections is to provide readers with an overview of my self-development journey so that readers can better understand my current and future domains of competencies and avenues for collaborations on prospective projects. My hope is that readers may also draw ideas/inspirations for their self-development journey as they examine my self-development journey.
+Below, you will find an outline of my social media profiles, work history, professional development pursuits (including my software development, hardware development, skilled trades, multimedia production, and business development education and work), academic development history, and personal development history. The purpose of these sections is to provide readers with an overview of my self-development journey so that readers can better understand my current and future domains of competencies and avenues for collaborations on prospective projects. My hope is that readers may also draw ideas/inspirations for their self-development journey as they examine my self-development journey.
+
+__________
 
 <a name="social-media-profiles"/>
 
 ### Social Media Profiles
 
+My [LinkedIn profile](https://www.linkedin.com/in/jaspreetkhela/) provides an overview of my academic and professional work history. My [GitHub provides](https://github.com/JaspreetKhela) details of my personal, academic, and professional development history and pursuits, including my technical education and work in a multitude of domains. My [YouTube channel](https://www.youtube.com/channel/UC5ybM4pfG9mW_r5YcpmVRPg) contains video tutorials of technical skillsets primarily used in software development. My [Hashnode profile](https://jaspreetkhela.hashnode.dev/) contains blog posts regarding the trials and tribulations of learning and working on software development.
+
+__________
+
 <a name="work-history"/>
 
 ### Work History
+
+<p style="color:blue"><b>Technical Education and Work</b></p>: <b>Software Development Work History</b>
+[Coming Soon]
+
+<p style="color:blue"><b>Technical Education and Work</b></p>: <b>Data Science Work History</b>
+[Coming Soon]
+ 
+<p style="color:blue"><b>Technical Education and Work</b></p>: <b>Product Design Work History</b>
+[Coming Soon]
+ 
+<p style="color:blue"><b>Technical Education and Work</b></p>: <b>Product Management Work History</b>
+[Coming Soon]
+ 
+<p style="color:blue"><b>Technical Education and Work</b></p>: <b>Business Sales and Development Work History</b>
+[Coming Soon]
+ 
+<p style="color:blue"><b>Technical Education and Work</b></p>: <b>Business Operations Work History</b>
+[Coming Soon]
+ 
+<p style="color:blue"><b>Technical Education and Work</b></p>: <b>Military Combat Arms Operator Work History</b>
+[Coming Soon]
+ 
+<p style="color:blue"><b>Technical Education and Work</b></p>: <b>Mathematical Physics and Mathematical Medicine Work History</b>
+[Coming Soon]
+
+__________
 
 <a name="software-development-education-and-work"/>
 
 ### Professional Development History and Pursuits: Software Development Education and Work
 
+__________
+
 <a name="hardware-development-education-and-work"/>
 
 ### Professional Development History and Pursuits: Hardware Development Education and Work
+
+__________
 
 <a name="skilled-trades-education-and-work"/>
 
 ### Professional Development History and Pursuits: Skilled Trades Education and Work
 
+__________
+
 <a name="multimedia-production-education-and-work"/>
 
 ### Professional Development History and Pursuits: Multimedia Production Education and Work
+
+__________
 
 <a name="business-development-education-and-work"/>
 
 ### Professional Development History and Pursuits: Business Development Education and Work
 
+__________
+
 ### Academic Development History and Pursuits
+
+__________
 
 <a name="personal-development-history-and-pursuits"/>
 
