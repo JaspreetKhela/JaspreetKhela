@@ -20,6 +20,19 @@ nav {
     background-color: transparent;
 }
 
+.jumbotron .current {
+    padding: 2%;
+    background-color: lightyellow;
+    border-radius: 25px;
+    
+}
+
+.jumbotron .future {
+    padding: 2%;
+    background-color: lightpink;
+    border-radius: 25px;
+}
+
 #hero-image {
     height: fit-content;
     width: 100%;
@@ -56,10 +69,6 @@ nav {
     color: yellow;
 }
 
-#color-legend {
-    background-image: url("../images/background-images/daniel-olah-VS_kFx4yF5g-unsplash.jpg");
-}
-
 .card {
     margin: 2%;
     text-align: center;
@@ -82,6 +91,13 @@ nav {
     background-color: darkblue;
 }
 
+#color-legend {
+    background-image: url("../images/background-images/daniel-olah-VS_kFx4yF5g-unsplash.jpg");
+}
+
+#color-legend .card-body {
+    background-color: transparent;
+}
 
 .tier-1-color {
     background-color:darkred;
@@ -134,6 +150,22 @@ img {
     font-size: 225%;
     color: white;
     background-color: darkred;
+}
+
+blockquote p {
+    font-size: 150%;
+}
+
+.quote {
+    background-color: darkslateblue;
+}
+
+.quote-body {
+    background-color: darkslategray;
+}
+
+.quote-body p {
+    font-size: 150%;
 }
 
 #professional-work-history {
@@ -229,11 +261,11 @@ h6 {
     width: fit-content;
     text-align: center;
     border-radius: 0px 0px 25px 25px;
-    background-color:lightyellow;
+    background-color:darkblue;
 }
 
 h6 a {
-    color: darkblue;
+    color: white;
 }
 
 #social-media-profiles, #work-history-category, #software-education-and-work-category, #hardware-education-and-work-category, #multimedia-production-portfolios, #skilled-trades-portfolios, #performance-arts-portfolios, #business-education-and-work-category, #academic-education-and-work-category, #personal-development-education-and-work-category, #interests-education-and-work-category {
