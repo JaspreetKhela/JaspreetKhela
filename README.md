@@ -85,7 +85,7 @@ I was curious about the universe's intricacies during my formative years: the Ze
 <a name="goals"/>
 
 ### Goals
-I aspire to become a mathematician (specializing in mathematical applications in physics, computer science, statistics, economics, chemistry, biology, and philosophy). Specifically, over the short-term, I desire to work on: technical research and development/engineering projects in quantum computing, machine learning, cryptography, nuclear fusion, surgery, and finance; and non-technical projects in business development, operations, and sales. Generally, over the long-term, I desire to work in: the private sector as an entrepreneur and a creative artist; and the public sector as a mathematician in academic and government research institutes and facilities, Combat Arms operator in a military, healthcare worker, social worker, and public servant.
+I aspire to become a mathematician (specializing in mathematical applications in physics, computer science, statistics, economics, chemistry, biology, and philosophy). Specifically, over the short-term, I desire to work on: technical research and development/engineering projects in quantum computing, machine learning, cryptography, nuclear fusion, surgery, and finance; and non-technical projects in business development, operations, and sales. Generally, over the long-term, I desire to work in: the private sector as an entrepreneur and a creative artist; and the public sector as a mathematician in academic and government research institutes and facilities, military Combat Arms operator, healthcare worker, social worker, and public servant.
 
 <a name="personality"/>
 
