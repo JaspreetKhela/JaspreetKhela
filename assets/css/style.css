@@ -251,8 +251,8 @@ h2, h3 {
     border-bottom: 1px solid;
     border-width: thick; */
     border-radius: 25px;
-    color: yellow;
-    background-color: darkblue;
+    color: darkblue;
+    background-color: lightyellow;
 }
 
 h6 {
