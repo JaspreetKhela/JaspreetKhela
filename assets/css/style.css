@@ -13,24 +13,10 @@ nav {
 }
 
 .jumbotron {
-    text-align: center;
     /* border: 1px solid;
     border-width: thick; */
     background-color: lightyellow;
     background-color: transparent;
-}
-
-.jumbotron .current {
-    padding: 2%;
-    background-color: lightyellow;
-    border-radius: 25px;
-    
-}
-
-.jumbotron .future {
-    padding: 2%;
-    background-color: lightgreen;
-    border-radius: 25px;
 }
 
 #hero-image {
@@ -42,6 +28,28 @@ nav {
     margin-left: auto;
     margin-right: auto;
     border-radius: 100px;
+}
+
+#about-section {
+    text-align: center;
+    padding: 3%;
+    border-radius: 25px;
+    /* border: 1px solid;
+    border-width: thick; */
+    background-color:lightcyan;
+}
+
+.current {
+    padding: 2%;
+    background-color: lightyellow;
+    border-radius: 25px;
+    
+}
+
+.future {
+    padding: 2%;
+    background-color: lightgreen;
+    border-radius: 25px;
 }
 
 #work-history-image, #software-development-education-and-work-image, #hardware-development-education-and-work-image, #skilled-trades-education-and-work-image, #multimedia-production-education-and-work-image, #performance-arts-education-and-work-image, #business-development-education-and-work-image, #academic-development-history-and-pursuits-image, #personal-development-history-and-pursuits-image, #personal-interests-image {
@@ -201,14 +209,6 @@ blockquote p {
 
 .card-text {
     height: 550px;
-}
-
-#about-section {
-    padding: 3%;
-    border-radius: 25px;
-    /* border: 1px solid;
-    border-width: thick; */
-    background-color:lightcyan;
 }
 
 b {
