@@ -114,7 +114,7 @@ __________
 
 ### Social Media Profiles
 
-My [LinkedIn profile](https://www.linkedin.com/in/jaspreetkhela/) provides an overview of my academic and professional work history. My [GitHub provides](https://github.com/JaspreetKhela) details of my personal, academic, and professional development history and pursuits, including my technical education and work in a multitude of domains. My [YouTube channel](https://www.youtube.com/channel/UC5ybM4pfG9mW_r5YcpmVRPg) contains video tutorials of technical skillsets primarily used in software development. My [Hashnode profile](https://jaspreetkhela.hashnode.dev/) contains blog posts regarding the trials and tribulations of learning and working on software development.
+My [LinkedIn profile](https://www.linkedin.com/in/jaspreetkhela/) provides an overview of my academic and professional work history. My [GitHub profile](https://github.com/JaspreetKhela) provides details of my personal, academic, and professional development history and pursuits, including my technical education and work in a multitude of domains. My [YouTube channel](https://www.youtube.com/channel/UC5ybM4pfG9mW_r5YcpmVRPg) contains video tutorials of technical skillsets primarily used in software development. My [Hashnode profile](https://jaspreetkhela.hashnode.dev/) contains blog posts regarding the trials and tribulations of learning and working on software development.
 
 __________
 
@@ -124,35 +124,75 @@ __________
 
 **Technical Education and Work**: **Software Development Work History**
 
-[Coming Soon]
+* **Start-Up Work History**:
+  * [Coming Soon]
+* **Scale-Up Work History**:
+  * [Coming Soon]
+* **Enterprise Work History**:
+  * [Coming Soon]
 
 **Technical Education and Work**: **Data Science Work History**
 
-[Coming Soon]
+* **Start-Up Work History**:
+  * [Coming Soon]
+* **Scale-Up Work History**:
+  * [Coming Soon]
+* **Enterprise Work History**:
+  * [Coming Soon]
  
 **Technical Education and Work**: **Product Design Work History**
 
-[Coming Soon]
+* **Start-Up Work History**:
+  * [Coming Soon]
+* **Scale-Up Work History**:
+  * [Coming Soon]
+* **Enterprise Work History**:
+  * [Coming Soon]
  
 **Technical Education and Work**: **Product Management Work History**
 
-[Coming Soon]
+* **Start-Up Work History**:
+  * [Coming Soon]
+* **Scale-Up Work History**:
+  * [Coming Soon]
+* **Enterprise Work History**:
+  * [Coming Soon]
  
 **Technical Education and Work**: **Business Sales and Development Work History**
 
-[Coming Soon]
+* **Start-Up Work History**:
+  * [Coming Soon]
+* **Scale-Up Work History**:
+  * [Coming Soon]
+* **Enterprise Work History**:
+  * [Coming Soon]
  
 **Technical Education and Work**: **Business Operations Work History**
 
-[Coming Soon]
+* **Start-Up Work History**:
+  * [Coming Soon]
+* **Scale-Up Work History**:
+  * [Coming Soon]
+* **Enterprise Work History**:
+  * [Coming Soon]
  
 **Technical Education and Work**: **Military Combat Arms Operator Work History**
 
-[Coming Soon]
+* **Combat Engineering Work History**:
+  * [Coming Soon]
+* **Infantry Work History**:
+  * [Coming Soon]
+* **Special Operations Work History**:
+  * [Coming Soon]
  
 **Technical Education and Work**: **Mathematical Physics and Mathematical Medicine Work History**
 
-[Coming Soon]
+* **Start-Up Work History**:
+  * [Coming Soon]
+* **Scale-Up Work History**:
+  * [Coming Soon]
+* **Enterprise Work History**:
+  * [Coming Soon]
 
 __________
 
@@ -220,7 +260,23 @@ __________
 
 <a name="hardware-development-education-and-work"/>
 
-### Professional Development History and Pursuits: Hardware Development Education and Work
+### Professional Development History and Pursuits: Hardware Development Education and Work**
+
+**Technical Education and Work**: **Electronics Technician Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Electromechanical Technician Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Programmable Logic Controllers Technician Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Robotics Technician Education and Work**
+
+[Coming Soon]
 
 __________
 
@@ -228,11 +284,125 @@ __________
 
 ### Professional Development History and Pursuits: Skilled Trades Education and Work
 
+**Technical Education and Work**: **Construction Techniques Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Underwater Skills Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Plumbing Techniques Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Welding Techniques Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Electrical Techniques Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Construction Engineering Technician Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Heating, Refrigeration, and Air Conditioning Technician Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Mechanical Technician – CNC and Precision Machining Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Horiculture Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Agriculture Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Emergency Services Fundamentals Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Paramedic Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Practical Nursing Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Firefighter Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Emergency Management Education and Work**
+
+[Coming Soon]
+
 __________
 
 <a name="multimedia-production-education-and-work"/>
 
 ### Professional Development History and Pursuits: Multimedia Production Education and Work
+
+**Technical Education and Work**: **Music Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Art and Design Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Media Foundation Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Sound Design and Production Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Graphic Design Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Photography Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Video Design and Production Education and Work**
+
+[Coming Soon]
+
+**Technical Education and Work**: **Visual Effects Education and Work**
+
+[Coming Soon]
+
+__________
+
+<a name="performance-arts-education-and-work"/>
+
+### Professional Development History and Pursuits: Performance Arts Education and Work
+
+**Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Technical Education and Work**: ****
+
+[Coming Soon]
 
 __________
 
@@ -240,9 +410,75 @@ __________
 
 ### Professional Development History and Pursuits: Business Development Education and Work
 
+**Non-Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Non-Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Non-Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Non-Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Non-Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Non-Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Non-Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Non-Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Non-Technical Education and Work**: ****
+
+[Coming Soon]
+
 __________
 
+<a name="academic-development-history-and-pursuits"/>
+
 ### Academic Development History and Pursuits
+
+**Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Technical Education and Work**: ****
+
+[Coming Soon]
 
 __________
 
@@ -254,6 +490,34 @@ The following personal development history and pursuits section outlines the non
 I have primarily focused on developing my expertise in the arts and humanities, combat training, and the skilled trades. My interest in the arts and humanities stems from my desire to develop a broad, deep, and rigorous understanding of the culinary arts, baking and pastry arts, storytelling, analog and digital static and dynamic design materials and techniques (i.e. music performance and production, illustration, graphic design, animation, photography, and film production materials and techniques), theatre arts, dance performance, and art culture. My interest in combat training stems from my desire to develop a broad and deep understanding of the mindset and mechanics of an individual dealing with physical interpersonal conflicts. My interest in the skilled trades stems from my desire to develop a broad and deep understanding of the building blocks of the physical world through studying construction, plumbing, electrical, and welding techniques.
 
 The tail-end of this section also outlines works of literature that aid in the development of a growth and an antifragile mindset and help to facilitate a deeper understanding of the human condition.
+
+**Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Non-Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Non-Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Non-Technical Education and Work**: ****
+
+[Coming Soon]
+
+**Non-Technical Education and Work**: ****
+
+[Coming Soon]
 
 **Technical Education and Work**:
 * **George Brown College**:
