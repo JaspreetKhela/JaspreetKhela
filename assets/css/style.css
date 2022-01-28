@@ -155,13 +155,13 @@ img {
 
 .overview {
     width:75%;
-    font-size: 225%;
+    font-size: 175%;
     color: white;
     background-color: darkred;
 }
 
 blockquote p {
-    font-size: 150%;
+    font-size: 125%;
 }
 
 .quote {
@@ -172,9 +172,9 @@ blockquote p {
     background-color: darkslategray;
 }
 
-.quote-body p {
+/* .quote-body p {
     font-size: 150%;
-}
+} */
 
 #professional-work-history {
     background-color:mediumslateblue;
