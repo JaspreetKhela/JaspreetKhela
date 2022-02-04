@@ -1,3 +1,5 @@
+/* Color palette: https://colorhunt.co/palette/17223b2638596b778dff6768 */
+
 body {
     margin: 3%;
     background-image: url("../images/background-images/simone-hutsch-8p6pdSkA-6A-unsplash.jpg");
@@ -10,7 +12,7 @@ nav {
     font-size: 85%;
     border-radius: 25px;
     text-align: center;
-    background-color: #6B778D;
+    background-color: #0F4C75;
 }
 
 #navigation-bar a {
@@ -47,14 +49,14 @@ nav {
 
 .current {
     padding: 2%;
-    background-color: #6B778D;
+    background-color: #17223B;
     border-radius: 25px;
     
 }
 
 .future {
     padding: 2%;
-    background-color: #6B778D;
+    background-color: #17223B;
     border-radius: 25px;
 }
 
@@ -88,7 +90,7 @@ nav {
     margin: 2%;
     text-align: center;
     border-radius: 25px;
-    background-color: #FF6768;
+    background-color: darkblue;
 }
 
 .card:hover {
