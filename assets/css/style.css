@@ -10,12 +10,17 @@ nav {
     font-size: 85%;
     border-radius: 25px;
     text-align: center;
+    background-color: #6B778D;
+}
+
+#navigation-bar a {
+    color: white;
 }
 
 .jumbotron {
     /* border: 1px solid;
     border-width: thick; */
-    background-color: lightyellow;
+    /* background-color: lightyellow; */
     background-color: transparent;
 }
 
@@ -36,24 +41,26 @@ nav {
     border-radius: 25px;
     /* border: 1px solid;
     border-width: thick; */
-    background-color:lightcyan;
+    color: white;
+    background-color: #263859;
 }
 
 .current {
     padding: 2%;
-    background-color: lightyellow;
+    background-color: #6B778D;
     border-radius: 25px;
     
 }
 
 .future {
     padding: 2%;
-    background-color: lightpink;
+    background-color: #6B778D;
     border-radius: 25px;
 }
 
-#work-history-image, #software-development-education-and-work-image, #hardware-development-education-and-work-image, #skilled-trades-education-and-work-image, #multimedia-production-education-and-work-image, #performance-arts-education-and-work-image, #business-development-education-and-work-image, #academic-development-history-and-pursuits-image, #personal-development-history-and-pursuits-image, #personal-interests-image {
-    height: 650px;
+#work-history-video-or-image, #software-development-education-and-work-video-or-image, #hardware-development-education-and-work-video-or-image, #skilled-trades-education-and-work-video-or-image, #multimedia-production-education-and-work-video-or-image, #performance-arts-education-and-work-video-or-image, #business-development-education-and-work-video-or-image, #academic-development-history-and-pursuits-video-or-image, #personal-development-history-and-pursuits-video-or-image, #personal-interests-video-or-image {
+    /* height: 650px; */
+    height: auto;
     width: 100%;
     display: block;
     margin-top: 2%;
@@ -81,18 +88,18 @@ nav {
     margin: 2%;
     text-align: center;
     border-radius: 25px;
-    background-color:lightcyan;
+    background-color: #FF6768;
 }
 
 .card:hover {
-    border-color: cyan;
+    border-color: darkblue;
 }
 
 .card-body {
     width: 100%;
     border-radius: 0px 0px 25px 25px;
     color: white;
-    background-color: darkblue;
+    background-color: #263859;
 }
 
 .card-body:hover {
@@ -108,23 +115,23 @@ nav {
 }
 
 .tier-1-color {
-    background-color:darkred;
+    background-color: #1A1A2E;
 }
 
 .tier-2-color {
-    background-color: darkgreen;
+    background-color: #16213E;
 }
 
 .tier-3-color {
-    background-color: darkcyan;
+    background-color: #0F3460;
 }
 
 .tier-4-color {
-    background-color: darkmagenta;
+    background-color: #E94560;
 }
 
 .tier-5-color {
-    background-color:darkslateblue;
+    background-color: #FF6768;
 }
 
 img {
@@ -150,14 +157,14 @@ img {
     justify-content: center;
     align-items: center;
     font-size: 125%;
-    background-color: lightyellow;
+    /* background-color: #FF6768; */
 }
 
 .overview {
     width:75%;
     font-size: 175%;
     color: white;
-    background-color: darkred;
+    background-color: #17223B;
 }
 
 blockquote p {
@@ -165,11 +172,11 @@ blockquote p {
 }
 
 .quote {
-    background-color: darkslateblue;
+    background-color: #17223B;
 }
 
 .quote-body {
-    background-color: darkslategray;
+    background-color: #263859;
 }
 
 /* .quote-body p {
@@ -177,27 +184,27 @@ blockquote p {
 } */
 
 #professional-work-history {
-    background-color:mediumslateblue;
+    background-color:#7952B3;
 }
 
 .technical-education-and-work {
-    background-color: mediumblue;
+    background-color: #11468F;
 }
 
 #technical-education-and-work-video-tutorials {
-    background-color: mediumblue;
+    background-color: #11468F;
 }
 
 #technical-education-and-work-blog-posts {
-    background-color: mediumblue;
+    background-color: #11468F;
 }
 
 .non-technical-education-and-work {
-    background-color:mediumseagreen;
+    background-color:#DA1212;
 }
 
 .interests {
-    background-color: mediumvioletred;
+    background-color: #29A19C;
 }
 
 .card-title {
@@ -230,7 +237,8 @@ h1 {
     font-size: 300%;
     text-align: center;
     border-radius: 25px;
-    background-color: lightyellow;
+    color: white;
+    background-color: #17223B;
 }
 
 .category-heading {
@@ -238,7 +246,8 @@ h1 {
     /* border-top: 1px solid;
     border-bottom: 1px solid; */
     border-width: thick;
-    background-color: lightyellow;
+    color: white;
+    background-color: #263859;
 }
 
 h2, h3 {
@@ -251,8 +260,8 @@ h2, h3 {
     border-bottom: 1px solid;
     border-width: thick; */
     border-radius: 25px;
-    color: darkblue;
-    background-color: lightyellow;
+    color: white;
+    background-color: #263859;
 }
 
 h6 {
@@ -261,7 +270,8 @@ h6 {
     width: fit-content;
     text-align: center;
     border-radius: 0px 0px 25px 25px;
-    background-color:darkblue;
+    color: white;
+    background-color: #263859;
 }
 
 h6 a {
@@ -273,7 +283,7 @@ h6 a {
     border-radius: 25px;
     /* border: 1px solid;
     border-width: thick; */
-    background-color: lightcyan;
+    background-color: #FF6768;
     background-image: url("../images/background-images/efe-kurnaz-RnCPiXixooY-unsplash.jpg");
     background-size: cover;
     background-attachment: fixed;

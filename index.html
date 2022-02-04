@@ -15,7 +15,7 @@
 </head>
 <body class="bg-light">
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd;">
+    <nav id="navigation-bar" class="navbar navbar-expand-lg navbar-light">
         <a class="navbar-brand" href="#">Jaspreet Khela</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -131,10 +131,10 @@
         <div class="row">
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                 <!-- LinkedIn Profile -->
-                <div class="card text-white bg-primary tier-1-color mb-3" style="max-width: 18rem;">
+                <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
                     <img class="card-img-top" src="./assets/images/card-images//souvik-banerjee-JLj_NbvlDDo-unsplash.jpg" alt="Card image cap">
                     <div id="professional-work-history" class="card-header">Professional Work History</div>
-                    <div class="card-body">
+                    <div class="card-body tier-1-color">
                         <h5 class="card-title"><a href="https://www.linkedin.com/in/jaspreetkhela/">LinkedIn Profile</a></h5>
                         <p class="card-text">My LinkedIn profile provides an overview of my academic and professional work history.</p>
                     </div>
@@ -143,10 +143,10 @@
             
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                 <!-- GitHub Profile -->
-                <div class="card text-white bg-secondary tier-2-color mb-3" style="max-width: 18rem;">
+                <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
                     <img class="card-img-top" src="./assets/images/card-images/mohammad-rahmani-q1p2DrLBtko-unsplash.jpg" alt="Card image cap">
                     <div class="card-header technical-education-and-work">Technical Education and Work</div>
-                    <div class="card-body">
+                    <div class="card-body tier-2-color">
                         <h5 class="card-title"><a href="https://github.com/JaspreetKhela">GitHub Profile</a></h5>
                         <p class="card-text">My GitHub profile provides details of my personal, academic, and professional development history and pursuits, including my technical education and work in a multitude of domains.</p>
                     </div>
@@ -155,10 +155,10 @@
 
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                 <!-- YouTube Channel -->
-                <div class="card text-white bg-danger tier-4-color mb-3" style="max-width: 18rem;">
+                <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
                     <img class="card-img-top" src="./assets/images/card-images/jesus-loves-austin-0O0gux4OZX4-unsplash.jpg" alt="Card image cap">
                     <div id="technical-education-and-work-video-tutorials" class="card-header">Technical Education and Work Video Tutorials</div>
-                    <div class="card-body">
+                    <div class="card-body tier-3-color">
                         <h5 class="card-title"><a href="https://www.youtube.com/channel/UC5ybM4pfG9mW_r5YcpmVRPg">YouTube Channel</a></h5>
                         <p class="card-text">My YouTube channel contains video tutorials of technical skillsets primarily used in software development.</p>
                     </div>
@@ -167,10 +167,10 @@
 
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                 <!-- Hashnode Blog -->
-                <div class="card text-white bg-success tier-3-color mb-3" style="max-width: 18rem;">
+                <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
                     <img class="card-img-top" src="./assets/images/card-images/bram-naus-n8Qb1ZAkK88-unsplash.jpg" alt="Card image cap">
                     <div id="technical-education-and-work-blog-posts" class="card-header">Technical Education and Work Blog Posts</div>
-                    <div class="card-body">
+                    <div class="card-body tier-4-color">
                     <h5 class="card-title"><a href="https://jaspreetkhela.hashnode.dev/">Hashnode Blog</a></h5>
                     <p class="card-text">My Hashnode profile contains blog posts regarding the trials and tribulations of learning and working on software development.</p>
                     </div>
@@ -218,8 +218,11 @@
 
     <h1 id="work-history-title" class="reveal">Work History</h1>
 
-    <!-- Section's image -->
-    <img id="work-history-image" class="reveal" src="./assets/images/card-images/ian-dooley-DJ7bWa-Gwks-unsplash.jpg">
+    <!-- Section's Video -->
+    <video id="work-history-video-or-image" class="reveal" poster="./assets/images/card-images/ian-dooley-DJ7bWa-Gwks-unsplash.jpg" autoplay loop muted>
+        <source src="./assets/videos/pexels-pressmaster-2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 
     <div class="card reveal">
         <div class="card-header overview">
@@ -456,8 +459,11 @@
 
     <h2 id="software-development-education-and-work-title reveal" class="reveal">Professional Development History and Pursuits: Software Development Education and Work</h2>
 
-    <!-- Section's image -->
-    <img id="software-development-education-and-work-image" class="reveal" src="./assets/images/card-images/karl-pawlowicz-QUHuwyNgSA0-unsplash.jpg">
+    <!-- Section's Video -->
+    <video id="software-development-education-and-work-video-or-image" class="reveal" poster="./assets/images/card-images/karl-pawlowicz-QUHuwyNgSA0-unsplash.jpg" autoplay loop muted>
+        <source src="./assets/videos/pexels-mikhail-nilov-7989682.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 
     <div class="card reveal">
         <div class="card-header overview">
@@ -832,8 +838,11 @@
     </br>
     <h2 id="hardware-development-education-and-work-title" class="reveal">Professional Development History and Pursuits: Hardware Development Education and Work</h2>
 
-    <!-- Section's image -->
-    <img id="hardware-development-education-and-work-image" class="reveal" src="./assets/images/card-images/lxrcbsv-OksP20g6jJQ-unsplash.jpg">
+    <!-- Section's Video -->
+    <video id="hardware-development-education-and-work-video-or-image" class="reveal" poster="./assets/images/card-images/lxrcbsv-OksP20g6jJQ-unsplash.jpg" autoplay loop muted>
+        <source src="./assets/videos/pexels-tima-miroshnichenko-6754824.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 
     <div class="card reveal">
         <div class="card-header overview">
@@ -958,8 +967,11 @@
     </br>
     <h2 id="skilled-trades-education-and-work-title" class="reveal">Professional Development History and Pursuits: Skilled Trades Education and Work</h2>
 
-    <!-- Section's image -->
-    <img id="skilled-trades-education-and-work-image" class="reveal" src="./assets/images/card-images/jason-richard-rFEpX_HK0FQ-unsplash.jpg">
+    <!-- Section's Video -->
+    <video id="skilled-trades-education-and-work-video-or-image" class="reveal" poster="./assets/images/card-images/jason-richard-rFEpX_HK0FQ-unsplash.jpg" autoplay loop muted>
+        <source src="./assets/videos/pexels-ron-lach-7492607.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 
     <div class="card reveal">
         <div class="card-header overview">
@@ -1359,8 +1371,11 @@
     </br>
     <h2 id="multimedia-production-education-and-work-title" class="reveal">Professional Development History and Pursuits: Multimedia Production Education and Work</h2>
 
-    <!-- Section's image -->
-    <img id="multimedia-production-education-and-work-image" class="reveal" src="./assets/images/card-images/troy-t-9sQgt_cR50c-unsplash.jpg">
+    <!-- Section's Video -->
+    <video id="multimedia-production-education-and-work-video-or-image" class="reveal" poster="./assets/images/card-images/troy-t-9sQgt_cR50c-unsplash.jpg" autoplay loop muted>
+        <source src="./assets/videos/pexels-ron-lach-7087632.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 
     <div class="card reveal">
         <div class="card-header overview">
@@ -1585,8 +1600,11 @@
     </br>
     <h2 id="performance-arts-education-and-work-title" class="reveal">Professional Development History and Pursuits: Performance Arts Education and Work</h2>
 
-    <!-- Section's image -->
-    <img id="performance-arts-education-and-work-image" class="reveal" src="./assets/images/card-images/hulki-okan-tabak-PaoG427w_As-unsplash.jpg">
+    <!-- Section's Video -->
+    <video id="performance-arts-education-and-work-video-or-image" class="reveal" poster="./assets/images/card-images/hulki-okan-tabak-PaoG427w_As-unsplash.jpg" autoplay loop muted>
+        <source src="./assets/videos/pexels-ekaterina-bolovtsova-7669397.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 
     <div class="card reveal">
         <div class="card-header overview">
@@ -1711,8 +1729,11 @@
     </br>
     <h2 id="business-development-education-and-work-title" class="reveal">Professional Development History and Pursuits: Business Development Education and Work</h2>
 
-    <!-- Section's image -->
-    <img id="business-development-education-and-work-image" class="reveal" src="./assets/images/card-images/matthew-henry-VviFtDJakYk-unsplash.jpg">
+    <!-- Section's Video -->
+    <video id="business-development-education-and-work-video-or-image" class="reveal" poster="./assets/images/card-images/matthew-henry-VviFtDJakYk-unsplash.jpg" autoplay loop muted>
+        <source src="./assets/videos/pexels-pixabay-time-lapse-video-of-tall-buildings.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 
     <div class="card reveal">
         <div class="card-header overview">
@@ -1962,8 +1983,11 @@
     </br>
     <h2 id="academic-development-history-and-pursuits-title" class="reveal">Academic Development History and Pursuits</h2>
 
-    <!-- Section's image -->
-    <img id="academic-development-history-and-pursuits-image" class="reveal" src="./assets/images/card-images/tengyart-zLETygkHMvQ-unsplash.jpg">
+    <!-- Section's Video -->
+    <video id="academic-development-history-and-pursuits-video-or-image" class="reveal" poster="./assets/images/card-images/tengyart-zLETygkHMvQ-unsplash.jpg" autoplay loop muted>
+        <source src="./assets/videos/pexels-pressmaster.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 
     <div class="card clear reveal">
         <div class="card-header overview">
@@ -2163,8 +2187,11 @@
     </br>
     <h2 id="personal-development-history-and-pursuits-title" class="reveal">Personal Development History and Pursuits</h2>
 
-    <!-- Section's image -->
-    <img id="personal-development-history-and-pursuits-image" class="reveal" src="./assets/images/card-images/andrea-leopardi-QVD3Xht9txA-unsplash.jpg">
+    <!-- Section's Video -->
+    <video id="personal-development-history-and-pursuits-video-or-image" class="reveal" poster="./assets/images/card-images/andrea-leopardi-QVD3Xht9txA-unsplash.jpg" autoplay loop muted>
+        <source src="./assets/videos/pexels-tima-miroshnichenko-6550419.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 
     <div class="card reveal">
         <div class="card-header overview">
@@ -2364,8 +2391,11 @@
     </br>
     <h2 id="personal-interests-title" class="reveal">Personal Interests</h2>
 
-    <!-- Section's image -->
-    <img id="personal-interests-image" class="reveal" src="./assets/images/card-images/ross-van-der-wal-SaiKX2NZQYo-unsplash.jpg">
+    <!-- Section's Video -->
+    <video id="personal-interests-video-or-image" class="reveal" poster="./assets/images/card-images/ross-van-der-wal-SaiKX2NZQYo-unsplash.jpg" autoplay loop muted>
+        <source src="./assets/videos/pexels-taryn-elliott.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 
     <div class="card reveal">
         <div class="card-header overview">
