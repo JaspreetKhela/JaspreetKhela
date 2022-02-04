@@ -90,7 +90,7 @@ nav {
     margin: 2%;
     text-align: center;
     border-radius: 25px;
-    background-color: darkblue;
+    background-color: #FF6768;
 }
 
 .card:hover {
@@ -285,7 +285,7 @@ h6 a {
     border-radius: 25px;
     /* border: 1px solid;
     border-width: thick; */
-    background-color: #FF6768;
+    background-color: darkblue;
     background-image: url("../images/background-images/efe-kurnaz-RnCPiXixooY-unsplash.jpg");
     background-size: cover;
     background-attachment: fixed;
