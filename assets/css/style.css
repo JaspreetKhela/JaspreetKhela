@@ -76,7 +76,7 @@ nav {
     border-radius: 25px;    
 }
 
-.color-box {
+.color-box, .logo-box {
     display: inline-block;
     height: fit-content;
     width: fit-content;
@@ -84,6 +84,18 @@ nav {
     padding: 3%;
     border-radius: 25px;
     color: yellow;
+}
+
+.card .logo-box {
+    background-color: #6B778D;
+}
+
+.logo-box img{
+    height: 75px;
+}
+
+.logo-box:hover {
+    background-color: #6B778D;
 }
 
 .card {
