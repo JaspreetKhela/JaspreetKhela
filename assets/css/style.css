@@ -242,6 +242,11 @@ img {
     font-size: 175%;
     color: white;
     background-color: #17223B;
+    border-bottom: 25px solid;
+    border-left: 25px solid;
+    border-right: 25px solid;
+    border-color: #FF6768;
+    /* border-radius: 0px 0px 25px 25px; */
 }
 
 blockquote p {
