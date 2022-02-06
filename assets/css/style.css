@@ -95,7 +95,7 @@ nav {
     border: 25px solid;
     border-color: #FF6768;
     border-radius: 25px;
-    background-color: #FF6768;    
+    background-color: #FF6768;
 }
 
 .card-img-top {
@@ -126,7 +126,7 @@ nav {
 
 .card-body {
     width: 100%;
-    border-radius: 0px 0px 25px 25px;
+    /* border-radius: 0px 0px 25px 25px; */
     color: white;
     background-color: #263859;
 }
