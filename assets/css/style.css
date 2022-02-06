@@ -10,6 +10,8 @@ body {
 }
 nav {
     font-size: 85%;
+    border: 25px solid;
+    border-color: #FF6768;
     border-radius: 25px;
     text-align: center;
     background-color: #0F4C75;
@@ -34,12 +36,16 @@ nav {
     margin-bottom: 15%;
     margin-left: auto;
     margin-right: auto;
+    border: 25px solid;
+    border-color: #FF6768;
     border-radius: 25px;
 }
 
 #about-section {
     text-align: center;
     padding: 3%;
+    border: 25px solid;
+    border-color: #FF6768;
     border-radius: 25px;
     /* border: 1px solid;
     border-width: thick; */
@@ -76,6 +82,76 @@ nav {
     border-radius: 25px;    
 }
 
+.card {
+    margin: 2%;
+    text-align: center;
+    /* border: 25px solid;
+    border-color: #6B778D; */
+    border-radius: 25px;
+    background-color: #FF6768;
+}
+
+.overview-card {
+    border: 25px solid;
+    border-color: #FF6768;
+    border-radius: 25px;
+    background-color: #FF6768;    
+}
+
+.card-img-top {
+    border-radius: 25px 25px 0px 0px;
+}
+
+.card-header {
+    height: 150px;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 125%;
+    /* background-color: #FF6768; */
+}
+
+.card-title {
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-text {
+    height: 550px;
+}
+
+.card-body {
+    width: 100%;
+    border-radius: 0px 0px 25px 25px;
+    color: white;
+    background-color: #263859;
+}
+
+.card:hover {
+    border-color: darkblue;
+}
+
+.card-body:hover {
+    background-color: darkblue;
+}
+
+#color-legend {
+    background-image: url("../images/background-images/daniel-olah-VS_kFx4yF5g-unsplash.jpg");
+}
+
+#color-legend .card-body {
+    background-color: transparent;
+}
+
+.div-border {
+    border: 25px solid;
+    border-color: #FF6768;
+}
+
 .color-box, .logo-box {
     display: inline-block;
     height: fit-content;
@@ -98,36 +174,6 @@ nav {
     background-color: lightsteelblue;
 }
 
-.card {
-    margin: 2%;
-    text-align: center;
-    border-radius: 25px;
-    background-color: #FF6768;
-}
-
-.card:hover {
-    border-color: darkblue;
-}
-
-.card-body {
-    width: 100%;
-    border-radius: 0px 0px 25px 25px;
-    color: white;
-    background-color: #263859;
-}
-
-.card-body:hover {
-    background-color: darkblue;
-}
-
-#color-legend {
-    background-image: url("../images/background-images/daniel-olah-VS_kFx4yF5g-unsplash.jpg");
-}
-
-#color-legend .card-body {
-    background-color: transparent;
-}
-
 .tier-1-color {
     background-color: #1A1A2E;
 }
@@ -145,7 +191,7 @@ nav {
 }
 
 .tier-5-color {
-    background-color: #FF6768;
+    background-color: #ff67b3;
 }
 
 .tier-1-color-border {
@@ -170,6 +216,11 @@ nav {
 
 .tier-5-color-border {
     border: 25px solid;
+    border-color: #ff67b3;
+}
+
+video {
+    border: 25px solid;
     border-color: #FF6768;
 }
 
@@ -181,22 +232,9 @@ img {
 .section-divider {
     height: 100px;
     width: 100%;
+    border: 25px solid;
+    border-color: #FF6768;
     border-radius: 25px;
-}
-
-.card-img-top {
-    border-radius: 25px 25px 0px 0px;
-}
-
-.card-header {
-    height: 150px;
-    box-sizing: border-box;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 125%;
-    /* background-color: #FF6768; */
 }
 
 .overview {
@@ -246,17 +284,6 @@ blockquote p {
     background-color: #29A19C;
 }
 
-.card-title {
-    height: 150px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.card-text {
-    height: 550px;
-}
-
 b {
     font-weight: 600;
 }
@@ -275,18 +302,11 @@ h1 {
     width: fit-content;
     font-size: 300%;
     text-align: center;
+    border: 25px solid;
+    border-color: #FF6768;
     border-radius: 25px;
     color: white;
     background-color: #17223B;
-}
-
-.category-heading {
-    padding: 3%;
-    /* border-top: 1px solid;
-    border-bottom: 1px solid; */
-    border-width: thick;
-    color: white;
-    background-color: #263859;
 }
 
 h2, h3 {
@@ -298,6 +318,8 @@ h2, h3 {
     /* border-top: 1px solid;
     border-bottom: 1px solid;
     border-width: thick; */
+    border: 25px solid;
+    border-color: #FF6768;
     border-radius: 25px;
     color: white;
     background-color: #263859;
@@ -308,6 +330,10 @@ h6 {
     margin: auto;
     width: fit-content;
     text-align: center;
+    border-bottom: 25px solid;
+    border-left: 25px solid;
+    border-right: 25px solid;
+    border-color: #FF6768;
     border-radius: 0px 0px 25px 25px;
     color: white;
     background-color: #263859;
@@ -319,6 +345,8 @@ h6 a {
 
 #social-media-profiles, #work-history-category, #software-education-and-work-category, #hardware-education-and-work-category, #multimedia-production-portfolios, #skilled-trades-portfolios, #performance-arts-portfolios, #business-education-and-work-category, #academic-education-and-work-category, #personal-development-education-and-work-category, #interests-education-and-work-category {
     padding: 3%;
+    border: 25px solid;
+    border-color: #FF6768;
     border-radius: 25px;
     /* border: 1px solid;
     border-width: thick; */
