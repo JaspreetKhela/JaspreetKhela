@@ -148,6 +148,31 @@ nav {
     background-color: #FF6768;
 }
 
+.tier-1-color-border {
+    border: 25px solid;
+    border-color: #1A1A2E;
+}
+
+.tier-2-color-border {
+    border: 25px solid;
+    border-color: #16213E;
+}
+
+.tier-3-color-border {
+    border: 25px solid;
+    border-color: #0F3460;
+}
+
+.tier-4-color-border {
+    border: 25px solid;
+    border-color: #E94560;
+}
+
+.tier-5-color-border {
+    border: 25px solid;
+    border-color: #FF6768;
+}
+
 img {
     height: 200px;
     object-fit: cover;
