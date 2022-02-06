@@ -131,9 +131,9 @@ nav {
     background-color: #263859;
 }
 
-.card:hover {
+/* .card:hover {
     border-color: darkblue;
-}
+} */
 
 .card-body:hover {
     background-color: darkblue;
