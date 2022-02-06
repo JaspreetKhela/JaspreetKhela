@@ -121,14 +121,18 @@ nav {
 }
 
 .card-text {
-    height: 550px;
+    height: 600px;
 }
 
 .card-body {
     width: 100%;
-    /* border-radius: 0px 0px 25px 25px; */
+    border-radius: 0px 0px 25px 25px;
     color: white;
     background-color: #263859;
+}
+
+.skillsets {
+    border-radius: 0px 0px 0px 0px;
 }
 
 /* .card:hover {
