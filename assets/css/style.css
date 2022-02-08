@@ -131,6 +131,10 @@ nav {
     background-color: #263859;
 }
 
+.quote-body {
+    border-radius: 0px 0px 0px 0px;
+}
+
 .skillsets {
     border-radius: 0px 0px 0px 0px;
 }
