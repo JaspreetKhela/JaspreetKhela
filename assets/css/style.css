@@ -144,7 +144,7 @@ nav {
 } */
 
 .card-body:hover {
-    background-color: darkblue;
+    background-color: #3282B8;
 }
 
 #color-legend {
@@ -179,7 +179,7 @@ nav {
 }
 
 .logo-box:hover {
-    background-color: lightsteelblue;
+    background-color: #BBE1FA;
 }
 
 .tier-1-color {
