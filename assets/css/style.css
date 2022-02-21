@@ -28,6 +28,10 @@ nav {
     color: white;
 }
 
+#landscape-orientation {
+    background-color: #0F4C75;
+}
+
 .jumbotron {
     /* border: 1px solid;
     border-width: thick; */
@@ -389,9 +393,9 @@ h6 a {
     opacity: 1;
 }
 
-@media screen and (orientation:portrait) {
+/* @media screen and (orientation:portrait) {
     html {
         transform: rotate(-90deg);
         transform-origin: left top;
     }
-}
+} */
