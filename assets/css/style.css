@@ -15,6 +15,13 @@ nav {
     border-radius: 25px;
     text-align: center;
     background-color: #0F4C75;
+    z-index: 99999;
+}
+
+.sticky {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
 }
 
 #navigation-bar a {
@@ -75,8 +82,12 @@ nav {
     margin-bottom: 2%;
     margin-left: auto;
     margin-right: auto;
+    border: 25px solid;
+    border-color: #FF6768;
     border-radius: 25px;
 }
+
+
 
 .display-4 {
     border-radius: 25px;    
@@ -99,6 +110,8 @@ nav {
 }
 
 .card-img-top {
+    height: 200px;
+    object-fit: cover;
     border-radius: 25px 25px 0px 0px;
 }
 
@@ -225,11 +238,6 @@ nav {
 .tier-5-color-border {
     border: 25px solid;
     border-color: #9067ff;
-}
-
-video {
-    border: 25px solid;
-    border-color: #FF6768;
 }
 
 img {
@@ -379,4 +387,11 @@ h6 a {
 .reveal.active{
     transform: translateY(0);
     opacity: 1;
+}
+
+@media screen and (orientation:portrait) {
+    html {
+        transform: rotate(-90deg);
+        transform-origin: left top;
+    }
 }
