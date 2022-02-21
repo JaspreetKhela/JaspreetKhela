@@ -28,10 +28,6 @@ nav {
     color: white;
 }
 
-#landscape-orientation {
-    background-color: #0F4C75;
-}
-
 .jumbotron {
     /* border: 1px solid;
     border-width: thick; */
@@ -366,6 +362,13 @@ h6 {
 
 h6 a {
     color: white;
+}
+
+#landscape-orientation {
+    background-color: #0F4C75;
+    border-top: 25px solid;
+    border-color: #FF6768;
+    border-radius: 25px 25px 25px 25px;
 }
 
 #social-media-profiles, #work-history-category, #software-education-and-work-category, #hardware-education-and-work-category, #multimedia-production-portfolios, #skilled-trades-portfolios, #performance-arts-portfolios, #business-education-and-work-category, #academic-education-and-work-category, #personal-development-education-and-work-category, #interests-education-and-work-category {
