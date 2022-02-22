@@ -320,7 +320,7 @@ a {
 h1 {
     padding: 3%;
     margin: auto;
-    width: fit-content;
+    width: 100%;
     font-size: 300%;
     text-align: center;
     border: 25px solid;
@@ -333,7 +333,7 @@ h1 {
 h2, h3 {
     padding: 3%;
     margin: auto;
-    width: fit-content;
+    width: 100%;
     font-size: 200%;
     text-align: center;
     /* border-top: 1px solid;
@@ -365,9 +365,12 @@ h6 a {
 }
 
 #landscape-orientation {
-    background-color: #0F4C75;
-    border-top: 25px solid;
-    border-color: #FF6768;
+    color: black;
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+    width: 100%;
+    border: 25px solid;
+    border-color: lightgoldenrodyellow;
     border-radius: 25px 25px 25px 25px;
 }
 
