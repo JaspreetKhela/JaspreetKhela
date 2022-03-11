@@ -88,7 +88,6 @@ nav {
 }
 
 
-
 .display-4 {
     border-radius: 25px;    
 }
@@ -146,6 +145,17 @@ nav {
 
 .quote-body {
     border-radius: 0px 0px 0px 0px;
+}
+
+.gif {
+    height: 300px;
+    width: 300px;
+    margin-top: 250px;
+}
+
+.right-gif {
+    position: absolute;
+    right: 2%;
 }
 
 .skillsets {
