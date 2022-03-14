@@ -58,19 +58,19 @@ nav {
     border-width: thick; */
     color: white;
     background-color: #263859;
+    background-image: linear-gradient(
+        var(--rotate)
+        , #5ddcff, #3c67e3 43%, #4e00c2);
+        z-index: -1;
+        animation: spin 2.5s linear infinite;
+        padding: 2%;
 }
 
-.current {
+.lead {
     padding: 2%;
     background-color: #17223B;
     border-radius: 25px;
     
-}
-
-.future {
-    padding: 2%;
-    background-color: #17223B;
-    border-radius: 25px;
 }
 
 #work-history-video-or-image, #software-development-education-and-work-video-or-image, #hardware-development-education-and-work-video-or-image, #skilled-trades-education-and-work-video-or-image, #multimedia-production-education-and-work-video-or-image, #performance-arts-education-and-work-video-or-image, #business-development-education-and-work-video-or-image, #academic-development-history-and-pursuits-video-or-image, #personal-development-history-and-pursuits-video-or-image, #personal-interests-video-or-image {
@@ -92,6 +92,21 @@ nav {
     border-radius: 25px;    
 }
 
+@property --rotate {
+    syntax: "<angle>";
+    initial-value: 132deg;
+    inherits: false;
+  }
+
+@keyframes spin {
+    0% {
+        --rotate: 0deg;
+    }
+    100% {
+        --rotate: 360deg;
+    }
+}
+
 .card {
     margin: 2%;
     text-align: center;
@@ -99,6 +114,16 @@ nav {
     border-color: #6B778D; */
     border-radius: 25px;
     background-color: #FF6768;
+
+    box-shadow:
+        inset 0 0 50px #fff,
+        inset 20px 0 80px #f0f,
+        inset -20px 0 80px #0ff,
+        inset 20px 0 300px #f0f,
+        inset -20px 0 300px #0ff,
+        0 0 50px #fff,
+        -10px 0 80px #f0f,
+        10px 0 80px #0ff;
 }
 
 .overview-card {
@@ -106,6 +131,12 @@ nav {
     border-color: #FF6768;
     border-radius: 25px;
     background-color: #FF6768;
+    background-image: linear-gradient(
+        var(--rotate)
+        , #5ddcff, #3c67e3 43%, #4e00c2);
+        z-index: -1;
+        animation: spin 2.5s linear infinite;
+        padding: 0%;
 }
 
 .card-img-top {
@@ -133,7 +164,7 @@ nav {
 }
 
 .card-text {
-    height: 600px;
+    height: 750px;
 }
 
 .card-body {
