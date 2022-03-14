@@ -474,6 +474,26 @@ h6 a {
     background-position: center;
 }
 
+.gif {
+    border-bottom: 25px solid;
+    border-radius: 25px 25px 25px 25px;
+    background-image: linear-gradient(
+        var(--rotate)
+        , #5ddcff, #3c67e3 43%, #4e00c2);
+        z-index: -1;
+        animation: spin 2.5s linear infinite;
+        padding: 2%;
+    box-shadow:
+        inset 0 0 50px #fff,
+        inset 20px 0 80px #f0f,
+        inset -20px 0 80px #0ff,
+        inset 20px 0 300px #f0f,
+        inset -20px 0 300px #0ff,
+        0 0 50px #fff,
+        -10px 0 80px #f0f,
+        10px 0 80px #0ff;
+}
+
 .reveal{
     position: relative;
     transform: translateY(150px);
