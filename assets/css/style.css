@@ -134,9 +134,7 @@ nav {
     background-image: linear-gradient(
         var(--rotate)
         , #5ddcff, #3c67e3 43%, #4e00c2);
-        z-index: -1;
         animation: spin 2.5s linear infinite;
-        padding: 0%;
 }
 
 .card-img-top {
