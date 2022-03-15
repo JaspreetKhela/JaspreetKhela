@@ -14,7 +14,8 @@ nav {
     border-color: #FF6768;
     border-radius: 25px;
     text-align: center;
-    background-color: #0F4C75;
+    /* background-color: #0F4C75; */
+    background-color: #00b4ff;
     z-index: 99999;
 }
 
@@ -589,6 +590,7 @@ h1 {
 
 .jumbotron h1 {
     background-color: #00b4ff;
+    box-shadow: none;
 }
 
 h2, h3 {
