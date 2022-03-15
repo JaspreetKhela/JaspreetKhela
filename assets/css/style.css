@@ -12,7 +12,7 @@ nav {
     font-size: 85%;
     border: 25px solid;
     border-color: #FF6768;
-    border-radius: 25px;
+    border-radius: 0px 0px 25px 25px;
     text-align: center;
     /* background-color: #0F4C75; */
     background-color: #00b4ff;
