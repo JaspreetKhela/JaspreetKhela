@@ -43,7 +43,7 @@ nav {
 
 @-webkit-keyframes animateCloud {
     0% {
-        margin-left: -1000px;
+        margin-left: -2500px;
     }
     100% {
         margin-left: 100%;
@@ -52,7 +52,7 @@ nav {
 
 @-moz-keyframes animateCloud {
     0% {
-        margin-left: -1000px;
+        margin-left: -2500px;
     }
     100% {
         margin-left: 100%;
@@ -61,7 +61,7 @@ nav {
 
 @keyframes animateCloud {
     0% {
-        margin-left: -1000px;
+        margin-left: -2500px;
     }
     100% {
         margin-left: 100%;
@@ -568,16 +568,8 @@ h1 {
     border-color: #FF6768;
     border-radius: 25px;
     color: white;
-    background-color: #17223B;
-    box-shadow:
-        inset 0 0 50px #fff,
-        inset 20px 0 80px #f0f,
-        inset -20px 0 80px #0ff,
-        inset 20px 0 300px #f0f,
-        inset -20px 0 300px #0ff,
-        0 0 50px #fff,
-        -10px 0 80px #f0f,
-        10px 0 80px #0ff;
+    background-color: #00b4ff;
+    box-shadow: none;
 }
 
 .jumbotron {
@@ -586,11 +578,6 @@ h1 {
     /* background-color: lightyellow; */
     background-color: transparent;
     /* background: #00b4ff; */
-}
-
-.jumbotron h1 {
-    background-color: #00b4ff;
-    box-shadow: none;
 }
 
 h2, h3 {
