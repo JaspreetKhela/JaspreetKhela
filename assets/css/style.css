@@ -381,7 +381,15 @@ nav {
 }
 
 .skillsets {
+    border-top: 25px solid;
+    border-color: #FF6768; 
     border-radius: 0px 0px 0px 0px;
+    background-image: linear-gradient(
+        var(--rotate)
+        , #5ddcff, #3c67e3 43%, #4e00c2);
+        z-index: -1;
+        animation: spin 7.5s linear infinite;
+        padding: 2%;
 }
 
 /* .card:hover {
@@ -516,6 +524,8 @@ blockquote p {
 
 .quote-body {
     background-color: #263859;
+    border-top: 25px solid;
+    border-color: #FF6768;
 }
 
 /* .quote-body p {
