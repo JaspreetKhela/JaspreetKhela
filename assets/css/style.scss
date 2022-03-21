@@ -913,3 +913,9 @@ h6 a {
         transform-origin: left top;
     }
 } */
+
+@media (max-width: 480px) {
+    .card-text, .gif, .right-gif {
+        display: none;
+    }
+  }
