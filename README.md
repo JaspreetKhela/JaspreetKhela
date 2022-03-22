@@ -27,11 +27,11 @@ Video tutorials for these software-development areas that can be found here: [JS
 
 ### Check Out My Latest YouTube Videos Below:
 <!-- YOUTUBE:START -->
+- [Believe In Yourself | Michael Strahan](https://www.youtube.com/watch?v=fTb7rRAPU14)
 - [Mutual Respect is Everything | Michael Strahan](https://www.youtube.com/watch?v=M4pPNd-Q7uw)
 - [Strive for Greatness | Michael Strahan](https://www.youtube.com/watch?v=7l_87kaW6SE)
 - [How do I Host my Front-End Website for Free? GitHub Pages Overview](https://www.youtube.com/watch?v=58jtfLlQKis)
 - [What is Website Wireframing? Website Wireframing Overview](https://www.youtube.com/watch?v=AMOZCKuvc6U)
-- [What is Git? Git Version Control Overview](https://www.youtube.com/watch?v=gN6oKuMCHTM)
 <!-- YOUTUBE:END -->
 
 ### Check Out My Latest Hashnode Blog Posts Below:
