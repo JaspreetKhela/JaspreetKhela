@@ -657,6 +657,10 @@ nav {
     border-color: #FF6768;
 }
 
+.logo-box-category {
+    border-radius: 25px;
+}
+
 .color-box, .logo-box {
     display: inline-block;
     height: fit-content;
@@ -859,6 +863,14 @@ h2, h3 {
         10px 0 80px #0ff;
 }
 
+h4 {
+    padding: 1%;
+    margin: auto;
+    width: fit-content;
+    background-color: #17223B;
+    border-radius: 25px;
+}
+
 h6 {
     padding: 3%;
     margin: auto;
@@ -938,6 +950,10 @@ h6 a {
 } */
 
 @media (max-width: 480px) {
+    .centered-text {
+        font-size: 175%;
+    }
+
     .card-text, .gif, .right-gif {
         display: none;
     }
