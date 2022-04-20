@@ -622,6 +622,10 @@ blockquote p {
         font-size: 175%;
     }
 
+    .card-text {
+        height: 300px;
+    }
+
     #navigation-bar, .jumbotron, .background-wrap, #webpage-subtitle, #birds-eye-view, #hero-image, #about-section, #fortune-favors-the-brave, .section-divider, #social-media-profiles-title, .overview-card, #color-legend, #skillsets-section, #work-history-section, .gif, .right-gif, #quick-access-webpage-links {
         display: none;
     }
