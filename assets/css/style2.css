@@ -187,7 +187,7 @@ nav {
 /* Define the styling for the cloud's text */
 .centered-text{
     font-family: cursive;
-    font-size: 450%;
+    font-size: 300%;
     color: black;
     position: absolute;
     top: 50%;
@@ -425,6 +425,11 @@ blockquote p {
     border-radius: 25px;
 }
 
+/* Define the background color for the undergraduate and graduate courses headers */
+.logo-box-category h5 {
+    background-color: #17223B;
+}
+
 /* Define the background color of the logo cards and the (general) cards */
 .card .logo-box {
     background-color: #FF6768;
@@ -542,6 +547,11 @@ blockquote p {
     background-color: #263859;
 }
 
+/* Override the borde-radius styling for the card-body class */
+.skillsets {
+    border-radius: 0px;
+}
+
 /* Define the hover effect for a card's body */
 .card-body:hover {
     background-color: #00b4ff;
@@ -612,7 +622,7 @@ blockquote p {
         font-size: 175%;
     }
 
-    .card-text, .gif, .right-gif {
+    #navigation-bar, .jumbotron, .background-wrap, #webpage-subtitle, #birds-eye-view, #hero-image, #about-section, #fortune-favors-the-brave, .section-divider, #social-media-profiles-title, .overview-card, #color-legend, #skillsets-section, #work-history-section, .gif, .right-gif, #quick-access-webpage-links {
         display: none;
     }
 }
