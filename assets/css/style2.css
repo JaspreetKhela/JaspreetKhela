@@ -618,7 +618,7 @@ blockquote p {
 
 /* Media Queries Styling Starts Here */
 @media (max-width: 480px) {
-    #navigation-bar, .jumbotron, .background-wrap, #webpage-subtitle, #birds-eye-view, #hero-image, #about-section, #fortune-favors-the-brave, .section-divider, #social-media-profiles-title, .overview-card, #color-legend, #skillsets-section, #work-history-section, .gif, .right-gif, #quick-access-webpage-links, .card-text, h6 {
+    #navigation-bar, .jumbotron, .background-wrap, #webpage-subtitle, #birds-eye-view, #hero-image, #about-section, #fortune-favors-the-brave, .section-divider, #social-media-profiles-title, #skillsets-title, .overview-card, #color-legend, #skillsets-section, #work-history-section, .gif, .right-gif, #quick-access-webpage-links, .card-text, h6 {
         display: none;
     }
     
