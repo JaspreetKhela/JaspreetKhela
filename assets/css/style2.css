@@ -618,16 +618,32 @@ blockquote p {
 
 /* Media Queries Styling Starts Here */
 @media (max-width: 480px) {
+    #navigation-bar, .jumbotron, .background-wrap, #webpage-subtitle, #birds-eye-view, #hero-image, #about-section, #fortune-favors-the-brave, .section-divider, #social-media-profiles-title, .overview-card, #color-legend, #skillsets-section, #work-history-section, .gif, .right-gif, #quick-access-webpage-links, .card-text, h6 {
+        display: none;
+    }
+    
     .centered-text {
         font-size: 175%;
     }
 
-    .card-text {
-        height: 300px;
+    #social-media-profiles {
+        border: none;
+        background: transparent;
+        box-shadow: none;
     }
 
-    #navigation-bar, .jumbotron, .background-wrap, #webpage-subtitle, #birds-eye-view, #hero-image, #about-section, #fortune-favors-the-brave, .section-divider, #social-media-profiles-title, .overview-card, #color-legend, #skillsets-section, #work-history-section, .gif, .right-gif, #quick-access-webpage-links, .card-text {
-        display: none;
+    .card {
+        margin: 2%;
+        text-align: center;
+        /* border: 25px solid;
+        border-color: #6B778D; */
+        border-radius: 25px;
+        background-color: #FF6768;
+        box-shadow: none;
+    }
+
+    .card-text {
+        height: 300px;
     }
 }
 
