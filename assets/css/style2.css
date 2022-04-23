@@ -431,9 +431,9 @@ blockquote p {
 }
 
 /* Define the background color of the logo cards and the (general) cards */
-.card .logo-box {
+/* .card .logo-box {
     background-color: #FF6768;
-}
+} */
 
 /* Define the image height of the logos */
 .logo-box img{
