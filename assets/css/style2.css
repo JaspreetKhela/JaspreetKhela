@@ -70,7 +70,7 @@ h4 {
     padding: 1%;
     margin: auto;
     width: fit-content;
-    background-color: #17223B;
+    background-color: firebrick;
     border-radius: 25px;
 }
 
@@ -252,7 +252,10 @@ nav {
 /* Define the styling for the paragraph containers within the About Section */
 .lead {
     padding: 2%;
+    margin: 2%;
     background-color: #17223B;
+    border: 25px solid;
+    border-color: #FF6768;
     border-radius: 25px;    
 }
 /* About Section Styling Ends Here */
@@ -411,11 +414,11 @@ blockquote p {
 }
 
 .undergraduate-background-color {
-    background-color: lightgreen;
+    background-color: lightgoldenrodyellow;
 }
 
 .graduate-background-color {
-    background-color: lightyellow;
+    background-color: lightskyblue;
 }
 
 /* Color Legend Styling Ends Here */
@@ -442,7 +445,7 @@ blockquote p {
 
 /* Define the background color for the undergraduate and graduate courses headers */
 .logo-box-category h5 {
-    background-color: #17223B;
+    background-color: firebrick;
 }
 
 /* Define the background color of the logo cards and the (general) cards */
