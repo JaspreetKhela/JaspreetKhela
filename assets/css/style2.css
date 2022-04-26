@@ -380,29 +380,44 @@ blockquote p {
 }
 
 .tier-1-color-border {
-    border: 25px solid;
+    /* border: 25px solid; */
     border-color: #1A1A2E;
 }
 
 .tier-2-color-border {
-    border: 25px solid;
+    /* border: 25px solid; */
     border-color: #16213E;
 }
 
 .tier-3-color-border {
-    border: 25px solid;
+    /* border: 25px solid; */
     border-color: #0F3460;
 }
 
 .tier-4-color-border {
-    border: 25px solid;
+    /* border: 25px solid; */
     border-color: #E94560;
 }
 
 .tier-5-color-border {
-    border: 25px solid;
+    /* border: 25px solid; */
     border-color: #9067ff;
 }
+
+/* Define the border of the skillset categories */
+.category-border {
+    border: 25px solid;
+    border-color: #FF6768;
+}
+
+.undergraduate-background-color {
+    background-color: lightgreen;
+}
+
+.graduate-background-color {
+    background-color: lightyellow;
+}
+
 /* Color Legend Styling Ends Here */
 
 /* Skillsets Section Styling Starts Here */
@@ -442,6 +457,7 @@ blockquote p {
 
 /* Define the hover effect for the  */
 .logo-box:hover {
+    border: none;
     background-color: #BBE1FA;
     box-shadow:
         inset 0 0 50px #fff,
