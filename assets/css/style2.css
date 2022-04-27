@@ -70,7 +70,7 @@ h4 {
     padding: 1%;
     margin: auto;
     width: fit-content;
-    background-color: firebrick;
+    background-color: #FF6768;
     border-radius: 25px;
 }
 
@@ -445,7 +445,7 @@ blockquote p {
 
 /* Define the background color for the undergraduate and graduate courses headers */
 .logo-box-category h5 {
-    background-color: firebrick;
+    background-color: #FF6768;
 }
 
 /* Define the background color of the logo cards and the (general) cards */
