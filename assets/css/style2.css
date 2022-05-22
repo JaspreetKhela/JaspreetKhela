@@ -249,12 +249,29 @@ nav {
 
 /* Define the styling for the paragraph containers within the About Section */
 .lead {
-    padding: 2%;
     margin: 2%;
     background-color: #17223B;
     border: 25px solid;
     border-color: #FF6768;
     border-radius: 25px;
+    box-shadow:
+        inset 0 0 50px #fff,
+        inset 20px 0 80px #f0f,
+        inset -20px 0 80px #0ff,
+        inset 20px 0 300px #f0f,
+        inset -20px 0 300px #0ff,
+        0 0 50px #fff,
+        -10px 0 80px #f0f,
+        10px 0 80px #0ff;
+}
+
+.current, .future {
+    padding: 2%;
+    background-color: #17223B;
+}
+
+.future {
+    text-align: left;
 }
 /* About Section Styling Ends Here */
 
@@ -580,7 +597,7 @@ blockquote p {
 
 /* Define the styling for a card's text */
 .card-text {
-    height: 750px;
+    height: 800px;
 }
 
 /* Define the styling for the card that provides an overview for a section of cards */
