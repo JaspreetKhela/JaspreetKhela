@@ -208,7 +208,7 @@ nav {
     /* border: 25px solid; */
     border-color: #FF6768;
     border-radius: 40%;
-    box-shadow:
+    /* box-shadow:
         inset 0 0 50px #fff,
         inset 20px 0 80px #f0f,
         inset -20px 0 80px #0ff,
@@ -216,7 +216,7 @@ nav {
         inset -20px 0 300px #0ff,
         0 0 50px #fff,
         -10px 0 80px #f0f,
-        10px 0 80px #0ff;
+        10px 0 80px #0ff; */
 }
 /* Hero Section Styling Ends Here */
 
