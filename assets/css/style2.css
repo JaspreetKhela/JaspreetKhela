@@ -708,6 +708,14 @@ blockquote p {
 
 /* Media Queries Styling Starts Here */
 @media (max-width: 480px) {
+    #mobile-only-content h1 {
+        background-color: #00b4ff;
+    }
+
+    #mobile-only-content h1, #mobile-only-content h4 {
+        box-shadow: none;
+    }
+
     #navigation-bar, .jumbotron, .background-wrap, #webpage-subtitle, #birds-eye-view, #hero-image, #about-section, #fortune-favors-the-brave, .section-divider, #social-media-profiles-title, #values-title, #abilities-title, #skillsets-title, .overview-card, #color-legend, #values-section, #abilities-section, #skillsets-section, #work-history-section, .gif, .right-gif, #quick-access-webpage-links, .card-text, h6 {
         display: none;
     }
