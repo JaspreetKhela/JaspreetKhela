@@ -562,19 +562,19 @@ blockquote p {
 }
 
 /* Define whether or not the anchor tags within the Values Section are enabled */
-#values-section a {
+/* #values-section a {
     pointer-events: none;
-}
+} */
 
 /* Define whether or not the anchor tags within the Abilities Section are enabled */
-#abilities-section a {
+/* #abilities-section a {
     pointer-events: none;
-}
+} */
 
 /* Define whether or not the anchor tags within the Skillsets Section are enabled */
-#skillsets-section a {
+/* #skillsets-section a {
     pointer-events: none;
-}
+} */
 /* Values, Abilities, and Skillsets Section Styling Ends Here */
 
 /* Card Container Styling Starts Here */
@@ -685,16 +685,17 @@ blockquote p {
     display: flex;
     justify-content: center;
     align-items: center;
-    pointer-events: none;
+    /* pointer-events: none; */
 }
 
-#social-media-profiles a{
+/* #social-media-profiles a{
     pointer-events: all;
-}
+} */
 
 /* Define the styling for a card's text */
 .card-text {
     height: 800px;
+    /* pointer-events: all; */
 }
 
 /* Define the styling for the card that provides an overview for a section of cards */
