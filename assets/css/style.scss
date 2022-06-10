@@ -1,4 +1,5 @@
 // Sun Animation Styling Starts Here
+// Define keyframe motions
 @keyframes rotate {
     100% {
         transform: rotate(360deg);
@@ -26,6 +27,7 @@
     }
 }
 
+// Define the styling for the sun container
 .sun {
     width: 40rem;
     height: 40rem;
@@ -67,7 +69,7 @@
 // Sun Animation Styling Ends Here
 
 // Cloud Animation Styling Starts Here
-/* KEYFRAMES */
+/* Define the keyframe motions */
 @-webkit-keyframes animateCloud {
     0% {
         margin-left: -2500px;
@@ -95,6 +97,7 @@
     }
 }
 
+// Define the styling for the clouds' container
 .background-wrap {
     bottom: 0;
 	left: 0;
@@ -105,7 +108,7 @@
 	z-index: -1;
 }
 
-/* ANIMATIONS */
+/* Define the styling for the different clouds types */
 .x1 {
 	-webkit-animation: animateCloud 35s linear infinite;
 	-moz-animation: animateCloud 35s linear infinite;
@@ -156,7 +159,7 @@
 	transform: scale(0.55);
 }
 
-/* OBJECTS */
+/* Define the styling for the clouds */
 .cloud {
 	background: #fff;
 	background: -moz-linear-gradient(top,  #fff 5%, #f1f1f1 100%);
@@ -211,6 +214,7 @@
 // Cloud Animation Styling Ends Here
 
 // Bird Animation Styling Starts Here
+// Define the keyframe motions
 @keyframes fly-cycle {
 	
 	100% {
@@ -295,6 +299,7 @@
 //     z-index: 1;
 // }
 
+// Define the styling for the birds' container
 .bird-container {
 	position: absolute;
 	top: 20%;
@@ -328,6 +333,7 @@
 	
 }
 
+// Define the styling for the birds
 .bird {
 	background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/174479/bird-cells-new.svg);
 	background-size: auto 100%;

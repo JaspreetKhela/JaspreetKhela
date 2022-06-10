@@ -15,18 +15,22 @@ img {
     object-fit: cover;
 }
 
+/* Define the styling for the bold elements */
 b {
     font-weight: 600;
 }
 
+/* Define the styling for the div containers */
 div {
     margin: auto;
 }
 
+/* Define the styling for the anchor elements */
 a {
     color: yellow;
 }
 
+/* Define the styling for the first-level header elements */
 h1 {
     margin: auto;
     width: 100%;
@@ -47,6 +51,7 @@ h1 {
         10px 0 80px #0ff;
 }
 
+/* Define the styling for the second- and third-level header elements */
 h2, h3 {
     margin: auto;
     width: 100%;
@@ -70,6 +75,7 @@ h2, h3 {
         10px 0 80px #0ff;
 }
 
+/* Define the styling for the forth-level header elements */
 h4 {
     margin: auto;
     width: 100%;
@@ -89,6 +95,7 @@ h4 {
         10px 0 80px #0ff;
 }
 
+/* Define the styling for the fifth-level header elements */
 h5 {
     margin: auto;
     padding: 1%;
@@ -96,6 +103,7 @@ h5 {
     border-radius: 25px;
 }
 
+/* Define the styling for the sixth-level header elements */
 h6 {
     margin: auto;
     width: fit-content;
@@ -118,10 +126,12 @@ h6 {
         10px 0 80px #0ff;
 }
 
+/* Define the styling for the sixth-level header elements' anchor element */
 h6 a {
     color: white;
 }
 
+/* Define the styling for the header elements */
 .custom-heading-background {
     padding: 1%;
     height: 100%;
@@ -129,10 +139,14 @@ h6 a {
     background-color: #00b4ff;
 }
 
+/* Define the styling for the sixth-level header elements */
+/* Note that this has to be placed after the .custom-heading-background styling block to achieve the desired outcome */
 h6 {
     height: 150px;
 }
 
+/* Define the styling for the sixth-level header elements */
+/* Note that this has to be placed after the .custom-heading-background styling block to achieve the desired outcome */
 h6 .custom-heading-background{
     display: flex;
     justify-content: center;
@@ -195,7 +209,7 @@ nav {
 #navigation-bar a {
     color: white;
 }
-/* Navigation Styling Starts Here */
+/* Navigation Styling Ends Here */
 
 /* Webpage Heading Styling Starts Here */
 #landscape-orientation {
@@ -310,6 +324,7 @@ nav {
 /* Define the styling for the paragraph containers within the About Section */
 .lead {
     margin: 2%;
+    font-size: x-large;
     background-color: #17223B;
     border: 25px solid;
     border-color: #FF6768;
@@ -330,6 +345,7 @@ nav {
     background-color: #17223B;
 }
 
+/* Define ths styling for the third container in the About Section */
 .future {
     text-align: left;
 }
@@ -478,23 +494,24 @@ blockquote p {
     border-color: #9067ff;
 }
 
-/* Define the border of the skillset categories */
+/* Define the border of the Values, Abilities, and Skillset Sections' categories */
 .category-border {
     border: 25px solid;
     border-color: #FF6768;
 }
 
+/* Define the background category of the Skillset Sections' undergraduate academic categories */
 .undergraduate-background-color {
     background-color: lightgoldenrodyellow;
 }
 
+/* Define the background category of the Skillset Sections' graduate academic categories */
 .graduate-background-color {
     background-color: lightskyblue;
 }
-
 /* Color Legend Styling Ends Here */
 
-/* Skillsets Section Styling Starts Here */
+/* Values, Abilities, and Skillsets Section Styling Starts Here */
 /* Define the styling for the skillsets sections' div elements */
 .skillsets {
     border-top: 25px solid;
@@ -529,7 +546,7 @@ blockquote p {
     height: 75px;
 }
 
-/* Define the hover effect for the  */
+/* Define the hover effect for the boxes within the values, abilities, and skillsets sections */
 .logo-box:hover {
     border: none;
     background-color: #BBE1FA;
@@ -543,7 +560,22 @@ blockquote p {
         -10px 0 80px #f0f,
         10px 0 80px #0ff;
 }
-/* Skillsets Section Styling Ends Here */
+
+/* Define whether or not the anchor tags within the Values Section are enabled */
+#values-section a {
+    pointer-events: none;
+}
+
+/* Define whether or not the anchor tags within the Abilities Section are enabled */
+#abilities-section a {
+    pointer-events: none;
+}
+
+/* Define whether or not the anchor tags within the Skillsets Section are enabled */
+#skillsets-section a {
+    pointer-events: none;
+}
+/* Values, Abilities, and Skillsets Section Styling Ends Here */
 
 /* Card Container Styling Starts Here */
 /* Define a shadow for the container */
@@ -653,6 +685,11 @@ blockquote p {
     display: flex;
     justify-content: center;
     align-items: center;
+    pointer-events: none;
+}
+
+#social-media-profiles a{
+    pointer-events: all;
 }
 
 /* Define the styling for a card's text */
