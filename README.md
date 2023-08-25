@@ -39,7 +39,7 @@ Video tutorials for these software-development areas that can be found here: [JS
 - [Data Boot Camp Experiences and Takeaways](https://jaspreetkhela.hashnode.dev/data-boot-camp-experiences-and-takeaways)
 - [Strategies for Becoming a High-Impact Software Developer](https://jaspreetkhela.hashnode.dev/strategies-for-becoming-a-high-impact-software-developer)
 - [Demo Day](https://jaspreetkhela.hashnode.dev/demo-day)
-- [My Coding Boot Camp Experience and Takeaways](https://jaspreetkhela.hashnode.dev/my-coding-boot-camp-experience-and-takeaways)
+- [Coding Boot Camp Experience and Takeaways](https://jaspreetkhela.hashnode.dev/coding-boot-camp-experience-and-takeaways)
 - [Hello World!](https://jaspreetkhela.hashnode.dev/hello-world)
 <!-- BLOG-POST-LIST:END -->
 __________
