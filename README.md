@@ -36,11 +36,11 @@ Video tutorials for these software-development areas that can be found here: [JS
 
 ### Check Out My Latest Hashnode Blog Posts Below:
 <!-- BLOG-POST-LIST:START -->
+- [Strategizing the EA Way: Because Winging It Is So Last Century!](https://jaspreetkhela.hashnode.dev/strategizing-the-ea-way-because-winging-it-is-so-last-century)
 - [Decoding the Mysteries of Enterprise Architecture: A Humorous Odyssey](https://jaspreetkhela.hashnode.dev/decoding-the-mysteries-of-enterprise-architecture-a-humorous-odyssey)
 - [Why Did the Chicken Cross the Runway? To Predict the Flight Delay!](https://jaspreetkhela.hashnode.dev/why-did-the-chicken-cross-the-runway-to-predict-the-flight-delay)
 - [Data Boot Camp Experience and Takeaways](https://jaspreetkhela.hashnode.dev/data-boot-camp-experience-and-takeaways)
 - [Strategies for Becoming a High-Impact Software Developer](https://jaspreetkhela.hashnode.dev/strategies-for-becoming-a-high-impact-software-developer)
-- [Demo Day](https://jaspreetkhela.hashnode.dev/demo-day)
 <!-- BLOG-POST-LIST:END -->
 __________
 ## Table of Contents
