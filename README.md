@@ -71,31 +71,21 @@ My personality traits, which are habitual patterns of emotion, thought, and beha
 __________
 ## Academic Development Background and Goals
 ### Background
-#### Mathematics
+#### Mathematics Education
 ##### Theoretical:
 * [Coming Soon]
 
 ##### Applied:
 * [Coming Soon]
 
-#### Statistics
+#### Statistics Education
 ##### Theoretical:
 * [Coming Soon]
 
 ##### Applied:
 * [Coming Soon]
 
-#### Physics
-##### Theoretical:
-* [Coming Soon]
-
-##### Applied:
-* [Coming Soon]
-
-##### Experimental:
-* [Coming Soon]
-
-#### Chemistry
+#### Physics Education
 ##### Theoretical:
 * [Coming Soon]
 
@@ -105,14 +95,24 @@ __________
 ##### Experimental:
 * [Coming Soon]
 
-#### Computer Science
+#### Chemistry Education
 ##### Theoretical:
 * [Coming Soon]
 
 ##### Applied:
 * [Coming Soon]
 
-#### Economics
+##### Experimental:
+* [Coming Soon]
+
+#### Computer Science Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Economics Education
 ##### Theoretical:
 * [Coming Soon]
 
@@ -120,31 +120,21 @@ __________
 * [Coming Soon]
 
 ### Goals
-#### Mathematics
+#### Mathematics Education Goals
 ##### Theoretical:
 * [Coming Soon]
 
 ##### Applied:
 * [Coming Soon]
 
-#### Statistics
+#### Statistics Education Goals
 ##### Theoretical:
 * [Coming Soon]
 
 ##### Applied:
 * [Coming Soon]
 
-#### Physics
-##### Theoretical:
-* [Coming Soon]
-
-##### Applied:
-* [Coming Soon]
-
-##### Experimental:
-* [Coming Soon]
-
-#### Chemistry
+#### Physics Education Goals
 ##### Theoretical:
 * [Coming Soon]
 
@@ -154,14 +144,24 @@ __________
 ##### Experimental:
 * [Coming Soon]
 
-#### Computer Science
+#### Chemistry Education Goals
 ##### Theoretical:
 * [Coming Soon]
 
 ##### Applied:
 * [Coming Soon]
 
-#### Economics
+##### Experimental:
+* [Coming Soon]
+
+#### Computer Science Education Goals
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Economics Education Goals
 ##### Theoretical:
 * [Coming Soon]
 
@@ -195,28 +195,28 @@ __________
 * [Coming Soon]
 
 ### Goals
-#### Software Development Education
+#### Software Development Education Goals
 * [Coming Soon]
 
-#### Hardware Development Education
+#### Hardware Development Education Goals
 * [Coming Soon]
 
-#### Software Operations Education
+#### Software Operations Education Goals
 * [Coming Soon]
 
-#### Business Development Education
+#### Business Development Education Goals
 * [Coming Soon]
 
-#### Business Operations Education
+#### Business Operations Education Goals
 * [Coming Soon]
 
-#### Mutlimedia Production Education
+#### Mutlimedia Production Education Goals
 * [Coming Soon]
 
-#### Skilled Trades Education
+#### Skilled Trades Education Goals
 * [Coming Soon]
 
-#### Performance Arts Education
+#### Performance Arts Education Goals
 * [Coming Soon]
 
 __________
@@ -228,31 +228,21 @@ __________
 __________
 ## Academic Work Background and Goals
 ### Background
-#### Mathematics
+#### Mathematics Work
 ##### Theoretical:
 * [Coming Soon]
 
 ##### Applied:
 * [Coming Soon]
 
-#### Statistics
+#### Statistics Work
 ##### Theoretical:
 * [Coming Soon]
 
 ##### Applied:
 * [Coming Soon]
 
-#### Physics
-##### Theoretical:
-* [Coming Soon]
-
-##### Applied:
-* [Coming Soon]
-
-##### Experimental:
-* [Coming Soon]
-
-#### Chemistry
+#### Physics Work
 ##### Theoretical:
 * [Coming Soon]
 
@@ -262,14 +252,24 @@ __________
 ##### Experimental:
 * [Coming Soon]
 
-#### Computer Science
+#### Chemistry Work
 ##### Theoretical:
 * [Coming Soon]
 
 ##### Applied:
 * [Coming Soon]
 
-#### Economics
+##### Experimental:
+* [Coming Soon]
+
+#### Computer Science Work
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Economics Work
 ##### Theoretical:
 * [Coming Soon]
 
@@ -277,31 +277,21 @@ __________
 * [Coming Soon]
 
 ### Goals
-#### Mathematics
+#### Mathematics Work Goals
 ##### Theoretical:
 * [Coming Soon]
 
 ##### Applied:
 * [Coming Soon]
 
-#### Statistics
+#### Statistics Work Goals
 ##### Theoretical:
 * [Coming Soon]
 
 ##### Applied:
 * [Coming Soon]
 
-#### Physics
-##### Theoretical:
-* [Coming Soon]
-
-##### Applied:
-* [Coming Soon]
-
-##### Experimental:
-* [Coming Soon]
-
-#### Chemistry
+#### Physics Work Goals
 ##### Theoretical:
 * [Coming Soon]
 
@@ -311,14 +301,24 @@ __________
 ##### Experimental:
 * [Coming Soon]
 
-#### Computer Science
+#### Chemistry Work Goals
 ##### Theoretical:
 * [Coming Soon]
 
 ##### Applied:
 * [Coming Soon]
 
-#### Economics
+##### Experimental:
+* [Coming Soon]
+
+#### Computer Science Work Goals
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Economics Work Goals
 ##### Theoretical:
 * [Coming Soon]
 
@@ -327,53 +327,53 @@ __________
 __________
 ## Professional Work Background and Goals
 ### Background
-#### Software Development Education
+#### Software Development Work
 * [Coming Soon]
 
-#### Hardware Development Education
+#### Hardware Development Work
 * [Coming Soon]
 
-#### Software Operations Education
+#### Software Operations Work
 * [Coming Soon]
 
-#### Business Development Education
+#### Business Development Work
 * [Coming Soon]
 
-#### Business Operations Education
+#### Business Operations Work
 * [Coming Soon]
 
-#### Mutlimedia Production Education
+#### Mutlimedia Production Work
 * [Coming Soon]
 
-#### Skilled Trades Education
+#### Skilled Trades Work
 * [Coming Soon]
 
-#### Performance Arts Education
+#### Performance Arts Work
 * [Coming Soon]
 
 ### Goals
-#### Software Development Education
+#### Software Development Work Goals
 * [Coming Soon]
 
-#### Hardware Development Education
+#### Hardware Development Work Goals
 * [Coming Soon]
 
-#### Software Operations Education
+#### Software Operations Work Goals
 * [Coming Soon]
 
-#### Business Development Education
+#### Business Development Work Goals
 * [Coming Soon]
 
-#### Business Operations Education
+#### Business Operations Work Goals
 * [Coming Soon]
 
-#### Mutlimedia Production Education
+#### Mutlimedia Production Work Goals
 * [Coming Soon]
 
-#### Skilled Trades Education
+#### Skilled Trades Work Goals
 * [Coming Soon]
 
-#### Performance Arts Education
+#### Performance Arts Work Goals
 * [Coming Soon]
 __________
 ## Project Collaboration Interests
