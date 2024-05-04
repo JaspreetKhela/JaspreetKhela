@@ -71,6 +71,53 @@ My personality traits, which are habitual patterns of emotion, thought, and beha
 __________
 ## Academic Development Background and Goals
 ### Background
+#### Mathematics
+##### Theoretical
+* [Coming Soon]
+
+##### Applied
+* [Coming Soon]
+
+#### Statistics
+##### Theoretical
+* [Coming Soon]
+
+##### Applied
+* [Coming Soon]
+
+#### Physics
+##### Theoretical
+* [Coming Soon]
+
+##### Applied
+* [Coming Soon]
+
+##### Experimental
+* [Coming Soon]
+
+#### Chemistry
+##### Theoretical
+* [Coming Soon]
+
+##### Applied
+* [Coming Soon]
+
+##### Experimental
+* [Coming Soon]
+
+#### Computer Science
+##### Theoretical
+* [Coming Soon]
+
+##### Applied
+* [Coming Soon]
+
+#### Economics
+##### Theoretical
+* [Coming Soon]
+
+##### Applied
+* [Coming Soon]
 
 ### Goals
 
