@@ -43,7 +43,7 @@ Feel free to reach out for collaborations or just a chat:
 > "Your favorite quote here."
 
 __________
-## Personal Background
+## Personal Background and Goals
 ### 💡 Motto
 **Preparation. Pace. Patience. Persistence. Facta, Non Verba.**
 
@@ -65,4 +65,16 @@ My personality traits, which are habitual patterns of emotion, thought, and beha
 - **Hard Skills**: Quantitative Analysis, Multimedia Production
 - **Soft Skills**: Critical Thinking, Communication
 __________
+## Academic Development Background and Goals
 
+__________
+## Professional Development Background and Goals
+
+__________
+## Self Development Background and Goals
+
+__________
+## Academic Work Background and Goals
+
+__________
+## Professional Work Background and Goals
