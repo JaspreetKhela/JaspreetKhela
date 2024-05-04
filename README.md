@@ -72,51 +72,51 @@ __________
 ## Academic Development Background and Goals
 ### Background
 #### Mathematics
-##### Theoretical
+##### Theoretical:
 * [Coming Soon]
 
-##### Applied
+##### Applied:
 * [Coming Soon]
 
 #### Statistics
 ##### Theoretical
 * [Coming Soon]
 
-##### Applied
+##### Applied:
 * [Coming Soon]
 
 #### Physics
 ##### Theoretical
 * [Coming Soon]
 
-##### Applied
+##### Applied:
 * [Coming Soon]
 
-##### Experimental
+##### Experimental:
 * [Coming Soon]
 
 #### Chemistry
 ##### Theoretical
 * [Coming Soon]
 
-##### Applied
+##### Applied:
 * [Coming Soon]
 
-##### Experimental
+##### Experimental:
 * [Coming Soon]
 
 #### Computer Science
-##### Theoretical
+##### Theoretical:
 * [Coming Soon]
 
-##### Applied
+##### Applied:
 * [Coming Soon]
 
 #### Economics
-##### Theoretical
+##### Theoretical:
 * [Coming Soon]
 
-##### Applied
+##### Applied:
 * [Coming Soon]
 
 ### Goals
