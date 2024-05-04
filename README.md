@@ -228,14 +228,152 @@ __________
 __________
 ## Academic Work Background and Goals
 ### Background
+#### Mathematics
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Statistics
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Physics
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Chemistry
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Computer Science
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Economics
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
 
 ### Goals
+#### Mathematics
+##### Theoretical:
+* [Coming Soon]
 
+##### Applied:
+* [Coming Soon]
+
+#### Statistics
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Physics
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Chemistry
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Computer Science
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Economics
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
 __________
 ## Professional Work Background and Goals
 ### Background
+#### Software Development Education
+* [Coming Soon]
+
+#### Hardware Development Education
+* [Coming Soon]
+
+#### Software Operations Education
+* [Coming Soon]
+
+#### Business Development Education
+* [Coming Soon]
+
+#### Business Operations Education
+* [Coming Soon]
+
+#### Mutlimedia Production Education
+* [Coming Soon]
+
+#### Skilled Trades Education
+* [Coming Soon]
+
+#### Performance Arts Education
+* [Coming Soon]
 
 ### Goals
+#### Software Development Education
+* [Coming Soon]
 
+#### Hardware Development Education
+* [Coming Soon]
+
+#### Software Operations Education
+* [Coming Soon]
+
+#### Business Development Education
+* [Coming Soon]
+
+#### Business Operations Education
+* [Coming Soon]
+
+#### Mutlimedia Production Education
+* [Coming Soon]
+
+#### Skilled Trades Education
+* [Coming Soon]
+
+#### Performance Arts Education
+* [Coming Soon]
 __________
 ## Project Collaboration Interests
