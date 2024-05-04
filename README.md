@@ -79,14 +79,14 @@ __________
 * [Coming Soon]
 
 #### Statistics
-##### Theoretical
+##### Theoretical:
 * [Coming Soon]
 
 ##### Applied:
 * [Coming Soon]
 
 #### Physics
-##### Theoretical
+##### Theoretical:
 * [Coming Soon]
 
 ##### Applied:
@@ -96,7 +96,7 @@ __________
 * [Coming Soon]
 
 #### Chemistry
-##### Theoretical
+##### Theoretical:
 * [Coming Soon]
 
 ##### Applied:
@@ -120,7 +120,53 @@ __________
 * [Coming Soon]
 
 ### Goals
+#### Mathematics
+##### Theoretical:
+* [Coming Soon]
 
+##### Applied:
+* [Coming Soon]
+
+#### Statistics
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Physics
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Chemistry
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Computer Science
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Economics
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
 __________
 ## Professional Development Background and Goals
 ### Background
