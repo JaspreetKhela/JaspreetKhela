@@ -116,8 +116,6 @@ __________
 
 ##### Applied:
 ###### Primary:
-* [Not Applicable]
-###### Secondary:
 * [In Queue] **APM306Y1 - Mathematics and Law**: This course examines the relationship between legal reasoning and mathematical logic; provides a mathematical perspective on the legal treatment of interest and actuarial present value; critiques ethical issues; analyzes how search engine techniques on massive databases transform legal research and considers the impact of statistical analysis and game theory on litigation strategies.
 * [In Queue] **APM348H1 - Mathematical Modelling**: An overview of mathematical modelling. A variety of approaches for representing physical situations mathematically followed by analytical techniques and numerical simulations to gain insight. Questions from biology, economics, engineering, medicine, physics, physiology, and the social sciences formulated as problems in optimization, differential equations, and probability. Precise content varies with instructor.
 * [In Queue] **APM421H1F/MAT1723HF\* - Mathematical Foundations of Quantum Mechanics and Quantum Information Theory**: Key concepts and mathematical structure of Quantum Mechanics, with applications to topics of current interest such as quantum information theory. The core part of the course covers the following topics: Schroedinger equation, quantum observables, spectrum and evolution, motion in electro-magnetic field, angular momentum and O(3) and SU(2) groups, spin and statistics, semi-classical asymptotics, perturbation theory. More advanced topics may include: adiabatic theory and geometrical phases, Hartree-Fock theory, Bose-Einstein condensation, the second quantization, density matrix and quantum statistics, open systems and Lindblad evolution, quantum entropy, quantum channels, quantum Shannon theorems.
@@ -127,6 +125,8 @@ __________
 * [In Queue] **APM461H1S/MAT1302HS\* - Combinatorial Methods**: A selection of topics from such areas as graph theory, combinatorial algorithms, enumeration, construction of combinatorial identities.
 * [In Queue] **APM462H1 - Nonlinear Optimization**: An introduction to first and second order conditions for finite and infinite dimensional optimization problems with mention of available software. Topics include Lagrange multipliers, Kuhn-Tucker conditions, convexity and calculus of variations. Basic numerical search methods and software packages which implement them will be discussed.
 * [In Queue] **APM466H1/MAT1856H - Mathematical Theory of Finance**: Introduction to the basic mathematical techniques in pricing theory and risk management: Stochastic calculus, single-period finance, financial derivatives (tree-approximation and Black-Scholes model for equity derivatives, American derivatives, numerical methods, lattice models for interest-rate derivatives), value at risk, credit risk, portfolio theory.
+###### Secondary:
+* [Not Applicable]
 ###### Teriary:
 * [Not Applicable]
 
@@ -166,10 +166,31 @@ __________
 
 #### Acturial Science Education
 ##### Theoretical:
-* [Coming Soon]
+###### Primary:
+* [In Queue] **ACT350H1 - Applied Probability for Actuarial Science**: The course offers an introduction to elementary probability theory and stochastic processes. The main goal of the course is to help actuarial students understand the concept of stochastic processes with particular emphasis on Markov chains that are of great importance in Life Contingencies and Property and Casualty insurance. The course will cover the following topics: a basic review of probabilities with emphasis on conditional probabilities and expectations, discrete time Markov chains, Poisson processes, continuous time Markov chains, renewal theory and some applications, queueing theory.
+* [In Queue] **ACT370H1 - Financial Principles for Actuarial Science II**: Mathematical theory of financial derivatives, discrete and continuous option pricing models, hedging strategies and exotic option valuation.
+###### Secondary:
+* [In Queue] **ACT455H1 - Advanced Life Contingencies**: Advanced life contingencies, multiple decrement theory, insurance policy expenses, multi-state transition models, Poisson processes. This course is the last in the three-course series for life contingencies, following ACT247H1 and ACT348H1.
+* [In Queue] **ACT460H1 - Stochastic Methods for Actuarial Science and Finance**: Applications of the lognormal distribution, Brownian motion, geometric Brownian motion, martingales, Ito's lemma, stochastic differential equations, interest rate models, the Black-Scholes model, volatility, value at risk, conditional tail expectation. Topics in advanced financial mathematics.
+###### Tertiary:
+* [In Queue] **ACT470H1 - Advanced Pension Mathematics**: Topics in pension mathematics; funding methods for pension plans. (Offered in alternate years)
+* [In Queue] **ACT471H1 - Topics in Casualty Actuarial Science**: This course will cover current topics relevant to industry participants. Topics may include advanced modeling, pricing for different lines of business, financial conditions, regulatory impacts and current developments. Students will develop an understanding of key topics driving the industry today and some of the framework of reference used by actuarial practitioners for charting a course in areas of uncertainties.
 
 ##### Applied:
-* [Coming Soon]
+###### Primary:
+* [In Queue] **ACT240H1 - Mathematics of Investment & Credit**: Interest, discount and present values, as applied to determine prices and values of annuities, mortgages, bonds, equities; loan repayment schedules and consumer finance payments in general; yield rates on investments given the costs on investments.
+* [In Queue] **ACT245H1 - Financial Principles for Actuarial Science I**: Term structure of interest rates, cashflow duration, convexity and immunization, forward and futures contracts, interest rate swaps, introduction to investment derivatives and hedging strategies.
+* [In Queue] **ACT247H1 - Introductory Life Contingencies**: Probability theory applied to survival and to costs and risks of life assurances, life annuities, and pensions; analysis of survival distributions; international actuarial notation.
+###### Secondary:
+* [In Queue] **ACT348H1 - Life Contingencies II**: Determination of benefit premium and benefit reserves for life insurance and annuities; analysis of insurance loss random variables; theory of life contingencies for multiple lives. This is the second course in the life contingencies series, following ACT247H1.
+* [In Queue] **ACT349H1 - Corporate Finance for Actuarial Science**: Corporate finance for actuarial science students.
+* [In Queue] **ACT371H1 - Basic Reserving Methods For P&C Insurance**: Topics covered include reserving data and triangles, diagnoses methods that range from triangle of ratios of paid claims to reported claims to triangle of reported claim ratios. The syllabus also includes projection techniques. Not eligible for CR/NCR option.
+* [In Queue] **ACT372H1 - Basic Ratemaking Methods For P&C Insurance**: This course covers the basic ratemaking methods for P&C insurance. It assumes that students are familiar with traditional reserving diagnoses and projection methods. The syllabus would introduce concepts related to earning of exposures, on-level factors, catastrophe loading, large loss loading and credibility. Not eligible for CR/NCR option.
+###### Tertiary:
+* [In Queue] **ACT451H1 - Loss Models**: Loss models policy adjustments, frequency and severity models, compound distributions.
+* [In Queue] **ACT452H1 - Loss Models II**: Estimation of Loss and Survival Models using complete, censored and truncated data. Product-Limit estimation, empirical estimation, moment and percentile estimation, maximum likelihood estimation and simulation models.
+* [In Queue] **ACT466H1 - Credibility and Simulation**: Limited fluctuation credibility, Bayesian estimation, Buhlmann credibility, non-parametric credibility methods, inverse transformation simulation method, specialized simulation methods for the normal and lognormal distributions, Monte Carlo methods, the bootstrap method.
+* [In Queue] **ACT475H1 - Insurance Products and Regulation with AXIS**: Case studies using leading actuarial application AXIS. Examine key types of insurance products and their pricing and valuation. Review representative developments in insurance regulations in US, Europe and Canada. Other topics include a brief introduction of the use of AI in life insurance.
 
 #### Physics Education
 ##### Theoretical:
