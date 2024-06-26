@@ -71,7 +71,7 @@ My personality traits, which are habitual patterns of emotion, thought, and beha
 __________
 ## Academic Development Background and Goals
 ### Background
-#### Mathematics Education
+#### Formal Sciences: Mathematics Education
 ##### Theoretical:
 ###### Primary:
 * **MAT157Y1 - Analysis I**: A theoretical course in calculus; emphasizing proofs and techniques. Elementary logic, limits and continuity, least upper bounds, intermediate and extreme value theorems. Derivatives, mean value and inverse function theorems. Integrals, fundamental theorem, elementary transcendental functions. Techniques of integration. Taylor's theorem; sequences and series; uniform convergence and power series. This course is required for the Mathematics Specialist, the Applied Mathematics Specialist, the Mathematics and Physics Specialist, and the Mathematics and Philosophy Specialist program and provides a strong theoretical mathematics background.
@@ -130,7 +130,7 @@ __________
 ###### Teriary:
 * [Not Applicable]
 
-#### Statistics Education
+#### Formal Sciences: Statistics Education
 ##### Theoretical:
 ###### Primary:
 * **STA257H1 - Probability and Statistics I**: A mathematically rigorous introduction to probability, with applications chosen to introduce concepts of statistical inference. Probability and expectation, discrete and continuous random variables and vectors, distribution and density functions, the law of large numbers. The binomial, geometric, Poisson, and normal distributions. The Central Limit Theorem. (Note: STA257H1 does not count as a distribution requirement course).
@@ -164,7 +164,7 @@ __________
 * [In Queue] **STA475H1 - Survival Analysis**: An overview of theory and methods in the analysis of survival data. Topics include survival distributions and their applications, parametric and non-parametric methods, proportional hazards regression, and extensions to competing risks and multistate modelling.
 * [In Queue] **STA480H1/STA2080H - Fundamentals of Statistical Genetics**: Statistical analysis of genetic data is an important emerging research area with direct impact on population health. This course provides an introduction to the concepts and fundamentals of statistical genetics, including current research directions.  The course includes lectures and hands-on experience with R programming and state-of-the-art statistical genetics software packages.
 
-#### Acturial Science Education
+#### Formal Sciences: Acturial Science Education
 ##### Theoretical:
 ###### Primary:
 * [In Queue] **ACT350H1 - Applied Probability for Actuarial Science**: The course offers an introduction to elementary probability theory and stochastic processes. The main goal of the course is to help actuarial students understand the concept of stochastic processes with particular emphasis on Markov chains that are of great importance in Life Contingencies and Property and Casualty insurance. The course will cover the following topics: a basic review of probabilities with emphasis on conditional probabilities and expectations, discrete time Markov chains, Poisson processes, continuous time Markov chains, renewal theory and some applications, queueing theory.
@@ -192,7 +192,14 @@ __________
 * [In Queue] **ACT466H1 - Credibility and Simulation**: Limited fluctuation credibility, Bayesian estimation, Buhlmann credibility, non-parametric credibility methods, inverse transformation simulation method, specialized simulation methods for the normal and lognormal distributions, Monte Carlo methods, the bootstrap method.
 * [In Queue] **ACT475H1 - Insurance Products and Regulation with AXIS**: Case studies using leading actuarial application AXIS. Examine key types of insurance products and their pricing and valuation. Review representative developments in insurance regulations in US, Europe and Canada. Other topics include a brief introduction of the use of AI in life insurance.
 
-#### Physics Education
+#### Formal Sciences: Computer Science Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Natural Sciences: Physics Education
 ##### Theoretical:
 ###### Primary:
 * **PHY151H1 - Foundations of Physics I**: The first physics course in many of the Specialist and Major Programs in Physical Sciences. It provides an introduction to the concepts, approaches and tools the physicist uses to describe the physical world while laying the foundation for classical and modern mechanics. Topics include: mathematics of physics, energy, momentum, conservation laws, kinematics, dynamics, and special relativity.
@@ -253,7 +260,7 @@ __________
 * [In Queue] **PHY428H1 - Advanced Practical Physics II**: This course is a continuation of PHY426H1, but students have more freedom to progressively focus on specific areas of physics, do extended experiments, projects, or computational modules.
 * [In Queue] **PHY429H1 - Advanced Practical Physics III**: This course is a continuation of PHY428H1, but students have more freedom to progressively focus on specific areas of physics, do extended experiments, projects, or computational modules.
 
-#### Chemistry Education
+#### Natural Sciences: Chemistry Education
 ##### Theoretical:
 ###### Primary:
 * [In Queue] **CHM222H1 - Introduction to Physical Chemistry**: Topics: introductory thermodynamics, first and second law and applications; chemical equilibrium. The course is intended for students who will be following the majority of chemistry specialist programs (Biological Chemistry specialist students are highly recommended to take CHM220H1).
@@ -303,14 +310,342 @@ __________
 * [In Queue] **CHM379H1 - Biomolecular Chemistry**: This course provides an opportunity to learn core techniques in biological chemistry in a small group laboratory setting. It provides excellent preparation for a CHM499Y1 project in biological chemistry or related areas. Classes will discuss the theory behind the techniques and highlight how they are used in modern biological chemistry research and practice. Note: CHM379H1 can be used as the biochemistry lab requirement for students completing double majors in chemistry and biochemistry.
 * [In Queue] **CHM479H1/CHM1008H - Biological Chemistry**: An in depth examination of biological systems at the molecular level. Several complex, multi-component molecular machines with a central role in life will be examined. For each system studied, the focus will be on understanding the chemical mechanisms that underlie the biological activities, and how these processes fit into a cellular context.
 
-#### Computer Science Education
+#### Natural Sciences: Earth Sciences Education
 ##### Theoretical:
 * [Coming Soon]
 
 ##### Applied:
 * [Coming Soon]
 
-#### Economics Education
+##### Experimental:
+* [Coming Soon]
+
+#### Natural Sciences: Astronomy Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Applied Science and Engineering: Civil Engineering Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Applied Science and Engineering: Mechanical Engineering Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Applied Science and Engineering: Electrical and Computer Engineering Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Life Sciences: Biology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Life Sciences: Biochemistry Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Life Sciences: Anatomy Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Life Sciences: Physiology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Life Sciences: Microbiology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Life Sciences: Pathology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Life Sciences: Immunology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Life Sciences: Pharmacology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Life Sciences: Epidemiology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Social Sciences: Psychology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Social Sciences: Sociology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+##### Experimental:
+* [Coming Soon]
+
+#### Social Sciences: Economics Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Social Sciences: Political Science Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Social Sciences: Anthropology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Social Sciences: Business Fundamentals Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: Philosophy Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: History Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: Linguistics Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: Literature Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: English Language Studies and Philology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: Mandarin Chinese Language Studies and Philology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: Hindi Language Studies and Philology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+* #### Arts and Humanities: Spanish Language Studies and Philology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: French Language Studies and Philology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: Arabric Language Studies and Philology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: Bengali Language Studies and Philology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: Russian Language Studies and Philology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: Swahili Language Studies and Philology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: Japanese Language Studies and Philology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: German Language Studies and Philology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: Italian Language Studies and Philology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: Vietnamese Language Studies and Philology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: Turkish Language Studies and Philology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: Tamil Language Studies and Philology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: Persian (Farsi) Language Studies and Philology Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: Art Education
+##### Theoretical:
+* [Coming Soon]
+
+##### Applied:
+* [Coming Soon]
+
+#### Arts and Humanities: Music Education
 ##### Theoretical:
 * [Coming Soon]
 
