@@ -1045,22 +1045,80 @@ __________
 __________
 ## Professional Development Background and Goals
 ### Background
+#### Hardware Development Education
+##### Design and Engineering
+###### Conceptual Design
+* [Coming Soon]
+###### Circuit Design
+* [Coming Soon]
+###### Component Selection
+* [Not Applicable (NA)]
+##### Prototyping
+###### Building Prototypes
+* [Coming Soon]
+###### Testing and Validation
+* [Coming Soon]
+##### Production
+###### Manufacturing
+* [Coming Soon]
+###### Quality Assurance
+* [Coming Soon]
+###### Supply Chain Management
+* [Coming Soon]
+##### Research and Development (R&D)
+###### Innovation
+* [Not Applicable (NA)]
+###### Collaboration
+* [Not Applicable (NA)]
+###### Feasibility Studies
+* [Coming Soon]
+##### Documentation and Standards
+* [Not Applicable (NA)]
+###### Technical Documentation
+* [Not Applicable (NA)]
+###### Compliance and Standards
+* [Coming Soon]
+
+#### Hardware Operations Education
+##### Deployment and Installation
+###### Setup and Configuration
+* [Coming Soon]
+###### Integration
+* [Coming Soon]
+##### Maintenance and Support
+###### Monitoring
+* [Coming Soon]
+###### Troubleshooting and Repair
+* [Coming Soon]
+###### Upgrades
+* [Coming Soon]
+##### Asset Management
+###### Inventory Management
+  * [Coming Soon]
+###### Lifecycle Management
+  * [Coming Soon]
+###### Warranty and Service Contracts
+  * [Coming Soon]
+##### Security
+###### Physical Security
+* [Not Applicable (NA)]
+###### Data Security
+* [Coming Soon]
+##### Documentation and Compliance
+###### Operational Documentation
+* [Not Applicable (NA)]
+###### Compliance
+* [Coming Soon]
+##### Capacity Planning and Scalability
+###### Capacity Planning
+* [Coming Soon]
+###### Scalability
+* [Coming Soon]
+
 #### Software Development Education
 * [Coming Soon]
 
-#### Hardware Development Education
-* [Coming Soon]
-
 #### Software Operations Education
-* [Coming Soon]
-
-#### Hardware Development Education
-* [Coming Soon]
-
-#### Business Development Education
-* [Coming Soon]
-
-#### Business Operations Education
 * [Coming Soon]
 
 #### Mutlimedia Production Education
@@ -1069,10 +1127,22 @@ __________
 #### Mutlimedia Operations Education
 * [Coming Soon]
 
-#### Skilled Trades Education
+#### Business Development Education
 * [Coming Soon]
 
-#### Performance Arts Education
+#### Business Operations Education
+* [Coming Soon]
+
+#### Skilled Trades Technology/Technician Education
+* [Coming Soon]
+
+#### Skilled Trades Operations Education
+* [Coming Soon]
+
+#### Performance Arts Development Education
+* [Coming Soon]
+
+#### Performance Arts Operations Education
 * [Coming Soon]
 
 ### Goals
