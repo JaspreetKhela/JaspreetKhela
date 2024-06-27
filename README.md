@@ -1,9 +1,9 @@
 # Hello, I'm Jaspreet Khela! 👋
-Welcome! Below you will find details about me and my technical work.
+Welcome to my GitHub profile! Here, I share an overview of my personal, academic, and professional background, detailing my education, experiences, and the diverse range of technical and non-technical projects I have undertaken. Explore my repositories to discover the breadth of my work and the skills I bring to every project.
 __________
 ## Overview
 ### 🚀 About Me
-I'm a software developer specializing in web and mobile application development as well as data engineering, analytics, and science. I'm passionate about science, technology, engineering, and mathematics (STEM) and love to build things that move humanity towards a brighter future!
+Welcome to my GitHub profile! I am a versatile software developer specializing in Web2, Android, and iOS application development, as well as a skilled data engineer, analyst, and machine-learning scientist. My academic background is deeply rooted in the formal and natural sciences, providing a solid foundation for my technical expertise. Beyond my professional focus, I have a passion for exploring topics across the formal sciences, natural sciences, life sciences, social sciences, and arts and humanities. I am dedicated to leveraging both my technical and non-technical skills, showcased throughout my GitHub repositories, to create innovative products and services that propel humanity towards a brighter future. I am always seeking opportunities to collaborate with like-minded individuals and kindred spirits to build a better tomorrow.
 
 ### 🔧 Development and Operations Languages, Tools, Technologies, and Frameworks
 ![](https://img.shields.io/badge/Code-Python-blue)
@@ -15,14 +15,25 @@ I'm a software developer specializing in web and mobile application development 
 - Data Engineering
 - Cybersecurity Fundamentals
 
-### Interests
-- [Coming Soon]
+### 🌱 I will be learning
+- User Experience/User Interface (UX/UI) Design
+- Digital Marketing
+- Game Applications Development (for both Unity and Unreal Engines)
+- Game Applications Art
+
+### 🌍 Interests
+- Software Development
+- Data Engineering, Analytics, and Science (including Machine Learning)
+- Cybersecurity
+- Business Development, Operations, and Sales
+- Fundamental Research in the Formal and Natural Sciences
+- Working Out
 
 ### 🎉 Fun Fact
-I love [Something Interesting About You].
+I thoroughly enjoy watching period dramas on Netflix!
 
 ### 💬 Favorite Quote
-> "Your favorite quote here."
+> "Fortune favors the brave." — Virgil, Aeneid
 
 ### 📈 GitHub Stats
 ![Your Name's github stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
