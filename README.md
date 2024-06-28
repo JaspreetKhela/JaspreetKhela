@@ -9,43 +9,43 @@ I am a versatile software developer specializing in Web2, Android, and iOS appli
 
 #### Web2 Application Development
 - **Languages**
-  ![](https://img.shields.io/badge/Code-JavaScript-blue)
-  ![](https://img.shields.io/badge/Code-HTML-blue)
-  ![](https://img.shields.io/badge/Code-CSS-blue)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - **Frameworks and Libraries**
-  ![](https://img.shields.io/badge/Framework-Node.js-blue)
-  ![](https://img.shields.io/badge/Framework-React.js-blue)
-  ![](https://img.shields.io/badge/Framework-Express.js-blue)
+  ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 - **Databases**
-  ![](https://img.shields.io/badge/Database-SQL-blue)
-  ![](https://img.shields.io/badge/Database-MongoDB-blue)
+  ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### Data Analysis and Science
+#### Data Analytics and Science
 - **Languages**
-  ![](https://img.shields.io/badge/Code-Python-blue)
-  ![](https://img.shields.io/badge/Code-R-blue)
-  ![](https://img.shields.io/badge/Code-SQL-blue)
+  ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+  ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
 - **Tools and Libraries**
-  ![](https://img.shields.io/badge/Tool-Pandas-blue)
-  ![](https://img.shields.io/badge/Tool-Numpy-blue)
-  ![](https://img.shields.io/badge/Tool-Matplotlib-blue)
-  ![](https://img.shields.io/badge/Tool-Scikit--Learn-blue)
-  ![](https://img.shields.io/badge/Tool-TensorFlow-blue)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+  ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 - **Databases**
-  ![](https://img.shields.io/badge/Database-PostgreSQL-blue)
-  ![](https://img.shields.io/badge/Database-MongoDB-blue)
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Cybersecurity
 - **Tools and Technologies**
-  ![](https://img.shields.io/badge/Tool-Wireshark-blue)
-  ![](https://img.shields.io/badge/Tool-Burp_Suite-blue)
-  ![](https://img.shields.io/badge/Tool-Nessus-blue)
+  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+  ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FE7A16?style=for-the-badge&logo=burp%20suite&logoColor=white)
+  ![Nessus](https://img.shields.io/badge/nessus-00C176?style=for-the-badge&logo=nessus&logoColor=white)
 - **Concepts and Skills**
-  ![](https://img.shields.io/badge/Skill-Network_Security-blue)
-  ![](https://img.shields.io/badge/Skill-Ethical_Hacking-blue)
-  ![](https://img.shields.io/badge/Skill-Threat_Analysis-blue)
-  ![](https://img.shields.io/badge/Skill-Vulnerability_Assessment-blue)
-  ![](https://img.shields.io/badge/Skill-Risk_Management-blue)
+  ![Network Security](https://img.shields.io/badge/Network%20Security-blue?style=for-the-badge)
+  ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-red?style=for-the-badge)
+  ![Threat Analysis](https://img.shields.io/badge/Threat%20Analysis-orange?style=for-the-badge)
+  ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-green?style=for-the-badge)
+  ![Risk Management](https://img.shields.io/badge/Risk%20Management-yellow?style=for-the-badge)
 
 ### 🌱 I’m currently learning
 - Cybersecurity Fundamentals [to Prepare for the CompTIA Security+, Network+, CySA+, PenTest+, CASP+, Cloud+, Linux+, and Server+ Exams]
