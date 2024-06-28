@@ -12,18 +12,23 @@ I am a versatile software developer specializing in Web2, Android, and iOS appli
 ![](https://img.shields.io/badge/Editor-VSCode-blue)
 
 ### 🌱 I’m currently learning
+- People and Power Skills [to Learn More Effective and Efficient Communication and Collaboration Strategies]
 - Generative AI for Everyone [to Better Understand Prompt Engineering, Socioeconomic Impacts, and Ethical Concerns of Generative AI]
 - DevOps and Software Engineering
+- Site Reliability Engineering (SRE)
 - Cybersecurity Fundamentals [to Prepare for the CompTIA Security+ Exam]
 - Data Analytics and Visualization with Excel and R [for Specialization]
 - Data Engineering
 - Data Warehouse Engineering
+- SQL, NoSQL, and Relational Database Fundamentals [for a Refresher of a Multitude of Databases]
+- NoSQL, Big Data and Spark Fundamentals
 - Information Technology (IT) Support PC
 
 ### 🌱 I will be learning
 - User Experience/User Interface (UX/UI) Design
 - Digital Marketing
 - Full-Stack Application Development [to Augment Current Background with a Comprehensive Deep Dive into Different Technological Stacks]
+- Cloud Native Foundations [for Specialization in Cloud Computing]
 - Mobile Application Development and Strategy [to Augment Current Background with a Comprehensive Deep Dive]
 - Blockchain Development
 - Wireless Networking
