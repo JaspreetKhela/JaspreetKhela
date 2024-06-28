@@ -1,5 +1,5 @@
 # Hello, I'm Jaspreet Khela! 👋
-Welcome! Here, I share an overview of my personal, academic, and professional background, detailing my education, experiences, and the diverse range of technical and non-technical projects I have undertaken. Explore my repositories to discover the breadth of my work and the skills I bring to every project.
+Welcome! Here I share an overview of my personal, academic, and professional background, detailing my education, experiences, and the diverse range of technical and non-technical projects I have undertaken. Explore my repositories to discover the breadth of my work and the skills I bring to every project.
 __________
 ## Overview
 ### 🚀 About Me
@@ -12,12 +12,18 @@ I am a versatile software developer specializing in Web2, Android, and iOS appli
 ![](https://img.shields.io/badge/Editor-VSCode-blue)
 
 ### 🌱 I’m currently learning
+- Generative AI for Everyone [to Better Understand Prompt Engineering, Socioeconomic Impacts, and Ethical Concerns of Generative AI]
+- DevOps and Software Engineering
+- Cybersecurity Fundamentals [to Prepare for the CompTIA Security+ Exam]
+- Data Analytics and Visualization with Excel and R [for Specialization]
 - Data Engineering
-- Cybersecurity Fundamentals
+- Data Warehouse Engineering
+- Information Technology (IT) Support PC
 
 ### 🌱 I will be learning
 - User Experience/User Interface (UX/UI) Design
 - Digital Marketing
+- Full-Stack Application Development [to Augment Current Background with a Comprehensive Deep Dive into Different Technological Stacks]
 - Mobile Application Development and Strategy [to Augment Current Background with a Comprehensive Deep Dive]
 - Blockchain Development
 - Wireless Networking
