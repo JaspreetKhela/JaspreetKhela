@@ -18,8 +18,22 @@ I am a versatile software developer specializing in Web2, Android, and iOS appli
 ### 🌱 I will be learning
 - User Experience/User Interface (UX/UI) Design
 - Digital Marketing
-- Game Applications Development (for both Unity and Unreal Engines)
-- Game Applications Art
+- Mobile Application Development and Strategy [to Augment Current Background with a Comprehensive Deep Dive]
+- Blockchain Development
+- Wireless Networking
+- Game Application Development [for both Unity and Unreal Engines]
+- Game Application Art
+- Computer Systems Technology [with a Networking Specialization]
+- Information Systems Business Analysis
+- Art and Design Foundation
+- Interaction Design and Development [to Augment Current Background with a Comprehensive Deep Dive]
+- Digital Experience Design [for Specialization]
+- Graphic Design
+- Brand Design
+- Concept Art for Entertainment
+- Design Management
+- Interactive Media Management
+- Interdisciplinary Design Strategy
 
 ### 🌍 Interests
 - Software Development
