@@ -6,27 +6,64 @@ __________
 I am a versatile software developer specializing in Web2, Android, and iOS application development, as well as a skilled data engineer, analyst, and machine-learning scientist. My academic background is deeply rooted in the formal and natural sciences, providing a solid foundation for my technical expertise. Beyond my professional focus, I have a passion for exploring topics across the formal sciences, natural sciences, life sciences, social sciences, and arts and humanities. I am dedicated to leveraging both my technical and non-technical skills, showcased throughout my GitHub repositories, to create innovative products and services that propel humanity towards a brighter future. I am always seeking opportunities to collaborate with like-minded individuals and kindred spirits to build a better tomorrow.
 
 ### 🔧 Development and Operations Languages, Tools, Technologies, and Frameworks
-![](https://img.shields.io/badge/Code-Python-blue)
-![](https://img.shields.io/badge/Tools-Docker-blue)
-![](https://img.shields.io/badge/OS-Linux-blue)
-![](https://img.shields.io/badge/Editor-VSCode-blue)
+
+#### Web2 Application Development
+- **Languages**
+  ![](https://img.shields.io/badge/Code-JavaScript-blue)
+  ![](https://img.shields.io/badge/Code-HTML-blue)
+  ![](https://img.shields.io/badge/Code-CSS-blue)
+- **Frameworks and Libraries**
+  ![](https://img.shields.io/badge/Framework-Node.js-blue)
+  ![](https://img.shields.io/badge/Framework-React.js-blue)
+  ![](https://img.shields.io/badge/Framework-Express.js-blue)
+- **Databases**
+  ![](https://img.shields.io/badge/Database-SQL-blue)
+  ![](https://img.shields.io/badge/Database-MongoDB-blue)
+
+#### Data Analysis and Science
+- **Languages**
+  ![](https://img.shields.io/badge/Code-Python-blue)
+  ![](https://img.shields.io/badge/Code-R-blue)
+  ![](https://img.shields.io/badge/Code-SQL-blue)
+- **Tools and Libraries**
+  ![](https://img.shields.io/badge/Tool-Pandas-blue)
+  ![](https://img.shields.io/badge/Tool-Numpy-blue)
+  ![](https://img.shields.io/badge/Tool-Matplotlib-blue)
+  ![](https://img.shields.io/badge/Tool-Scikit--Learn-blue)
+  ![](https://img.shields.io/badge/Tool-TensorFlow-blue)
+- **Databases**
+  ![](https://img.shields.io/badge/Database-PostgreSQL-blue)
+  ![](https://img.shields.io/badge/Database-MongoDB-blue)
+
+#### Cybersecurity
+- **Tools and Technologies**
+  ![](https://img.shields.io/badge/Tool-Wireshark-blue)
+  ![](https://img.shields.io/badge/Tool-Burp_Suite-blue)
+  ![](https://img.shields.io/badge/Tool-Nessus-blue)
+- **Concepts and Skills**
+  ![](https://img.shields.io/badge/Skill-Network_Security-blue)
+  ![](https://img.shields.io/badge/Skill-Ethical_Hacking-blue)
+  ![](https://img.shields.io/badge/Skill-Threat_Analysis-blue)
+  ![](https://img.shields.io/badge/Skill-Vulnerability_Assessment-blue)
+  ![](https://img.shields.io/badge/Skill-Risk_Management-blue)
 
 ### 🌱 I’m currently learning
+- Cybersecurity Fundamentals [to Prepare for the CompTIA Security+, Network+, CySA+, PenTest+, CASP+, Cloud+, Linux+, and Server+ Exams]
 - People and Power Skills [to Learn More Effective and Efficient Communication and Collaboration Strategies]
 - Generative AI for Everyone [to Better Understand Prompt Engineering, Socioeconomic Impacts, and Ethical Concerns of Generative AI]
-- DevOps and Software Engineering
-- Site Reliability Engineering (SRE)
-- Cybersecurity Fundamentals [to Prepare for the CompTIA Security+ Exam]
 - Data Analytics and Visualization with Excel and R [for Specialization]
+- SQL, NoSQL, and Relational Database Fundamentals [for a Refresher of a Multitude of Databases]
+- NoSQL, Big Data, and Spark Fundamentals
 - Data Engineering
 - Data Warehouse Engineering
-- SQL, NoSQL, and Relational Database Fundamentals [for a Refresher of a Multitude of Databases]
-- NoSQL, Big Data and Spark Fundamentals
+- DevOps and Software Engineering
+- Site Reliability Engineering (SRE)
 - Information Technology (IT) Support PC
 
 ### 🌱 I will be learning
 - User Experience/User Interface (UX/UI) Design
 - Digital Marketing
+- Product Management
 - Full-Stack Application Development [to Augment Current Background with a Comprehensive Deep Dive into Different Technological Stacks]
 - Cloud Native Foundations [for Specialization in Cloud Computing]
 - Mobile Application Development and Strategy [to Augment Current Background with a Comprehensive Deep Dive]
