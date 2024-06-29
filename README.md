@@ -3,10 +3,10 @@ Welcome! Here I share an overview of my personal, academic, and professional bac
 __________
 ## Table of Contents
 1. [Overview](#overview)
-  - [About Me](#about-me)
-  - [Development and Operations Languages, Tools, Technologies, and Frameworks](#development-and-operations-languages-tools-technologies-and-frameworks)
-  - [Current Professional Development](#current-professional-development)
-  - [Future Professional Development](#future-professional-development)
+    - [About Me](#about-me)
+    - [Development and Operations Languages, Tools, Technologies, and Frameworks](#development-and-operations-languages-tools-technologies-and-frameworks)
+    - [Current Professional Development](#current-professional-development)
+    - [Future Professional Development](#future-professional-development)
 
 
 __________
