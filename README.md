@@ -1,5 +1,5 @@
 # Hello, I'm Jaspreet Khela! 👋
-Welcome! Here I share an overview of my personal, academic, and professional background, detailing my education, experiences, and the diverse range of technical and non-technical projects I have undertaken. Explore my repositories to discover the breadth of my work and the skills I bring to every project.
+Welcome! Below I share an overview of my personal, academic, and professional background, detailing my education, experiences, and the diverse range of technical and non-technical projects I have undertaken. Explore my repositories to discover the breadth of my work and the skills I bring to every project.
 __________
 ## Table of Contents
 1. [Overview](#overview)
@@ -24,11 +24,21 @@ __________
     - [Personality](#personality)
     - [Capabilities](#capbilities)
 4. [Academic Development Background and Goals](#academic-development-background-and-goals)
-5. [Professional Development Background and Goals](#professional-development-background-and-goals)
-6. [Self Development Background and Goals](#self-development-background-and-goals)
-7. [Academic Work Background and Goals](#academic-work-background-and-goals)
+    - [Background](#background-2)
+    - [Goals](#goals-2)
+6. [Professional Development Background and Goals](#professional-development-background-and-goals)
+    - [Background](#background-3)
+    - [Goals](#goals-3)
+8. [Self Development Background and Goals](#self-development-background-and-goals)
+    - [Background](#background-4)
+    - [Goals](#goals-4)
+10. [Academic Work Background and Goals](#academic-work-background-and-goals)
+    - [Background](#background-5)
+    - [Goals](#goals-5)
 4. [Professional Work Background and Goals](#professional-work-background-and-goals)
-5. [Project Collaboration Interests](#project-collaboration-interests)
+    - [Background](#background-6)
+    - [Goals](#goals-6)
+6. [Project Collaboration Interests](#project-collaboration-interests)
 __________
 ## Overview
 <a name="about-me"></a>
