@@ -114,7 +114,7 @@ Databases like PostgreSQL and MongoDB are used to store and manage large dataset
 
 AWS provides scalable cloud computing solutions. Git and GitHub are essential for version control and collaboration, ensuring efficient project management.
 
-#### Cybersecurity Boot Camp
+#### Cybersecurity
 ##### Tools and Technologies
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FE7A16?style=for-the-badge&logo=burp%20suite&logoColor=white)
