@@ -1,10 +1,21 @@
 # Hello, I'm Jaspreet Khela! 👋
 Welcome! Here I share an overview of my personal, academic, and professional background, detailing my education, experiences, and the diverse range of technical and non-technical projects I have undertaken. Explore my repositories to discover the breadth of my work and the skills I bring to every project.
 __________
+## Table of Contents
+1. [Overview](#overview)
+  - [About Me](#about-me)
+  - [Development and Operations Languages, Tools, Technologies, and Frameworks](#development-and-operations-languages-tools-technologies-and-frameworks)
+  - [Current Professional Development](#current-professional-development)
+  - [Future Professional Development](#future-professional-development)
+
+
+__________
 ## Overview
+<a name="about-me"></a>
 ### 🚀 About Me
 I am a versatile software developer specializing in Web2, Android, and iOS application development, as well as a skilled data engineer, analyst, and machine-learning scientist. My academic background is deeply rooted in the formal and natural sciences, providing a solid foundation for my technical expertise. Beyond my professional focus, I have a passion for exploring topics across the formal sciences, natural sciences, life sciences, social sciences, and arts and humanities. I am dedicated to leveraging both my technical and non-technical skills, showcased throughout my GitHub repositories, to create innovative products and services that propel humanity towards a brighter future. I am always seeking opportunities to collaborate with like-minded individuals and kindred spirits to build a better tomorrow.
 
+<a name="development-and-operations-languages-tools-technologies-and-frameworks"></a>
 ### 🔧 Development and Operations Languages, Tools, Technologies, and Frameworks
 
 #### Web2 Application Development
@@ -97,7 +108,8 @@ Tools like Wireshark, Burp Suite, and Nessus are critical for network analysis a
 
 Understanding network security, ethical hacking, and threat analysis are foundational skills for protecting systems. Vulnerability assessment and risk management help identify and mitigate potential threats. Incident response and forensics are crucial for handling and investigating security breaches.
 
-### 🌱 I’m currently learning
+<a name="current-professional-development"></a>
+### 🌱 Current Professional Development
 - Cybersecurity Fundamentals [to Prepare for the CompTIA Security+, Network+, CySA+, PenTest+, CASP+, Cloud+, Linux+, and Server+ Exams]
 - People and Power Skills [to Learn More Effective and Efficient Communication and Collaboration Strategies]
 - Generative AI for Everyone [to Better Understand Prompt Engineering, Socioeconomic Impacts, and Ethical Concerns of Generative AI]
@@ -110,7 +122,8 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - Site Reliability Engineering (SRE)
 - Information Technology (IT) Support PC
 
-### 🌱 I will be learning
+<a name="future-professional-development"></a>
+### 🌱 Future Professional Development
 - User Experience/User Interface (UX/UI) Design
 - Digital Marketing
 - Product Management
@@ -133,6 +146,7 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - Interactive Media Management
 - Interdisciplinary Design Strategy
 
+<a name="Interests"></a>
 ### 🌍 Interests
 - Software Development
 - Data Engineering, Analytics, and Science (including Machine Learning)
@@ -141,35 +155,45 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - Fundamental Research in the Formal and Natural Sciences
 - Working Out
 
+<a name="fun-fact"></a>
 ### 🎉 Fun Fact
 I thoroughly enjoy watching period dramas on Netflix!
 
+<a name="favorite-quote"></a>
 ### 💬 Favorite Quote
 > "Fortune favors the brave." — Virgil, Aeneid
 
-### 📈 GitHub Stats
+<a name="github-summary-statistics"></a>
+### 📈 GitHub Summary Statistics
 ![Your Name's github stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
+<a name="project-repositories"></a>
 ### 👨‍💻 Project Repositories
 - [Coming Soon](GitHub_Link)
 
-### 📚 Latest Blog Posts
+<a name="blog-posts"></a>
+### 📚 Blog Posts
 - [Coming Soon]
 
-### 📚 Latest GitHub Gist Tutorials
+<a name="github-gist-tutorials"></a>
+### 📚 GitHub Gist Tutorials
 - [Coming Soon]
 
-### 📚 Latest YouTube Videos
+<a name="youtube-videos"></a>
+### 📚 YouTube Videos
 - [Coming Soon]
 
-### 📫 How to Reach Me
+<a name="reach-me"></a>
+### 📫 Reach Me
 Feel free to reach out for collaborations or just a chat:
 - 📧 [Email](mailto:jaspreet.khela@gmail.com)
 
-### ✉️ Find me on:
+<a name="stay-in-touch"></a>
+### ✉️ Stay in Touch
 - [LinkedIn](YourLinkedInURL) 🏢
 - [Website](YourWebsiteURL) 🌐
 __________
+<a name="personal-background-and-goals"></a>
 ## Personal Background and Goals
 ### 💡 Motto
 **Preparation. Pace. Patience. Persistence. Facta, Non Verba.**
