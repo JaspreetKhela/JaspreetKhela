@@ -7,8 +7,28 @@ __________
     - [Development and Operations Languages, Tools, Technologies, and Frameworks](#development-and-operations-languages-tools-technologies-and-frameworks)
     - [Current Professional Development](#current-professional-development)
     - [Future Professional Development](#future-professional-development)
-
-
+    - [Interests](#interests)
+    - [Fun Fact](#fun-fact)
+    - [Favorite Quote](#favorite-quote)
+    - [GitHub Summary Statistics](#github-summary-statistics)
+    - [Project Repositories](#project-repositories)
+    - [Blog Posts](#blog-posts)
+    - [GitHub Gist Tutorials](#github-gist-tutorials)
+    - [YouTube Videos](#youtube-videos)
+    - [Reach Me](#reach-me)
+    - [Stay in Touch](#stay-in-touch)
+2. [Personal Background and Goals](#personal-background-and-goals)
+    - [Motto](#motto)
+    - [Background](#background-1)
+    - [Goals](#goals-1)
+    - [Personality](#personality)
+    - [Capabilities](#capbilities)
+4. [Academic Development Background and Goals](#academic-development-background-and-goals)
+5. [Professional Development Background and Goals](#professional-development-background-and-goals)
+6. [Self Development Background and Goals](#self-development-background-and-goals)
+7. [Academic Work Background and Goals](#academic-work-background-and-goals)
+4. [Professional Work Background and Goals](#professional-work-background-and-goals)
+5. [Project Collaboration Interests](#project-collaboration-interests)
 __________
 ## Overview
 <a name="about-me"></a>
@@ -195,28 +215,31 @@ Feel free to reach out for collaborations or just a chat:
 __________
 <a name="personal-background-and-goals"></a>
 ## Personal Background and Goals
+<a name="motto"></a>
 ### 💡 Motto
 **Preparation. Pace. Patience. Persistence. Facta, Non Verba.**
-
+<a name="background-1"></a>
 ### 📘 Background
 During my formative years, I was captivated by the universe's intricacies: from the foundational Zermelo-Fraenkel-Choice (ZFC) axiomatic system and the logically deduced theorems of mathematics, to the precision of the natural sciences, the remarkable feats of engineering and technology, the vastness of life sciences and medicine, the complexities of social sciences and management, the transcendental experiences offered by the arts and humanities, and the exploration of my athletic capabilities. I am committed to actualizing my potential in these domains, aspiring to excellence and dedicated to continual self-improvement. In this journey, I find resonance with the University of Toronto's enduring motto, 'Velut Arbor Ævo.'
-
+<a name="goals-1"></a>
 ### 🎯 Goals
 I aspire to become a mathematician, specializing in mathematical applications in the formal, natural, and life sciences. My short-term aims include working on technical research and development projects in areas like quantum computing, machine learning, cryptography, nuclear fusion, surgery, and finance, as well as non-technical projects in business development, operations, and sales. In the long term, I plan to engage in the private sector as a creative artist, entrepreneur, and mathematician, and in the public sector as a mathematician (within academic and government research institutes and facilities), military operator, healthcare worker, social worker, and public servant.
-
+<a name="Personality"></a>
 ### 😊 Personality
 My personality traits, which are habitual patterns of emotion, thought, and behavior, include:
 - **Five-Factor Model (FFM)**: Relatively low level of extraversion; average levels of agreeableness, neuroticism, and openness; and a relatively high level of conscientiousness.
 - **HEXACO-PI-R**: [Test Results](https://dropbox.com/s/ocep5hmbkduw6lh/Test%20Result.pdf?dl=0)
 - **Myers-Briggs Type Indicator (MBTI)**: [INTJ](https://16personalities.com/intj-personality)
 - **Dark Triad Test**: [Test Results](https://dropbox.com/s/l063j1feu0dbejt/Dark%20Triad%20Test%20Results.pdf?dl=0)
-
+<a name="Capabilities"></a>
 ### 🌟 Capabilities
 - **Strengths**: Strategizing, Creating, Leading
 - **Hard Skills**: Quantitative Analysis, Multimedia Production
 - **Soft Skills**: Critical Thinking, Communication
 __________
+<a name="academic-background-and-goals"></a>
 ## Academic Development Background and Goals
+<a name="background-2"></a>
 ### Background
 #### Formal Sciences: Mathematics Education
 ##### Theoretical:
@@ -801,7 +824,7 @@ __________
 
 ##### Experimental:
 * [Coming Soon]
-
+<a name="goals-2"></a>
 ### Goals
 #### Formal Sciences: Mathematics Education Goals
 ##### Theoretical:
@@ -1190,7 +1213,9 @@ __________
 * [Coming Soon]
 
 __________
+<a name="professional-development-background-and-goals"></a>
 ## Professional Development Background and Goals
+<a name="background-3"></a>
 ### Background
 #### Hardware Development Education
 ##### Design and Engineering
@@ -1292,6 +1317,7 @@ __________
 #### Performance Arts Operations Education
 * [Coming Soon]
 
+<a name="goals-3"></a>
 ### Goals
 #### Software Development Education Goals
 * [Coming Soon]
@@ -1318,13 +1344,17 @@ __________
 * [Coming Soon]
 
 __________
+<a name="self-development-background-goals"></a>
 ## Self Development Background and Goals
+<a name="background-4"></a>
 ### Background
-
+<a name="goals-4"></a>
 ### Goals
 
 __________
+<a name="academic-work-background-and-goals"></a>
 ## Academic Work Background and Goals
+<a name="background-5"></a>
 ### Background
 #### Mathematics Work
 ##### Theoretical:
@@ -1374,6 +1404,7 @@ __________
 ##### Applied:
 * [Coming Soon]
 
+<a name="goals-5"></a>
 ### Goals
 #### Mathematics Work Goals
 ##### Theoretical:
@@ -1423,7 +1454,9 @@ __________
 ##### Applied:
 * [Coming Soon]
 __________
+<a name="professional-work-background-and-goals"></a>
 ## Professional Work Background and Goals
+<a name="background-6"></a>
 ### Background
 #### Software Development Work
 * [Coming Soon]
@@ -1449,6 +1482,7 @@ __________
 #### Performance Arts Work
 * [Coming Soon]
 
+<a name="goals-6"></a>
 ### Goals
 #### Software Development Work Goals
 * [Coming Soon]
@@ -1474,4 +1508,5 @@ __________
 #### Performance Arts Work Goals
 * [Coming Soon]
 __________
+<a name="project-collaboration-interests"></a>
 ## Project Collaboration Interests
