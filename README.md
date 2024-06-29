@@ -8,44 +8,94 @@ I am a versatile software developer specializing in Web2, Android, and iOS appli
 ### 🔧 Development and Operations Languages, Tools, Technologies, and Frameworks
 
 #### Web2 Application Development
-- **Languages**
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- **Frameworks and Libraries**
-  ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-- **Databases**
-  ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+##### Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+These languages are fundamental for web development. HTML and CSS are used for structuring and styling web pages, while JavaScript adds interactivity and dynamic behavior.
+
+##### Frameworks and Libraries
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+Frameworks like Node.js and React streamline development, making it easier to build scalable and maintainable web applications. jQuery and Bootstrap enhance functionality and design.
+
+##### Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+Databases like MySQL and MongoDB are essential for storing and managing data. MySQL is a relational database, while MongoDB is a NoSQL database.
+
+##### Other Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Handlebars.js](https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebars.js&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+
+Tools like Git and GitHub facilitate version control and collaboration. Heroku allows easy deployment of applications. Visual Studio Code is a powerful code editor. Handlebars.js and Sequelize simplify template creation and database interactions.
 
 #### Data Analytics and Science
-- **Languages**
-  ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-  ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
-- **Tools and Libraries**
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-  ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-- **Databases**
-  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+##### Languages
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
 
-#### Cybersecurity
-- **Tools and Technologies**
-  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
-  ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FE7A16?style=for-the-badge&logo=burp%20suite&logoColor=white)
-  ![Nessus](https://img.shields.io/badge/nessus-00C176?style=for-the-badge&logo=nessus&logoColor=white)
-- **Concepts and Skills**
-  ![Network Security](https://img.shields.io/badge/Network%20Security-blue?style=for-the-badge)
-  ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-red?style=for-the-badge)
-  ![Threat Analysis](https://img.shields.io/badge/Threat%20Analysis-orange?style=for-the-badge)
-  ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-green?style=for-the-badge)
-  ![Risk Management](https://img.shields.io/badge/Risk%20Management-yellow?style=for-the-badge)
+Python and R are essential for data analysis and machine learning, offering extensive libraries for these tasks. SQL is crucial for querying and managing databases.
+
+##### Tools and Libraries
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![D3.js](https://img.shields.io/badge/d3.js-%23F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+Libraries like Pandas, NumPy, and Scikit-Learn are fundamental for data manipulation and analysis. TensorFlow is essential for machine learning. Visualization tools like Matplotlib, D3.js, and Tableau help present data insights.
+
+##### Databases
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+Databases like PostgreSQL and MongoDB are used to store and manage large datasets, facilitating efficient data retrieval and analysis.
+
+##### Other Tools
+![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+AWS provides scalable cloud computing solutions. Git and GitHub are essential for version control and collaboration, ensuring efficient project management.
+
+#### Cybersecurity Boot Camp
+##### Tools and Technologies
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FE7A16?style=for-the-badge&logo=burp%20suite&logoColor=white)
+![Nessus](https://img.shields.io/badge/nessus-00C176?style=for-the-badge&logo=nessus&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-121011?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-99CC33?style=for-the-badge&logo=snort&logoColor=white)
+
+Tools like Wireshark, Burp Suite, and Nessus are critical for network analysis and vulnerability assessment. Kali Linux and Metasploit are used for penetration testing. Splunk and Snort are essential for monitoring and detecting threats.
+
+##### Concepts and Skills
+![Network Security](https://img.shields.io/badge/Network%20Security-blue?style=for-the-badge)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-red?style=for-the-badge)
+![Threat Analysis](https://img.shields.io/badge/Threat%20Analysis-orange?style=for-the-badge)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-green?style=for-the-badge)
+![Risk Management](https://img.shields.io/badge/Risk%20Management-yellow?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-purple?style=for-the-badge)
+![Forensics](https://img.shields.io/badge/Forensics-darkred?style=for-the-badge)
+
+Understanding network security, ethical hacking, and threat analysis are foundational skills for protecting systems. Vulnerability assessment and risk management help identify and mitigate potential threats. Incident response and forensics are crucial for handling and investigating security breaches.
 
 ### 🌱 I’m currently learning
 - Cybersecurity Fundamentals [to Prepare for the CompTIA Security+, Network+, CySA+, PenTest+, CASP+, Cloud+, Linux+, and Server+ Exams]
