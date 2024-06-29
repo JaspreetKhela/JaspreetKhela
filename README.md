@@ -166,7 +166,7 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - Game Application Art
 - Computer Systems Technology [with a Networking Specialization]
 - Information Systems Business Analysis
-- Art and Design Foundation
+- Art and Design Fundamentals
 - Interaction Design and Development [to Augment Current Background with a Comprehensive Deep Dive]
 - Digital Experience Design [for Specialization]
 - Graphic Design
@@ -195,7 +195,7 @@ I thoroughly enjoy watching period dramas on Netflix!
 
 <a name="github-summary-statistics"></a>
 ### 📈 GitHub Summary Statistics
-![Your Name's github stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Jaspreet Khela's GitHub Summary Statistics](https://github-readme-stats.vercel.app/api?username=jaspreetkhela&show_icons=true&theme=tokyonight)
 
 <a name="project-repositories"></a>
 ### 👨‍💻 Project Repositories
