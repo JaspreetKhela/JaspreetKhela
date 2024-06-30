@@ -143,11 +143,13 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - Cybersecurity Fundamentals [to Prepare for the CompTIA Security+, Network+, CySA+, PenTest+, CASP+, Cloud+, Linux+, and Server+ Exams]
 - People and Power Skills [to Learn More Effective and Efficient Communication and Collaboration Strategies]
 - Generative AI for Everyone [to Better Understand Prompt Engineering, Socioeconomic Impacts, and Ethical Concerns of Generative AI]
+- Deep Learning [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
 - Data Analytics and Visualization with Excel and R [for Specialization]
 - SQL, NoSQL, and Relational Database Fundamentals [for a Refresher of a Multitude of Databases]
 - NoSQL, Big Data, and Spark Fundamentals
 - Data Engineering
 - Data Warehouse Engineering
+- IBM z/OS Mainframe Practitioner
 - DevOps and Software Engineering
 - Site Reliability Engineering (SRE)
 - Information Technology (IT) Support PC
@@ -157,7 +159,7 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - User Experience/User Interface (UX/UI) Design
 - Digital Marketing
 - Product Management
-- Full-Stack Application Development [to Augment Current Background with a Comprehensive Deep Dive into Different Technological Stacks]
+- Full-Stack Application Development [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
 - Cloud Native Foundations [for Specialization in Cloud Computing]
 - Mobile Application Development and Strategy [to Augment Current Background with a Comprehensive Deep Dive]
 - Blockchain Development
