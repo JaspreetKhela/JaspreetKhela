@@ -23,16 +23,27 @@ __________
     - [Goals](#goals-1)
     - [Personality](#personality)
     - [Capabilities](#capbilities)
-4. [Academic Development Background and Goals](#academic-development-background-and-goals)
-    - [Background](#background-2)
-    - [Goals](#goals-2)
-6. [Professional Development Background and Goals](#professional-development-background-and-goals)
-    - [Background](#background-3)
-    - [Goals](#goals-3)
-8. [Self Development Background and Goals](#self-development-background-and-goals)
-    - [Background](#background-4)
-    - [Goals](#goals-4)
-10. [Academic Work Background and Goals](#academic-work-background-and-goals)
+3. [Self-Development]
+    - [Emotional Intelligence]
+    - [Mental Health]
+    - [Personal Growth]
+7. [Interpersonal Development]
+    - [Communication Skills]
+    - [Relationship Building]
+    - [Social Skills]
+9. [Personal Development]
+    - [Academic Development Background and Goals](#academic-development-background-and-goals)
+        - [Background](#background-2)
+        - [Goals](#goals-2)
+    - [Professional Development Background and Goals](#professional-development-background-and-goals)
+        - [Background](#background-3)
+        - [Goals](#goals-3)
+    - [Other Personal Growth]
+12. [Transpersonal/Spiritual Development]
+    - [Spiritual Practices]
+    - [Self-Transcendence]
+    - [Connection]
+15. [Academic Work Background and Goals](#academic-work-background-and-goals)
     - [Background](#background-5)
     - [Goals](#goals-5)
 4. [Professional Work Background and Goals](#professional-work-background-and-goals)
