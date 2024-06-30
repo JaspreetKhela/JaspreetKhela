@@ -43,7 +43,7 @@ __________
 ## Overview
 <a name="about-me"></a>
 ### 🚀 About Me
-I am a versatile software developer specializing in Web2, Android, and iOS application development, as well as a skilled data engineer, analyst, and machine-learning scientist. My academic background is deeply rooted in the formal and natural sciences, providing a solid foundation for my technical expertise. Beyond my professional focus, I have a passion for exploring topics across the formal sciences, natural sciences, life sciences, social sciences, and arts and humanities. I am dedicated to leveraging both my technical and non-technical skills, showcased throughout my GitHub repositories, to create innovative products and services that propel humanity towards a brighter future. I am always seeking opportunities to collaborate with like-minded individuals and kindred spirits to build a better tomorrow.
+I am a versatile software developer specializing in Web2, Android, and iOS application development, as well as a skilled data engineer, analyst, and scientist (including machine-learning applications). My academic background is deeply rooted in the formal and natural sciences, providing a solid foundation for my technical expertise. Beyond my professional focus, I have a passion for exploring topics across the formal sciences, natural sciences, life sciences, social sciences, and arts and humanities. I am dedicated to leveraging both my technical and non-technical skills, showcased throughout my GitHub repositories, to create innovative products and services that propel humanity towards a brighter future. I am always seeking opportunities to collaborate with like-minded individuals and kindred spirits to build a better tomorrow.
 
 <a name="development-and-operations-languages-tools-technologies-and-frameworks"></a>
 ### 🔧 Development and Operations Languages, Tools, Technologies, and Frameworks
@@ -211,6 +211,7 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 ### 🌍 Interests
 - Software Development
 - Data Engineering, Analytics, and Science (including Machine Learning)
+- IT Support Specialist
 - Cybersecurity
 - Business Development, Operations, and Sales
 - Fundamental Research in the Formal and Natural Sciences
