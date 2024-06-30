@@ -43,7 +43,7 @@ __________
 ## Overview
 <a name="about-me"></a>
 ### 🚀 About Me
-I am a versatile software developer specializing in Web2, Android, and iOS application development, as well as a skilled data engineer, analyst, and scientist (including machine-learning applications). My academic background is deeply rooted in the formal and natural sciences, providing a solid foundation for my technical expertise. Beyond my professional focus, I have a passion for exploring topics across the formal sciences, natural sciences, life sciences, social sciences, and arts and humanities. I am dedicated to leveraging both my technical and non-technical skills, showcased throughout my GitHub repositories, to create innovative products and services that propel humanity towards a brighter future. I am always seeking opportunities to collaborate with like-minded individuals and kindred spirits to build a better tomorrow.
+I am a versatile software developer specializing in Web2, Android, and iOS application development, as well as a skilled data engineer, analyst, and scientist (including machine-learning engineering). My academic background is deeply rooted in the formal and natural sciences, providing a solid foundation for my technical expertise. Beyond my professional focus, I have a passion for exploring topics across the formal sciences, natural sciences, life sciences, social sciences, and arts and humanities. I am dedicated to leveraging both my technical and non-technical skills, showcased throughout my GitHub repositories, to create innovative products and services that propel humanity towards a brighter future. I am always seeking opportunities to collaborate with like-minded individuals and kindred spirits to build a better tomorrow.
 
 <a name="development-and-operations-languages-tools-technologies-and-frameworks"></a>
 ### 🔧 Development and Operations Languages, Tools, Technologies, and Frameworks
@@ -138,6 +138,12 @@ Tools like Wireshark, Burp Suite, and Nessus are critical for network analysis a
 
 Understanding network security, ethical hacking, and threat analysis are foundational skills for protecting systems. Vulnerability assessment and risk management help identify and mitigate potential threats. Incident response and forensics are crucial for handling and investigating security breaches.
 
+<a name="current-academic-development"></a>
+### 🌱 Current Academic Development
+
+<a name="future-academic-development"></a>
+### 🌱 Future Academic Development
+
 <a name="current-professional-development"></a>
 ### 🌱 Current Professional Development
 - Cybersecurity Fundamentals [to Prepare for the CompTIA Security+, Network+, CySA+, PenTest+, CASP+, Cloud+, Linux+, and Server+ Exams]
@@ -207,10 +213,16 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - Project Management Professional (PMP)
 - Disciplined Agile Senior Scrum Master (DASSM)
 
+<a name="current-academic-development"></a>
+### 🌱 Current Academic Development
+
+<a name="future-academic-development"></a>
+### 🌱 Future Academic Development
+
 <a name="Interests"></a>
 ### 🌍 Interests
 - Software Development
-- Data Engineering, Analytics, and Science (including Machine Learning)
+- Data Engineering, Analytics, and Science (including Machine-Learning Engineering)
 - IT Support Specialist
 - Cybersecurity
 - Business Development, Operations, and Sales
