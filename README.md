@@ -186,6 +186,21 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - Interactive Media Management
 - Interdisciplinary Design Strategy
 - Advanced Certified ScrumMaster (A-CSM)
+- Certified Scrum Professional (CSP-SM)
+- Microsoft Azure Administrator Associate
+- Microsoft Azure Developer Associate
+- Microsoft Azure Solutions Architect Expert
+- AWS Certified Solutions Architect – Associate
+- AWS Certified SysOps Administrator – Associate
+- Google Professional Cloud Architect
+- Google Professional Data Engineer
+- Google Professional Cloud DevOps Engineer
+- Adobe Certified Master
+- Adobe Certified Instructor
+- Oracle Certified Expert (OCE)
+- Red Hat Certified Engineer (RHCE)
+- Disciplined Agile Scrum Master (DASM)
+- Advanced Certified ScrumMaster (A-CSM)
 - AWS Certified DevOps Engineer – Professional
 - Oracle Certified Master (OCM)
 - Red Hat Certified Architect (RHCA)
