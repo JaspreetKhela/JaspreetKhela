@@ -164,6 +164,14 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - Mobile Application Development and Strategy [to Augment Current Background with a Comprehensive Deep Dive]
 - Blockchain Development
 - Wireless Networking
+- Certified Scrum Master (CSM)
+- Microsoft Certified: Azure Fundamentals
+- AWS Certified Developer Associate
+- Google Professional Cloud Certification
+- Adobe Certified Expert (ACE)
+- Oracle Certified Professional (OCP)
+- Red Hat Certification (RHCSA)
+- PMI Agile Certified Practitioner (PMI-ACP)
 - Game Application Development [for both Unity and Unreal Engines]
 - Game Application Art
 - Computer Systems Technology [with a Networking Specialization]
@@ -177,6 +185,12 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - Design Management
 - Interactive Media Management
 - Interdisciplinary Design Strategy
+- Advanced Certified ScrumMaster (A-CSM)
+- AWS Certified DevOps Engineer – Professional
+- Oracle Certified Master (OCM)
+- Red Hat Certified Architect (RHCA)
+- Project Management Professional (PMP)
+- Disciplined Agile Senior Scrum Master (DASSM)
 
 <a name="Interests"></a>
 ### 🌍 Interests
