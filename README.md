@@ -25,13 +25,25 @@ __________
     - [Capabilities](#capbilities)
 3. [Self-Development]
     - [Emotional Intelligence]
+        - [Background]
+        - [Goals]
     - [Mental Health]
+        - [Background]
+        - [Goals]
     - [Personal Growth]
-7. [Interpersonal Development]
+        - [Background]
+        - [Goals]
+4. [Interpersonal Development]
     - [Communication Skills]
+        - [Background]
+        - [Goals]
     - [Relationship Building]
+        - [Background]
+        - [Goals]
     - [Social Skills]
-9. [Personal Development]
+        - [Background]
+        - [Goals]
+5. [Personal Development]
     - [Academic Development Background and Goals](#academic-development-background-and-goals)
         - [Background](#background-2)
         - [Goals](#goals-2)
@@ -39,17 +51,19 @@ __________
         - [Background](#background-3)
         - [Goals](#goals-3)
     - [Other Personal Growth]
-12. [Transpersonal/Spiritual Development]
+6. [Transpersonal/Spiritual Development]
     - [Spiritual Practices]
+        - [Background]
+        - [Goals]
     - [Self-Transcendence]
+        - [Background]
+        - [Goals]
     - [Connection]
-15. [Academic Work Background and Goals](#academic-work-background-and-goals)
-    - [Background](#background-5)
-    - [Goals](#goals-5)
-4. [Professional Work Background and Goals](#professional-work-background-and-goals)
-    - [Background](#background-6)
-    - [Goals](#goals-6)
-6. [Project Collaboration Interests](#project-collaboration-interests)
+        - [Background]
+        - [Goals]
+7. [Project Collaboration](#project-collaboration)
+        - [Background]
+        - [Goals]
 __________
 ## Overview
 <a name="about-me"></a>
