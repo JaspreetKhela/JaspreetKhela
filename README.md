@@ -122,13 +122,7 @@ Tools like Wireshark, Burp Suite, and Nessus are critical for network analysis a
 
 Understanding network security, ethical hacking, and threat analysis are foundational skills for protecting systems. Vulnerability assessment and risk management help identify and mitigate potential threats. Incident response and forensics are crucial for handling and investigating security breaches.
 
-<a name="current-academic-development"></a>
-### 🌱 Current Academic Development
-
-<a name="future-academic-development"></a>
-### 🌱 Future Academic Development
-
-<a name="current-professional-development"></a>
+<a name="short-term-professional-development"></a>
 ### 🌱 Short-Term Development Pursuits
 - Cybersecurity Fundamentals [to Prepare for the CompTIA Security+, Network+, CySA+, PenTest+, CASP+, Cloud+, Linux+, and Server+ Exams]
 - People and Power Skills [to Learn More Effective and Efficient Communication and Collaboration Strategies]
@@ -144,7 +138,7 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - Site Reliability Engineering (SRE)
 - Information Technology (IT) Support PC
 
-<a name="future-professional-development"></a>
+<a name="long-term-professional-development"></a>
 ### 🌱 Long-Term Development Pursuits
 - User Experience/User Interface (UX/UI) Design
 - Digital Marketing
@@ -197,21 +191,18 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - Project Management Professional (PMP)
 - Disciplined Agile Senior Scrum Master (DASSM)
 
-<a name="current-academic-development"></a>
-### 🌱 Current Academic Development
-
-<a name="future-academic-development"></a>
-### 🌱 Future Academic Development
-
-<a name="Interests"></a>
+<a name="short-term-interests"></a>
 ### 🌍 Interests
 - Software Development
 - Data Engineering, Analytics, and Science (including Machine-Learning Engineering)
 - IT Support Specialist
-- Cybersecurity
+- Cybersecurity (Specializing in Penetration Testing)
+
+<a name="long-term-interests"></a>
+### 🌍 Interests
 - Business Development, Operations, and Sales
-- Fundamental Research in the Formal and Natural Sciences
-- Working Out
+- Entrepreneurship
+- Fundamental Research in the Formal, Natural, and Life Sciences
 
 <a name="fun-fact"></a>
 ### 🎉 Fun Fact
