@@ -1,5 +1,5 @@
 # Hello, I'm Jaspreet Khela! 👋
-Welcome! Below I share an overview of my personal, academic, and professional background, detailing my education, experiences, and the diverse range of technical and non-technical projects I have undertaken. Explore my repositories to discover the breadth of my work and the skills I bring to every project.
+Welcome! Here, I share an overview of my personal, academic, and professional development, detailing my educational background, work experiences, and personal interests. You will find a diverse range of technical and non-technical projects I have undertaken, illustrating my growth in physical health, emotional intelligence, and skills in various fields. Explore my repositories to discover the breadth of my work, including foundational education, professional achievements, personal pursuits, and future aspirations. Dive in to see the comprehensive skills I bring to every project.
 __________
 ## Primary Table of Contents
 1. [Overview](#overview)
