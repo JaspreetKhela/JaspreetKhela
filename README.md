@@ -125,6 +125,14 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 <a name="short-term-professional-development"></a>
 ### 🌱 Short-Term Development Pursuits
 - Cybersecurity Fundamentals [to Prepare for the CompTIA Security+, Network+, CySA+, PenTest+, CASP+, Cloud+, Linux+, and Server+ Exams]
+- DevOps
+- Enterprise Architecture
+- Cloud Computing
+- Data Science
+- Artificial Intelligence
+- Advanced Artificial Intelligence
+- Autonomous Systems for Discovery
+- Cyber Security Management
 - People and Power Skills [to Learn More Effective and Efficient Communication and Collaboration Strategies]
 - Generative AI for Everyone [to Better Understand Prompt Engineering, Socioeconomic Impacts, and Ethical Concerns of Generative AI]
 - Deep Learning [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
