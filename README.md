@@ -127,35 +127,37 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - Cybersecurity Fundamentals [to Prepare for the CompTIA Security+, Network+, CySA+, PenTest+, CASP+, Cloud+, Linux+, and Server+ Exams]
 - DevOps
 - Enterprise Architecture
-- Cloud Computing
-- Data Science
-- Artificial Intelligence
-- Advanced Artificial Intelligence
-- Autonomous Systems for Discovery
-- Cyber Security Management
+- Full-Stack Application Development [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
+- Cloud Native Foundations [for Specialization in Cloud Computing]
+- User Experience/User Interface (UX/UI) Design
+- Digital Marketing
+- Mobile Application Development and Strategy [to Augment Current Background with a Comprehensive Deep Dive]
+- Blockchain Development
 - People and Power Skills [to Learn More Effective and Efficient Communication and Collaboration Strategies]
 - Generative AI for Everyone [to Better Understand Prompt Engineering, Socioeconomic Impacts, and Ethical Concerns of Generative AI]
-- Deep Learning [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
 - Data Analytics and Visualization with Excel and R [for Specialization]
 - SQL, NoSQL, and Relational Database Fundamentals [for a Refresher of a Multitude of Databases]
 - NoSQL, Big Data, and Spark Fundamentals
 - Data Engineering
 - Data Warehouse Engineering
+- Cloud Computing
+- Data Science
+- Artificial Intelligence
+- Advanced Artificial Intelligence
+- Autonomous Systems for Discovery
+- Deep Learning [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
+
+<a name="long-term-professional-development"></a>
+### 🌱 Long-Term Development Pursuits
+- Product Management
+- Game Application Development [for both Unity and Unreal Engines]
+- Game Application Art
+- Wireless Networking
+- Cyber Security Management
 - IBM z/OS Mainframe Practitioner
 - DevOps and Software Engineering
 - Site Reliability Engineering (SRE)
 - Information Technology (IT) Support PC
-
-<a name="long-term-professional-development"></a>
-### 🌱 Long-Term Development Pursuits
-- User Experience/User Interface (UX/UI) Design
-- Digital Marketing
-- Product Management
-- Full-Stack Application Development [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- Cloud Native Foundations [for Specialization in Cloud Computing]
-- Mobile Application Development and Strategy [to Augment Current Background with a Comprehensive Deep Dive]
-- Blockchain Development
-- Wireless Networking
 - Certified Scrum Master (CSM)
 - Microsoft Certified: Azure Fundamentals
 - AWS Certified Developer Associate
@@ -164,8 +166,6 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - Oracle Certified Professional (OCP)
 - Red Hat Certification (RHCSA)
 - PMI Agile Certified Practitioner (PMI-ACP)
-- Game Application Development [for both Unity and Unreal Engines]
-- Game Application Art
 - Computer Systems Technology [with a Networking Specialization]
 - Information Systems Business Analysis
 - Art and Design Fundamentals
