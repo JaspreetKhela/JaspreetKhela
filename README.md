@@ -1,5 +1,5 @@
 # Hello, I'm Jaspreet Khela! 👋
-Welcome! Here, I share an overview of my personal, academic, and professional development, detailing my educational background, work experiences, and personal interests. You will find a diverse range of technical and non-technical projects I have undertaken, illustrating my growth in physical health, emotional intelligence, and skills in various fields. Explore my repositories to discover the breadth of my work, including foundational education, professional achievements, personal pursuits, and future aspirations. Dive in to see the comprehensive skills I bring to every project.
+Welcome! Below I share an overview of my background, encompassing my education and work experiences, as well as my personal interests and aspirations. Delve into my journey of self-development, covering emotional intelligence, mental health, and personal growth. Discover my interpersonal skills through communication, relationship building, and social interactions. Additionally, I am dedicated to academic and professional development, reflecting my various educational and work-related experiences. I am also engaged in spiritual and transpersonal development, ethical values, and personal beliefs. Together, these elements reflect my holistic approach to continuous learning and growth.
 __________
 ## Primary Table of Contents
 1. [Overview](#overview)
