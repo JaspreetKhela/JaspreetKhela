@@ -127,25 +127,28 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - Cybersecurity Fundamentals [to Prepare for the CompTIA Security+, Network+, CySA+, PenTest+, CASP+, Cloud+, Linux+, and Server+ Exams]
 - DevOps
 - Enterprise Architecture
-- Full-Stack Application Development [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- Cloud Native Foundations [for Specialization in Cloud Computing]
-- User Experience/User Interface (UX/UI) Design
-- Digital Marketing
-- Mobile Application Development and Strategy [to Augment Current Background with a Comprehensive Deep Dive]
-- Blockchain Development
 - People and Power Skills [to Learn More Effective and Efficient Communication and Collaboration Strategies]
 - Generative AI for Everyone [to Better Understand Prompt Engineering, Socioeconomic Impacts, and Ethical Concerns of Generative AI]
+- Full-Stack Application Development [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
+- Cloud Computing
+- Cloud Native Foundations [for Specialization in Cloud Computing]
+- DevOps and Software Engineering
+- Site Reliability Engineering (SRE)
+- Information Technology (IT) Support PC
 - Data Analytics and Visualization with Excel and R [for Specialization]
 - SQL, NoSQL, and Relational Database Fundamentals [for a Refresher of a Multitude of Databases]
 - NoSQL, Big Data, and Spark Fundamentals
 - Data Engineering
 - Data Warehouse Engineering
-- Cloud Computing
 - Data Science
 - Artificial Intelligence
 - Advanced Artificial Intelligence
-- Autonomous Systems for Discovery
 - Deep Learning [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
+- Autonomous Systems for Discovery
+- User Experience/User Interface (UX/UI) Design
+- Digital Marketing
+- Mobile Application Development and Strategy [to Augment Current Background with a Comprehensive Deep Dive]
+- Blockchain Development
 
 <a name="long-term-professional-development"></a>
 ### 🌱 Long-Term Development Pursuits
@@ -155,9 +158,6 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - Wireless Networking
 - Cyber Security Management
 - IBM z/OS Mainframe Practitioner
-- DevOps and Software Engineering
-- Site Reliability Engineering (SRE)
-- Information Technology (IT) Support PC
 - Certified Scrum Master (CSM)
 - Microsoft Certified: Azure Fundamentals
 - AWS Certified Developer Associate
