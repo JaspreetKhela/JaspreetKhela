@@ -178,8 +178,8 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 <a name="long-term-professional-development"></a>
 ### 🌱 Long-Term Development Pursuits
 - **U of T SCS**: [Product Management](#)
-- **U of T SCS**: Unity Game Application Development](#)
-- **U of T SCS**: Game Application Design](#)
+- **U of T SCS**: [Unity Game Application Development](#)
+- **U of T SCS**: [Game Application Design](#)
 - **U of T SCS**: Entrepreneurship and Innovation Certificates
     - [Entrepreneurship](#)
     - [Business Innovation](#)
