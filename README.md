@@ -127,7 +127,7 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - CompTIA Certifications: [Cybersecurity Fundamentals](#)
     - [to Prepare for the CompTIA Security+, Network+, CySA+, PenTest+, CASP+, Cloud+, Linux+, and Server+ Exams]
 - U of T SCS: [DevOps](#)
-    - [to Better Understand Continuous Integration and Deployment Pipelines in the Software Development Life Cycle]
+    - [to Better Understand Continuous Integration and Deployment Pipelines in the Software Development Life Cycle (SDLC)]
 - U of T SCS: [Enterprise Architecture](#)
     - [to Better Understand the Levels of Architecting an Organization]
 - IBM | edX: [People and Power Skills](#)
@@ -135,15 +135,15 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - IBM | edX: [Generative AI for Everyone](#)
     - [to Better Understand Prompt Engineering, Socioeconomic Impacts, and Ethical Concerns of Generative AI]
 - IBM | edX: [Full-Stack Application Development](#)
-    - [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- UofT SCS: [Cloud Computing](#)
+    - [to Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
+- U of T SCS: [Cloud Computing](#)
     - [for Specialization in Cloud Computing]
 - IBM | edX: [Cloud Native Foundations](#)
     - [for Specialization in Cloud Computing]
 - IBM | edX: [DevOps and Software Engineering](#)
-    - [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
+    - [to Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
 - IBM | edX: [Site Reliability Engineering (SRE)](#)
-    - [to Compliment Current DevOps Background with a Comprehensive Deep Dive into Adjacent Technology Stacks]
+    - [to Compliment DevOps Background with a Comprehensive Deep Dive into Adjacent Technology Stacks]
 - IBM | edX: [Information Technology (IT) Support PC](#)
     - [for IT Support Specialization]
 - IBM | edX: [Data Analytics and Visualization with Excel and R](#)
@@ -159,19 +159,19 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - U of T SCS: [Data Science](#)
     - [for a Refresher of a Multitude of Data Science-Related Methods and Tools]
 - U of T SCS: [Artificial Intelligence](#)
-    - [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
+    - [to Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
 - U of T SCS: [Advanced Artificial Intelligence](#)
-    - [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
+    - [to Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
 - IBM | edX: [Deep Learning](#)
-    - [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
+    - [to Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
 - U of T SCS: [Autonomous Systems for Discovery](#)
-    - [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
+    - [to Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
 - U of T SCS: [User Experience/User Interface (UX/UI) Design](#)
     - [to Better Understand Human-Computer Interactions]
 - U of T SCS: [Digital Marketing](#)
     - [to Better Understand Marketing Principles, Methods, and Tools]
 - GBC: [Mobile Application Development and Strategy](#)
-    - [to Augment Current Mobile Application Development Background with a Comprehensive Deep Dive]
+    - [to Augment Mobile Application Development Background with a Comprehensive Deep Dive]
 - GBC: [Blockchain Development](#)
     - [to Learn Web3 Application Development]
 
