@@ -124,31 +124,55 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 
 <a name="short-term-professional-development"></a>
 ### 🌱 Short-Term Development Pursuits
-- Cybersecurity Fundamentals [to Prepare for the CompTIA Security+, Network+, CySA+, PenTest+, CASP+, Cloud+, Linux+, and Server+ Exams]
-- DevOps [to Better Understand Continuous Integration and Deployment Pipelines in the Software Development Life Cycle]
-- Enterprise Architecture [to Better Understand the Levels of Architecting an Organization]
-- People and Power Skills [to Learn More Effective and Efficient Communication and Collaboration Strategies]
-- Generative AI for Everyone [to Better Understand Prompt Engineering, Socioeconomic Impacts, and Ethical Concerns of Generative AI]
-- Full-Stack Application Development [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- Cloud Computing [for Specialization in Cloud Computing]
-- Cloud Native Foundations [for Specialization in Cloud Computing]
-- DevOps and Software Engineering [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- Site Reliability Engineering (SRE) [to Compliment Current DevOps Background with a Comprehensive Deep Dive into Adjacent Technology Stacks]
-- Information Technology (IT) Support PC [for IT Support Specialization]
-- Data Analytics and Visualization with Excel and R [for Specialization]
-- SQL, NoSQL, and Relational Database Fundamentals [for a Refresher of a Multitude of Databases]
-- NoSQL, Big Data, and Spark Fundamentals [to Learn Big Data-Related Tools]
-- Data Engineering [to Learn How to Build Data Pipelines]
-- Data Warehouse Engineering [to Augment Data Engineering Background]
-- Data Science [for a Refresher of a Multitude of Data Science-Related Methods and Tools]
-- Artificial Intelligence [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- Advanced Artificial Intelligence [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- Deep Learning [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- Autonomous Systems for Discovery [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- User Experience/User Interface (UX/UI) Design [to Better Understand Human-Computer Interactions]
-- Digital Marketing [to Better Understand Marketing Principles, Methods, and Tools]
-- Mobile Application Development and Strategy [to Augment Current Mobile Application Development Background with a Comprehensive Deep Dive]
-- Blockchain Development [to Learn Web3 Application Development]
+- CompTIA Certifications: Cybersecurity Fundamentals
+    - [to Prepare for the CompTIA Security+, Network+, CySA+, PenTest+, CASP+, Cloud+, Linux+, and Server+ Exams]
+- UofT SCS: DevOps
+    - [to Better Understand Continuous Integration and Deployment Pipelines in the Software Development Life Cycle]
+- UofT SCS: Enterprise Architecture
+    - [to Better Understand the Levels of Architecting an Organization]
+- IBM | edX: People and Power Skills
+    - [to Learn More Effective and Efficient Communication and Collaboration Strategies]
+- IBM | edX: Generative AI for Everyone
+    - [to Better Understand Prompt Engineering, Socioeconomic Impacts, and Ethical Concerns of Generative AI]
+- IBM | edX: Full-Stack Application Development
+    - [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
+- UofT SCS: Cloud Computing
+    - [for Specialization in Cloud Computing]
+- IBM | edX: Cloud Native Foundations
+    - [for Specialization in Cloud Computing]
+- IBM | edX: DevOps and Software Engineering
+    - [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
+- IBM | edX: Site Reliability Engineering (SRE)
+    - [to Compliment Current DevOps Background with a Comprehensive Deep Dive into Adjacent Technology Stacks]
+- IBM | edX: Information Technology (IT) Support PC
+    - [for IT Support Specialization]
+- IBM | edX: Data Analytics and Visualization with Excel and R
+    - [for Specialization]
+- IBM | edX: SQL, NoSQL, and Relational Database Fundamentals
+    - [for a Refresher of a Multitude of Databases]
+- IBM | edX: NoSQL, Big Data, and Spark Fundamentals
+    - [to Learn Big Data-Related Tools]
+- IBM | edX: Data Engineering
+    - [to Learn How to Build Data Pipelines]
+- IBM | edX: Data Warehouse Engineering
+    - [to Augment Data Engineering Background]
+- UofT SCS: Data Science
+    - [for a Refresher of a Multitude of Data Science-Related Methods and Tools]
+- UofT SCS: Artificial Intelligence
+    - [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
+- UofT SCS: Advanced Artificial Intelligence
+    - [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
+- IBM | edX: Deep Learning [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
+- UofT SCS: Autonomous Systems for Discovery
+    - [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
+- UofT SCS: User Experience/User Interface (UX/UI) Design
+    - [to Better Understand Human-Computer Interactions]
+- UofT SCS: Digital Marketing
+    - [to Better Understand Marketing Principles, Methods, and Tools]
+- GBC: Mobile Application Development and Strategy
+    - [to Augment Current Mobile Application Development Background with a Comprehensive Deep Dive]
+- GBC: **Blockchain Development**
+    - [to Learn Web3 Application Development]
 
 <a name="long-term-professional-development"></a>
 ### 🌱 Long-Term Development Pursuits
