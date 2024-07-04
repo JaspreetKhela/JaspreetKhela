@@ -124,61 +124,105 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 
 <a name="short-term-professional-development"></a>
 ### 🌱 Short-Term Development Pursuits
-- CompTIA Certifications: [Cybersecurity Fundamentals](#)
+- **CompTIA**: [Cybersecurity Fundamentals](#)
     - [to Prepare for the CompTIA Security+, Network+, CySA+, PenTest+, CASP+, Cloud+, Linux+, and Server+ Exams]
-- U of T SCS: [DevOps](#)
+- **U of T SCS**: [DevOps](#)
     - [to Better Understand Continuous Integration and Deployment Pipelines in the Software Development Life Cycle (SDLC)]
-- U of T SCS: [Enterprise Architecture](#)
+- **U of T SCS**: [Enterprise Architecture](#)
     - [to Better Understand the Levels of Architecting an Organization]
-- IBM | edX: [People and Power Skills](#)
+- **IBM | edX**: [People and Power Skills](#)
     - [to Learn More Effective and Efficient Communication and Collaboration Strategies]
-- IBM | edX: [Generative AI for Everyone](#)
+- **IBM | edX**: [Generative AI for Everyone](#)
     - [to Better Understand Prompt Engineering, Socioeconomic Impacts, and Ethical Concerns of Generative AI]
-- IBM | edX: [Full-Stack Application Development](#)
+- **IBM | edX**: [Full-Stack Application Development](#)
     - [to Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- U of T SCS: [Cloud Computing](#)
+- **U of T SCS**: [Cloud Computing](#)
     - [for Specialization in Cloud Computing]
-- IBM | edX: [Cloud Native Foundations](#)
+- **IBM | edX**: [Cloud Native Foundations](#)
     - [for Specialization in Cloud Computing]
-- IBM | edX: [DevOps and Software Engineering](#)
+- **IBM | edX**: [DevOps and Software Engineering](#)
     - [to Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- IBM | edX: [Site Reliability Engineering (SRE)](#)
+- **IBM | edX**: [Site Reliability Engineering (SRE)](#)
     - [to Compliment DevOps Background with a Comprehensive Deep Dive into Adjacent Technology Stacks]
-- IBM | edX: [Information Technology (IT) Support PC](#)
+- **IBM | edX**: [Information Technology (IT) Support PC](#)
     - [for IT Support Specialization]
-- IBM | edX: [Data Analytics and Visualization with Excel and R](#)
+- **IBM | edX**: [Data Analytics and Visualization with Excel and R](#)
     - [for Specialization]
-- IBM | edX: [SQL, NoSQL, and Relational Database Fundamentals](#)
+- **IBM | edX**: [SQL, NoSQL, and Relational Database Fundamentals](#)
     - [for a Refresher of a Multitude of Databases]
-- IBM | edX: [NoSQL, Big Data, and Spark Fundamentals](#)
+- **IBM | edX**: [NoSQL, Big Data, and Spark Fundamentals](#)
     - [to Learn Big Data-Related Tools]
-- IBM | edX: [Data Engineering](#)
+- **IBM | edX**: [Data Engineering](#)
     - [to Learn How to Build Data Pipelines]
-- IBM | edX: [Data Warehouse Engineering](#)
+- **IBM | edX**: [Data Warehouse Engineering](#)
     - [to Augment Data Engineering Background]
-- U of T SCS: [Data Science](#)
+- **U of T SCS**: [Data Science](#)
     - [for a Refresher of a Multitude of Data Science-Related Methods and Tools]
-- U of T SCS: [Artificial Intelligence](#)
+- **U of T SCS**: [Artificial Intelligence](#)
     - [to Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- U of T SCS: [Advanced Artificial Intelligence](#)
+- **U of T SCS**: [Advanced Artificial Intelligence](#)
     - [to Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- IBM | edX: [Deep Learning](#)
+- **IBM | edX**: [Deep Learning](#)
     - [to Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- U of T SCS: [Autonomous Systems for Discovery](#)
+- **U of T SCS**: [Autonomous Systems for Discovery](#)
     - [to Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- U of T SCS: [User Experience/User Interface (UX/UI) Design](#)
+- **U of T SCS**: [User Experience/User Interface (UX/UI) Design](#)
     - [to Better Understand Human-Computer Interactions]
-- U of T SCS: [Digital Marketing](#)
+- **U of T SCS**: [Digital Marketing](#)
     - [to Better Understand Marketing Principles, Methods, and Tools]
-- GBC: [Mobile Application Development and Strategy](#)
+- **GBC**: [Mobile Application Development and Strategy](#)
     - [to Augment Mobile Application Development Background with a Comprehensive Deep Dive]
-- GBC: [Blockchain Development](#)
+- **GBC**: [Blockchain Development](#)
     - [to Learn Web3 Application Development]
 
 <a name="long-term-professional-development"></a>
 ### 🌱 Long-Term Development Pursuits
-- Product Management
-- Game Application Development [for both Unity and Unreal Engines]
+- **U of T SCS**: [Product Management](#)
+- **U of T SCS**: Unity Game Application Development](#)
+- **U of T SCS**: Game Application Design](#)
+- **U of T SCS**: Entrepreneurship and Innovation Certificates
+    - [Entrepreneurship](#)
+    - [Business Innovation](#)
+    - [Non-Profit Leadership for Impact](#)
+    - [Faith-Based Community Development (Niche)](#)
+- **U of T SCS**: Business and Management Certificates
+    - [Business Management](#)
+    - [Leadership Essentials](#)
+    - [Strategic Leadership: Advanced](#)
+    - [Service Design](#)
+- **U of T SCS**: Human Resources Certificates
+    - [Human Resources Management Essentials](#)
+    - [Human Resources](#)
+- **U of T SCS**: Process Management and Improvement Certificates
+    - [Business Process Management](#)
+    - [Advanced Business Process Management](#)
+    - [Lean Six Sigma](#)
+- **U of T SCS**: Business Analysis and Project Management Certificates
+    - [Business Analysis](#)
+    - [Advanced Business Analysis](#)
+    - [Project Management](#)
+    - [Advanced Project Management](#)
+    - [Agile Project Management](#)
+    - [International Project Management (Niche)](#)
+- **U of T SCS**: Finance and Accounting Certificates
+    - [Professional Accounting: Core Level](#)
+    - [Professional Accounting: Intermediate Level](#)
+    - [Professional Accounting: Advanced Level](#)
+    - [Financial Analysis & Investment Management](#)
+    - [Financial Trading & Option Strategies (Niche)](#)
+- **U of T SCS**: Risk Management and Compliance Certificates
+    - [Risk Management](#)
+    - [Enterprise Risk Management](#)
+    - [Internal Auditing](#)
+    - [Occupational Health & Safety](#)
+- **U of T SCS**: Operations and Supply Chain Certificates
+    - [Operations & Supply Chain Management](#)
+- **U of T SCS**: Technology and Design Certificates
+    - [User Experience Design](#)
+    - [Life Science Enterprise (Niche)](#)
+- **U of T SCS**: International Business Certificates
+    - [International Trade (Niche)](#)
+- Unreal Engine Game Application Development
 - Game Application Art
 - Wireless Networking
 - Cyber Security Management
