@@ -180,48 +180,48 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - **U of T SCS**: [Product Management](#)
 - **U of T SCS**: [Unity Game Application Development](#)
 - **U of T SCS**: [Game Application Design](#)
-- **U of T SCS**: Entrepreneurship and Innovation Certificates
-    - [Entrepreneurship](#)
-    - [Business Innovation](#)
-    - [Non-Profit Leadership for Impact](#)
-    - [Faith-Based Community Development (Niche)](#)
-- **U of T SCS**: Business and Management Certificates
-    - [Business Management](#)
-    - [Leadership Essentials](#)
-    - [Strategic Leadership: Advanced](#)
-    - [Service Design](#)
-- **U of T SCS**: Human Resources Certificates
-    - [Human Resources Management Essentials](#)
-    - [Human Resources](#)
-- **U of T SCS**: Process Management and Improvement Certificates
-    - [Business Process Management](#)
-    - [Advanced Business Process Management](#)
-    - [Lean Six Sigma](#)
-- **U of T SCS**: Business Analysis and Project Management Certificates
-    - [Business Analysis](#)
-    - [Advanced Business Analysis](#)
-    - [Project Management](#)
-    - [Advanced Project Management](#)
-    - [Agile Project Management](#)
-    - [International Project Management (Niche)](#)
-- **U of T SCS**: Finance and Accounting Certificates
-    - [Professional Accounting: Core Level](#)
-    - [Professional Accounting: Intermediate Level](#)
-    - [Professional Accounting: Advanced Level](#)
-    - [Financial Analysis & Investment Management](#)
-    - [Financial Trading & Option Strategies (Niche)](#)
-- **U of T SCS**: Risk Management and Compliance Certificates
-    - [Risk Management](#)
-    - [Enterprise Risk Management](#)
-    - [Internal Auditing](#)
-    - [Occupational Health & Safety](#)
-- **U of T SCS**: Operations and Supply Chain Certificates
-    - [Operations & Supply Chain Management](#)
-- **U of T SCS**: Technology and Design Certificates
-    - [User Experience Design](#)
-    - [Life Science Enterprise (Niche)](#)
-- **U of T SCS**: International Business Certificates
-    - [International Trade (Niche)](#)
+- Entrepreneurship and Innovation Certificates
+    - **U of T SCS**: [Entrepreneurship](#)
+    - **U of T SCS**: [Business Innovation](#)
+    - **U of T SCS**: [Non-Profit Leadership for Impact](#)
+    - **U of T SCS**: [Faith-Based Community Development (Niche)](#)
+- Business and Management Certificates
+    - **U of T SCS**: [Business Management](#)
+    - **U of T SCS**: [Leadership Essentials](#)
+    - **U of T SCS**: [Strategic Leadership: Advanced](#)
+    - **U of T SCS**: [Service Design](#)
+- Human Resources Certificates
+    - **U of T SCS**: [Human Resources Management Essentials](#)
+    - **U of T SCS**: [Human Resources](#)
+- Process Management and Improvement Certificates
+    - **U of T SCS**: [Business Process Management](#)
+    - **U of T SCS**: [Advanced Business Process Management](#)
+    - **U of T SCS**: [Lean Six Sigma](#)
+- Business Analysis and Project Management Certificates
+    - **U of T SCS**: [Business Analysis](#)
+    - **U of T SCS**: [Advanced Business Analysis](#)
+    - **U of T SCS**: [Project Management](#)
+    - **U of T SCS**: [Advanced Project Management](#)
+    - **U of T SCS**: [Agile Project Management](#)
+    - **U of T SCS**: [International Project Management (Niche)](#)
+- Finance and Accounting Certificates
+    - **U of T SCS**: [Professional Accounting: Core Level](#)
+    - **U of T SCS**: [Professional Accounting: Intermediate Level](#)
+    - **U of T SCS**: [Professional Accounting: Advanced Level](#)
+    - **U of T SCS**: [Financial Analysis & Investment Management](#)
+    - **U of T SCS**: [Financial Trading & Option Strategies (Niche)](#)
+- Risk Management and Compliance Certificates
+    - **U of T SCS**: [Risk Management](#)
+    - **U of T SCS**: [Enterprise Risk Management](#)
+    - **U of T SCS**: [Internal Auditing](#)
+    - **U of T SCS**: [Occupational Health & Safety](#)
+- Operations and Supply Chain Certificates
+    - **U of T SCS**: [Operations & Supply Chain Management](#)
+- Technology and Design Certificates
+    - **U of T SCS**: [User Experience Design](#)
+    - **U of T SCS**: [Life Science Enterprise (Niche)](#)
+- International Business Certificates
+    - **U of T SCS**: [International Trade (Niche)](#)
 - Unreal Engine Game Application Development
 - Game Application Art
 - Wireless Networking
