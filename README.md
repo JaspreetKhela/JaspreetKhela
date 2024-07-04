@@ -124,54 +124,55 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 
 <a name="short-term-professional-development"></a>
 ### 🌱 Short-Term Development Pursuits
-- CompTIA Certifications: Cybersecurity Fundamentals
+- CompTIA Certifications: [Cybersecurity Fundamentals](#)
     - [to Prepare for the CompTIA Security+, Network+, CySA+, PenTest+, CASP+, Cloud+, Linux+, and Server+ Exams]
-- UofT SCS: DevOps
+- U of T SCS: [DevOps](#)
     - [to Better Understand Continuous Integration and Deployment Pipelines in the Software Development Life Cycle]
-- UofT SCS: Enterprise Architecture
+- U of T SCS: [Enterprise Architecture](#)
     - [to Better Understand the Levels of Architecting an Organization]
-- IBM | edX: People and Power Skills
+- IBM | edX: [People and Power Skills](#)
     - [to Learn More Effective and Efficient Communication and Collaboration Strategies]
-- IBM | edX: Generative AI for Everyone
+- IBM | edX: [Generative AI for Everyone](#)
     - [to Better Understand Prompt Engineering, Socioeconomic Impacts, and Ethical Concerns of Generative AI]
-- IBM | edX: Full-Stack Application Development
+- IBM | edX: [Full-Stack Application Development](#)
     - [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- UofT SCS: Cloud Computing
+- UofT SCS: [Cloud Computing](#)
     - [for Specialization in Cloud Computing]
-- IBM | edX: Cloud Native Foundations
+- IBM | edX: [Cloud Native Foundations](#)
     - [for Specialization in Cloud Computing]
-- IBM | edX: DevOps and Software Engineering
+- IBM | edX: [DevOps and Software Engineering](#)
     - [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- IBM | edX: Site Reliability Engineering (SRE)
+- IBM | edX: [Site Reliability Engineering (SRE)](#)
     - [to Compliment Current DevOps Background with a Comprehensive Deep Dive into Adjacent Technology Stacks]
-- IBM | edX: Information Technology (IT) Support PC
+- IBM | edX: [Information Technology (IT) Support PC](#)
     - [for IT Support Specialization]
-- IBM | edX: Data Analytics and Visualization with Excel and R
+- IBM | edX: [Data Analytics and Visualization with Excel and R](#)
     - [for Specialization]
-- IBM | edX: SQL, NoSQL, and Relational Database Fundamentals
+- IBM | edX: [SQL, NoSQL, and Relational Database Fundamentals](#)
     - [for a Refresher of a Multitude of Databases]
-- IBM | edX: NoSQL, Big Data, and Spark Fundamentals
+- IBM | edX: [NoSQL, Big Data, and Spark Fundamentals](#)
     - [to Learn Big Data-Related Tools]
-- IBM | edX: Data Engineering
+- IBM | edX: [Data Engineering](#)
     - [to Learn How to Build Data Pipelines]
-- IBM | edX: Data Warehouse Engineering
+- IBM | edX: [Data Warehouse Engineering](#)
     - [to Augment Data Engineering Background]
-- UofT SCS: Data Science
+- U of T SCS: [Data Science](#)
     - [for a Refresher of a Multitude of Data Science-Related Methods and Tools]
-- UofT SCS: Artificial Intelligence
+- U of T SCS: [Artificial Intelligence](#)
     - [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- UofT SCS: Advanced Artificial Intelligence
+- U of T SCS: [Advanced Artificial Intelligence](#)
     - [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- IBM | edX: Deep Learning [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- UofT SCS: Autonomous Systems for Discovery
+- IBM | edX: [Deep Learning](#)
     - [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- UofT SCS: User Experience/User Interface (UX/UI) Design
+- U of T SCS: [Autonomous Systems for Discovery](#)
+    - [to Augment Current Background with a Comprehensive Deep Dive into Different Technology Stacks]
+- U of T SCS: [User Experience/User Interface (UX/UI) Design](#)
     - [to Better Understand Human-Computer Interactions]
-- UofT SCS: Digital Marketing
+- U of T SCS: [Digital Marketing](#)
     - [to Better Understand Marketing Principles, Methods, and Tools]
-- GBC: Mobile Application Development and Strategy
+- GBC: [Mobile Application Development and Strategy](#)
     - [to Augment Current Mobile Application Development Background with a Comprehensive Deep Dive]
-- GBC: **Blockchain Development**
+- GBC: [Blockchain Development](#)
     - [to Learn Web3 Application Development]
 
 <a name="long-term-professional-development"></a>
