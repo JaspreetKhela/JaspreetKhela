@@ -225,16 +225,20 @@ Understanding network security, ethical hacking, and threat analysis are foundat
     - **U of T SCS**: [Agile Project Management](#)
     - **U of T SCS**: [International Project Management (Niche)](#)
 - **Finance and Accounting Program(s)**:
-    - **GBC**: [Financial Services](#)
-    - **GBC**: [Financial Planning](#)
-    - **GBC**: [Financial Services Compliance and Risk](#)
-    - **GBC**: [Wealth Management – Client Management](#)
-    - **GBC**: [Wealth Management – Financial Operations Management](#)
-    - **U of T SCS**: [Professional Accounting: Core Level](#)
-    - **U of T SCS**: [Professional Accounting: Intermediate Level](#)
-    - **U of T SCS**: [Professional Accounting: Advanced Level](#)
-    - **U of T SCS**: [Financial Analysis & Investment Management](#)
-    - **U of T SCS**: [Financial Trading & Option Strategies (Niche)](#)
+    - **Financial Services and Financial Planning**:
+        - **GBC**: [Financial Services](#)
+        - **GBC**: [Financial Planning](#)
+        - **GBC**: [Wealth Management – Client Management](#)
+        - **GBC**: [Wealth Management – Financial Operations Management](#)
+    - **Accounting**:
+        - **U of T SCS**: [Professional Accounting: Core Level](#)
+        - **U of T SCS**: [Professional Accounting: Intermediate Level](#)
+        - **U of T SCS**: [Professional Accounting: Advanced Level](#)
+    - **Compliance, Risk, and Regulatory Issues**:
+        - **GBC**: [Financial Services Compliance and Risk](#)
+    - **Financial Analysis and Investment Management**:
+        - **U of T SCS**: [Financial Analysis & Investment Management](#)
+        - **U of T SCS**: [Financial Trading & Option Strategies (Niche)](#)
 - **Risk Management and Compliance Program(s)**:
     - **U of T SCS**: [Risk Management](#)
     - **U of T SCS**: [Enterprise Risk Management](#)
