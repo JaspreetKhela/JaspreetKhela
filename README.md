@@ -206,6 +206,10 @@ Understanding network security, ethical hacking, and threat analysis are foundat
     - **U of T SCS**: [Leadership Essentials](#)
     - **U of T SCS**: [Strategic Leadership: Advanced](#)
     - **U of T SCS**: [Service Design](#)
+    - **GBC**: [Digital Marketing](#)
+    - **GBC**: [Strategic Relationship Marketing](#)
+    - **GBC**: [Marketing Management - Financial Services](#)
+    - **GBC**: [Sport and Event Marketing](#)
 - **Human Resources Certificate(s)**:
     - **U of T SCS**: [Human Resources Management Essentials](#)
     - **U of T SCS**: [Human Resources](#)
@@ -221,6 +225,11 @@ Understanding network security, ethical hacking, and threat analysis are foundat
     - **U of T SCS**: [Agile Project Management](#)
     - **U of T SCS**: [International Project Management (Niche)](#)
 - **Finance and Accounting Certificate(s)**:
+    - **GBC**: [Financial Services](#)
+    - **GBC**: [Financial Planning](#)
+    - **GBC**: [Financial Services Compliance and Risk](#)
+    - **GBC**: [Wealth Management – Client Management](#)
+    - **GBC**: [Wealth Management – Financial Operations Management](#)
     - **U of T SCS**: [Professional Accounting: Core Level](#)
     - **U of T SCS**: [Professional Accounting: Intermediate Level](#)
     - **U of T SCS**: [Professional Accounting: Advanced Level](#)
@@ -232,11 +241,13 @@ Understanding network security, ethical hacking, and threat analysis are foundat
     - **U of T SCS**: [Internal Auditing](#)
     - **U of T SCS**: [Occupational Health & Safety](#)
 - **Operations and Supply Chain Certificate(s)**:
+    - **GBC**: [Supply Chain Management](#)
     - **U of T SCS**: [Operations & Supply Chain Management](#)
 - **Technology and Design Certificate(s)**:
     - **U of T SCS**: [User Experience Design](#)
     - **U of T SCS**: [Life Science Enterprise (Niche)](#)
 - **International Business Certificate(s)**:
+    - **GBC**: [International Business](#)
     - **U of T SCS**: [International Trade (Niche)](#)
 - Unreal Engine Game Application Development
 - Game Application Art
