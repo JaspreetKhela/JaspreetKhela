@@ -124,56 +124,74 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 
 <a name="short-term-professional-development"></a>
 ### 🌱 Short-Term Development Pursuits
-- **CompTIA**: [Cybersecurity Fundamentals](#)
-    - [to Prepare for the CompTIA Security+, Network+, CySA+, PenTest+, CASP+, Cloud+, Linux+, and Server+ Exams]
-- **U of T SCS**: [DevOps](#)
-    - [to Better Understand Continuous Integration and Deployment Pipelines in the Software Development Life Cycle (SDLC)]
-- **U of T SCS**: [Enterprise Architecture](#)
-    - [to Better Understand the Levels of Architecting an Organization]
-- **IBM | edX**: [People and Power Skills](#)
-    - [to Learn More Effective and Efficient Communication and Collaboration Strategies]
-- **IBM | edX**: [Generative AI for Everyone](#)
-    - [to Better Understand Prompt Engineering, Socioeconomic Impacts, and Ethical Concerns of Generative AI]
-- **IBM | edX**: [Full-Stack Application Development](#)
-    - [to Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- **U of T SCS**: [Cloud Computing](#)
-    - [for Specialization in Cloud Computing]
-- **IBM | edX**: [Cloud Native Foundations](#)
-    - [for Specialization in Cloud Computing]
-- **IBM | edX**: [DevOps and Software Engineering](#)
-    - [to Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- **IBM | edX**: [Site Reliability Engineering (SRE)](#)
-    - [to Compliment DevOps Background with a Comprehensive Deep Dive into Adjacent Technology Stacks]
-- **IBM | edX**: [Information Technology (IT) Support PC](#)
-    - [for IT Support Specialization]
-- **IBM | edX**: [Data Analytics and Visualization with Excel and R](#)
-    - [for Specialization]
-- **IBM | edX**: [SQL, NoSQL, and Relational Database Fundamentals](#)
-    - [for a Refresher of a Multitude of Databases]
-- **IBM | edX**: [NoSQL, Big Data, and Spark Fundamentals](#)
-    - [to Learn Big Data-Related Tools]
-- **IBM | edX**: [Data Engineering](#)
-    - [to Learn How to Build Data Pipelines]
-- **IBM | edX**: [Data Warehouse Engineering](#)
-    - [to Augment Data Engineering Background]
-- **U of T SCS**: [Data Science](#)
-    - [for a Refresher of a Multitude of Data Science-Related Methods and Tools]
-- **U of T SCS**: [Artificial Intelligence](#)
-    - [to Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- **U of T SCS**: [Advanced Artificial Intelligence](#)
-    - [to Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- **IBM | edX**: [Deep Learning](#)
-    - [to Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- **U of T SCS**: [Autonomous Systems for Discovery](#)
-    - [to Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- **U of T SCS**: [User Experience/User Interface (UX/UI) Design](#)
-    - [to Better Understand Human-Computer Interactions]
-- **U of T SCS**: [Digital Marketing](#)
-    - [to Better Understand Marketing Principles, Methods, and Tools]
-- **GBC**: [Mobile Application Development and Strategy](#)
-    - [to Augment Mobile Application Development Background with a Comprehensive Deep Dive]
-- **GBC**: [Blockchain Development](#)
-    - [to Learn Web3 Application Development]
+- Cybersecurity
+    - **CompTIA**: [Cybersecurity Fundamentals](#)
+        - [To Prepare for the CompTIA Security+, Network+, CySA+, PenTest+, CASP+, Cloud+, Linux+, and Server+ Exams]
+- DevOps and Software Engineering
+    - **U of T SCS**: [DevOps](#)
+        - [To Better Understand Continuous Integration and Deployment Pipelines in the Software Development Life Cycle (SDLC)]
+- Enterprise Architecture
+    - **U of T SCS**: [Enterprise Architecture](#)
+        - [To Better Understand the Levels of Architecting an Organization]
+- People and Soft Skills
+    - **IBM | edX**: [People and Power Skills](#)
+        - [To Learn More Effective and Efficient Communication and Collaboration Strategies]
+- Artificial Intelligence and Data Science
+    - **IBM | edX**: [Generative AI for Everyone](#)
+        - [to Better Understand Prompt Engineering, Socioeconomic Impacts, and Ethical Concerns of Generative AI]
+- Full-Stack Web Application Development
+    - **IBM | edX**: [Full-Stack Application Development](#)
+        - [To Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
+- Cloud Computing
+    - **U of T SCS**: [Cloud Computing](#)
+        - [For Specialization in Cloud Computing]
+    - **IBM | edX**: [Cloud Native Foundations](#)
+        - [For Specialization in Cloud Computing]
+    - **GBC**: Cloud Computing Technologies
+        - [For Specialization in Cloud Computing]
+- DevOps and Software Engineering
+    - **IBM | edX**: [DevOps and Software Engineering](#)
+        - [To Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
+    - **IBM | edX**: [Site Reliability Engineering (SRE)](#)
+        - [To Compliment DevOps Background with a Comprehensive Deep Dive into Adjacent Technology Stacks]
+- Information Technology (IT) Operations
+    - **IBM | edX**: [Information Technology (IT) Support PC](#)
+        - [For IT Support Specialization]
+- Data Analytics
+    - **IBM | edX**: [Data Analytics and Visualization with Excel and R](#)
+        - [For Specialization]
+- Database Management
+    - **IBM | edX**: [SQL, NoSQL, and Relational Database Fundamentals](#)
+        - [For a Refresher of a Multitude of Databases]
+- Big Data and Artificial Intelligence
+    - **IBM | edX**: [NoSQL, Big Data, and Spark Fundamentals](#)
+        - [To Learn Big Data-Related Tools]
+    - **IBM | edX**: [Data Engineering](#)
+        - [To Learn How to Build Data Pipelines]
+    - **IBM | edX**: [Data Warehouse Engineering](#)
+        - [To Augment Data Engineering Background]
+    - **U of T SCS**: [Data Science](#)
+        - [For a Refresher of a Multitude of Data Science-Related Methods and Tools]
+    - **U of T SCS**: [Artificial Intelligence](#)
+        - [To Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
+    - **U of T SCS**: [Advanced Artificial Intelligence](#)
+        - [To Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
+    - **IBM | edX**: [Deep Learning](#)
+        - [To Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
+    - **U of T SCS**: [Autonomous Systems for Discovery](#)
+        - [To Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
+- User Experience and Interface Design
+    - **U of T SCS**: [User Experience/User Interface (UX/UI) Design](#)
+        - [To Better Understand Human-Computer Interactions]
+- Digital Marketing
+    - **U of T SCS**: [Digital Marketing](#)
+        - [To Better Understand Marketing Principles, Methods, and Tools]
+- Mobile Application Development
+    - **GBC**: [Mobile Application Development and Strategy](#)
+        - [To Augment Mobile Application Development Background with a Comprehensive Deep Dive]
+- Blockchain
+    - **GBC**: [Blockchain Development](#)
+        - [To Learn Web3 Application Development]
 
 <a name="long-term-professional-development"></a>
 ### 🌱 Long-Term Development Pursuits
