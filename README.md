@@ -124,46 +124,44 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 
 <a name="short-term-professional-development"></a>
 ### 🌱 Short-Term Development Pursuits
-- Cybersecurity
-    - **CompTIA**: [Cybersecurity Fundamentals](#)
-        - [To Prepare for the CompTIA Security+, Network+, CySA+, PenTest+, CASP+, Cloud+, Linux+, and Server+ Exams]
-- DevOps and Software Engineering
-    - **U of T SCS**: [DevOps](#)
-        - [To Better Understand Continuous Integration and Deployment Pipelines in the Software Development Life Cycle (SDLC)]
-- Enterprise Architecture
+- Enterprise Architecture Certificate(s)
     - **U of T SCS**: [Enterprise Architecture](#)
         - [To Better Understand the Levels of Architecting an Organization]
-- People and Soft Skills
+- Cybersecurity Certificate(s)
+    - **CompTIA**: [Cybersecurity Fundamentals](#)
+        - [To Prepare for the CompTIA Security+, Network+, CySA+, PenTest+, CASP+, Cloud+, Linux+, and Server+ Exams]
+- People and Soft Skills Certificate(s)
     - **IBM | edX**: [People and Power Skills](#)
         - [To Learn More Effective and Efficient Communication and Collaboration Strategies]
-- Artificial Intelligence and Data Science
-    - **IBM | edX**: [Generative AI for Everyone](#)
-        - [to Better Understand Prompt Engineering, Socioeconomic Impacts, and Ethical Concerns of Generative AI]
-- Full-Stack Web Application Development
+- Full-Stack Web Application Development Certificate(s)
     - **IBM | edX**: [Full-Stack Application Development](#)
         - [To Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- Cloud Computing
+- Cloud Computing Certificate(s)
     - **U of T SCS**: [Cloud Computing](#)
         - [For Specialization in Cloud Computing]
     - **IBM | edX**: [Cloud Native Foundations](#)
         - [For Specialization in Cloud Computing]
     - **GBC**: Cloud Computing Technologies
         - [For Specialization in Cloud Computing]
-- DevOps and Software Engineering
+- DevOps and Software Engineering Certificate(s)
+    - **U of T SCS**: [DevOps](#)
+        - [To Better Understand Continuous Integration and Deployment Pipelines in the Software Development Life Cycle (SDLC)]
     - **IBM | edX**: [DevOps and Software Engineering](#)
         - [To Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
     - **IBM | edX**: [Site Reliability Engineering (SRE)](#)
         - [To Compliment DevOps Background with a Comprehensive Deep Dive into Adjacent Technology Stacks]
-- Information Technology (IT) Operations
+- Information Technology (IT) Operations Certificate(s)
     - **IBM | edX**: [Information Technology (IT) Support PC](#)
         - [For IT Support Specialization]
-- Data Analytics
+- Data Analytics Certificate(s)
     - **IBM | edX**: [Data Analytics and Visualization with Excel and R](#)
         - [For Specialization]
-- Database Management
+- Database Management Certificate(s)
     - **IBM | edX**: [SQL, NoSQL, and Relational Database Fundamentals](#)
         - [For a Refresher of a Multitude of Databases]
-- Big Data and Artificial Intelligence
+- Big Data and Artificial Intelligence Certificate(s)
+    - **IBM | edX**: [Generative AI for Everyone](#)
+        - [to Better Understand Prompt Engineering, Socioeconomic Impacts, and Ethical Concerns of Generative AI]
     - **IBM | edX**: [NoSQL, Big Data, and Spark Fundamentals](#)
         - [To Learn Big Data-Related Tools]
     - **IBM | edX**: [Data Engineering](#)
@@ -180,16 +178,16 @@ Understanding network security, ethical hacking, and threat analysis are foundat
         - [To Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
     - **U of T SCS**: [Autonomous Systems for Discovery](#)
         - [To Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
-- User Experience and Interface Design
+- User Experience and Interface Design Certificate(s)
     - **U of T SCS**: [User Experience/User Interface (UX/UI) Design](#)
         - [To Better Understand Human-Computer Interactions]
-- Digital Marketing
+- Digital Marketing Certificate(s)
     - **U of T SCS**: [Digital Marketing](#)
         - [To Better Understand Marketing Principles, Methods, and Tools]
-- Mobile Application Development
+- Mobile Application Development Certificate(s)
     - **GBC**: [Mobile Application Development and Strategy](#)
         - [To Augment Mobile Application Development Background with a Comprehensive Deep Dive]
-- Blockchain
+- Blockchain Certificate(s)
     - **GBC**: [Blockchain Development](#)
         - [To Learn Web3 Application Development]
 
@@ -198,47 +196,47 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - **U of T SCS**: [Product Management](#)
 - **U of T SCS**: [Unity Game Application Development](#)
 - **U of T SCS**: [Game Application Design](#)
-- Entrepreneurship and Innovation Certificates
+- Entrepreneurship and Innovation Certificate(s)
     - **U of T SCS**: [Entrepreneurship](#)
     - **U of T SCS**: [Business Innovation](#)
     - **U of T SCS**: [Non-Profit Leadership for Impact](#)
     - **U of T SCS**: [Faith-Based Community Development (Niche)](#)
-- Business and Management Certificates
+- Business and Management Certificate(s)
     - **U of T SCS**: [Business Management](#)
     - **U of T SCS**: [Leadership Essentials](#)
     - **U of T SCS**: [Strategic Leadership: Advanced](#)
     - **U of T SCS**: [Service Design](#)
-- Human Resources Certificates
+- Human Resources Certificate(s)
     - **U of T SCS**: [Human Resources Management Essentials](#)
     - **U of T SCS**: [Human Resources](#)
-- Process Management and Improvement Certificates
+- Process Management and Improvement Certificate(s)
     - **U of T SCS**: [Business Process Management](#)
     - **U of T SCS**: [Advanced Business Process Management](#)
     - **U of T SCS**: [Lean Six Sigma](#)
-- Business Analysis and Project Management Certificates
+- Business Analysis and Project Management Certificate(s)
     - **U of T SCS**: [Business Analysis](#)
     - **U of T SCS**: [Advanced Business Analysis](#)
     - **U of T SCS**: [Project Management](#)
     - **U of T SCS**: [Advanced Project Management](#)
     - **U of T SCS**: [Agile Project Management](#)
     - **U of T SCS**: [International Project Management (Niche)](#)
-- Finance and Accounting Certificates
+- Finance and Accounting Certificate(s)
     - **U of T SCS**: [Professional Accounting: Core Level](#)
     - **U of T SCS**: [Professional Accounting: Intermediate Level](#)
     - **U of T SCS**: [Professional Accounting: Advanced Level](#)
     - **U of T SCS**: [Financial Analysis & Investment Management](#)
     - **U of T SCS**: [Financial Trading & Option Strategies (Niche)](#)
-- Risk Management and Compliance Certificates
+- Risk Management and Compliance Certificate(s)
     - **U of T SCS**: [Risk Management](#)
     - **U of T SCS**: [Enterprise Risk Management](#)
     - **U of T SCS**: [Internal Auditing](#)
     - **U of T SCS**: [Occupational Health & Safety](#)
-- Operations and Supply Chain Certificates
+- Operations and Supply Chain Certificate(s)
     - **U of T SCS**: [Operations & Supply Chain Management](#)
-- Technology and Design Certificates
+- Technology and Design Certificate(s)
     - **U of T SCS**: [User Experience Design](#)
     - **U of T SCS**: [Life Science Enterprise (Niche)](#)
-- International Business Certificates
+- International Business Certificate(s)
     - **U of T SCS**: [International Trade (Niche)](#)
 - Unreal Engine Game Application Development
 - Game Application Art
