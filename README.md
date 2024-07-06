@@ -5,8 +5,8 @@ __________
 1. [Overview](#overview)
     - [About Me](#about-me)
     - [Development and Operations Languages, Tools, Technologies, and Frameworks](#development-and-operations-languages-tools-technologies-and-frameworks)
-    - [Short-Term Development Pursuits](#short-term-development-pursuits)
-    - [Long-Term Development Pursuits](#long-term-development-pursuits)
+    - [Short-Term (Business and Technology) Development Pursuits](#short-term-development-pursuits)
+    - [Long-Term (Business and Technology) Development Pursuits](#long-term-development-pursuits)
     - [Interests](#interests)
     - [Performance Summary Statistics](#performance-summary-statistics)
     - [Project Repositories](#project-repositories)
@@ -123,7 +123,7 @@ Tools like Wireshark, Burp Suite, and Nessus are critical for network analysis a
 Understanding network security, ethical hacking, and threat analysis are foundational skills for protecting systems. Vulnerability assessment and risk management help identify and mitigate potential threats. Incident response and forensics are crucial for handling and investigating security breaches.
 
 <a name="short-term-professional-development"></a>
-### 🌱 Short-Term Development Pursuits
+### 🌱 Short-Term (Business and Technology) Development Pursuits
 - **Enterprise Architecture Program(s)**:
     - **U of T SCS**: [Enterprise Architecture](#)
         - [To Better Understand the Levels of Architecting an Organization]
@@ -192,10 +192,11 @@ Understanding network security, ethical hacking, and threat analysis are foundat
         - [To Learn Web3 Application Development]
 
 <a name="long-term-professional-development"></a>
-### 🌱 Long-Term Development Pursuits
-- **U of T SCS**: [Product Management](#)
-- **U of T SCS**: [Unity Game Application Development](#)
-- **U of T SCS**: [Game Application Design](#)
+### 🌱 Long-Term (Business and Technology) Development Pursuits
+- **Technology Product Development and Design Management**:
+    - **U of T SCS**: [Product Management](#)
+    - **U of T SCS**: [Unity Game Application Development](#)
+    - **U of T SCS**: [Game Application Design](#)
 - **Entrepreneurship and Innovation Program(s)**:
     - **U of T SCS**: [Entrepreneurship](#)
     - **U of T SCS**: [Business Innovation](#)
