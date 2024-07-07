@@ -199,8 +199,15 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 ### 🌱 Long-Term Business and Technology Professional Development Pursuits
 - **Technology Product Development and Management**:
     - **U of T SCS**: [Product Management](#)
+    - **IBM | edX**: [IBM z/OS Mainframe Practitioner](#)
     - **U of T SCS**: [Unity Game Application Development](#)
     - **U of T SCS**: [Game Application Design](#)
+- **Game Development and Design Program(s)**:
+    - **GBC**: Unreal Engine Game Application Development](#)
+    - **GBC**: Game Application Art](#)
+- **Networking and Cybersecurity Program(s)**:
+    - **GBC**: Wireless Networking](#)
+    - **U of T SCS**: Cyber Security Management](#)
 - **Entrepreneurship and Innovation Program(s)**:
     - **U of T SCS**: [Entrepreneurship](#)
     - **U of T SCS**: [Business Innovation](#)
@@ -259,62 +266,60 @@ Understanding network security, ethical hacking, and threat analysis are foundat
     - **GBC**: [International Business](#)
     - **U of T SCS**: [International Trade (Niche)](#)
 - **Technology and IT Program(s)**:
-    - **GBC**: Computer Systems Technology [with a Networking Specialization]
-    - **GBC**: Information Systems Business Analysis
+    - **GBC**: [Computer Systems Technology](#) [with a Networking Specialization]
+    - **GBC**: [Information Systems Business Analysis](#)
     - [CompTIA Certifications]
 - **Art and Design Program(s)**:
-    - **GBC**: Art and Design Fundamentals
-    - **GBC**: Graphic Design
-    - **GBC**: Brand Design
-    - **GBC**: Concept Art for Entertainment
+    - **GBC**: [Art and Design Fundamentals](#)
+    - **GBC**: [Graphic Design](#)
+    - **GBC**: [Brand Design](#)
+    - **GBC**: [Concept Art for Entertainment](#)
 - **Cloud and IT Program(s)**:
     - **Foundational**:
+        - **Microsoft**: [Microsoft Certified: Azure Fundamentals](#)
+        - **Amazon**: [AWS Certified Developer Associate](#)
+        - **Google**: [Google Professional Cloud Certification](#)
     - **Intermediate**:
+        - **Microsoft**: [Microsoft Azure Administrator Associate](#)
+        - **Microsoft**: [Microsoft Azure Developer Associate](#)
+        - **Microsoft**: [Microsoft Azure Solutions Architect Expert](#)
+        - **Amazon**: [AWS Certified Solutions Architect – Associate](#)
+        - **Amazon**: [AWS Certified SysOps Administrator – Associate](#)
+        - **Google**: [Google Professional Cloud Architect](#)
+        - **Google**: [Google Professional Data Engineer](#)
+        - **Google**: [Google Professional Cloud DevOps Engineer](#)
     - **Advanced**:
+        - **Amazon**: [AWS Certified DevOps Engineer – Professional](#)
+        - **Google**: [Google Professional Machine Learning Engineer](#)
 - **Interaction and Digital Design Program(s)**:
-    - **GBC**: Interaction Design and Development [to Augment Current Background with a Comprehensive Deep Dive]
-    - **GBC**: Digital Experience Design [for Specialization]
-    - **GBC**: Interactive Media Management
-    - **GBC**: Interdisciplinary Design Strategy
-    - **GBC**: Design Management
+    - **GBC**: [Interaction Design and Development](#) [to Augment Current Background with a Comprehensive Deep Dive]
+    - **GBC**: [Digital Experience Design](#) [for Specialization]
+    - **GBC**: [Interactive Media Management](#)
+    - **GBC**: [Interdisciplinary Design Strategy](#)
+    - **GBC**: [Design Management](#)
 - **Agile and Scrum Program(s)**:
+    - **Scrum Alliance**: [Certified Scrum Master (CSM)](#)
+    - **PMI**: [PMI Agile Certified Practitioner (PMI-ACP)](#)
+    - **Scrum Alliance**: Advanced Certified ScrumMaster (A-CSM)](#)
+    - **PMI**: [Disciplined Agile Scrum Master (DASM)](#)
+    - **Scrum Alliance**: Certified Scrum Professional (CSP-SM)](#)
+    - **PMI**: [Disciplined Agile Senior Scrum Master (DASSM)](#)
 - **Database and System Administration Program(s)**:
+    - **Oracle**: [Oracle Certified Professional (OCP)](#)
+    - **Red Hat**: [Red Hat Certification (RHCSA)](#)
+    - **Oracle**: [Oracle Certified Expert (OCE)](#)
+    - **Red Hat**: [Red Hat Certified Engineer (RHCE)](#)
+    - **Oracle**: [Oracle Certified Master (OCM)](#)
+    - **Red Hat**: [Red Hat Certified Architect (RHCA)](#)
 - **Project Management Program(s)**:
+    - **PMI**: [Project Management Professional (PMP)](#)
 - **Design and Media Program(s)**:
+    - **Adobe**: [Adobe Certified Expert (ACE)](#)
+    - **Adobe**: [Adobe Certified Master](#)
+    - **Adobe**: [Adobe Certified Instructor](#)
 - **Software Development Program(s)**:
-- **GBC**: Unreal Engine Game Application Development
-- **GBC**: Game Application Art
-- **GBC**: Wireless Networking
-- **U of T SCS**: Cyber Security Management
-- **IBM | edX**: IBM z/OS Mainframe Practitioner
-- **Scrum Alliance**: Certified Scrum Master (CSM)
-- **Microsoft**: Microsoft Certified: Azure Fundamentals
-- **Amazon**: AWS Certified Developer Associate
-- **Google**: Google Professional Cloud Certification
-- **Adobe**: Adobe Certified Expert (ACE)
-- **Oracle**: Oracle Certified Professional (OCP)
-- **Red Hat**: Red Hat Certification (RHCSA)
-- **PMI**: PMI Agile Certified Practitioner (PMI-ACP)
-- **Scrum Alliance**: Advanced Certified ScrumMaster (A-CSM)
-- **Scrum Alliance**: Certified Scrum Professional (CSP-SM)
-- **Microsoft**: Microsoft Azure Administrator Associate
-- **Microsoft**: Microsoft Azure Developer Associate
-- **Microsoft**: Microsoft Azure Solutions Architect Expert
-- **Amazon**: AWS Certified Solutions Architect – Associate
-- **Amazon**: AWS Certified SysOps Administrator – Associate
-- **Google**: Google Professional Cloud Architect
-- **Google**: Google Professional Data Engineer
-- **Google**: Google Professional Cloud DevOps Engineer
-- **Adobe**: Adobe Certified Master
-- **Adobe**: Adobe Certified Instructor
-- **Oracle**: Oracle Certified Expert (OCE)
-- **Red Hat**: Red Hat Certified Engineer (RHCE)
-- **PMI**: Disciplined Agile Scrum Master (DASM)
-- **Adobe**: AWS Certified DevOps Engineer – Professional
-- **Oracle**: Oracle Certified Master (OCM)
-- **Red Hat**: Red Hat Certified Architect (RHCA)
-- **PMI**: Project Management Professional (PMP)
-- **PMI**: Disciplined Agile Senior Scrum Master (DASSM)
+    - **Microsoft**: [Microsoft Certified: Azure Developer Associate](#)
+    - **Oracle**: [Oracle Certified Java Programmer](#)
 
 <a name="short-term-interests"></a>
 ### 🌍 Short-Term Interests
