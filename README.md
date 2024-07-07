@@ -258,6 +258,30 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - **International Business Program(s)**:
     - **GBC**: [International Business](#)
     - **U of T SCS**: [International Trade (Niche)](#)
+- **Technology and IT Program(s)**:
+    - **GBC**: Computer Systems Technology [with a Networking Specialization]
+    - **GBC**: Information Systems Business Analysis
+    - [CompTIA Certifications]
+- **Art and Design Program(s)**:
+    - **GBC**: Art and Design Fundamentals
+    - **GBC**: Graphic Design
+    - **GBC**: Brand Design
+    - **GBC**: Concept Art for Entertainment
+- **Cloud and IT Program(s)**:
+    - **Foundational**:
+    - **Intermediate**:
+    - **Advanced**:
+- **Interaction and Digital Design Program(s)**:
+    - **GBC**: Interaction Design and Development [to Augment Current Background with a Comprehensive Deep Dive]
+    - **GBC**: Digital Experience Design [for Specialization]
+    - **GBC**: Interactive Media Management
+    - **GBC**: Interdisciplinary Design Strategy
+    - **GBC**: Design Management
+- **Agile and Scrum Program(s)**:
+- **Database and System Administration Program(s)**:
+- **Project Management Program(s)**:
+- **Design and Media Program(s)**:
+- **Software Development Program(s)**:
 - **GBC**: Unreal Engine Game Application Development
 - **GBC**: Game Application Art
 - **GBC**: Wireless Networking
@@ -271,17 +295,6 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - **Oracle**: Oracle Certified Professional (OCP)
 - **Red Hat**: Red Hat Certification (RHCSA)
 - **PMI**: PMI Agile Certified Practitioner (PMI-ACP)
-- **GBC**: Computer Systems Technology [with a Networking Specialization]
-- **GBC**: Information Systems Business Analysis
-- **GBC**: Art and Design Fundamentals
-- **GBC**: Interaction Design and Development [to Augment Current Background with a Comprehensive Deep Dive]
-- **GBC**: Digital Experience Design [for Specialization]
-- **GBC**: Graphic Design
-- **GBC**: Brand Design
-- **GBC**: Concept Art for Entertainment
-- **GBC**: Design Management
-- **GBC**: Interactive Media Management
-- **GBC**: Interdisciplinary Design Strategy
 - **Scrum Alliance**: Advanced Certified ScrumMaster (A-CSM)
 - **Scrum Alliance**: Certified Scrum Professional (CSP-SM)
 - **Microsoft**: Microsoft Azure Administrator Associate
