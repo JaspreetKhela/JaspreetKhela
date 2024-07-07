@@ -197,6 +197,27 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 
 <a name="long-term-professional-development"></a>
 ### 🌱 Long-Term Business and Technology Professional Development Pursuits
+- **Game Development and Design Program(s)**:
+    - **U of T SCS**: [Unity Game Application Development](#)
+    - **U of T SCS**: [Game Application Design](#)
+    - **GBC**: [Unreal Engine Game Application Development](#)
+    - **GBC**: [Game Application Art](#)
+- **Entrepreneurship and Innovation Program(s)**:
+    - **U of T SCS**: [Entrepreneurship](#)
+    - **U of T SCS**: [Business Innovation](#)
+    - **U of T SCS**: [Non-Profit Leadership for Impact](#)
+    - **U of T SCS**: [Faith-Based Community Development](#) (Niche)
+- **Technology and Business Management Program(s)**:
+    - **U of T SCS**: [Product Management](#)
+    - **U of T SCS**: [Business Management](#)
+    - **U of T SCS**: [Leadership Essentials](#)
+    - **U of T SCS**: [Strategic Leadership: Advanced](#)
+    - **U of T SCS**: [Service Design](#)
+    - **GBC**: [Digital Marketing](#)
+    - **GBC**: [Strategic Relationship Marketing](#)
+    - **GBC**: [Marketing Management - Financial Services](#)
+    - **GBC**: [Sport and Event Marketing](#)
+    - **IBM | edX**: [IBM z/OS Mainframe Practitioner](#)
 - **IT and Cybersecurity Program(s)**:
     - [CompTIA Certifications]
     - **GBC**: [Wireless Networking](#)
@@ -217,11 +238,11 @@ Understanding network security, ethical hacking, and threat analysis are foundat
     - **Adobe**: [Adobe Certified Master](#)
     - **Adobe**: [Adobe Certified Instructor](#)
 - **Cloud and IT Program(s)**:
-    - **Foundational**:
+    - **Foundational-Level Program(s)**:
         - **Microsoft**: [Microsoft Certified: Azure Fundamentals](#)
         - **Amazon**: [AWS Certified Developer Associate](#)
         - **Google**: [Google Professional Cloud Certification](#)
-    - **Intermediate**:
+    - **Intermediate-Level Program(s)**:
         - **Microsoft**: [Microsoft Azure Administrator Associate](#)
         - **Microsoft**: [Microsoft Azure Developer Associate](#)
         - **Microsoft**: [Microsoft Azure Solutions Architect Expert](#)
@@ -230,7 +251,7 @@ Understanding network security, ethical hacking, and threat analysis are foundat
         - **Google**: [Google Professional Cloud Architect](#)
         - **Google**: [Google Professional Data Engineer](#)
         - **Google**: [Google Professional Cloud DevOps Engineer](#)
-    - **Advanced**:
+    - **Advanced-Level Program(s)**:
         - **Amazon**: [AWS Certified DevOps Engineer – Professional](#)
         - **Google**: [Google Professional Machine Learning Engineer](#)
 - **Agile and Scrum Program(s)**:
@@ -247,17 +268,6 @@ Understanding network security, ethical hacking, and threat analysis are foundat
     - **Red Hat**: [Red Hat Certified Engineer (RHCE)](#)
     - **Oracle**: [Oracle Certified Master (OCM)](#)
     - **Red Hat**: [Red Hat Certified Architect (RHCA)](#)
-- **Technology and Business Management Program(s)**:
-    - **U of T SCS**: [Product Management](#)
-    - **U of T SCS**: [Business Management](#)
-    - **U of T SCS**: [Leadership Essentials](#)
-    - **U of T SCS**: [Strategic Leadership: Advanced](#)
-    - **U of T SCS**: [Service Design](#)
-    - **GBC**: [Digital Marketing](#)
-    - **GBC**: [Strategic Relationship Marketing](#)
-    - **GBC**: [Marketing Management - Financial Services](#)
-    - **GBC**: [Sport and Event Marketing](#)
-    - **IBM | edX**: [IBM z/OS Mainframe Practitioner](#)
 - **Finance and Accounting Program(s)**:
     - **Financial Services and Financial Planning Program(s)**:
         - **GBC**: [Financial Services](#)
@@ -288,11 +298,6 @@ Understanding network security, ethical hacking, and threat analysis are foundat
     - **U of T SCS**: [Business Process Management](#)
     - **U of T SCS**: [Advanced Business Process Management](#)
     - **U of T SCS**: [Lean Six Sigma](#)
-- **Game Development and Design Program(s)**:
-    - **U of T SCS**: [Unity Game Application Development](#)
-    - **U of T SCS**: [Game Application Design](#)
-    - **GBC**: [Unreal Engine Game Application Development](#)
-    - **GBC**: [Game Application Art](#)
 - **Risk Management and Compliance Program(s)**:
     - **U of T SCS**: [Risk Management](#)
     - **U of T SCS**: [Enterprise Risk Management](#)
@@ -307,11 +312,6 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - **International Business Program(s)**:
     - **GBC**: [International Business](#)
     - **U of T SCS**: [International Trade](#) (Niche)
-- **Entrepreneurship and Innovation Program(s)**:
-    - **U of T SCS**: [Entrepreneurship](#)
-    - **U of T SCS**: [Business Innovation](#)
-    - **U of T SCS**: [Non-Profit Leadership for Impact](#)
-    - **U of T SCS**: [Faith-Based Community Development](#) (Niche)
 - **Technology and Design Program(s)**:
     - **U of T SCS**: [User Experience Design](#)
     - **U of T SCS**: [Life Science Enterprise](#) (Niche)
