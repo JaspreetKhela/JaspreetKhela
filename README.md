@@ -317,14 +317,14 @@ Understanding network security, ethical hacking, and threat analysis are foundat
     - **U of T SCS**: [Life Science Enterprise](#) (Niche)
 
 <a name="short-term-interests"></a>
-### 🌍 Short-Term Interests
-- Software Development
-- Data Engineering, Analytics, and Science [including Machine-Learning Engineering]
+### 🌍 Short-Term Business and Technology Professional Interests
+- Full-Stack Software Development
+- Full-Stack Data Analytics and Science
 - IT Support Specialist
 - Cybersecurity [Specializing in Penetration Testing]
 
 <a name="long-term-interests"></a>
-### 🌍 Long-Term Interests
+### 🌍 Long-Term Business and Technology Professional Interests
 - Business Development, Operations, and Sales
 - Entrepreneurship
 - Fundamental Research in the Formal, Natural, and Life Sciences
