@@ -197,83 +197,25 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 
 <a name="long-term-professional-development"></a>
 ### 🌱 Long-Term Business and Technology Professional Development Pursuits
-- **Technology Product Development and Management**:
-    - **U of T SCS**: [Product Management](#)
-    - **IBM | edX**: [IBM z/OS Mainframe Practitioner](#)
-- **Game Development and Design Program(s)**:
-    - **U of T SCS**: [Unity Game Application Development](#)
-    - **U of T SCS**: [Game Application Design](#)
-    - **GBC**: [Unreal Engine Game Application Development](#)
-    - **GBC**: [Game Application Art](#)
-- **Networking and Cybersecurity Program(s)**:
+- **IT and Cybersecurity Program(s)**:
     - **GBC**: [Wireless Networking](#)
-    - **U of T SCS**: [Cyber Security Management](#)
-- **Entrepreneurship and Innovation Program(s)**:
-    - **U of T SCS**: [Entrepreneurship](#)
-    - **U of T SCS**: [Business Innovation](#)
-    - **U of T SCS**: [Non-Profit Leadership for Impact](#)
-    - **U of T SCS**: [Faith-Based Community Development (Niche)](#)
-- **Business and Management Program(s)**:
-    - **U of T SCS**: [Business Management](#)
-    - **U of T SCS**: [Leadership Essentials](#)
-    - **U of T SCS**: [Strategic Leadership: Advanced](#)
-    - **U of T SCS**: [Service Design](#)
-    - **GBC**: [Digital Marketing](#)
-    - **GBC**: [Strategic Relationship Marketing](#)
-    - **GBC**: [Marketing Management - Financial Services](#)
-    - **GBC**: [Sport and Event Marketing](#)
-- **Human Resources Program(s)**:
-    - **U of T SCS**: [Human Resources Management Essentials](#)
-    - **U of T SCS**: [Human Resources](#)
-- **Process Management and Improvement Program(s)**:
-    - **U of T SCS**: [Business Process Management](#)
-    - **U of T SCS**: [Advanced Business Process Management](#)
-    - **U of T SCS**: [Lean Six Sigma](#)
-- **Business Analysis and Project Management Program(s)**:
-    - **U of T SCS**: [Business Analysis](#)
-    - **U of T SCS**: [Advanced Business Analysis](#)
-    - **U of T SCS**: [Project Management](#)
-    - **U of T SCS**: [Advanced Project Management](#)
-    - **U of T SCS**: [Agile Project Management](#)
-    - **U of T SCS**: [International Project Management (Niche)](#)
-- **Finance and Accounting Program(s)**:
-    - **Financial Services and Financial Planning Program(s)**:
-        - **GBC**: [Financial Services](#)
-        - **GBC**: [Financial Planning](#)
-        - **GBC**: [Wealth Management – Client Management](#)
-        - **GBC**: [Wealth Management – Financial Operations Management](#)
-    - **Accounting Program(s)**:
-        - **U of T SCS**: [Professional Accounting: Core Level](#)
-        - **U of T SCS**: [Professional Accounting: Intermediate Level](#)
-        - **U of T SCS**: [Professional Accounting: Advanced Level](#)
-    - **Compliance, Risk, and Regulatory Issues Program(s)**:
-        - **GBC**: [Financial Services Compliance and Risk](#)
-    - **Financial Analysis and Investment Management Program(s)**:
-        - **U of T SCS**: [Financial Analysis & Investment Management](#)
-        - **U of T SCS**: [Financial Trading & Option Strategies (Niche)](#)
-- **Risk Management and Compliance Program(s)**:
-    - **U of T SCS**: [Risk Management](#)
-    - **U of T SCS**: [Enterprise Risk Management](#)
-    - **U of T SCS**: [Internal Auditing](#)
-    - **U of T SCS**: [Occupational Health & Safety](#)
-- **Operations and Supply Chain Program(s)**:
-    - **GBC**: [Supply Chain Management](#)
-    - **U of T SCS**: [Operations & Supply Chain Management](#)
-- **Technology and Design Program(s)**:
-    - **U of T SCS**: [User Experience Design](#)
-    - **U of T SCS**: [Life Science Enterprise (Niche)](#)
-- **International Business Program(s)**:
-    - **GBC**: [International Business](#)
-    - **U of T SCS**: [International Trade (Niche)](#)
-- **Technology and IT Program(s)**:
     - **GBC**: [Computer Systems Technology](#) [with a Networking Specialization]
     - **GBC**: [Information Systems Business Analysis](#)
     - [CompTIA Certifications]
-- **Art and Design Program(s)**:
+    - **U of T SCS**: [Cyber Security Management](#)
+- **Design, Digital Media, and Media Arts Program(s)**:
     - **GBC**: [Art and Design Fundamentals](#)
     - **GBC**: [Graphic Design](#)
     - **GBC**: [Brand Design](#)
     - **GBC**: [Concept Art for Entertainment](#)
+    - **GBC**: [Interaction Design and Development](#) [to Augment Current Background with a Comprehensive Deep Dive]
+    - **GBC**: [Digital Experience Design](#) [for Specialization]
+    - **GBC**: [Interactive Media Management](#)
+    - **GBC**: [Interdisciplinary Design Strategy](#)
+    - **GBC**: [Design Management](#)
+    - **Adobe**: [Adobe Certified Expert (ACE)](#)
+    - **Adobe**: [Adobe Certified Master](#)
+    - **Adobe**: [Adobe Certified Instructor](#)
 - **Cloud and IT Program(s)**:
     - **Foundational**:
         - **Microsoft**: [Microsoft Certified: Azure Fundamentals](#)
@@ -291,12 +233,6 @@ Understanding network security, ethical hacking, and threat analysis are foundat
     - **Advanced**:
         - **Amazon**: [AWS Certified DevOps Engineer – Professional](#)
         - **Google**: [Google Professional Machine Learning Engineer](#)
-- **Interaction and Digital Design Program(s)**:
-    - **GBC**: [Interaction Design and Development](#) [to Augment Current Background with a Comprehensive Deep Dive]
-    - **GBC**: [Digital Experience Design](#) [for Specialization]
-    - **GBC**: [Interactive Media Management](#)
-    - **GBC**: [Interdisciplinary Design Strategy](#)
-    - **GBC**: [Design Management](#)
 - **Agile and Scrum Program(s)**:
     - **Scrum Alliance**: [Certified Scrum Master (CSM)](#)
     - **PMI**: [PMI Agile Certified Practitioner (PMI-ACP)](#)
@@ -311,15 +247,74 @@ Understanding network security, ethical hacking, and threat analysis are foundat
     - **Red Hat**: [Red Hat Certified Engineer (RHCE)](#)
     - **Oracle**: [Oracle Certified Master (OCM)](#)
     - **Red Hat**: [Red Hat Certified Architect (RHCA)](#)
-- **Project Management Program(s)**:
+- **Technology and Business Management Program(s)**:
+    - **U of T SCS**: [Product Management](#)
+    - **U of T SCS**: [Business Management](#)
+    - **U of T SCS**: [Leadership Essentials](#)
+    - **U of T SCS**: [Strategic Leadership: Advanced](#)
+    - **U of T SCS**: [Service Design](#)
+    - **GBC**: [Digital Marketing](#)
+    - **GBC**: [Strategic Relationship Marketing](#)
+    - **GBC**: [Marketing Management - Financial Services](#)
+    - **GBC**: [Sport and Event Marketing](#)
+    - **IBM | edX**: [IBM z/OS Mainframe Practitioner](#)
+- **Finance and Accounting Program(s)**:
+    - **Financial Services and Financial Planning Program(s)**:
+        - **GBC**: [Financial Services](#)
+        - **GBC**: [Financial Planning](#)
+        - **GBC**: [Wealth Management – Client Management](#)
+        - **GBC**: [Wealth Management – Financial Operations Management](#)
+    - **Accounting Program(s)**:
+        - **U of T SCS**: [Professional Accounting: Core Level](#)
+        - **U of T SCS**: [Professional Accounting: Intermediate Level](#)
+        - **U of T SCS**: [Professional Accounting: Advanced Level](#)
+    - **Compliance, Risk, and Regulatory Issues Program(s)**:
+        - **GBC**: [Financial Services Compliance and Risk](#)
+    - **Financial Analysis and Investment Management Program(s)**:
+        - **U of T SCS**: [Financial Analysis & Investment Management](#)
+        - **U of T SCS**: [Financial Trading & Option Strategies (Niche)](#)
+- **Business and Project Management Program(s)**:
+    - **U of T SCS**: [Business Analysis](#)
+    - **U of T SCS**: [Advanced Business Analysis](#)
+    - **U of T SCS**: [Project Management](#)
+    - **U of T SCS**: [Advanced Project Management](#)
+    - **U of T SCS**: [Agile Project Management](#)
+    - **U of T SCS**: [International Project Management (Niche)](#)
     - **PMI**: [Project Management Professional (PMP)](#)
-- **Design and Media Program(s)**:
-    - **Adobe**: [Adobe Certified Expert (ACE)](#)
-    - **Adobe**: [Adobe Certified Master](#)
-    - **Adobe**: [Adobe Certified Instructor](#)
+- **Human Resources Program(s)**:
+    - **U of T SCS**: [Human Resources Management Essentials](#)
+    - **U of T SCS**: [Human Resources](#)
+- **Process Management and Improvement Program(s)**:
+    - **U of T SCS**: [Business Process Management](#)
+    - **U of T SCS**: [Advanced Business Process Management](#)
+    - **U of T SCS**: [Lean Six Sigma](#)
+- **Game Development and Design Program(s)**:
+    - **U of T SCS**: [Unity Game Application Development](#)
+    - **U of T SCS**: [Game Application Design](#)
+    - **GBC**: [Unreal Engine Game Application Development](#)
+    - **GBC**: [Game Application Art](#)
+- **Risk Management and Compliance Program(s)**:
+    - **U of T SCS**: [Risk Management](#)
+    - **U of T SCS**: [Enterprise Risk Management](#)
+    - **U of T SCS**: [Internal Auditing](#)
+    - **U of T SCS**: [Occupational Health & Safety](#)
+- **Operations and Supply Chain Program(s)**:
+    - **GBC**: [Supply Chain Management](#)
+    - **U of T SCS**: [Operations & Supply Chain Management](#)
 - **Software Development Program(s)**:
     - **Microsoft**: [Microsoft Certified: Azure Developer Associate](#)
     - **Oracle**: [Oracle Certified Java Programmer](#)
+- **International Business Program(s)**:
+    - **GBC**: [International Business](#)
+    - **U of T SCS**: [International Trade (Niche)](#)
+- **Entrepreneurship and Innovation Program(s)**:
+    - **U of T SCS**: [Entrepreneurship](#)
+    - **U of T SCS**: [Business Innovation](#)
+    - **U of T SCS**: [Non-Profit Leadership for Impact](#)
+    - **U of T SCS**: [Faith-Based Community Development (Niche)](#)
+- **Technology and Design Program(s)**:
+    - **U of T SCS**: [User Experience Design](#)
+    - **U of T SCS**: [Life Science Enterprise (Niche)](#)
 
 <a name="short-term-interests"></a>
 ### 🌍 Short-Term Interests
