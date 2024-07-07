@@ -224,15 +224,21 @@ Understanding network security, ethical hacking, and threat analysis are foundat
         - **GBC**: [Financial Planning](#)
         - **GBC**: [Wealth Management – Client Management](#)
         - **GBC**: [Wealth Management – Financial Operations Management](#)
+        - **FP Canada**: [Certified Financial Planner (CFP)](#)
     - **Accounting Program(s)**:
         - **U of T SCS**: [Professional Accounting: Core Level](#)
         - **U of T SCS**: [Professional Accounting: Intermediate Level](#)
         - **U of T SCS**: [Professional Accounting: Advanced Level](#)
+        - **CPA Canada**: [Certified Public Accountant (CPA)](#)
     - **Compliance, Risk, and Regulatory Issues Program(s)**:
         - **GBC**: [Financial Services Compliance and Risk](#)
+        - **IIA**: [Certified Internal Auditor (CIA)](#)
     - **Financial Analysis and Investment Management Program(s)**:
         - **U of T SCS**: [Financial Analysis & Investment Management](#)
         - **U of T SCS**: [Financial Trading & Option Strategies](#) (Niche)
+        - **CFA Institute**: [Chartered Financial Analyst (CFA)](#)
+    - Actuarial Science Program(s):
+        - **SOA**: [Associate of the Society of Actuaries (ASA)](#)
 - **IT and Cybersecurity Program(s)**:
     - [CompTIA Certifications]
     - **GBC**: [Wireless Networking](#)
@@ -320,6 +326,7 @@ Understanding network security, ethical hacking, and threat analysis are foundat
     - **U of T SCS**: [Business Process Management](#)
     - **U of T SCS**: [Advanced Business Process Management](#)
     - **U of T SCS**: [Lean Six Sigma](#)
+    - **American Society for Quality**: [Six Sigma Green Belt/Black Belt](#)
 - **Risk Management and Compliance Program(s)**:
     - **U of T SCS**: [Risk Management](#)
     - **U of T SCS**: [Enterprise Risk Management](#)
