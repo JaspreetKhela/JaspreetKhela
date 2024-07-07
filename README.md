@@ -161,17 +161,19 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - **Database Management Program(s)**:
     - **IBM | edX**: [SQL, NoSQL, and Relational Database Fundamentals](#)
         - [For a Refresher of a Multitude of Databases]
-- **Big Data and Artificial Intelligence Program(s)**:
+- **Big Data and Artificial Intelligence (AI) Program(s)**:
+    - **Big Data Program(s)**:    
+        - **IBM | edX**: [NoSQL, Big Data, and Spark Fundamentals](#)
+            - [To Learn Big Data-Related Tools]
+        - **IBM | edX**: [Data Engineering](#)
+            - [To Learn How to Build Data Pipelines]
+        - **IBM | edX**: [Data Warehouse Engineering](#)
+            - [To Augment Data Engineering Background]
+        - **U of T SCS**: [Data Science](#)
+            - [For a Refresher of a Multitude of Data Science-Related Methods and Tools]
+    - **Artificial Intelligence (AI) Program(s)**:
     - **IBM | edX**: [Generative AI for Everyone](#)
         - [to Better Understand Prompt Engineering, Socioeconomic Impacts, and Ethical Concerns of Generative AI]
-    - **IBM | edX**: [NoSQL, Big Data, and Spark Fundamentals](#)
-        - [To Learn Big Data-Related Tools]
-    - **IBM | edX**: [Data Engineering](#)
-        - [To Learn How to Build Data Pipelines]
-    - **IBM | edX**: [Data Warehouse Engineering](#)
-        - [To Augment Data Engineering Background]
-    - **U of T SCS**: [Data Science](#)
-        - [For a Refresher of a Multitude of Data Science-Related Methods and Tools]
     - **U of T SCS**: [Artificial Intelligence](#)
         - [To Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
     - **U of T SCS**: [Advanced Artificial Intelligence](#)
@@ -195,7 +197,7 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 
 <a name="long-term-professional-development"></a>
 ### 🌱 Long-Term Business and Technology Professional Development Pursuits
-- **Technology Product Development and Design Management**:
+- **Technology Product Development and Management**:
     - **U of T SCS**: [Product Management](#)
     - **U of T SCS**: [Unity Game Application Development](#)
     - **U of T SCS**: [Game Application Design](#)
@@ -228,18 +230,18 @@ Understanding network security, ethical hacking, and threat analysis are foundat
     - **U of T SCS**: [Agile Project Management](#)
     - **U of T SCS**: [International Project Management (Niche)](#)
 - **Finance and Accounting Program(s)**:
-    - **Financial Services and Financial Planning**:
+    - **Financial Services and Financial Planning Program(s)**:
         - **GBC**: [Financial Services](#)
         - **GBC**: [Financial Planning](#)
         - **GBC**: [Wealth Management – Client Management](#)
         - **GBC**: [Wealth Management – Financial Operations Management](#)
-    - **Accounting**:
+    - **Accounting Program(s)**:
         - **U of T SCS**: [Professional Accounting: Core Level](#)
         - **U of T SCS**: [Professional Accounting: Intermediate Level](#)
         - **U of T SCS**: [Professional Accounting: Advanced Level](#)
-    - **Compliance, Risk, and Regulatory Issues**:
+    - **Compliance, Risk, and Regulatory Issues Program(s)**:
         - **GBC**: [Financial Services Compliance and Risk](#)
-    - **Financial Analysis and Investment Management**:
+    - **Financial Analysis and Investment Management Program(s)**:
         - **U of T SCS**: [Financial Analysis & Investment Management](#)
         - **U of T SCS**: [Financial Trading & Option Strategies (Niche)](#)
 - **Risk Management and Compliance Program(s)**:
@@ -256,51 +258,50 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - **International Business Program(s)**:
     - **GBC**: [International Business](#)
     - **U of T SCS**: [International Trade (Niche)](#)
-- Unreal Engine Game Application Development
-- Game Application Art
-- Wireless Networking
-- Cyber Security Management
-- IBM z/OS Mainframe Practitioner
-- Certified Scrum Master (CSM)
-- Microsoft Certified: Azure Fundamentals
-- AWS Certified Developer Associate
-- Google Professional Cloud Certification
-- Adobe Certified Expert (ACE)
-- Oracle Certified Professional (OCP)
-- Red Hat Certification (RHCSA)
-- PMI Agile Certified Practitioner (PMI-ACP)
-- Computer Systems Technology [with a Networking Specialization]
-- Information Systems Business Analysis
-- Art and Design Fundamentals
-- Interaction Design and Development [to Augment Current Background with a Comprehensive Deep Dive]
-- Digital Experience Design [for Specialization]
-- Graphic Design
-- Brand Design
-- Concept Art for Entertainment
-- Design Management
-- Interactive Media Management
-- Interdisciplinary Design Strategy
-- Advanced Certified ScrumMaster (A-CSM)
-- Certified Scrum Professional (CSP-SM)
-- Microsoft Azure Administrator Associate
-- Microsoft Azure Developer Associate
-- Microsoft Azure Solutions Architect Expert
-- AWS Certified Solutions Architect – Associate
-- AWS Certified SysOps Administrator – Associate
-- Google Professional Cloud Architect
-- Google Professional Data Engineer
-- Google Professional Cloud DevOps Engineer
-- Adobe Certified Master
-- Adobe Certified Instructor
-- Oracle Certified Expert (OCE)
-- Red Hat Certified Engineer (RHCE)
-- Disciplined Agile Scrum Master (DASM)
-- Advanced Certified ScrumMaster (A-CSM)
-- AWS Certified DevOps Engineer – Professional
-- Oracle Certified Master (OCM)
-- Red Hat Certified Architect (RHCA)
-- Project Management Professional (PMP)
-- Disciplined Agile Senior Scrum Master (DASSM)
+- **GBC**: Unreal Engine Game Application Development
+- **GBC**: Game Application Art
+- **GBC**: Wireless Networking
+- **U of T SCS**: Cyber Security Management
+- **IBM | edX**: IBM z/OS Mainframe Practitioner
+- **Scrum Alliance**: Certified Scrum Master (CSM)
+- **Microsoft**: Microsoft Certified: Azure Fundamentals
+- **Amazon**: AWS Certified Developer Associate
+- **Google**: Google Professional Cloud Certification
+- **Adobe**: Adobe Certified Expert (ACE)
+- **Oracle**: Oracle Certified Professional (OCP)
+- **Red Hat**: Red Hat Certification (RHCSA)
+- **PMI**: PMI Agile Certified Practitioner (PMI-ACP)
+- **GBC**: Computer Systems Technology [with a Networking Specialization]
+- **GBC**: Information Systems Business Analysis
+- **GBC**: Art and Design Fundamentals
+- **GBC**: Interaction Design and Development [to Augment Current Background with a Comprehensive Deep Dive]
+- **GBC**: Digital Experience Design [for Specialization]
+- **GBC**: Graphic Design
+- **GBC**: Brand Design
+- **GBC**: Concept Art for Entertainment
+- **GBC**: Design Management
+- **GBC**: Interactive Media Management
+- **GBC**: Interdisciplinary Design Strategy
+- **Scrum Alliance**: Advanced Certified ScrumMaster (A-CSM)
+- **Scrum Alliance**: Certified Scrum Professional (CSP-SM)
+- **Microsoft**: Microsoft Azure Administrator Associate
+- **Microsoft**: Microsoft Azure Developer Associate
+- **Microsoft**: Microsoft Azure Solutions Architect Expert
+- **Amazon**: AWS Certified Solutions Architect – Associate
+- **Amazon**: AWS Certified SysOps Administrator – Associate
+- **Google**: Google Professional Cloud Architect
+- **Google**: Google Professional Data Engineer
+- **Google**: Google Professional Cloud DevOps Engineer
+- **Adobe**: Adobe Certified Master
+- **Adobe**: Adobe Certified Instructor
+- **Oracle**: Oracle Certified Expert (OCE)
+- **Red Hat**: Red Hat Certified Engineer (RHCE)
+- **PMI**: Disciplined Agile Scrum Master (DASM)
+- **Adobe**: AWS Certified DevOps Engineer – Professional
+- **Oracle**: Oracle Certified Master (OCM)
+- **Red Hat**: Red Hat Certified Architect (RHCA)
+- **PMI**: Project Management Professional (PMP)
+- **PMI**: Disciplined Agile Senior Scrum Master (DASSM)
 
 <a name="short-term-interests"></a>
 ### 🌍 Short-Term Interests
