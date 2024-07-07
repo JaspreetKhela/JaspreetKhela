@@ -259,6 +259,9 @@ Understanding network security, ethical hacking, and threat analysis are foundat
         - **Google**: [Google Associate Cloud Engineer](#)
         - **Amazon**: [AWS Certified Developer Associate](#)
         - **Salesforce**: [Salesforce Certified Administrator](#)
+        - **Microsoft**: [Microsoft Certified: Power Platform Fundamentals](#)
+        - **Microsoft**: [Microsoft Certified: Dynamics 365 Fundamentals](#)
+        - **Cisco**: [Cisco Certified Network Associate (CCNA)](#)
     - **Intermediate-Level Program(s)**:
         - **Microsoft**: [Microsoft Azure Administrator Associate](#)
         - **Microsoft**: [Microsoft Azure Developer Associate](#)
@@ -269,6 +272,7 @@ Understanding network security, ethical hacking, and threat analysis are foundat
         - **Google**: [Google Professional Cloud Certification](#)
         - **VMware**: [VMware Certified Professional (VCP)](#)
         - **Cisco**: [Cisco Certified Network Professional (CCNP)](#)
+        - **Salesforce**: [Salesforce Certified Platform Developer I](#)
     - **Advanced-Level Program(s)**:
         - **Microsoft**: [Microsoft Azure Solutions Architect Expert](#)
         - **Amazon**: [AWS Certified Solutions Architect – Professional](#)
@@ -279,6 +283,8 @@ Understanding network security, ethical hacking, and threat analysis are foundat
         - **Cisco**: [Cisco Certified Internetwork Expert (CCIE)](#)
         - **VMware**: [VMware Certified Design Expert (VCDX)](#)
         - **Salesforce**: [Salesforce Certified Technical Architect](#)
+        - **Amazon**: [AWS Certified Security – Specialty](#)
+        - **VMware**: [VMware Certified Advanced Professional (VCAP)](#)
 - **Agile and Scrum Program(s)**:
     - **Foundational-Level Program(s)**:
         - **Scrum Alliance**: [Certified Scrum Master (CSM)](#)
