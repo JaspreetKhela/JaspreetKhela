@@ -198,10 +198,10 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 <a name="long-term-professional-development"></a>
 ### 🌱 Long-Term Business and Technology Professional Development Pursuits
 - **IT and Cybersecurity Program(s)**:
+    - [CompTIA Certifications]
     - **GBC**: [Wireless Networking](#)
     - **GBC**: [Computer Systems Technology](#) [with a Networking Specialization]
     - **GBC**: [Information Systems Business Analysis](#)
-    - [CompTIA Certifications]
     - **U of T SCS**: [Cyber Security Management](#)
 - **Design, Digital Media, and Media Arts Program(s)**:
     - **GBC**: [Art and Design Fundamentals](#)
@@ -236,9 +236,9 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - **Agile and Scrum Program(s)**:
     - **Scrum Alliance**: [Certified Scrum Master (CSM)](#)
     - **PMI**: [PMI Agile Certified Practitioner (PMI-ACP)](#)
-    - **Scrum Alliance**: Advanced Certified ScrumMaster (A-CSM)](#)
+    - **Scrum Alliance**: [Advanced Certified ScrumMaster (A-CSM)](#)
     - **PMI**: [Disciplined Agile Scrum Master (DASM)](#)
-    - **Scrum Alliance**: Certified Scrum Professional (CSP-SM)](#)
+    - **Scrum Alliance**: [Certified Scrum Professional (CSP-SM)](#)
     - **PMI**: [Disciplined Agile Senior Scrum Master (DASSM)](#)
 - **Database and System Administration Program(s)**:
     - **Oracle**: [Oracle Certified Professional (OCP)](#)
@@ -272,14 +272,14 @@ Understanding network security, ethical hacking, and threat analysis are foundat
         - **GBC**: [Financial Services Compliance and Risk](#)
     - **Financial Analysis and Investment Management Program(s)**:
         - **U of T SCS**: [Financial Analysis & Investment Management](#)
-        - **U of T SCS**: [Financial Trading & Option Strategies (Niche)](#)
+        - **U of T SCS**: [Financial Trading & Option Strategies](#) (Niche)
 - **Business and Project Management Program(s)**:
     - **U of T SCS**: [Business Analysis](#)
     - **U of T SCS**: [Advanced Business Analysis](#)
     - **U of T SCS**: [Project Management](#)
     - **U of T SCS**: [Advanced Project Management](#)
     - **U of T SCS**: [Agile Project Management](#)
-    - **U of T SCS**: [International Project Management (Niche)](#)
+    - **U of T SCS**: [International Project Management](#) (Niche)
     - **PMI**: [Project Management Professional (PMP)](#)
 - **Human Resources Program(s)**:
     - **U of T SCS**: [Human Resources Management Essentials](#)
@@ -306,15 +306,15 @@ Understanding network security, ethical hacking, and threat analysis are foundat
     - **Oracle**: [Oracle Certified Java Programmer](#)
 - **International Business Program(s)**:
     - **GBC**: [International Business](#)
-    - **U of T SCS**: [International Trade (Niche)](#)
+    - **U of T SCS**: [International Trade](#) (Niche)
 - **Entrepreneurship and Innovation Program(s)**:
     - **U of T SCS**: [Entrepreneurship](#)
     - **U of T SCS**: [Business Innovation](#)
     - **U of T SCS**: [Non-Profit Leadership for Impact](#)
-    - **U of T SCS**: [Faith-Based Community Development (Niche)](#)
+    - **U of T SCS**: [Faith-Based Community Development](#) (Niche)
 - **Technology and Design Program(s)**:
     - **U of T SCS**: [User Experience Design](#)
-    - **U of T SCS**: [Life Science Enterprise (Niche)](#)
+    - **U of T SCS**: [Life Science Enterprise](#) (Niche)
 
 <a name="short-term-interests"></a>
 ### 🌍 Short-Term Interests
