@@ -218,6 +218,21 @@ Understanding network security, ethical hacking, and threat analysis are foundat
     - **GBC**: [Marketing Management - Financial Services](#)
     - **GBC**: [Sport and Event Marketing](#)
     - **IBM | edX**: [IBM z/OS Mainframe Practitioner](#)
+- **Finance and Accounting Program(s)**:
+    - **Financial Services and Financial Planning Program(s)**:
+        - **GBC**: [Financial Services](#)
+        - **GBC**: [Financial Planning](#)
+        - **GBC**: [Wealth Management – Client Management](#)
+        - **GBC**: [Wealth Management – Financial Operations Management](#)
+    - **Accounting Program(s)**:
+        - **U of T SCS**: [Professional Accounting: Core Level](#)
+        - **U of T SCS**: [Professional Accounting: Intermediate Level](#)
+        - **U of T SCS**: [Professional Accounting: Advanced Level](#)
+    - **Compliance, Risk, and Regulatory Issues Program(s)**:
+        - **GBC**: [Financial Services Compliance and Risk](#)
+    - **Financial Analysis and Investment Management Program(s)**:
+        - **U of T SCS**: [Financial Analysis & Investment Management](#)
+        - **U of T SCS**: [Financial Trading & Option Strategies](#) (Niche)
 - **IT and Cybersecurity Program(s)**:
     - [CompTIA Certifications]
     - **GBC**: [Wireless Networking](#)
@@ -268,21 +283,6 @@ Understanding network security, ethical hacking, and threat analysis are foundat
     - **Red Hat**: [Red Hat Certified Engineer (RHCE)](#)
     - **Oracle**: [Oracle Certified Master (OCM)](#)
     - **Red Hat**: [Red Hat Certified Architect (RHCA)](#)
-- **Finance and Accounting Program(s)**:
-    - **Financial Services and Financial Planning Program(s)**:
-        - **GBC**: [Financial Services](#)
-        - **GBC**: [Financial Planning](#)
-        - **GBC**: [Wealth Management – Client Management](#)
-        - **GBC**: [Wealth Management – Financial Operations Management](#)
-    - **Accounting Program(s)**:
-        - **U of T SCS**: [Professional Accounting: Core Level](#)
-        - **U of T SCS**: [Professional Accounting: Intermediate Level](#)
-        - **U of T SCS**: [Professional Accounting: Advanced Level](#)
-    - **Compliance, Risk, and Regulatory Issues Program(s)**:
-        - **GBC**: [Financial Services Compliance and Risk](#)
-    - **Financial Analysis and Investment Management Program(s)**:
-        - **U of T SCS**: [Financial Analysis & Investment Management](#)
-        - **U of T SCS**: [Financial Trading & Option Strategies](#) (Niche)
 - **Business and Project Management Program(s)**:
     - **U of T SCS**: [Business Analysis](#)
     - **U of T SCS**: [Advanced Business Analysis](#)
