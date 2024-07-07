@@ -255,20 +255,30 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - **Cloud and IT Program(s)**:
     - **Foundational-Level Program(s)**:
         - **Microsoft**: [Microsoft Certified: Azure Fundamentals](#)
+        - **Amazon**: [AWS Certified Cloud Practitioner](#)
+        - **Google**: [Google Associate Cloud Engineer](#)
         - **Amazon**: [AWS Certified Developer Associate](#)
-        - **Google**: [Google Professional Cloud Certification](#)
+        - **Salesforce**: [Salesforce Certified Administrator](#)
     - **Intermediate-Level Program(s)**:
         - **Microsoft**: [Microsoft Azure Administrator Associate](#)
         - **Microsoft**: [Microsoft Azure Developer Associate](#)
-        - **Microsoft**: [Microsoft Azure Solutions Architect Expert](#)
         - **Amazon**: [AWS Certified Solutions Architect – Associate](#)
         - **Amazon**: [AWS Certified SysOps Administrator – Associate](#)
         - **Google**: [Google Professional Cloud Architect](#)
         - **Google**: [Google Professional Data Engineer](#)
-        - **Google**: [Google Professional Cloud DevOps Engineer](#)
+        - **Google**: [Google Professional Cloud Certification](#)
+        - **VMware**: [VMware Certified Professional (VCP)](#)
+        - **Cisco**: [Cisco Certified Network Professional (CCNP)](#)
     - **Advanced-Level Program(s)**:
+        - **Microsoft**: [Microsoft Azure Solutions Architect Expert](#)
+        - **Amazon**: [AWS Certified Solutions Architect – Professional](#)
+        - **Google**: [Google Professional Cloud Security Engineer](#)
+        - **Google**: [Google Professional Cloud DevOps Engineer](#)
         - **Amazon**: [AWS Certified DevOps Engineer – Professional](#)
         - **Google**: [Google Professional Machine Learning Engineer](#)
+        - **Cisco**: [Cisco Certified Internetwork Expert (CCIE)](#)
+        - **VMware**: [VMware Certified Design Expert (VCDX)](#)
+        - **Salesforce**: [Salesforce Certified Technical Architect](#)
 - **Agile and Scrum Program(s)**:
     - **Foundational-Level Program(s)**:
         - **Scrum Alliance**: [Certified Scrum Master (CSM)](#)
