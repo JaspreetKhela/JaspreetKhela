@@ -5,9 +5,10 @@ __________
 1. [Overview](#overview)
     - [About Me](#about-me)
     - [Development and Operations Languages, Tools, Technologies, and Frameworks](#development-and-operations-languages-tools-technologies-and-frameworks)
-    - [Short-Term (Business and Technology) Development Pursuits](#short-term-development-pursuits)
-    - [Long-Term (Business and Technology) Development Pursuits](#long-term-development-pursuits)
-    - [Interests](#interests)
+    - [Short-Term Business and Technology Professional Development Pursuits](#short-term-development-pursuits)
+    - [Long-Term Business and Technology Professional Development Pursuits](#long-term-development-pursuits)
+    - [Short-Term Business and Technology Professional Interests](#interests)
+    - [Long-Term Business and Technology Professional Interests](#interests)
     - [Performance Summary Statistics](#performance-summary-statistics)
     - [Project Repositories](#project-repositories)
     - [Tutorials](#tutorials)
@@ -123,7 +124,7 @@ Tools like Wireshark, Burp Suite, and Nessus are critical for network analysis a
 Understanding network security, ethical hacking, and threat analysis are foundational skills for protecting systems. Vulnerability assessment and risk management help identify and mitigate potential threats. Incident response and forensics are crucial for handling and investigating security breaches.
 
 <a name="short-term-professional-development"></a>
-### 🌱 Short-Term (Business and Technology) Development Pursuits
+### 🌱 Short-Term Business and Technology Professional Development Pursuits
 - **Enterprise Architecture Program(s)**:
     - **U of T SCS**: [Enterprise Architecture](#)
         - [To Better Understand the Levels of Architecting an Organization]
@@ -143,11 +144,12 @@ Understanding network security, ethical hacking, and threat analysis are foundat
         - [For Specialization in Cloud Computing]
     - **GBC**: [Cloud Computing Technologies](#)
         - [For Specialization in Cloud Computing]
-- **DevOps and Software Engineering Program(s)**:
+- **DevOps Program(s)**:
     - **U of T SCS**: [DevOps](#)
         - [To Better Understand Continuous Integration and Deployment Pipelines in the Software Development Life Cycle (SDLC)]
     - **IBM | edX**: [DevOps and Software Engineering](#)
         - [To Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
+- **Site Reliability Engineering (SRE) Program(s)**:
     - **IBM | edX**: [Site Reliability Engineering (SRE)](#)
         - [To Compliment DevOps Background with a Comprehensive Deep Dive into Adjacent Technology Stacks]
 - **Information Technology (IT) Operations Program(s)**:
@@ -192,7 +194,7 @@ Understanding network security, ethical hacking, and threat analysis are foundat
         - [To Learn Web3 Application Development]
 
 <a name="long-term-professional-development"></a>
-### 🌱 Long-Term (Business and Technology) Development Pursuits
+### 🌱 Long-Term Business and Technology Professional Development Pursuits
 - **Technology Product Development and Design Management**:
     - **U of T SCS**: [Product Management](#)
     - **U of T SCS**: [Unity Game Application Development](#)
@@ -313,6 +315,26 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - Entrepreneurship
 - Fundamental Research in the Formal, Natural, and Life Sciences
 
+<a name="github-summary-statistics"></a>
+### 📈 Performance Summary Statistics
+![Jaspreet Khela's Performance Summary Statistics](https://github-readme-stats.vercel.app/api?username=jaspreetkhela&show_icons=true&theme=tokyonight)
+
+<a name="project-repositories"></a>
+### 👨‍💻 Project Repositories
+- [Coming Soon](GitHub_Link)
+
+<a name="tutorials"></a>
+### 📚 Tutorials
+- [Coming Soon]
+
+<a name="blog-posts"></a>
+### 📚 Blog Posts
+- [Coming Soon]
+
+<a name="youtube-videos"></a>
+### 📚 YouTube Videos
+- [Coming Soon]
+
 <a name="fun-fact"></a>
 ### 🎉 Fun Fact
 I thoroughly enjoy watching period dramas on Netflix!
@@ -320,26 +342,6 @@ I thoroughly enjoy watching period dramas on Netflix!
 <a name="favorite-quote"></a>
 ### 💬 Favorite Quote
 > "Fortune favors the brave." — Virgil, Aeneid
-
-<a name="github-summary-statistics"></a>
-### 📈 Performance Summary Statistics
-![Jaspreet Khela's GitHub Summary Statistics](https://github-readme-stats.vercel.app/api?username=jaspreetkhela&show_icons=true&theme=tokyonight)
-
-<a name="project-repositories"></a>
-### 👨‍💻 Project Repositories
-- [Coming Soon](GitHub_Link)
-
-<a name="blog-posts"></a>
-### 📚 Blog Posts
-- [Coming Soon]
-
-<a name="tutorials"></a>
-### 📚 Tutorials
-- [Coming Soon]
-
-<a name="youtube-videos"></a>
-### 📚 YouTube Videos
-- [Coming Soon]
 
 <a name="reach-me"></a>
 ### 📫 Reach Me
