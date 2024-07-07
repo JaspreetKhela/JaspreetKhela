@@ -200,14 +200,14 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - **Technology Product Development and Management**:
     - **U of T SCS**: [Product Management](#)
     - **IBM | edX**: [IBM z/OS Mainframe Practitioner](#)
+- **Game Development and Design Program(s)**:
     - **U of T SCS**: [Unity Game Application Development](#)
     - **U of T SCS**: [Game Application Design](#)
-- **Game Development and Design Program(s)**:
-    - **GBC**: Unreal Engine Game Application Development](#)
-    - **GBC**: Game Application Art](#)
+    - **GBC**: [Unreal Engine Game Application Development](#)
+    - **GBC**: [Game Application Art](#)
 - **Networking and Cybersecurity Program(s)**:
-    - **GBC**: Wireless Networking](#)
-    - **U of T SCS**: Cyber Security Management](#)
+    - **GBC**: [Wireless Networking](#)
+    - **U of T SCS**: [Cyber Security Management](#)
 - **Entrepreneurship and Innovation Program(s)**:
     - **U of T SCS**: [Entrepreneurship](#)
     - **U of T SCS**: [Business Innovation](#)
