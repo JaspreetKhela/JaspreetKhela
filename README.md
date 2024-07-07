@@ -28,7 +28,7 @@ __________
 ## Overview
 <a name="about-me"></a>
 ### 🚀 About Me
-I am a versatile software developer specializing in Web2, Android, and iOS application development, as well as a skilled data engineer, analyst, and scientist (including machine-learning engineering). My academic background is deeply rooted in the formal and natural sciences, providing a solid foundation for my technical expertise. Beyond my professional focus, I have a passion for exploring topics across the formal sciences, natural sciences, life sciences, social sciences, and arts and humanities. I am dedicated to leveraging both my technical and non-technical skills, showcased throughout my GitHub repositories, to create innovative products and services that propel humanity towards a brighter future. I am always seeking opportunities to collaborate with like-minded individuals and kindred spirits to build a better tomorrow.
+I am a versatile full-stack software developer/engineer (specializing in Web2, Android, and iOS application development) as well as a full-stack data analyst and scientist. My academic background is deeply rooted in the formal and natural sciences, providing a solid foundation for my technical expertise. Beyond my professional focus, I have a passion for exploring topics across the formal sciences, natural sciences, life sciences, social sciences, and arts and humanities. I am dedicated to leveraging both my technical and non-technical skills, showcased throughout my GitHub repositories, to create innovative products and services that propel humanity towards a brighter future. I am always seeking opportunities to collaborate with like-minded individuals and kindred spirits to build a better tomorrow.
 
 <a name="development-and-operations-languages-tools-technologies-and-frameworks"></a>
 ### 🔧 Development and Operations Languages, Tools, Technologies, and Frameworks
@@ -219,17 +219,17 @@ Understanding network security, ethical hacking, and threat analysis are foundat
     - **GBC**: [Sport and Event Marketing](#)
     - **IBM | edX**: [IBM z/OS Mainframe Practitioner](#)
 - **Finance and Accounting Program(s)**:
+    - **Accounting Program(s)**:
+        - **U of T SCS**: [Professional Accounting: Core Level](#)
+        - **U of T SCS**: [Professional Accounting: Intermediate Level](#)
+        - **U of T SCS**: [Professional Accounting: Advanced Level](#)
+        - **CPA Canada**: [Certified Public Accountant (CPA)](#)
     - **Financial Services and Financial Planning Program(s)**:
         - **GBC**: [Financial Services](#)
         - **GBC**: [Financial Planning](#)
         - **GBC**: [Wealth Management – Client Management](#)
         - **GBC**: [Wealth Management – Financial Operations Management](#)
         - **FP Canada**: [Certified Financial Planner (CFP)](#)
-    - **Accounting Program(s)**:
-        - **U of T SCS**: [Professional Accounting: Core Level](#)
-        - **U of T SCS**: [Professional Accounting: Intermediate Level](#)
-        - **U of T SCS**: [Professional Accounting: Advanced Level](#)
-        - **CPA Canada**: [Certified Public Accountant (CPA)](#)
     - **Compliance, Risk, and Regulatory Issues Program(s)**:
         - **GBC**: [Financial Services Compliance and Risk](#)
         - **IIA**: [Certified Internal Auditor (CIA)](#)
@@ -347,8 +347,29 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 
 <a name="short-term-interests"></a>
 ### 🌍 Short-Term Business and Technology Professional Interests
-- Full-Stack Software Development
-- Full-Stack Data Analytics and Science
+- **Technical Roles**:
+    - Full-Stack Software Development/Engineering
+    - Full-Stack Data Analytics
+    - Full-Stack DevOps Engineer
+    - Full-Stack Cloud Engineer
+    - Full-Stack Security Engineer
+    - Full-Stack Data Scientist
+    - Full-Stack AI/ML Engineer
+    - Full-Stack Mobile Developer
+    - Full-Stack Game Developer
+    - Full-Stack IoT Developer
+    - Full-Stack Blockchain Developer
+    - Full-Stack Automation Engineer
+    - Full-Stack Robotics Engineer
+    - Full-Stack AR/VR Developer
+- **Non-Technical Roles**:
+    - Technical Product Manager
+    - User Experience (UX) Designer
+    - Business Analyst
+    - Project Manager
+    - Project Manager
+    - Digital Marketing Specialist
+    - Technical Writer
 - IT Support Specialist
 - Cybersecurity [Specializing in Penetration Testing]
 
