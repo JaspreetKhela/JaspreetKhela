@@ -270,19 +270,25 @@ Understanding network security, ethical hacking, and threat analysis are foundat
         - **Amazon**: [AWS Certified DevOps Engineer – Professional](#)
         - **Google**: [Google Professional Machine Learning Engineer](#)
 - **Agile and Scrum Program(s)**:
-    - **Scrum Alliance**: [Certified Scrum Master (CSM)](#)
-    - **PMI**: [PMI Agile Certified Practitioner (PMI-ACP)](#)
-    - **Scrum Alliance**: [Advanced Certified ScrumMaster (A-CSM)](#)
-    - **PMI**: [Disciplined Agile Scrum Master (DASM)](#)
-    - **Scrum Alliance**: [Certified Scrum Professional (CSP-SM)](#)
-    - **PMI**: [Disciplined Agile Senior Scrum Master (DASSM)](#)
+    - **Foundational-Level Program(s)**:
+        - **Scrum Alliance**: [Certified Scrum Master (CSM)](#)
+        - **PMI**: [PMI Agile Certified Practitioner (PMI-ACP)](#)
+    - **Intermediate-Level Program(s)**:
+        - **Scrum Alliance**: [Advanced Certified ScrumMaster (A-CSM)](#)
+        - **PMI**: [Disciplined Agile Scrum Master (DASM)](#)
+    - **Advanced-Level Program(s)**:
+        - **Scrum Alliance**: [Certified Scrum Professional (CSP-SM)](#)
+        - **PMI**: [Disciplined Agile Senior Scrum Master (DASSM)](#)
 - **Database and System Administration Program(s)**:
-    - **Oracle**: [Oracle Certified Professional (OCP)](#)
-    - **Red Hat**: [Red Hat Certification (RHCSA)](#)
-    - **Oracle**: [Oracle Certified Expert (OCE)](#)
-    - **Red Hat**: [Red Hat Certified Engineer (RHCE)](#)
-    - **Oracle**: [Oracle Certified Master (OCM)](#)
-    - **Red Hat**: [Red Hat Certified Architect (RHCA)](#)
+    - **Foundational-Level Program(s)**:
+        - **Oracle**: [Oracle Certified Professional (OCP)](#)
+        - **Red Hat**: [Red Hat Certification (RHCSA)](#)
+    - **Intermediate-Level Program(s)**:
+        - **Oracle**: [Oracle Certified Expert (OCE)](#)
+        - **Red Hat**: [Red Hat Certified Engineer (RHCE)](#)
+    - **Advanced-Level Program(s)**:
+        - **Oracle**: [Oracle Certified Master (OCM)](#)
+        - **Red Hat**: [Red Hat Certified Architect (RHCA)](#)
 - **Business and Project Management Program(s)**:
     - **U of T SCS**: [Business Analysis](#)
     - **U of T SCS**: [Advanced Business Analysis](#)
