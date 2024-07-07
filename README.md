@@ -348,28 +348,36 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 <a name="short-term-interests"></a>
 ### 🌍 Short-Term Business and Technology Professional Interests
 - **Technical Roles**:
-    - Full-Stack Software Development/Engineering
-    - Full-Stack Data Analytics
-    - Full-Stack DevOps Engineer
-    - Full-Stack Cloud Engineer
-    - Full-Stack Security Engineer
-    - Full-Stack Data Scientist
-    - Full-Stack AI/ML Engineer
-    - Full-Stack Mobile Developer
-    - Full-Stack Game Developer
-    - Full-Stack IoT Developer
-    - Full-Stack Blockchain Developer
-    - Full-Stack Automation Engineer
-    - Full-Stack Robotics Engineer
-    - Full-Stack AR/VR Developer
+    - **Software Development**:
+        - Full-Stack Software Developer/Engineer
+        - Full-Stack Mobile Developer
+        - Full-Stack Game Developer
+        - Full-Stack IoT Developer
+        - Full-Stack AR/VR Developer
+    - **Data and Analytics**:
+        - Full-Stack Data Analyst
+        - Full-Stack Data Scientist
+        - Full-Stack AI/ML Engineer
+    - **Cloud and DevOps**:
+        - Full-Stack Cloud Engineer
+        - Full-Stack DevOps Engineer
+    - **Security and Automation**:
+        - Full-Stack Security Engineer
+        - Full-Stack Automation Engineer
+    - **Emerging Technologies**:
+        - Full-Stack Blockchain Developer
+        - Full-Stack Robotics Engineer
 - **Non-Technical Roles**:
-    - Technical Product Manager
-    - User Experience (UX) Designer
-    - Business Analyst
-    - Project Manager
-    - Project Manager
-    - Digital Marketing Specialist
-    - Technical Writer
+    - **Product and Project Management**:
+        - Technical Product Manager
+        - Project Manager
+    - **User Experience and Design**:
+        - User Experience (UX) Designer
+    - **Business and Analysis**:
+        - Business Analyst
+    - **Marketing and Communication**:
+        - Digital Marketing Specialist
+        - Technical Writer
 - IT Support Specialist
 - Cybersecurity [Specializing in Penetration Testing]
 
