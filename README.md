@@ -350,13 +350,21 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - **Technical Roles**:
     - **Software Development**:
         - Full-Stack Software Developer/Engineer
+        - Quality Assurance (QA) Engineer
         - Full-Stack Mobile Developer
         - Full-Stack Game Developer
         - Full-Stack IoT Developer
         - Full-Stack AR/VR Developer
+    - **IT and Cybersecurity**:
+        - IT Support Specialist
+        - System Administrator
+        - Network Administrator
+        - Network Engineer
+        - Full-Stack Security Engineer
     - **Data and Analytics**:
         - Full-Stack Data Analyst
         - Full-Stack Data Scientist
+        - Data Engineer
         - Full-Stack AI/ML Engineer
     - **Cloud and DevOps**:
         - Full-Stack Cloud Engineer
@@ -378,8 +386,7 @@ Understanding network security, ethical hacking, and threat analysis are foundat
     - **Marketing and Communication**:
         - Digital Marketing Specialist
         - Technical Writer
-- IT Support Specialist
-- Cybersecurity [Specializing in Penetration Testing]
+- Cybersecurity [Specializing in Penetration Testing/Ethical Hacking]
 
 <a name="long-term-interests"></a>
 ### 🌍 Long-Term Business and Technology Professional Interests
