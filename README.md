@@ -361,10 +361,11 @@ Understanding network security, ethical hacking, and threat analysis are foundat
         - Network Administrator
         - Network Engineer
         - Full-Stack Security Engineer
+        - Full-Stack Automation Engineer
     - **Data and Analytics**:
+        - Data Engineer
         - Full-Stack Data Analyst
         - Full-Stack Data Scientist
-        - Data Engineer
         - Full-Stack AI/ML Engineer
     - **Cloud and DevOps**:
         - Full-Stack Cloud Engineer
