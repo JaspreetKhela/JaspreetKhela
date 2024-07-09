@@ -237,7 +237,7 @@ Understanding network security, ethical hacking, and threat analysis are foundat
         - **U of T SCS**: [Financial Analysis & Investment Management](#)
         - **U of T SCS**: [Financial Trading & Option Strategies](#) (Niche)
         - **CFA Institute**: [Chartered Financial Analyst (CFA)](#)
-    - Actuarial Science Program(s):
+    - **Actuarial Science Program(s)**:
         - **SOA**: [Associate of the Society of Actuaries (ASA)](#)
 - **IT and Cybersecurity Program(s)**:
     - [CompTIA Certifications]
@@ -350,11 +350,11 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 - **Technical Roles**:
     - **Software Development**:
         - **Full-Stack Software Developer/Engineer**: Develops both frontend and backend components of web applications, ensuring seamless interaction between user interfaces and server logic.
-        - **Quality Assurance (QA) Engineer**: Tests software to identify bugs and ensure quality and performance standards are met before release.
-        - **Full-Stack Mobile Developer**: Develops mobile applications for both iOS and Android platforms, handling both the user interface and backend services.
-        - **Full-Stack Game Developer**: Creates video games by handling game mechanics, graphics, and backend services.
-        - **Full-Stack IoT Developer**: Develops Internet of Things (IoT) applications, integrating hardware and software for connected devices.
-        - **Full-Stack AR/VR Developer**: Develops augmented reality (AR) and virtual reality (VR) applications, handling 3D modeling, interactive experiences, and backend integration.
+        - **Quality Assurance (QA) Engineer/Engineer**: Tests software to identify bugs and ensure quality and performance standards are met before release.
+        - **Full-Stack Mobile Developer/Engineer**: Develops mobile applications for both iOS and Android platforms, handling both the user interface and backend services.
+        - **Full-Stack Game Developer/Engineer**: Creates video games by handling game mechanics, graphics, and backend services.
+        - **Full-Stack IoT Developer/Engineer**: Develops Internet of Things (IoT) applications, integrating hardware and software for connected devices.
+        - **Full-Stack AR/VR Developer/Engineer****: Develops augmented reality (AR) and virtual reality (VR) applications, handling 3D modeling, interactive experiences, and backend integration.
     - **IT and Cybersecurity**:
         - **IT Support Specialist**: Provides technical assistance and support to users, troubleshooting hardware and software issues.
         - **System Administrator**: Manages and maintains IT systems and servers, ensuring optimal performance and security.
@@ -371,7 +371,7 @@ Understanding network security, ethical hacking, and threat analysis are foundat
         - **Full-Stack Cloud Engineer**: Develops and manages cloud-based applications and infrastructure.
         - **Full-Stack DevOps Engineer**: Integrates development and operations, focusing on CI/CD, automation, and infrastructure management. 
     - **Emerging Technologies**:
-        - **Full-Stack Blockchain Developer**: Develops blockchain applications, handling smart contracts, backend, and frontend integration.
+        - **Full-Stack Blockchain Developer/Engineer**: Develops blockchain applications, handling smart contracts, backend, and frontend integration.
         - **Full-Stack Robotics Engineer**: Designs and develops robotic systems, integrating hardware and software components.
 - **Non-Technical Roles**:
     - **Product and Project Management**:
