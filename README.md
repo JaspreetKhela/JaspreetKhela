@@ -127,73 +127,47 @@ Understanding network security, ethical hacking, and threat analysis are foundat
 ### 🌱 Short-Term Business and Technology Professional Development Pursuits
 - **Enterprise Architecture Program(s)**:
     - **U of T SCS**: [Enterprise Architecture](#)
-        - [To Better Understand the Levels of Architecting an Organization]
 - **Cybersecurity Program(s)**:
-    - **CompTIA**: [Cybersecurity Fundamentals](#)
-        - [To Prepare for the CompTIA Security+, Network+, CySA+, PenTest+, CASP+, Cloud+, Linux+, and Server+ Exams]
+    - **CompTIA**: [Security+](#), [Network+](#), [CySA+](#), [PenTest+](#), [CASP+](#), [Cloud+](#), [Linux+](#), and [Server+](#) Exams
 - **People and Soft Skills Program(s)**:
     - **IBM | edX**: [People and Power Skills](#)
-        - [To Learn More Effective and Efficient Communication and Collaboration Strategies]
 - **Full-Stack Web Application Development Program(s)**:
     - **IBM | edX**: [Full-Stack Application Development](#)
-        - [To Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
 - **Cloud Computing Program(s)**:
     - **U of T SCS**: [Cloud Computing](#)
-        - [For Specialization in Cloud Computing]
     - **IBM | edX**: [Cloud Native Foundations](#)
-        - [For Specialization in Cloud Computing]
     - **GBC**: [Cloud Computing Technologies](#)
-        - [For Specialization in Cloud Computing]
 - **DevOps Program(s)**:
     - **U of T SCS**: [DevOps](#)
-        - [To Better Understand Continuous Integration and Deployment Pipelines in the Software Development Life Cycle (SDLC)]
     - **IBM | edX**: [DevOps and Software Engineering](#)
-        - [To Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
 - **Site Reliability Engineering (SRE) Program(s)**:
     - **IBM | edX**: [Site Reliability Engineering (SRE)](#)
-        - [To Compliment DevOps Background with a Comprehensive Deep Dive into Adjacent Technology Stacks]
 - **Information Technology (IT) Operations Program(s)**:
     - **IBM | edX**: [Information Technology (IT) Support PC](#)
-        - [For IT Support Specialization]
 - **Data Analytics Program(s)**:
     - **IBM | edX**: [Data Analytics and Visualization with Excel and R](#)
-        - [For Specialization]
 - **Database Management Program(s)**:
     - **IBM | edX**: [SQL, NoSQL, and Relational Database Fundamentals](#)
-        - [For a Refresher of a Multitude of Databases]
 - **Big Data and Artificial Intelligence (AI) Program(s)**:
     - **Big Data Program(s)**:    
         - **IBM | edX**: [NoSQL, Big Data, and Spark Fundamentals](#)
-            - [To Learn Big Data-Related Tools]
         - **IBM | edX**: [Data Engineering](#)
-            - [To Learn How to Build Data Pipelines]
         - **IBM | edX**: [Data Warehouse Engineering](#)
-            - [To Augment Data Engineering Background]
         - **U of T SCS**: [Data Science](#)
-            - [For a Refresher of a Multitude of Data Science-Related Methods and Tools]
-    - **Artificial Intelligence (AI) Program(s)**:
+- **Artificial Intelligence (AI) Program(s)**:
     - **IBM | edX**: [Generative AI for Everyone](#)
-        - [to Better Understand Prompt Engineering, Socioeconomic Impacts, and Ethical Concerns of Generative AI]
     - **U of T SCS**: [Artificial Intelligence](#)
-        - [To Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
     - **U of T SCS**: [Advanced Artificial Intelligence](#)
-        - [To Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
     - **IBM | edX**: [Deep Learning](#)
-        - [To Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
     - **U of T SCS**: [Autonomous Systems for Discovery](#)
-        - [To Augment Background with a Comprehensive Deep Dive into Different Technology Stacks]
 - **User Experience and Interface Design Program(s)**:
     - **U of T SCS**: [User Experience/User Interface (UX/UI) Design](#)
-        - [To Better Understand Human-Computer Interactions]
 - **Digital Marketing Program(s)**:
     - **U of T SCS**: [Digital Marketing](#)
-        - [To Better Understand Marketing Principles, Methods, and Tools]
 - **Mobile Application Development Program(s)**:
     - **GBC**: [Mobile Application Development and Strategy](#)
-        - [To Augment Mobile Application Development Background with a Comprehensive Deep Dive]
 - **Blockchain Program(s)**:
     - **GBC**: [Blockchain Development](#)
-        - [To Learn Web3 Application Development]
 
 <a name="long-term-professional-development"></a>
 ### 🌱 Long-Term Business and Technology Professional Development Pursuits
@@ -250,8 +224,8 @@ Understanding network security, ethical hacking, and threat analysis are foundat
     - **GBC**: [Graphic Design](#)
     - **GBC**: [Brand Design](#)
     - **GBC**: [Concept Art for Entertainment](#)
-    - **GBC**: [Interaction Design and Development](#) [to Augment Current Background with a Comprehensive Deep Dive]
-    - **GBC**: [Digital Experience Design](#) [for Specialization]
+    - **GBC**: [Interaction Design and Development](#)
+    - **GBC**: [Digital Experience Design](#)
     - **GBC**: [Interactive Media Management](#)
     - **GBC**: [Interdisciplinary Design Strategy](#)
     - **GBC**: [Design Management](#)
