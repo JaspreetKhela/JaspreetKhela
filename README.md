@@ -5,6 +5,7 @@ __________
 1. [Overview](#overview)
     - [About Me](#about-me)
     - [Development and Operations Languages, Tools, Technologies, and Frameworks](#development-and-operations-languages-tools-technologies-and-frameworks)
+    - [Completed Business and Technology Professional Development Pursuits](#completed-development-pursuits)
     - [Short-Term Business and Technology Professional Development Pursuits](#short-term-development-pursuits)
     - [Long-Term Business and Technology Professional Development Pursuits](#long-term-development-pursuits)
     - [Short-Term Business and Technology Professional Interests](#interests)
