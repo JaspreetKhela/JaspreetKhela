@@ -31,40 +31,40 @@ __________
 I am a versatile full-stack software developer/engineer (specializing in Web2, Android, and iOS application development) as well as a full-stack data analyst and scientist. My academic background is deeply rooted in the formal and natural sciences, providing a solid foundation for my technical expertise. Beyond my professional focus, I have a passion for exploring topics across the formal sciences, natural sciences, life sciences, social sciences, and arts and humanities. I am dedicated to leveraging both my technical and non-technical skills, showcased throughout my GitHub repositories, to create innovative products and services that propel humanity towards a brighter future. I am always seeking opportunities to collaborate with like-minded individuals and kindred spirits to build a better tomorrow.
 
 <a name="development-and-operations-languages-tools-technologies-and-frameworks"></a>
-### 🔧 Development and Operations Languages, Tools, Technologies, and Frameworks
+### 🔧 Technology Development and Operations Languages, Tools, Technologies, and Frameworks
 
 #### Web2 Application Development
 ##### Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 These languages are fundamental for web development. HTML and CSS are used for structuring and styling web pages, while JavaScript adds interactivity and dynamic behavior.
 
 ##### Frameworks and Libraries
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Handlebars.js](https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebars.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-Frameworks like Node.js and React streamline development, making it easier to build scalable and maintainable web applications. jQuery and Bootstrap enhance functionality and design.
+Frameworks like Node.js and React streamline development, making it easier to build scalable and maintainable web applications. jQuery and Bootstrap enhance functionality and design. Handlebars.js simplifies template creation.
 
 ##### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
-Databases like MySQL and MongoDB are essential for storing and managing data. MySQL is a relational database, while MongoDB is a NoSQL database.
+Databases like MySQL and MongoDB are essential for storing and managing data. MySQL is a relational database, while MongoDB is a NoSQL database. Sequelize simplifies database interactions.
 
 ##### Other Tools
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Handlebars.js](https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebars.js&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
-Tools like Git and GitHub facilitate version control and collaboration. Heroku allows easy deployment of applications. Visual Studio Code is a powerful code editor. Handlebars.js and Sequelize simplify template creation and database interactions.
+Visual Studio Code is a powerful code editor. Tools like Git and GitHub facilitate version control and collaboration. Heroku allows easy deployment of applications.
 
 #### Data Analytics and Science
 ##### Languages
@@ -75,16 +75,16 @@ Tools like Git and GitHub facilitate version control and collaboration. Heroku a
 Python and R are essential for data analysis and machine learning, offering extensive libraries for these tasks. SQL is crucial for querying and managing databases.
 
 ##### Tools and Libraries
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![D3.js](https://img.shields.io/badge/d3.js-%23F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![D3.js](https://img.shields.io/badge/d3.js-%23F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-Libraries like Pandas, NumPy, and Scikit-Learn are fundamental for data manipulation and analysis. TensorFlow is essential for machine learning. Visualization tools like Matplotlib, D3.js, and Tableau help present data insights.
+Libraries like NumPy, Pandas, and Scikit-Learn are fundamental for data manipulation and analysis. Visualization tools like Tableau, Matplotlib, and D3.js help present data insights. TensorFlow is essential for machine learning.
 
 ##### Databases
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -93,35 +93,39 @@ Libraries like Pandas, NumPy, and Scikit-Learn are fundamental for data manipula
 Databases like PostgreSQL and MongoDB are used to store and manage large datasets, facilitating efficient data retrieval and analysis.
 
 ##### Other Tools
-![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900)
 
-AWS provides scalable cloud computing solutions. Git and GitHub are essential for version control and collaboration, ensuring efficient project management.
+Git and GitHub are essential for version control and collaboration, ensuring efficient project management. AWS provides scalable cloud computing solutions.
 
 #### Cybersecurity
 ##### Tools and Technologies
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Nessus](https://img.shields.io/badge/nessus-00C176?style=for-the-badge&logo=nessus&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-99CC33?style=for-the-badge&logo=snort&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FE7A16?style=for-the-badge&logo=burp%20suite&logoColor=white)
-![Nessus](https://img.shields.io/badge/nessus-00C176?style=for-the-badge&logo=nessus&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-121011?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-99CC33?style=for-the-badge&logo=snort&logoColor=white)
 
-Tools like Wireshark, Burp Suite, and Nessus are critical for network analysis and vulnerability assessment. Kali Linux and Metasploit are used for penetration testing. Splunk and Snort are essential for monitoring and detecting threats.
+Tools like Nessus, Wireshark, and Burp Suite are critical for network analysis and vulnerability assessment. Kali Linux and Metasploit are used for penetration testing. Splunk and Snort are essential for monitoring and detecting threats.
 
 ##### Concepts and Skills
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-green?style=for-the-badge)
+![Threat Analysis](https://img.shields.io/badge/Threat%20Analysis-orange?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-purple?style=for-the-badge)
+![Risk Management](https://img.shields.io/badge/Risk%20Management-yellow?style=for-the-badge)
 ![Network Security](https://img.shields.io/badge/Network%20Security-blue?style=for-the-badge)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-red?style=for-the-badge)
-![Threat Analysis](https://img.shields.io/badge/Threat%20Analysis-orange?style=for-the-badge)
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-green?style=for-the-badge)
-![Risk Management](https://img.shields.io/badge/Risk%20Management-yellow?style=for-the-badge)
-![Incident Response](https://img.shields.io/badge/Incident%20Response-purple?style=for-the-badge)
 ![Forensics](https://img.shields.io/badge/Forensics-darkred?style=for-the-badge)
 
-Understanding network security, ethical hacking, and threat analysis are foundational skills for protecting systems. Vulnerability assessment and risk management help identify and mitigate potential threats. Incident response and forensics are crucial for handling and investigating security breaches.
+Understanding threat analysis, network security, and ethical hacking are foundational skills for protecting systems. Vulnerability assessment and risk management help identify and mitigate potential threats. Incident response and forensics are crucial for handling and investigating security breaches.
+
+<a name="completed-professional-development"></a>
+### 🌱 Completed Business and Technology Professional Development Pursuits
+- [Coming Soon]
 
 <a name="short-term-professional-development"></a>
 ### 🌱 Short-Term Business and Technology Professional Development Pursuits
@@ -325,7 +329,7 @@ In today's dynamic landscape, I understand that long-term professional developme
 
 <a name="short-term-interests"></a>
 ### 🌍 Short-Term Business and Technology Professional Interests
-As I navigate my career, I am keen on pursuing short-term business and technology professional interests to expand my expertise. The broader importance of these technology-related roles lies in their ability to drive innovation, enhance operational efficiency, and provide strategic insights. Whether through developing cutting-edge software, ensuring robust cybersecurity, analyzing data for informed decision-making, or managing cloud infrastructure, these roles are crucial in adapting to the rapidly evolving tech landscape. Additionally, roles in product management, user experience, and marketing ensure that technological advancements align with business goals and user needs, fostering overall growth and success.
+As I navigate my career, I am keen on pursuing short-term business and technology professional interests to expand my expertise. The broader importance of these technology-related roles lies in their ability to drive innovation, enhance operational efficiency, and provide strategic insights. Whether through developing cutting-edge software, ensuring robust cybersecurity, analyzing data for informed decision-making, or managing cloud infrastructure, these roles are crucial in adapting to the rapidly evolving technology landscape. Additionally, roles in product management, user experience, and marketing ensure that technological advancements align with business goals and user needs, fostering overall growth and success.
 
 - **Technical Roles**:
     - **Software Development**:
@@ -334,7 +338,7 @@ As I navigate my career, I am keen on pursuing short-term business and technolog
         - **Full-Stack Mobile Developer/Engineer**: Develops mobile applications for both iOS and Android platforms, handling both the user interface and backend services.
         - **Full-Stack Game Developer/Engineer**: Creates video games by handling game mechanics, graphics, and backend services.
         - **Full-Stack IoT Developer/Engineer**: Develops Internet of Things (IoT) applications, integrating hardware and software for connected devices.
-        - **Full-Stack AR/VR Developer/Engineer****: Develops augmented reality (AR) and virtual reality (VR) applications, handling 3D modeling, interactive experiences, and backend integration.
+        - **Full-Stack AR/VR Developer/Engineer**: Develops augmented reality (AR) and virtual reality (VR) applications, handling 3D modeling, interactive experiences, and backend integration.
     - **IT and Cybersecurity**:
         - **IT Support Specialist**: Provides technical assistance and support to users, troubleshooting hardware and software issues.
         - **System Administrator**: Manages and maintains IT systems and servers, ensuring optimal performance and security.
