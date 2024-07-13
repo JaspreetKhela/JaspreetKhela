@@ -334,41 +334,41 @@ As I navigate my career, I am keen on pursuing short-term business and technolog
 
 - **Technical Roles**:
     - **Software Development**:
-        - **Full-Stack Software Developer/Engineer**: Develops both frontend and backend components of web applications, ensuring seamless interaction between user interfaces and server logic.
-        - **Quality Assurance (QA) Engineer/Engineer**: Tests software to identify bugs and ensure quality and performance standards are met before release.
-        - **Full-Stack Mobile Developer/Engineer**: Develops mobile applications for both iOS and Android platforms, handling both the user interface and backend services.
-        - **Full-Stack Game Developer/Engineer**: Creates video games by handling game mechanics, graphics, and backend services.
-        - **Full-Stack IoT Developer/Engineer**: Develops Internet of Things (IoT) applications, integrating hardware and software for connected devices.
-        - **Full-Stack AR/VR Developer/Engineer**: Develops augmented reality (AR) and virtual reality (VR) applications, handling 3D modeling, interactive experiences, and backend integration.
+        - [**Full-Stack Software Developer/Engineer**](#): Develops both frontend and backend components of web applications, ensuring seamless interaction between user interfaces and server logic.
+        - [**Quality Assurance (QA) Engineer/Engineer**](#): Tests software to identify bugs and ensure quality and performance standards are met before release.
+        - [**Full-Stack Mobile Developer/Engineer**](#): Develops mobile applications for both iOS and Android platforms, handling both the user interface and backend services.
+        - [**Full-Stack Game Developer/Engineer**](#): Creates video games by handling game mechanics, graphics, and backend services.
+        - [**Full-Stack IoT Developer/Engineer**](#): Develops Internet of Things (IoT) applications, integrating hardware and software for connected devices.
+        - [**Full-Stack AR/VR Developer/Engineer**](#): Develops augmented reality (AR) and virtual reality (VR) applications, handling 3D modeling, interactive experiences, and backend integration.
     - **IT and Cybersecurity**:
-        - **IT Support Specialist**: Provides technical assistance and support to users, troubleshooting hardware and software issues.
-        - **System Administrator**: Manages and maintains IT systems and servers, ensuring optimal performance and security.
-        - **Network Administrator**: Manages and maintains network infrastructure, ensuring connectivity and security.
-        - **Network Engineer**: Designs, implements, and manages complex network systems.
-        - **Full-Stack Security Engineer**: Ensures security across the technology stack, from network to application security.
-        - **Full-Stack Automation Engineer**: Develops and implements automated systems and processes to enhance operational efficiency.
+        - [**IT Support Specialist**](#): Provides technical assistance and support to users, troubleshooting hardware and software issues.
+        - [**System Administrator**](#): Manages and maintains IT systems and servers, ensuring optimal performance and security.
+        - [**Network Administrator**](#): Manages and maintains network infrastructure, ensuring connectivity and security.
+        - [**Network Engineer**](#): Designs, implements, and manages complex network systems.
+        - [**Full-Stack Security Engineer**](#): Ensures security across the technology stack, from network to application security.
+        - [**Full-Stack Automation Engineer**](#): Develops and implements automated systems and processes to enhance operational efficiency.
     - **Data and Analytics**:
-        - **Data Engineer**: Builds and maintains data pipelines, ensuring data is accessible and high quality for analysis.
-        - **Full-Stack Data Analyst**: Analyzes data to derive insights, handling both data processing and visualization.
-        - **Full-Stack Data Scientist**: Manages the entire data science workflow, from data collection and cleaning to model building and deployment.
-        - **Full-Stack AI/ML Engineer**: Develops and deploys AI and machine learning models, integrating them into applications.
+        - [**Data Engineer**](#): Builds and maintains data pipelines, ensuring data is accessible and high quality for analysis.
+        - [**Full-Stack Data Analyst**](#): Analyzes data to derive insights, handling both data processing and visualization.
+        - [**Full-Stack Data Scientist**](#): Manages the entire data science workflow, from data collection and cleaning to model building and deployment.
+        - [**Full-Stack AI/ML Engineer**](#): Develops and deploys AI and machine learning models, integrating them into applications.
     - **Cloud and DevOps**:
-        - **Full-Stack Cloud Engineer**: Develops and manages cloud-based applications and infrastructure.
-        - **Full-Stack DevOps Engineer**: Integrates development and operations, focusing on CI/CD, automation, and infrastructure management. 
+        - [**Full-Stack Cloud Engineer**](#): Develops and manages cloud-based applications and infrastructure.
+        - [**Full-Stack DevOps Engineer**](#): Integrates development and operations, focusing on CI/CD, automation, and infrastructure management. 
     - **Emerging Technologies**:
-        - **Full-Stack Blockchain Developer/Engineer**: Develops blockchain applications, handling smart contracts, backend, and frontend integration.
-        - **Full-Stack Robotics Engineer**: Designs and develops robotic systems, integrating hardware and software components.
+        - [**Full-Stack Blockchain Developer/Engineer**](#): Develops blockchain applications, handling smart contracts, backend, and frontend integration.
+        - [**Full-Stack Robotics Engineer**](#): Designs and develops robotic systems, integrating hardware and software components.
 - **Non-Technical Roles**:
     - **Product and Project Management**:
-        - **Technical Product Manager**: Manages the development and lifecycle of technical products, aligning technical teams with business goals.
-        - **Project Manager**: Oversees project planning and execution, ensuring projects are completed on time and within budget.
+        - [**Technical Product Manager**](#): Manages the development and lifecycle of technical products, aligning technical teams with business goals.
+        - [**Project Manager**](#): Oversees project planning and execution, ensuring projects are completed on time and within budget.
     - **User Experience and Design**:
-        - **User Experience (UX) Designer**: Designs user interfaces and experiences, focusing on usability and user satisfaction.
+        - [**User Experience (UX) Designer**](#): Designs user interfaces and experiences, focusing on usability and user satisfaction.
     - **Business and Analysis**:
-        - **Business Analyst**: Analyzes business requirements and designs technology solutions to meet those needs.
+        - [**Business Analyst**](#): Analyzes business requirements and designs technology solutions to meet those needs.
     - **Marketing and Communication**:
-        - **Digital Marketing Specialist**: Develops and executes digital marketing strategies to promote products and services.
-        - **Technical Writer**: Creates documentation and guides for technical products and services, ensuring clear and effective communication.
+        - [**Digital Marketing Specialist**](#): Develops and executes digital marketing strategies to promote products and services.
+        - [**Technical Writer**](#): Creates documentation and guides for technical products and services, ensuring clear and effective communication.
 - Cybersecurity [Specializing in Penetration Testing/Ethical Hacking]
 
 <a name="long-term-interests"></a>
@@ -377,45 +377,45 @@ As I focus on my long-term business and technology professional interests, I aim
 
 - **Ideation and Innovation**:
     - **Technical**:
-        - **R&D Specialist**: Enhances and refines products through research and development.
+        - [**R&D Specialist**](#): Enhances and refines products through research and development.
 - **Market Research**:
     - **Technical**:
-        - **Data Analyst**: Analyzes data to support strategic decisions.
+        - [**Data Analyst**](#): Analyzes data to support strategic decisions.
     - **Non-Technical**:
-        - **Market Research Analyst**: Gathers market data to validate business ideas.
-        - **Consumer Insights Specialist**: Understands customer needs and preferences.
+        - [**Market Research Analyst**](#): Gathers market data to validate business ideas.
+        - [**Consumer Insights Specialist**](#): Understands customer needs and preferences.
 - **Business Planning**:
     - **Non-Technical**:
-        - **Financial Analyst**: Projects financial outcomes and funding needs.
+        - [**Financial Analyst**](#): Projects financial outcomes and funding needs.
 - **Funding and Financing**:
     - **Non-Technical**:
-        - **Investment Analyst**: Assesses funding opportunities.
+        - [**Investment Analyst**](#): Assesses funding opportunities.
 - **Legal Structure and Compliance**:
     - **Non-Technical**:
-        - **Legal Advisor**: Provides legal support.
+        - [**Legal Advisor**](#): Provides legal support.
 - **Marketing and Branding**:
     - **Non-Technical**:
-        - **Brand Strategist**: Assists in building and maintaining brand identity.
-        - **Content Marketer**: Creates marketing materials.
+        - [**Brand Strategist**](#): Assists in building and maintaining brand identity.
+        - [**Content Marketer**](#): Creates marketing materials.
 - **Operations Management**:
     - **Non-Technical**:
-        - **Logistics Coordinator**: Coordinates shipping and inventory.
+        - [**Logistics Coordinator**](#): Coordinates shipping and inventory.
 - **Human Resources**:
     - **Non-Technical**:
-        - **Recruiter**: Hires key talent.
-        - **Talent Acquisition Specialist**: Focuses on attracting top talent.
+        - [**Recruiter**](#): Hires key talent.
+        - [**Talent Acquisition Specialist**](#): Focuses on attracting top talent.
 - **Customer Service and Support**:
     - **Non-Technical**:
-        - **Support Specialist**: Provides customer support.
+        - [**Support Specialist**](#): Provides customer support.
 - **Financial Management**:
     - **Non-Technical**:
-        - **Accountant**: Handles day-to-day financial transactions.
+        - [**Accountant**](#): Handles day-to-day financial transactions.
 - **Business Development**:
     - **Non-Technical**:
-        - **Sales Executive**: Drives sales strategy.
+        - [**Sales Executive**](#): Drives sales strategy.
 - **Sales**:
     - **Non-Technical**:
-        - **Sales Representative**: Executes sales strategies.
+        - [**Sales Representative**](#): Executes sales strategies.
 - Entrepreneurship
 - Fundamental Research in the Formal, Natural, and Life Sciences
 
