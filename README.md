@@ -135,7 +135,7 @@ In today's fast-paced landscape, I recognize that short-term professional develo
 - **Enterprise Architecture Program(s)**:
     - **U of T SCS**: [Enterprise Architecture](#)
 - **Cybersecurity Program(s)**:
-    - **CompTIA**: [ITF+](#), [A+](#), [Network+](#), [Security+](#), [Cloud Essentials+](#), [Server+](#), [Cloud+](#), [Linux+](#), [Project+](#), [CTT+], [CySA+](#), [PenTest+](#), and [CASP+](#) Exams
+    - **CompTIA**: [ITF+](#), [A+](#), [Network+](#), [Security+](#), [Cloud Essentials+](#), [Server+](#), [Cloud+](#), [Linux+](#), [Project+](#), [CTT+](#), [CySA+](#), [PenTest+](#), and [CASP+](#) Exams
 - **People and Soft Skills Program(s)**:
     - **IBM | edX**: [People and Power Skills](#)
 - **Full-Stack Web Application Development Program(s)**:
