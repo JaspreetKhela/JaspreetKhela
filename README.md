@@ -431,6 +431,43 @@ As I focus on my long-term business and technology professional interests, I am 
 
 <a name="project-repositories"></a>
 ### 👨‍💻 Project Repositories
+#### Web Development
+- [Coming Soon](GitHub_Link)
+
+#### APIs and Microservices
+- [Coming Soon](GitHub_Link)
+
+#### Mobile Applications
+- [Coming Soon](GitHub_Link)
+
+#### Libraries and Frameworks
+- [Coming Soon](GitHub_Link)
+
+#### Data Engineering
+- [Coming Soon](GitHub_Link)
+
+#### Data Anlytics
+- [Coming Soon](GitHub_Link)
+
+#### Data Science
+- [Coming Soon](GitHub_Link)
+
+#### Machine Learning and Artificial Intelligence
+- [Coming Soon](GitHub_Link)
+
+#### DevOps and CI/CD
+- [Coming Soon](GitHub_Link)
+
+#### Automation and Scripting
+- [Coming Soon](GitHub_Link)
+
+#### Game Development
+- [Coming Soon](GitHub_Link)
+
+#### Educational Projects and Tutorials
+- [Coming Soon](GitHub_Link)
+
+#### Open Source Contributions
 - [Coming Soon](GitHub_Link)
 
 <a name="tutorials"></a>
