@@ -1,0 +1,791 @@
+/* Global Styling Starts Here */
+/* Add a background image to the webpage */
+body {
+    margin: 3%;
+    background-image: url("../images/background-images/simone-hutsch-8p6pdSkA-6A-unsplash.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    font-size: large;
+}
+
+/* Define the styling for image elements */
+img {
+    height: 200px;
+    object-fit: cover;
+}
+
+/* Define the styling for the bold elements */
+b {
+    font-weight: 600;
+}
+
+/* Define the styling for the div containers */
+div {
+    margin: auto;
+}
+
+/* Define the styling for the anchor elements */
+a {
+    color: yellow;
+}
+
+/* Define the styling for the first-level header elements */
+h1 {
+    margin: auto;
+    width: 100%;
+    font-size: 300%;
+    text-align: center;
+    border: 25px solid;
+    border-color: #FF6768;
+    border-radius: 25px;
+    color: white;
+    box-shadow:
+        inset 0 0 50px #fff,
+        inset 20px 0 80px #f0f,
+        inset -20px 0 80px #0ff,
+        inset 20px 0 300px #f0f,
+        inset -20px 0 300px #0ff,
+        0 0 50px #fff,
+        -10px 0 80px #f0f,
+        10px 0 80px #0ff;
+}
+
+/* Define the styling for the second- and third-level header elements */
+h2, h3 {
+    margin: auto;
+    width: 100%;
+    font-size: 200%;
+    text-align: center;
+    /* border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-width: thick; */
+    border: 25px solid;
+    border-color: #FF6768;
+    border-radius: 25px;
+    color: white;
+    box-shadow:
+        inset 0 0 50px #fff,
+        inset 20px 0 80px #f0f,
+        inset -20px 0 80px #0ff,
+        inset 20px 0 300px #f0f,
+        inset -20px 0 300px #0ff,
+        0 0 50px #fff,
+        -10px 0 80px #f0f,
+        10px 0 80px #0ff;
+}
+
+/* Define the styling for the forth-level header elements */
+h4 {
+    margin: auto;
+    width: 100%;
+    background-color: #FF6768;
+    border: 25px solid;
+    border-color: #FF6768;
+    border-radius: 25px;
+    color: white;
+    box-shadow:
+        inset 0 0 50px #fff,
+        inset 20px 0 80px #f0f,
+        inset -20px 0 80px #0ff,
+        inset 20px 0 300px #f0f,
+        inset -20px 0 300px #0ff,
+        0 0 50px #fff,
+        -10px 0 80px #f0f,
+        10px 0 80px #0ff;
+}
+
+/* Define the styling for the fifth-level header elements */
+h5 {
+    margin: auto;
+    padding: 1%;
+    width: fit-content;
+    border-radius: 25px;
+}
+
+/* Define the styling for the sixth-level header elements */
+h6 {
+    margin: auto;
+    width: fit-content;
+    text-align: center;
+    border-bottom: 25px solid;
+    border-left: 25px solid;
+    border-right: 25px solid;
+    border-color: #FF6768;
+    border-radius: 0px 0px 25px 25px;
+    color: white;
+    background-color: #263859;
+    box-shadow:
+        inset 0 0 50px #fff,
+        inset 20px 0 80px #f0f,
+        inset -20px 0 80px #0ff,
+        inset 20px 0 300px #f0f,
+        inset -20px 0 300px #0ff,
+        0 0 50px #fff,
+        -10px 0 80px #f0f,
+        10px 0 80px #0ff;
+}
+
+/* Define the styling for the sixth-level header elements' anchor element */
+h6 a {
+    color: white;
+}
+
+/* Define the styling for the header elements */
+.custom-heading-background {
+    padding: 1%;
+    height: 100%;
+    width: 100%;
+    background-color: #00b4ff;
+}
+
+/* Define the styling for the sixth-level header elements */
+/* Note that this has to be placed after the .custom-heading-background styling block to achieve the desired outcome */
+h6 {
+    height: 150px;
+}
+
+/* Define the styling for the sixth-level header elements */
+/* Note that this has to be placed after the .custom-heading-background styling block to achieve the desired outcome */
+h6 .custom-heading-background{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+/* Define the styling for section dividers */
+.section-divider {
+    height: 100px;
+    width: 100%;
+    border: 25px solid;
+    border-color: #FF6768;
+    border-radius: 25px;
+    box-shadow:
+        inset 0 0 50px #fff,
+        inset 20px 0 80px #f0f,
+        inset -20px 0 80px #0ff,
+        inset 20px 0 300px #f0f,
+        inset -20px 0 300px #0ff,
+        0 0 50px #fff,
+        -10px 0 80px #f0f,
+        10px 0 80px #0ff;
+}
+/* Global Styling Ends Here */
+
+/* Navigation Styling Starts Here */
+/* Define the fundamental properties of the navigation bar */
+nav {
+    font-size: 85%;
+    border: 25px solid;
+    border-color: #FF6768;
+    border-radius: 0px 0px 25px 25px;
+    text-align: center;
+    /* background-color: #0F4C75; */
+    background-color: #00b4ff;
+    z-index: 99999;
+    /* box-shadow:
+        inset 0 0 50px #fff,
+        inset 20px 0 80px #f0f,
+        inset -20px 0 80px #0ff,
+        inset 20px 0 300px #f0f,
+        inset -20px 0 300px #0ff,
+        0 0 50px #fff,
+        -10px 0 80px #f0f,
+        10px 0 80px #0ff; */
+}
+
+/* nav .custom-heading-background {
+    background-color: #00b4ff;
+} */
+
+/* Ensure that the navigation bar is visible to the user at all times */
+.sticky {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+}
+ /* Change the font color of the navigation bar's links */
+#navigation-bar a {
+    color: white;
+}
+/* Navigation Styling Ends Here */
+
+/* Webpage Heading Styling Starts Here */
+#landscape-orientation {
+    color: black;
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+    width: 100%;
+    border: 25px solid;
+    border-color: lightgoldenrodyellow;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+/* Webpage Heading Styling Ends Here */
+
+/* Dynamic Content Display Styling Starts Here */
+.reveal{
+    position: relative;
+    transform: translateY(150px);
+    opacity: 0;
+    transition: 2s all ease;
+}
+
+.reveal.active {
+    transform: translateY(0);
+    opacity: 1;
+}
+/* Dynamic Content Display Styling Ends Here */
+
+/* Hero Section Styling Starts Here */
+/* Define the styling for the cloud image and text container */
+#birds-eye-view {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/* Define the styling for the cloud image */
+#text-cloud {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    height:max-content;
+}
+
+/* Define the styling for the cloud's text */
+.centered-text{
+    font-family: cursive;
+    font-size: 300%;
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Define the styling for the bird image */
+#hero-image {
+    height: fit-content;
+    width: 100%;
+    /* background-color: #00b4ff; */
+    display: block;
+    /* margin-top: 2%; */
+    margin-bottom: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    /* border: 25px solid; */
+    border-color: #FF6768;
+    border-radius: 40%;
+    /* box-shadow:
+        inset 0 0 50px #fff,
+        inset 20px 0 80px #f0f,
+        inset -20px 0 80px #0ff,
+        inset 20px 0 300px #f0f,
+        inset -20px 0 300px #0ff,
+        0 0 50px #fff,
+        -10px 0 80px #f0f,
+        10px 0 80px #0ff; */
+}
+/* Hero Section Styling Ends Here */
+
+/* About Section Styling Starts Here */
+/* Define the styling for the about section container */
+#about-section {
+    text-align: center;
+    color: white;
+    padding: 3%;
+    /* border: 25px solid;
+    border-color: #FF6768;
+    border-radius: 25px;
+    background-color: #263859;
+    background-image: linear-gradient(
+        var(--rotate)
+        , #5ddcff, #3c67e3 43%, #4e00c2);
+        z-index: -1;
+        animation: spin 2.5s linear infinite;
+        padding: 2%;
+    box-shadow:
+        inset 0 0 50px #fff,
+        inset 20px 0 80px #f0f,
+        inset -20px 0 80px #0ff,
+        inset 20px 0 300px #f0f,
+        inset -20px 0 300px #0ff,
+        0 0 50px #fff,
+        -10px 0 80px #f0f,
+        10px 0 80px #0ff; */
+}
+
+/* Define the styling for the paragraph containers within the About Section */
+.lead {
+    margin: 2%;
+    font-size: x-large;
+    background-color: #17223B;
+    border: 25px solid;
+    border-color: #FF6768;
+    border-radius: 25px;
+    box-shadow:
+        inset 0 0 50px #fff,
+        inset 20px 0 80px #f0f,
+        inset -20px 0 80px #0ff,
+        inset 20px 0 300px #f0f,
+        inset -20px 0 300px #0ff,
+        0 0 50px #fff,
+        -10px 0 80px #f0f,
+        10px 0 80px #0ff;
+}
+
+.current, .future {
+    padding: 2%;
+    background-color: #17223B;
+}
+
+/* Define ths styling for the third container in the About Section */
+.future {
+    text-align: left;
+}
+/* About Section Styling Ends Here */
+
+/* Sections' Headings Styling Starts Here*/
+#social-media-profiles, #work-history-category, #software-education-and-work-category, #hardware-education-and-work-category, #multimedia-production-portfolios, #skilled-trades-portfolios, #performance-arts-portfolios, #business-education-and-work-category, #academic-education-and-work-category, #personal-development-education-and-work-category, #interests-education-and-work-category {
+    padding: 3%;
+    border: 25px solid;
+    border-color: #FF6768;
+    border-radius: 25px;
+    /* border: 1px solid;
+    border-width: thick; */
+    background-color: darkblue;
+    background-image: url("../images/background-images/efe-kurnaz-RnCPiXixooY-unsplash.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+/* Sections' Headings Styling Ends Here*/
+
+/* Overview Styling Starts Here */
+/* Define the styling for the overview cards */
+.overview {
+    width: 100%;
+    color: white;
+    background-color: #17223B;
+    /* border-radius: 0px 0px 25px 25px; */
+}
+
+/* Define the background color for the quote header */
+.quote {
+    background-color: #17223B;
+}
+
+/* Define the styling for the quote body */
+.quote-body {
+    background-color: #263859;
+    border-top: 25px solid;
+    border-color: #FF6768;
+}
+
+/* Define the text size of the overview card descriptions paragraph element */
+blockquote p {
+    font-size: 125%;
+}
+/* Overview Styling Ends Here */
+
+/* Section Video or Image Styling Starts Here */
+/* Define the styling for the main video or image in a section */
+#work-history-video-or-image, #software-development-education-and-work-video-or-image, #hardware-development-education-and-work-video-or-image, #skilled-trades-education-and-work-video-or-image, #multimedia-production-education-and-work-video-or-image, #performance-arts-education-and-work-video-or-image, #business-development-education-and-work-video-or-image, #academic-development-history-and-pursuits-video-or-image, #personal-development-history-and-pursuits-video-or-image, #personal-interests-video-or-image {
+    /* height: 650px; */
+    height: auto;
+    width: 100%;
+    display: block;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 25px solid;
+    border-color: #FF6768;
+    border-radius: 25px;
+    box-shadow:
+        inset 0 0 50px #fff,
+        inset 20px 0 80px #f0f,
+        inset -20px 0 80px #0ff,
+        inset 20px 0 300px #f0f,
+        inset -20px 0 300px #0ff,
+        0 0 50px #fff,
+        -10px 0 80px #f0f,
+        10px 0 80px #0ff;
+}
+/* Section Video or Image Styling Ends Here */
+
+/* Color Legend Styling Starts Here */
+/* Define a background image for the color legend div */
+#color-legend {
+    background-image: url("../images/background-images/daniel-olah-VS_kFx4yF5g-unsplash.jpg");
+}
+
+/* Define the background colour of the color legend and card bodies to be transparent */
+#color-legend .card-body {
+    background-color: transparent;
+}
+
+/* Define the border of the color legend cards */
+.div-border {
+    border: 25px solid;
+    border-color: #FF6768;
+}
+
+/* Define the styling for the color and logo cards */
+.color-box, .logo-box {
+    display: inline-block;
+    height: fit-content;
+    width: fit-content;
+    margin: 1%;
+    padding: 3%;
+    border-radius: 25px;
+    color: yellow;
+}
+
+/* Define the tier colors */
+.tier-1-color {
+    background-color: #1A1A2E;
+}
+
+.tier-2-color {
+    background-color: #16213E;
+}
+
+.tier-3-color {
+    background-color: #0F3460;
+}
+
+.tier-4-color {
+    background-color: #E94560;
+}
+
+.tier-5-color {
+    background-color: #9067ff;
+}
+
+.tier-1-color-border {
+    /* border: 25px solid; */
+    border-color: #1A1A2E;
+}
+
+.tier-2-color-border {
+    /* border: 25px solid; */
+    border-color: #16213E;
+}
+
+.tier-3-color-border {
+    /* border: 25px solid; */
+    border-color: #0F3460;
+}
+
+.tier-4-color-border {
+    /* border: 25px solid; */
+    border-color: #E94560;
+}
+
+.tier-5-color-border {
+    /* border: 25px solid; */
+    border-color: #9067ff;
+}
+
+/* Define the border of the Values, Abilities, and Skillset Sections' categories */
+.category-border {
+    border: 25px solid;
+    border-color: #FF6768;
+}
+
+/* Define the background category of the Skillset Sections' undergraduate academic categories */
+.undergraduate-background-color {
+    background-color: lightgoldenrodyellow;
+}
+
+/* Define the background category of the Skillset Sections' graduate academic categories */
+.graduate-background-color {
+    background-color: lightskyblue;
+}
+/* Color Legend Styling Ends Here */
+
+/* Values, Abilities, and Skillsets Section Styling Starts Here */
+/* Define the styling for the skillsets sections' div elements */
+.skillsets {
+    border-top: 25px solid;
+    border-color: #FF6768; 
+    border-radius: 0px 0px 0px 0px;
+    background-image: linear-gradient(
+        var(--rotate)
+        , #5ddcff, #3c67e3 43%, #4e00c2);
+        z-index: -1;
+        animation: spin 7.5s linear infinite;
+        padding: 2%;
+}
+
+/* Define the styling for the academic skillsets categories */
+.logo-box-category {
+    padding: 2%;
+    border-radius: 25px;
+}
+
+/* Define the background color for the undergraduate and graduate courses headers */
+.logo-box-category h5 {
+    background-color: #FF6768;
+}
+
+/* Define the background color of the logo cards and the (general) cards */
+/* .card .logo-box {
+    background-color: #FF6768;
+} */
+
+/* Define the image height of the logos */
+.logo-box img{
+    height: 75px;
+}
+
+/* Define the hover effect for the boxes within the values, abilities, and skillsets sections */
+.logo-box:hover {
+    border: none;
+    background-color: #BBE1FA;
+    box-shadow:
+        inset 0 0 50px #fff,
+        inset 20px 0 80px #f0f,
+        inset -20px 0 80px #0ff,
+        inset 20px 0 300px #f0f,
+        inset -20px 0 300px #0ff,
+        0 0 50px #fff,
+        -10px 0 80px #f0f,
+        10px 0 80px #0ff;
+}
+
+/* Define whether or not the anchor tags within the Values Section are enabled */
+/* #values-section a {
+    pointer-events: none;
+} */
+
+/* Define whether or not the anchor tags within the Abilities Section are enabled */
+/* #abilities-section a {
+    pointer-events: none;
+} */
+
+/* Define whether or not the anchor tags within the Skillsets Section are enabled */
+/* #skillsets-section a {
+    pointer-events: none;
+} */
+/* Values, Abilities, and Skillsets Section Styling Ends Here */
+
+/* Card Container Styling Starts Here */
+/* Define a shadow for the container */
+.container {
+    box-shadow:
+        inset 0 0 50px #fff,
+        inset 20px 0 80px #f0f,
+        inset -20px 0 80px #0ff,
+        inset 20px 0 300px #f0f,
+        inset -20px 0 300px #0ff,
+        0 0 50px #fff,
+        -10px 0 80px #f0f,
+        10px 0 80px #0ff;
+}
+/* Card Container Styling Ends Here */
+
+/* Card Styling Starts Here */
+/* Define the styling for a card */
+.card {
+    margin: 2%;
+    text-align: center;
+    /* border: 25px solid;
+    border-color: #6B778D; */
+    border-radius: 25px;
+    background-color: #FF6768;
+    box-shadow:
+        inset 0 0 50px #fff,
+        inset 20px 0 80px #f0f,
+        inset -20px 0 80px #0ff,
+        inset 20px 0 300px #f0f,
+        inset -20px 0 300px #0ff,
+        0 0 50px #fff,
+        -10px 0 80px #f0f,
+        10px 0 80px #0ff;
+}
+
+/* Define the styling for the video or image at the top of a card */
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+    border-radius: 25px 25px 0px 0px;
+}
+
+/* Define the styling for the header of a card which outlines the category of the card's topic (i.e. technical versus non-technical, etc.) */
+.card-header {
+    height: 150px;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 125%;
+    /* background-color: #FF6768; */
+}
+
+/* Override the car-header font-size for the overview div elements */
+.overview {
+    font-size: 200%;
+}
+
+/* Define card-header background colors */
+#professional-work-history {
+    background-color:#7952B3;
+}
+
+.technical-education-and-work {
+    background-color: #11468F;
+}
+
+#technical-education-and-work-video-tutorials {
+    background-color: #11468F;
+}
+
+#technical-education-and-work-blog-posts {
+    background-color: #11468F;
+}
+
+.non-technical-education-and-work {
+    background-color:#DA1212;
+}
+
+.interests {
+    background-color: #29A19C;
+}
+
+/* Define the styling for the container that contains a card's title and text */
+.card-body {
+    width: 100%;
+    border-radius: 0px 0px 25px 25px;
+    color: white;
+    background-color: #263859;
+}
+
+/* Override the borde-radius styling for the card-body class */
+.skillsets {
+    border-radius: 0px;
+}
+
+/* Define the hover effect for a card's body */
+.card-body:hover {
+    background-color: #00b4ff;
+}
+
+/* Define the styling for the title of a card */
+.card-title {
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* pointer-events: none; */
+}
+
+/* #social-media-profiles a{
+    pointer-events: all;
+} */
+
+/* Define the styling for a card's text */
+.card-text {
+    height: 800px;
+    /* pointer-events: all; */
+}
+
+/* Define the styling for the card that provides an overview for a section of cards */
+.overview-card {
+    border: 25px solid;
+    border-color: #FF6768;
+    border-radius: 25px;
+    background-color: #FF6768;
+    background-image: linear-gradient(
+        var(--rotate)
+        , #5ddcff, #3c67e3 43%, #4e00c2);
+        animation: spin 2.5s linear infinite;
+}
+
+.quote-body {
+    border-radius: 0px;
+}
+/* Card Styling Ends Here */
+
+/* GIF Styling Starts Here */
+.gif {
+    height: 300px;
+    width: 300px;
+    margin-top: 250px;
+    left: 2%;
+    border-radius: 25px 25px 25px 25px;
+    background-image: linear-gradient(
+        var(--rotate)
+        , #5ddcff, #3c67e3 43%, #4e00c2);
+        z-index: -1;
+        animation: spin 2.5s linear infinite;
+        padding: 2%;
+    box-shadow:
+        inset 0 0 50px #fff,
+        inset 20px 0 80px #f0f,
+        inset -20px 0 80px #0ff,
+        inset 20px 0 300px #f0f,
+        inset -20px 0 300px #0ff,
+        0 0 50px #fff,
+        -10px 0 80px #f0f,
+        10px 0 80px #0ff;
+}
+
+.right-gif {
+    left: 82%;
+}
+/* GIF Styling Ends Here */
+
+/* Media Queries Styling Starts Here */
+@media (max-width: 480px) {
+    #mobile-only-content h1 {
+        background-color: #00b4ff;
+    }
+
+    #mobile-only-content h1, #mobile-only-content h4 {
+        box-shadow: none;
+    }
+
+    #navigation-bar, .jumbotron, .background-wrap, #webpage-subtitle, #birds-eye-view, #hero-image, #about-section, #fortune-favors-the-brave, .section-divider, #social-media-profiles-title, #values-title, #abilities-title, #skillsets-title, .overview-card, #color-legend, #values-section, #abilities-section, #skillsets-section, #work-history-section, .gif, .right-gif, #quick-access-webpage-links, .card-text, h6 {
+        display: none;
+    }
+    
+    .centered-text {
+        font-size: 175%;
+    }
+
+    #social-media-profiles {
+        border: none;
+        background: transparent;
+        box-shadow: none;
+    }
+
+    .card {
+        margin: 2%;
+        text-align: center;
+        /* border: 25px solid;
+        border-color: #6B778D; */
+        border-radius: 25px;
+        background-color: #FF6768;
+        box-shadow: none;
+    }
+
+    .card-text {
+        height: 300px;
+    }
+}
+
+@media (min-width: 480px) {
+    #mobile-only-content {
+        display: none;
+    }
+}
+/* Media Queries Styling Ends Here */

@@ -1,0 +1,19 @@
+/* Color palette: https://colorhunt.co/palette/17223b2638596b778dff6768 */
+* {
+    box-sizing: border-box;
+}
+
+@property --rotate {
+    syntax: "<angle>";
+    initial-value: 132deg;
+    inherits: false;
+  }
+
+@keyframes spin {
+    0% {
+        --rotate: 0deg;
+    }
+    100% {
+        --rotate: 360deg;
+    }
+}
