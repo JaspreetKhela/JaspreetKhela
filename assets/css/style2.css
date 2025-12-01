@@ -9,6 +9,10 @@ body {
     font-size: large;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 /* Define the styling for image elements */
 img {
     height: 200px;
@@ -136,8 +140,9 @@ h6 a {
     padding: 1%;
     height: 100%;
     width: 100%;
-    background: linear-gradient(120deg, #0f172a 0%, #102a43 55%, #1f6feb 100%);
+    background: linear-gradient(120deg, #13233d 0%, #1c365c 45%, #2a5fa3 100%);
     color: #ffffff;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.25);
 }
 
 /* Define the styling for the sixth-level header elements */
@@ -162,7 +167,7 @@ h6 .custom-heading-background{
     border: 25px solid;
     border-color: #FF6768;
     border-radius: 25px;
-    box-shadow:
+    /* box-shadow:
         inset 0 0 50px #fff,
         inset 20px 0 80px #f0f,
         inset -20px 0 80px #0ff,
@@ -170,7 +175,7 @@ h6 .custom-heading-background{
         inset -20px 0 300px #0ff,
         0 0 50px #fff,
         -10px 0 80px #f0f,
-        10px 0 80px #0ff;
+        10px 0 80px #0ff; */
 }
 /* Global Styling Ends Here */
 
@@ -181,7 +186,7 @@ nav {
     border: 12px solid #FF6768;
     border-radius: 18px;
     text-align: center;
-    background: linear-gradient(120deg, #0b132b 0%, #12274f 55%, #1f3f75 100%);
+    background: linear-gradient(120deg, #0e1a2f 0%, #162e55 55%, #1f4475 100%);
     box-shadow: 0 12px 28px rgba(0, 0, 0, 0.35);
     padding: 0.5rem 1.5rem;
     z-index: 99999;
@@ -232,6 +237,27 @@ nav {
     transform: translateY(-1px);
 }
 
+.quick-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+}
+
+.quick-nav .btn {
+    border-radius: 999px;
+    font-weight: 700;
+    border-color: #1f6feb;
+    color: #e8f3ff;
+    transition: background-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
+}
+
+.quick-nav .btn:hover {
+    background-color: #1f6feb;
+    color: #0c1b33;
+    transform: translateY(-1px);
+}
+
 .navbar-light .navbar-toggler {
     border-color: rgba(255, 255, 255, 0.35);
 }
@@ -276,7 +302,8 @@ nav {
 
 .collapsible-heading {
     cursor: pointer;
-    margin-top: 1.5rem;
+    margin-top: 1.25rem;
+    margin-bottom: 0.5rem;
     font-size: 2rem;
 }
 
@@ -294,14 +321,95 @@ nav {
 .collapse {
     transition: height 0.3s ease, opacity 0.25s ease;
 }
+
+/* Hero overlay */
+.hero-overlay {
+    position: relative;
+    z-index: 1;
+    padding: 2.5rem 1rem 3rem;
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(135deg, rgba(15,23,42,0.85), rgba(18,31,60,0.6));
+}
+
+.hero-banner {
+    max-width: 760px;
+    width: 100%;
+    padding: 2.25rem 1.5rem;
+    border-radius: 18px;
+    box-shadow: 0 22px 38px rgba(0,0,0,0.45);
+}
+
+.hero-kicker {
+    font-size: 1.1rem;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: #cce1ff;
+    margin-bottom: 0.5rem;
+}
+
+.hero-caption {
+    font-size: 1.3rem;
+    font-weight: 800;
+    color: #f8fbff;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.6);
+}
+
+.hero-title {
+    font-size: 3rem;
+    font-weight: 900;
+    color: #f8fbff;
+    margin: 0.35rem 0 0;
+    text-shadow: 0 2px 6px rgba(0,0,0,0.65);
+}
+
+#back-to-top {
+    position: fixed;
+    right: 1.5rem;
+    bottom: 1.5rem;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    border: 2px solid #1f6feb;
+    background: #0e1a2f;
+    color: #e8f3ff;
+    font-size: 1.4rem;
+    font-weight: 800;
+    box-shadow: 0 12px 24px rgba(0,0,0,0.35);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.25s ease, transform 0.25s ease;
+    z-index: 100000;
+}
+
+#back-to-top.show {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(-4px);
+}
+
+@keyframes taglinePulse {
+    0%, 100% {
+        opacity: 0.9;
+        transform: translateY(0);
+        text-shadow: 0 3px 8px rgba(0,0,0,0.55);
+        letter-spacing: 0.5px;
+    }
+    50% {
+        opacity: 1;
+        transform: translateY(-3px) scale(1.01);
+        text-shadow: 0 6px 16px rgba(0,0,0,0.75);
+        letter-spacing: 1px;
+    }
+}
 /* Webpage Heading Styling Ends Here */
 
 /* Dynamic Content Display Styling Starts Here */
 .reveal{
     position: relative;
-    transform: translateY(150px);
+    transform: translateY(120px);
     opacity: 0;
-    transition: 2s all ease;
+    transition: 1.2s all ease;
 }
 
 .reveal.active {
@@ -399,14 +507,23 @@ nav {
     border: 18px solid;
     border-color: #1f6feb;
     border-radius: 25px;
-    box-shadow:
-        0 18px 32px rgba(0, 0, 0, 0.35),
+    box-shadow: 0 18px 32px rgba(0, 0, 0, 0.35),
         0 -8px 18px rgba(31, 111, 235, 0.25);
 }
 
 .current, .future {
     padding: 2%;
     background-color: #102a43;
+}
+
+.welcome-tagline {
+    margin-top: 0.5rem;
+    font-size: 2.8rem;
+    font-weight: 700;
+    font-family: "Segoe Script", "Comic Sans MS", cursive;
+    color: #ffffff;
+    text-shadow: 0 3px 8px rgba(0,0,0,0.55);
+    animation: taglinePulse 3s ease-in-out infinite;
 }
 
 /* Define ths styling for the third container in the About Section */
@@ -649,36 +766,22 @@ blockquote p {
 /* Card Container Styling Starts Here */
 /* Define a shadow for the container */
 .container {
-    box-shadow:
-        inset 0 0 50px #fff,
-        inset 20px 0 80px #f0f,
-        inset -20px 0 80px #0ff,
-        inset 20px 0 300px #f0f,
-        inset -20px 0 300px #0ff,
-        0 0 50px #fff,
-        -10px 0 80px #f0f,
-        10px 0 80px #0ff;
+    box-shadow: none;
+    border-radius: 0;
+    padding: 0;
 }
 /* Card Container Styling Ends Here */
 
 /* Card Styling Starts Here */
 /* Define the styling for a card */
 .card {
-    margin: 2%;
+    margin: 1.25rem;
     text-align: center;
     /* border: 25px solid;
     border-color: #6B778D; */
     border-radius: 25px;
-    background-color: #FF6768;
-    box-shadow:
-        inset 0 0 50px #fff,
-        inset 20px 0 80px #f0f,
-        inset -20px 0 80px #0ff,
-        inset 20px 0 300px #f0f,
-        inset -20px 0 300px #0ff,
-        0 0 50px #fff,
-        -10px 0 80px #f0f,
-        10px 0 80px #0ff;
+    background: linear-gradient(145deg, #0f172a, #1d2f4f);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.35), 0 0 0 1px rgba(255, 255, 255, 0.04);
 }
 
 /* Define the styling for the video or image at the top of a card */
@@ -697,7 +800,9 @@ blockquote p {
     justify-content: center;
     align-items: center;
     font-size: 125%;
-    /* background-color: #FF6768; */
+    background: linear-gradient(135deg, #f8d7e6 0%, #d9eaf7 60%, #e5f6e0 100%);
+    color: #0c1b33;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.6);
 }
 
 /* Override the car-header font-size for the overview div elements */
@@ -747,6 +852,8 @@ blockquote p {
 /* Define the hover effect for a card's body */
 .card-body:hover {
     background-color: #1f4f99;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+    transform: translateY(-2px);
 }
 
 /* Define the styling for the title of a card */
@@ -845,7 +952,7 @@ blockquote p {
         border-color: #6B778D; */
         border-radius: 25px;
         background-color: #FF6768;
-        box-shadow: none;
+        box-shadow: 0 12px 28px rgba(0, 0, 0, 0.35), 0 0 0 1px rgba(255, 255, 255, 0.04);
     }
 
     .card-text {
