@@ -257,6 +257,43 @@ nav {
     padding: 0.5rem 0;
     margin-bottom: 0.5rem;
 }
+
+.section-toggle {
+    margin: 0.5rem 0;
+    background: linear-gradient(120deg, #0b132b 0%, #12274f 55%, #1f3f75 100%);
+    border: 2px solid #1f6feb;
+    color: #ffffff;
+    font-weight: 700;
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.35);
+}
+
+.section-toggle:hover,
+.section-toggle:focus {
+    color: #ffefd5;
+    background: linear-gradient(120deg, #12274f 0%, #1f3f75 55%, #245fb9 100%);
+    box-shadow: 0 10px 22px rgba(0, 0, 0, 0.4);
+}
+
+.collapsible-heading {
+    cursor: pointer;
+    margin-top: 1.5rem;
+    font-size: 2rem;
+}
+
+.collapsible-heading .custom-heading-background {
+    padding: 1.2rem 1rem;
+    font-size: 1.1em;
+}
+
+.collapsible-heading .custom-heading-background:hover {
+    filter: brightness(1.08);
+    transition: filter 0.2s ease, transform 0.2s ease;
+    transform: translateY(-1px);
+}
+
+.collapse {
+    transition: height 0.3s ease, opacity 0.25s ease;
+}
 /* Webpage Heading Styling Ends Here */
 
 /* Dynamic Content Display Styling Starts Here */
