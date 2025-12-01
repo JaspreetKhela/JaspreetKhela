@@ -136,7 +136,8 @@ h6 a {
     padding: 1%;
     height: 100%;
     width: 100%;
-    background-color: #00b4ff;
+    background: linear-gradient(120deg, #0f172a 0%, #102a43 55%, #1f6feb 100%);
+    color: #ffffff;
 }
 
 /* Define the styling for the sixth-level header elements */
@@ -176,13 +177,13 @@ h6 .custom-heading-background{
 /* Navigation Styling Starts Here */
 /* Define the fundamental properties of the navigation bar */
 nav {
-    font-size: 85%;
-    border: 25px solid;
-    border-color: #FF6768;
-    border-radius: 0px 0px 25px 25px;
+    font-size: 90%;
+    border: 12px solid #FF6768;
+    border-radius: 18px;
     text-align: center;
-    /* background-color: #0F4C75; */
-    background-color: #00b4ff;
+    background: linear-gradient(120deg, #0b132b 0%, #12274f 55%, #1f3f75 100%);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.35);
+    padding: 0.5rem 1.5rem;
     z-index: 99999;
     /* box-shadow:
         inset 0 0 50px #fff,
@@ -208,6 +209,35 @@ nav {
  /* Change the font color of the navigation bar's links */
 #navigation-bar a {
     color: white;
+    font-weight: 600;
+    letter-spacing: 0.35px;
+}
+
+#navigation-bar .navbar-brand {
+    font-weight: 800;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+}
+
+#navigation-bar .nav-link {
+    padding: 0.5rem 0.9rem;
+    margin: 0 0.15rem;
+    border-radius: 12px;
+    transition: color 0.2s ease, background-color 0.2s ease, transform 0.2s ease;
+}
+
+#navigation-bar .nav-link:hover, #navigation-bar .nav-link:focus {
+    color: #ffefd5;
+    background-color: rgba(255, 255, 255, 0.1);
+    transform: translateY(-1px);
+}
+
+.navbar-light .navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.35);
+}
+
+.navbar-light .navbar-toggler-icon {
+    filter: invert(1) brightness(1.4);
 }
 /* Navigation Styling Ends Here */
 
@@ -224,6 +254,8 @@ nav {
 
 .jumbotron {
     background-color: transparent;
+    padding: 0.5rem 0;
+    margin-bottom: 0.5rem;
 }
 /* Webpage Heading Styling Ends Here */
 
@@ -300,6 +332,7 @@ nav {
     text-align: center;
     color: white;
     padding: 3%;
+    margin-top: 0.5rem;
     /* border: 25px solid;
     border-color: #FF6768;
     border-radius: 25px;
@@ -325,24 +358,18 @@ nav {
 .lead {
     margin: 2%;
     font-size: x-large;
-    background-color: #17223B;
-    border: 25px solid;
-    border-color: #FF6768;
+    background: linear-gradient(160deg, #0b1628 0%, #0f1f38 55%, #132b4f 100%);
+    border: 18px solid;
+    border-color: #1f6feb;
     border-radius: 25px;
     box-shadow:
-        inset 0 0 50px #fff,
-        inset 20px 0 80px #f0f,
-        inset -20px 0 80px #0ff,
-        inset 20px 0 300px #f0f,
-        inset -20px 0 300px #0ff,
-        0 0 50px #fff,
-        -10px 0 80px #f0f,
-        10px 0 80px #0ff;
+        0 18px 32px rgba(0, 0, 0, 0.35),
+        0 -8px 18px rgba(31, 111, 235, 0.25);
 }
 
 .current, .future {
     padding: 2%;
-    background-color: #17223B;
+    background-color: #102a43;
 }
 
 /* Define ths styling for the third container in the About Section */
@@ -383,14 +410,19 @@ nav {
 
 /* Define the styling for the quote body */
 .quote-body {
-    background-color: #263859;
-    border-top: 25px solid;
-    border-color: #FF6768;
+    background-color: #0f1f3a;
+    border-top: 18px solid;
+    border-color: #1f6feb;
 }
 
 /* Define the text size of the overview card descriptions paragraph element */
 blockquote p {
     font-size: 125%;
+}
+
+.quote-body .blockquote-footer,
+.quote-body .blockquote-footer cite {
+    color: #ffffff;
 }
 /* Overview Styling Ends Here */
 
@@ -666,7 +698,8 @@ blockquote p {
     width: 100%;
     border-radius: 0px 0px 25px 25px;
     color: white;
-    background-color: #263859;
+    background-color: #0f243d;
+    box-shadow: inset 0 8px 18px rgba(0, 0, 0, 0.25);
 }
 
 /* Override the borde-radius styling for the card-body class */
@@ -676,7 +709,7 @@ blockquote p {
 
 /* Define the hover effect for a card's body */
 .card-body:hover {
-    background-color: #00b4ff;
+    background-color: #1f4f99;
 }
 
 /* Define the styling for the title of a card */
@@ -694,7 +727,7 @@ blockquote p {
 
 /* Define the styling for a card's text */
 .card-text {
-    height: 400px;
+    height: 200px;
     /* pointer-events: all; */
 }
 
@@ -745,10 +778,10 @@ blockquote p {
 /* GIF Styling Ends Here */
 
 /* Media Queries Styling Starts Here */
-@media (max-width: 480px) {
-    #mobile-only-content h1 {
-        background-color: #00b4ff;
-    }
+    @media (max-width: 480px) {
+        #mobile-only-content h1 {
+        background-color: #1f4f99;
+        }
 
     #mobile-only-content h1, #mobile-only-content h4 {
         box-shadow: none;
