@@ -694,7 +694,7 @@ blockquote p {
 
 /* Define the styling for a card's text */
 .card-text {
-    height: 800px;
+    height: 400px;
     /* pointer-events: all; */
 }
 
