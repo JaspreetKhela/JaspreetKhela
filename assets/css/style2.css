@@ -1103,10 +1103,24 @@ blockquote p {
 
     .card {
         margin: 1rem auto;
+        max-width: 23.5rem !important;
+        box-shadow: 0 10px 22px rgba(0, 0, 0, 0.3), 0 0 0 1px rgba(255, 255, 255, 0.05);
+    }
+
+    .card:not(.overview-card) {
+        height: auto;
+    }
+
+    .card-header {
+        min-height: 115px;
     }
 
     .card-title, .card-text {
         min-height: unset;
+    }
+
+    .card-body {
+        padding: 1.05rem 1.25rem 1.25rem;
     }
 }
 
