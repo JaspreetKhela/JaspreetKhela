@@ -876,6 +876,14 @@ blockquote p {
     }
 }
 
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* Tablets: allow three-across grid breathing room */
+    .row > [class*="col-md-4"] {
+        flex: 0 0 48%;
+        max-width: 48%;
+    }
+}
+
 /* Card Container Styling Ends Here */
 
 /* Card Styling Starts Here */
