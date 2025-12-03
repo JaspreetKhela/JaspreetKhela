@@ -868,13 +868,21 @@ blockquote p {
     justify-content: center;
 }
 
+@media (min-width: 992px) {
+    /* Widen cards on large screens by relaxing the 4-up grid */
+    .row > [class*="col-lg-3"] {
+        flex: 0 0 32%;
+        max-width: 32%;
+    }
+}
+
 /* Card Container Styling Ends Here */
 
 /* Card Styling Starts Here */
 /* Define the styling for a card */
 .card {
     margin: 1.25rem;
-    max-width: 18rem;
+    max-width: 22rem !important;
     display: flex;
     flex-direction: column;
     height: 100%;
@@ -1019,6 +1027,7 @@ blockquote p {
 
 .row .card {
     width: 100%;
+    max-width: 22rem !important;
 }
 
 /* Define the styling for the card that provides an overview for a section of cards */
