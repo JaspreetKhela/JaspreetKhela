@@ -1,5 +1,11 @@
 /* Global Styling Starts Here */
 /* Add a background image to the webpage */
+:root {
+    --accent-color: #f4f5f7;
+    --accent-strong: #1f6feb;
+    --pill-glow: 0 10px 22px rgba(31, 111, 235, 0.18);
+}
+
 body {
     margin: 3%;
     background-image: url("../images/background-images/simone-hutsch-8p6pdSkA-6A-unsplash.jpg");
@@ -21,7 +27,8 @@ img {
 
 /* Define the styling for the bold elements */
 b {
-    font-weight: 600;
+    font-weight: 700;
+    color: #ffe86a;
 }
 
 /* Define the styling for the div containers */
@@ -41,7 +48,7 @@ h1 {
     font-size: 300%;
     text-align: center;
     border: 25px solid;
-    border-color: #FF6768;
+    border-color: var(--accent-color);
     border-radius: 25px;
     color: white;
     box-shadow:
@@ -65,7 +72,7 @@ h2, h3 {
     border-bottom: 1px solid;
     border-width: thick; */
     border: 25px solid;
-    border-color: #FF6768;
+    border-color: var(--accent-color);
     border-radius: 25px;
     color: white;
     box-shadow:
@@ -83,9 +90,9 @@ h2, h3 {
 h4 {
     margin: auto;
     width: 100%;
-    background-color: #FF6768;
+    background-color: var(--accent-color);
     border: 25px solid;
-    border-color: #FF6768;
+    border-color: var(--accent-color);
     border-radius: 25px;
     color: white;
     box-shadow:
@@ -115,7 +122,7 @@ h6 {
     border-bottom: 25px solid;
     border-left: 25px solid;
     border-right: 25px solid;
-    border-color: #FF6768;
+    border-color: var(--accent-color);
     border-radius: 0px 0px 25px 25px;
     color: white;
     background-color: #263859;
@@ -165,7 +172,7 @@ h6 .custom-heading-background{
     height: 100px;
     width: 100%;
     border: 25px solid;
-    border-color: #FF6768;
+    border-color: var(--accent-color);
     border-radius: 25px;
     /* box-shadow:
         inset 0 0 50px #fff,
@@ -183,7 +190,7 @@ h6 .custom-heading-background{
 /* Define the fundamental properties of the navigation bar */
 nav {
     font-size: 90%;
-    border: 12px solid #FF6768;
+    border: 12px solid var(--accent-color);
     border-radius: 18px;
     text-align: center;
     background: linear-gradient(120deg, #0e1a2f 0%, #162e55 55%, #1f4475 100%);
@@ -224,17 +231,32 @@ nav {
     text-transform: uppercase;
 }
 
+#navigation-bar .navbar-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+#navigation-bar .nav-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 1 auto;
+}
+
 #navigation-bar .nav-link {
     padding: 0.5rem 0.9rem;
     margin: 0 0.15rem;
     border-radius: 12px;
-    transition: color 0.2s ease, background-color 0.2s ease, transform 0.2s ease;
+    transition: color 0.2s ease, background-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 #navigation-bar .nav-link:hover, #navigation-bar .nav-link:focus {
     color: #ffefd5;
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.12);
     transform: translateY(-1px);
+    box-shadow: var(--pill-glow);
 }
 
 .quick-nav {
@@ -244,18 +266,42 @@ nav {
     justify-content: center;
 }
 
+.quick-nav-shell {
+    margin: 0 auto;
+    padding: 1.5rem 1rem;
+    width: 100%;
+    max-width: 100%;
+    background: rgba(12, 20, 38, 0.82);
+    border: 2px solid var(--accent-color);
+    border-radius: 16px;
+    box-shadow: 0 16px 32px rgba(0, 0, 0, 0.35);
+    backdrop-filter: blur(4px);
+}
+
+.quick-nav .pill {
+    display: flex;
+    justify-content: center;
+}
+
 .quick-nav .btn {
+    display: block;
     border-radius: 999px;
     font-weight: 700;
-    border-color: #1f6feb;
-    color: #e8f3ff;
-    transition: background-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
+    padding: 0.65rem 1.15rem;
+    border: 2px solid #d5dae3;
+    color: #0c1b33;
+    background: linear-gradient(135deg, #fdfdfd 0%, #eef2f7 100%);
+    box-shadow: 0 6px 12px rgba(12, 26, 48, 0.08);
+    letter-spacing: 0.35px;
+    transition: background-color 0.2s ease, color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
 }
 
 .quick-nav .btn:hover {
-    background-color: #1f6feb;
+    background-color: #eef2f7;
     color: #0c1b33;
+    border-color: #d5dae3;
     transform: translateY(-1px);
+    box-shadow: 0 12px 24px rgba(17, 70, 143, 0.25);
 }
 
 .navbar-light .navbar-toggler {
@@ -287,7 +333,7 @@ nav {
 .section-toggle {
     margin: 0.5rem 0;
     background: linear-gradient(120deg, #0b132b 0%, #12274f 55%, #1f3f75 100%);
-    border: 2px solid #1f6feb;
+    border: 2px solid var(--accent-color);
     color: #ffffff;
     font-weight: 700;
     box-shadow: 0 8px 18px rgba(0, 0, 0, 0.35);
@@ -302,9 +348,30 @@ nav {
 
 .collapsible-heading {
     cursor: pointer;
-    margin-top: 1.25rem;
-    margin-bottom: 0.5rem;
+    margin: 1.2rem 0;
     font-size: 2rem;
+}
+
+.collapsible-heading .custom-heading-background {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 2.5rem;
+}
+
+.collapsible-heading .custom-heading-background::after {
+    content: "▼";
+    font-size: 0.9em;
+    position: absolute;
+    right: 1.25rem;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: transform 0.2s ease;
+}
+
+.collapsible-heading[aria-expanded="false"] .custom-heading-background::after {
+    transform: translateY(-50%) rotate(-90deg);
 }
 
 .collapsible-heading .custom-heading-background {
@@ -370,7 +437,7 @@ nav {
     width: 48px;
     height: 48px;
     border-radius: 50%;
-    border: 2px solid #1f6feb;
+    border: 2px solid var(--accent-color);
     background: #0e1a2f;
     color: #e8f3ff;
     font-size: 1.4rem;
@@ -457,7 +524,7 @@ nav {
     margin-left: auto;
     margin-right: auto;
     /* border: 25px solid; */
-    border-color: #FF6768;
+    border-color: var(--accent-color);
     border-radius: 40%;
     /* box-shadow:
         inset 0 0 50px #fff,
@@ -502,10 +569,10 @@ nav {
 /* Define the styling for the paragraph containers within the About Section */
 .lead {
     margin: 2%;
-    font-size: x-large;
+    font-size: 1.5rem;
     background: linear-gradient(160deg, #0b1628 0%, #0f1f38 55%, #132b4f 100%);
     border: 18px solid;
-    border-color: #1f6feb;
+    border-color: var(--accent-color);
     border-radius: 25px;
     box-shadow: 0 18px 32px rgba(0, 0, 0, 0.35),
         0 -8px 18px rgba(31, 111, 235, 0.25);
@@ -518,12 +585,11 @@ nav {
 
 .welcome-tagline {
     margin-top: 0.5rem;
-    font-size: 2.8rem;
+    font-size: 1.5rem;
     font-weight: 700;
-    font-family: "Segoe Script", "Comic Sans MS", cursive;
-    color: #ffffff;
-    text-shadow: 0 3px 8px rgba(0,0,0,0.55);
-    animation: taglinePulse 3s ease-in-out infinite;
+    font-family: inherit;
+    color: #ffe45c;
+    text-shadow: none;
 }
 
 /* Define ths styling for the third container in the About Section */
@@ -532,11 +598,26 @@ nav {
 }
 /* About Section Styling Ends Here */
 
+.welcome-title {
+    margin-bottom: 0.75rem;
+    margin-top: 0.5rem;
+    padding: 0.75rem 1rem;
+    text-align: center;
+    background: linear-gradient(120deg, #0d1c33 0%, #12305a 55%, #164283 100%);
+    border: 2px solid var(--accent-color);
+    border-radius: 18px;
+    color: #f8fbff;
+    box-shadow: 0 14px 26px rgba(0, 0, 0, 0.35);
+    letter-spacing: 0.6px;
+    font-size: 2.2rem;
+    font-weight: 800;
+}
+
 /* Sections' Headings Styling Starts Here*/
 #social-media-profiles, #work-history-category, #software-education-and-work-category, #hardware-education-and-work-category, #multimedia-production-portfolios, #skilled-trades-portfolios, #performance-arts-portfolios, #business-education-and-work-category, #academic-education-and-work-category, #personal-development-education-and-work-category, #interests-education-and-work-category {
     padding: 3%;
     border: 25px solid;
-    border-color: #FF6768;
+    border-color: var(--accent-color);
     border-radius: 25px;
     /* border: 1px solid;
     border-width: thick; */
@@ -566,7 +647,12 @@ nav {
 .quote-body {
     background-color: #0f1f3a;
     border-top: 18px solid;
-    border-color: #1f6feb;
+    border-color: var(--accent-color);
+}
+
+.highlight {
+    font-weight: 700;
+    color: #ffe45c;
 }
 
 /* Define the text size of the overview card descriptions paragraph element */
@@ -592,7 +678,7 @@ blockquote p {
     margin-left: auto;
     margin-right: auto;
     border: 25px solid;
-    border-color: #FF6768;
+    border-color: var(--accent-color);
     border-radius: 25px;
     box-shadow:
         inset 0 0 50px #fff,
@@ -620,7 +706,7 @@ blockquote p {
 /* Define the border of the color legend cards */
 .div-border {
     border: 25px solid;
-    border-color: #FF6768;
+    border-color: var(--accent-color);
 }
 
 /* Define the styling for the color and logo cards */
@@ -683,7 +769,7 @@ blockquote p {
 /* Define the border of the Values, Abilities, and Skillset Sections' categories */
 .category-border {
     border: 25px solid;
-    border-color: #FF6768;
+    border-color: var(--accent-color);
 }
 
 /* Define the background category of the Skillset Sections' undergraduate academic categories */
@@ -701,7 +787,7 @@ blockquote p {
 /* Define the styling for the skillsets sections' div elements */
 .skillsets {
     border-top: 25px solid;
-    border-color: #FF6768; 
+    border-color: var(--accent-color); 
     border-radius: 0px 0px 0px 0px;
     background-image: linear-gradient(
         var(--rotate)
@@ -719,7 +805,7 @@ blockquote p {
 
 /* Define the background color for the undergraduate and graduate courses headers */
 .logo-box-category h5 {
-    background-color: #FF6768;
+    background-color: var(--accent-color);
 }
 
 /* Define the background color of the logo cards and the (general) cards */
@@ -770,12 +856,28 @@ blockquote p {
     border-radius: 0;
     padding: 0;
 }
+
+@media (max-width: 768px) {
+    .container .row {
+        justify-content: center;
+    }
+}
+
+.container .row {
+    align-items: stretch;
+    justify-content: center;
+}
+
 /* Card Container Styling Ends Here */
 
 /* Card Styling Starts Here */
 /* Define the styling for a card */
 .card {
     margin: 1.25rem;
+    max-width: 18rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
     text-align: center;
     /* border: 25px solid;
     border-color: #6B778D; */
@@ -793,7 +895,8 @@ blockquote p {
 
 /* Define the styling for the header of a card which outlines the category of the card's topic (i.e. technical versus non-technical, etc.) */
 .card-header {
-    height: 150px;
+    min-height: 140px;
+    padding: 1rem;
     box-sizing: border-box;
     width: 100%;
     display: flex;
@@ -842,6 +945,11 @@ blockquote p {
     color: white;
     background-color: #0f243d;
     box-shadow: inset 0 8px 18px rgba(0, 0, 0, 0.25);
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding-top: 1rem;
+    padding-bottom: 1.25rem;
 }
 
 /* Override the borde-radius styling for the card-body class */
@@ -858,11 +966,9 @@ blockquote p {
 
 /* Define the styling for the title of a card */
 .card-title {
-    height: 150px;
     display: flex;
     justify-content: center;
     align-items: center;
-    /* pointer-events: none; */
 }
 
 /* #social-media-profiles a{
@@ -871,20 +977,58 @@ blockquote p {
 
 /* Define the styling for a card's text */
 .card-text {
-    height: 200px;
-    /* pointer-events: all; */
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 1.1rem 1.25rem 1.1rem;
+    font-size: 1.05rem;
+    line-height: 1.35;
+    word-break: break-word;
+}
+
+/* Make card titles stand out */
+.card-title {
+    color: #ffe86a;
+    padding: 0.75rem 0.8rem 0.35rem;
+}
+
+/* Normalize card heights without affecting overview cards */
+.card:not(.overview-card) {
+    height: 720px;
+}
+
+.card:not(.overview-card) .card-body {
+    min-height: 260px;
+}
+
+.card:not(.overview-card) .card-title {
+    min-height: 80px;
+    padding: 0.9rem 0.8rem 0.5rem;
+}
+
+.card:not(.overview-card) .card-text {
+    min-height: 200px;
+    padding: 1rem 0.95rem 1rem;
+}
+
+.row > [class*="col-"] {
+    display: flex;
+}
+
+.row .card {
+    width: 100%;
 }
 
 /* Define the styling for the card that provides an overview for a section of cards */
 .overview-card {
     border: 25px solid;
-    border-color: #FF6768;
+    border-color: var(--accent-color);
     border-radius: 25px;
-    background-color: #FF6768;
-    background-image: linear-gradient(
-        var(--rotate)
-        , #5ddcff, #3c67e3 43%, #4e00c2);
-        animation: spin 2.5s linear infinite;
+    background-color: #f7f8fa;
+    background-image: linear-gradient(135deg, #ffffff 0%, #f0f2f5 50%, #e4e7ed 100%);
+    max-width: 100% !important;
 }
 
 .quote-body {
@@ -922,41 +1066,71 @@ blockquote p {
 /* GIF Styling Ends Here */
 
 /* Media Queries Styling Starts Here */
-    @media (max-width: 480px) {
-        #mobile-only-content h1 {
+@media (max-width: 992px) {
+    body {
+        margin: 1.5rem;
+    }
+
+    #navigation-bar {
+        padding: 0.75rem 1rem;
+    }
+
+    #navigation-bar .nav-item {
+        flex: 1 1 45%;
+    }
+
+    #navigation-bar .nav-link {
+        white-space: normal;
+        line-height: 1.35;
+    }
+
+    .card {
+        margin: 1rem auto;
+    }
+
+    .card-title, .card-text {
+        min-height: unset;
+    }
+}
+
+@media (max-width: 640px) {
+    body {
+        margin: 1rem;
+    }
+
+    #mobile-only-content h1 {
         background-color: #1f4f99;
-        }
+    }
 
     #mobile-only-content h1, #mobile-only-content h4 {
         box-shadow: none;
     }
 
-    #navigation-bar, .jumbotron, .background-wrap, #webpage-subtitle, #birds-eye-view, #hero-image, #about-section, #fortune-favors-the-brave, .section-divider, #social-media-profiles-title, #values-title, #abilities-title, #skillsets-title, .overview-card, #color-legend, #values-section, #abilities-section, #skillsets-section, #work-history-section, .gif, .right-gif, #quick-access-webpage-links, .card-text, h6 {
+    .jumbotron, .background-wrap, #birds-eye-view, #hero-image, .gif, .right-gif {
         display: none;
     }
-    
-    .centered-text {
-        font-size: 175%;
-    }
 
-    #social-media-profiles {
-        border: none;
-        background: transparent;
-        box-shadow: none;
+    #navigation-bar .nav-item {
+        flex: 1 1 100%;
     }
 
     .card {
-        margin: 2%;
-        text-align: center;
-        /* border: 25px solid;
-        border-color: #6B778D; */
-        border-radius: 25px;
-        background-color: #FF6768;
-        box-shadow: 0 12px 28px rgba(0, 0, 0, 0.35), 0 0 0 1px rgba(255, 255, 255, 0.04);
+        margin: 0.9rem auto;
+        max-width: 24rem !important;
     }
 
-    .card-text {
-        height: 300px;
+    .card-header {
+        height: auto;
+        padding: 1rem;
+    }
+
+    .card-title, .card-text {
+        min-height: unset;
+        height: auto;
+    }
+
+    .quick-nav {
+        gap: 0.75rem;
     }
 }
 
