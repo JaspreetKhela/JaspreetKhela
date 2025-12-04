@@ -319,6 +319,29 @@ nav {
 .navbar-light .navbar-toggler-icon {
     filter: invert(1) brightness(1.4);
 }
+
+@media (max-width: 768px) {
+    #navigation-bar {
+        justify-content: center;
+        text-align: center;
+        flex-wrap: wrap;
+    }
+
+    #navigation-bar .navbar-brand {
+        margin: 0 auto;
+        flex: 1 1 100%;
+        text-align: center;
+    }
+
+    #navigation-bar .navbar-collapse {
+        justify-content: center;
+    }
+
+    #navigation-bar .navbar-toggler {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
 /* Navigation Styling Ends Here */
 
 /* Webpage Heading Styling Starts Here */
@@ -699,6 +722,24 @@ blockquote p {
     color: #fff4b3;
     text-decoration: none;
 }
+
+#social-media-profiles .card {
+    position: relative;
+}
+
+#social-media-profiles .card-body .stretched-link {
+    display: inline-block;
+    margin-top: auto;
+    font-weight: 700;
+    color: #ffe86a;
+    text-decoration: none;
+}
+
+#social-media-profiles .card-body .stretched-link:hover {
+    color: #fff4b3;
+    text-decoration: none;
+}
+
 /* Overview Styling Ends Here */
 
 /* Section Video or Image Styling Starts Here */
@@ -1020,6 +1061,11 @@ blockquote p {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: calc(100% + 2.5rem);
+    box-sizing: border-box;
+    text-align: center;
+    margin-left: -1.25rem;
+    margin-right: -1.25rem;
 }
 
 /* #social-media-profiles a{
@@ -1047,7 +1093,9 @@ blockquote p {
     background: linear-gradient(120deg, #8b1f36 0%, #74192f 50%, #5a1224 100%);
     border-radius: 0;
     box-shadow: 0 14px 22px rgba(0, 0, 0, 0.34);
-    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* Normalize card heights without affecting overview cards */
