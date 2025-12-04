@@ -1111,6 +1111,14 @@ blockquote p {
         box-shadow: 0 10px 22px rgba(0, 0, 0, 0.3), 0 0 0 1px rgba(255, 255, 255, 0.05);
     }
 
+    /* Keep overview cards full width on mobile and tablet, including landscape */
+    .overview-card {
+        max-width: 100% !important;
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
     .card:not(.overview-card) {
         height: auto;
     }
@@ -1152,6 +1160,14 @@ blockquote p {
     .card {
         margin: 0.9rem auto;
         max-width: 24rem !important;
+    }
+
+    /* Ensure overview cards span the viewport on smaller phones */
+    .overview-card {
+        max-width: 100% !important;
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
     }
 
     .card-header {
