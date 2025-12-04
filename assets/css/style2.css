@@ -325,12 +325,18 @@ nav {
         justify-content: center;
         text-align: center;
         flex-wrap: wrap;
+        display: flex;
+        align-items: center;
     }
 
     #navigation-bar .navbar-brand {
-        margin: 0 auto;
-        flex: 1 1 100%;
+        flex: 1 1 auto;
         text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0.35rem 0;
+        margin: 0 auto;
     }
 
     #navigation-bar .navbar-collapse {
@@ -339,7 +345,36 @@ nav {
 
     #navigation-bar .navbar-toggler {
         margin-left: auto;
-        margin-right: auto;
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 992px) and (orientation: landscape) {
+    #navigation-bar {
+        justify-content: center;
+        text-align: center;
+        flex-wrap: wrap;
+        display: flex;
+        align-items: center;
+    }
+
+    #navigation-bar .navbar-brand {
+        margin: 0 auto;
+        flex: 1 1 auto;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0.35rem 0;
+    }
+
+    #navigation-bar .navbar-collapse {
+        justify-content: center;
+    }
+
+    #navigation-bar .navbar-toggler {
+        margin-left: auto;
+        margin-right: 0;
     }
 }
 /* Navigation Styling Ends Here */
