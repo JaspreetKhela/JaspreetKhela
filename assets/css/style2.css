@@ -38,7 +38,15 @@ div {
 
 /* Define the styling for the anchor elements */
 a {
-    color: yellow;
+    color: #ffe86a;
+    font-weight: 700;
+    text-decoration: none;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.55);
+}
+
+a:hover {
+    color: #ffffff;
+    text-decoration: none;
 }
 
 /* Define the styling for the first-level header elements */
@@ -271,10 +279,10 @@ nav {
     padding: 1.5rem 1rem;
     width: 100%;
     max-width: 100%;
-    background: rgba(12, 20, 38, 0.82);
-    border: 2px solid var(--accent-color);
+    background: linear-gradient(125deg, rgba(12, 20, 38, 0.9) 0%, rgba(16, 42, 67, 0.9) 55%, rgba(8, 15, 28, 0.92) 100%);
+    border: 3px solid rgba(255, 255, 255, 0.8);
     border-radius: 16px;
-    box-shadow: 0 16px 32px rgba(0, 0, 0, 0.35);
+    box-shadow: 0 16px 32px rgba(0, 0, 0, 0.35), inset 0 1px 0 rgba(255, 255, 255, 0.08);
     backdrop-filter: blur(4px);
 }
 
@@ -668,6 +676,29 @@ blockquote p {
 .quote-body .blockquote-footer cite {
     color: #ffffff;
 }
+
+.quote-body a {
+    color: #ffe86a;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.quote-body a:hover {
+    color: #ffd24d;
+    text-decoration: underline;
+}
+
+#social-media-profiles .card-title a {
+    display: block;
+    width: 100%;
+    color: #ffe86a;
+    text-decoration: none;
+}
+
+#social-media-profiles .card-title a:hover {
+    color: #fff4b3;
+    text-decoration: none;
+}
 /* Overview Styling Ends Here */
 
 /* Section Video or Image Styling Starts Here */
@@ -1011,7 +1042,12 @@ blockquote p {
 /* Make card titles stand out */
 .card-title {
     color: #ffe86a;
-    padding: 0.75rem 0.8rem 0.35rem;
+    padding: 1rem 1.25rem 0.75rem;
+    margin: -1.05rem -1.25rem 0.65rem;
+    background: linear-gradient(120deg, #8b1f36 0%, #74192f 50%, #5a1224 100%);
+    border-radius: 0;
+    box-shadow: 0 14px 22px rgba(0, 0, 0, 0.34);
+    display: block;
 }
 
 /* Normalize card heights without affecting overview cards */
