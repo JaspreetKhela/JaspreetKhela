@@ -1,7 +1,7 @@
 # Hello, I'm Jaspreet Khela! 👋
 Welcome! If you’ve ever wondered what happens when a curious overthinker with a Wi-Fi connection sets out to become their best self, this is it.
 
-Below, I provide an overview of my background, detailing both my past and present educational and professional endeavors, as well as my personal interests and aspirations. Explore my journey of self-development, which encompasses emotional intelligence, mental health, and personal growth. Gain insights into my interpersonal skills through examples of effective communication, relationship building, and social interactions. Reflect on my academic and professional progress, highlighting my past achievements and future ambitions. Delve into my personal interests and hobbies, as well as my spiritual and transpersonal growth, ethical values, and personal beliefs. Together, these facets illustrate my holistic approach to continuous learning and self-improvement.
+Below is a structured overview of my background. It covers my education and work, past and present, alongside the interests and goals that guide what I build next. I also share the self-development practices I take seriously, including emotional intelligence, mental health, and personal growth. You will find examples of how I approach relationships and collaboration, through communication, relationship building, and real-world social dynamics. Finally, I include a snapshot of my academic and professional progress, plus the hobbies, values, and personal beliefs that keep the broader picture grounded. Taken together, these pieces reflect how I pursue continuous learning and steady improvement.
 
 ## Table of Contents
 - [About Me](#about-me)
@@ -12,8 +12,10 @@ Below, I provide an overview of my background, detailing both my past and presen
   - [Education and Work Videos](#education-and-work-videos)
   - [Technical Education and Work Blog Posts](#technical-education-and-work-blog-posts)
 - [Work History](#work-history-title)
+  - [Hardware Work History](#hardware-work-history)
   - [Software Development Work History](#software-development-work-history)
   - [Data Engineering, Analytics, and Science Work History](#data-engineering-analytics-and-science-work-history)
+  - [IT Operations Work History](#it-operations-work-history)
   - [Product Design Work History](#product-design-work-history)
   - [Project and Product Management Work History](#project-and-product-management-work-history)
   - [Business Sales and Development Work History](#business-sales-and-development-work-history)
@@ -35,7 +37,7 @@ Below, I provide an overview of my background, detailing both my past and presen
 ## About Me
 **Jaspreet Khela's Digital Doorstep**
 
-Hello, world! I'm a Toronto-based full-stack engineer who mixes mathematics, natural sciences, engineering, and economics to design, build, and run dependable systems. My core strengths span software engineering, hardware and embedded systems, data engineering/analytics/science (including machine learning), IT operations and reliability, and product design collaboration, grounded in product design so the work creates real delight in service of business objectives. When I'm not building and shipping, I'm burning another grilled cheese in the name of science.
+Hello, world! I mix mathematics, natural sciences, engineering, and economics to build dependable hardware, software, data engineering, data analytics, data science (including machine learning), and IT operations systems. Everything is grounded in product design to most effectively create delight in the world in service of achieving business objectives. When I'm not building and shipping, I'm burning another grilled cheese in the name of science.
 
 Fundamentally, I care about clear thinking that cuts through noise, steady execution that keeps momentum, and outcomes you can rely on every time.
 
@@ -105,6 +107,10 @@ Build logs, lessons learned, and tutorials from what I'm making.
 ## Work History
 Highlights from software, data, product design, sales, and operations roles that taught me to connect strategy to shipped systems.
 
+<a id="hardware-work-history"></a>
+### Hardware Work History
+Building embedded and electromechanical systems that connect sensors and actuators to reliable firmware, software, and field-ready prototypes.
+
 <a id="software-development-work-history"></a>
 ### Software Development Work History
 Translating needs into fast services and interfaces with an eye on usability and reliability.
@@ -112,6 +118,10 @@ Translating needs into fast services and interfaces with an eye on usability and
 <a id="data-engineering-analytics-and-science-work-history"></a>
 ### Data Engineering, Analytics, and Science Work History
 Using notebooks, statistics, machine learning, and experiments to turn data into decisions.
+
+<a id="it-operations-work-history"></a>
+### IT Operations Work History
+Keeping production systems healthy with monitoring, automation, incident response, and reliability practices that reduce downtime and improve performance.
 
 <a id="product-design-work-history"></a>
 ### Product Design Work History
