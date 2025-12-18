@@ -147,6 +147,8 @@ This section maps what's ahead: Business covers sales, operations, and go-to-mar
 ### Business: Sales, Operations, and Strategy
 Sales, operations, and strategy experiments I'm packaging into case studies, covering how I test offers, build pipelines, tune operations, and share what works. I map markets, build playbooks, and stress-test processes so the next iteration is easier to ship and scale. Expect notes on discovery calls, pricing tests, deal reviews, and runbooks for onboarding, retention, and ops hygiene.
 
+- [Coming Soon]
+
 #### Market Research And Incentive Mapping
 Analyze market structure, incentives, and competitive dynamics to drive practical go-to-market decisions.
 
@@ -171,6 +173,8 @@ Track unit economics, forecast outcomes, and monitor leading indicators so decis
 ### Hardware: Electromechanical Systems
 Electromechanical systems work: electronics, robotics, and embedded builds that connect software to the physical world. I prototype boards, wire up sensors and actuators, tune firmware, and pair devices with cloud services so they stay observable, safe, and maintainable in real environments. I care about enclosure design, power budgets, field updates, and test rigs that catch failures before they ship.
 
+- [Coming Soon]
+
 #### Circuit Design And Prototyping
 Design and prototype circuits with attention to power, signals, and component selection.
 
@@ -194,6 +198,8 @@ Prepare builds for production, create diagnostics, and design update paths that 
 <a id="software-development-education-and-work-title"></a>
 ### Software: Engineering, Integration, and Delivery
 Software engineering, integration, and delivery across web, mobile, services, and cloud, with reliability and user experience front and center. I focus on designing clean interfaces, instrumenting services, and rolling out changes safely, pairing code quality with observability, accessibility, and calm on-call playbooks. I like clear specs, small PRs, automated tests, and gradual rollouts backed by metrics and feedback loops.
+
+- [Coming Soon]
 
 #### Requirements And Technical Specifications
 Translate user needs into scoped requirements, acceptance criteria, and implementation plans that teams can execute.
@@ -225,6 +231,8 @@ Instrument services with logs, metrics, traces, and alerts, and respond to incid
 ### Data: Engineering, Analysis, and Forecasting
 Data engineering, analysis, and forecasting work: pipelines, experiments, and models that turn raw data into decisions. I map questions to metrics, clean and model data, run experiments, and surface results in dashboards people actually use, tying forecasts back to product and revenue goals. That includes schema design, ETL/ELT, feature stores, experiment design, and taking models to production with monitoring.
 
+- [Coming Soon]
+
 #### Data Modeling And SQL Development
 Design schemas, write performant SQL, and validate correctness so analytics reflect reality.
 
@@ -252,6 +260,8 @@ Monitor data quality, drift, and lineage so reports and models stay trustworthy 
 ### Skilled Trades: Field Craft
 Field craft across construction, electrical, mechanical, and safety skills that keep me practical when I design real-world systems. I like knowing how tools, materials, and safety practices actually work on-site, which helps me design solutions that crews can install, service, and trust. I keep notes on permits, site prep, sequencing, and how to avoid surprises once the plans meet the job site.
 
+- [Coming Soon]
+
 #### Safety Practices And Code Compliance
 Apply safety standards and code requirements so work is legal, safe, and repeatable on-site.
 
@@ -275,6 +285,8 @@ Produce clear labels, as-builts, and checklists so others can service and operat
 <a id="multimedia-production-education-and-work-title"></a>
 ### Multimedia: Audio, Video, VFX
 Multimedia practice in audio, video, and VFX to sharpen storytelling and inform product and brand design. I script, shoot, edit, and experiment with motion so products ship with clear narratives and visuals, and I match sound, pacing, and typography to the feeling a product should convey. Expect breakdowns on storyboards, lighting setups, color, and sound design that reinforce the message.
+
+- [Coming Soon]
 
 #### Creative Direction And Story Development
 Define audience, goals, and narrative so creative choices support a clear message.
@@ -300,6 +312,8 @@ Publish content, measure engagement, gather feedback, and iterate toward stronge
 ### Performance Arts: Stage and Screen
 Performance work for stage and screen: writing, movement, and on-camera practice to keep creative muscles sharp. I rehearse blocking, voice, and delivery to communicate with more clarity and presence, and I study audience cues so each run-through lands cleaner than the last. I also experiment with pacing, breath control, and framing so messages land consistently across formats.
 
+- [Coming Soon]
+
 #### Vocal Technique And Speech Delivery
 Control breath, diction, projection, and pacing so delivery stays clear and consistent.
 
@@ -323,6 +337,8 @@ Review recordings, take actionable notes, and iterate so each run becomes cleane
 <a id="academic-development-history-and-pursuits-title"></a>
 ### Academic Development: Mathematics, Natural Sciences, Engineering, Social Sciences, Arts, and Humanities
 Academic development spanning mathematics, natural sciences, engineering, social sciences, arts, and humanities to keep my foundation broad and rigorous. I study proofs, experiments, systems, and culture to see patterns across domains, and to keep my technical work grounded in real-world context and human impact. I cycle between problem sets, lab-style tinkering, literature reviews, and writing to synthesize what I learn.
+
+- [Coming Soon]
 
 #### Proof And Quantitative Reasoning
 Use proof, probability, and abstraction to reason clearly and model complex systems.
@@ -348,6 +364,8 @@ Read critically, synthesize sources, and communicate findings in clear, structur
 ### Personal Development: Health, Mindset, Languages
 Personal development in health, mindset, and languages with routines and tools I lean on to stay steady outside of work. Fitness, mindfulness, and daily language practice keep me clear and consistent, and I track habits so progress stays honest and sustainable. I log sleep, nutrition, and training, and I keep reflection prompts to spot what to double down on or drop.
 
+- [Coming Soon]
+
 #### Strength Training And Conditioning
 Plan training, manage recovery, and build physical resilience with consistent routines.
 
@@ -371,6 +389,8 @@ Define principles, review progress, and adjust course so growth stays aligned wi
 <a id="personal-interests-title"></a>
 ### Personal Interests
 Personal interests across books, music, film, games, and new skills I'm exploring to stay curious and creative. I rotate through new topics often to keep ideas fresh, borrow patterns from unexpected places, and balance deep work with play. I keep a rolling list of what to sample next and what to revisit when I need a spark.
+
+- [Coming Soon]
 
 #### Exploration And Skill Sampling
 Rapidly sample new tools and domains through small projects that build practical intuition.
