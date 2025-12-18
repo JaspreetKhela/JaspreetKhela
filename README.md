@@ -3,24 +3,34 @@ Welcome! If you’ve ever wondered what happens when a curious overthinker with 
 
 Below is a structured overview of my background. It covers my education and work, past and present, alongside the interests and goals that guide what I build next. I also share the self-development practices I take seriously, including emotional intelligence, mental health, and personal growth. You will find examples of how I approach relationships and collaboration, through communication, relationship building, and real-world social dynamics. Finally, I include a snapshot of my academic and professional progress, plus the hobbies, values, and personal beliefs that keep the broader picture grounded. Taken together, these pieces reflect how I pursue continuous learning and steady improvement.
 
-<p>
-  <a href="https://github.com/JaspreetKhela"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Jaspreetkhela&style=flat-square&color=blue"></a>
-  <a href="https://github.com/JaspreetKhela?tab=followers"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/JaspreetKhela?label=Followers&style=flat-square"></a>
-  <a href="https://github.com/JaspreetKhela?tab=repositories"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/JaspreetKhela?label=Stars&style=flat-square"></a>
-</p>
-
-<p>
-  <a href="https://github.com/JaspreetKhela"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jaspreetkhela&show_icons=true&theme=tokyonight"></a>
-  <a href="https://github.com/JaspreetKhela"><img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=jaspreetkhela&theme=tokyonight"></a>
-</p>
-
-<p>
-  <a href="https://github.com/JaspreetKhela"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaspreetkhela&layout=compact&theme=tokyonight"></a>
-</p>
-
-<p>
-  <a href="https://github.com/JaspreetKhela"><img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=jaspreetkhela&theme=tokyonight&row=1&column=6"></a>
-</p>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+    <tr>
+      <td style="border: none; padding: 0 8px;">
+        <a href="https://github.com/JaspreetKhela">
+          <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=jaspreetkhela&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true">
+        </a>
+      </td>
+      <td style="border: none; padding: 0 8px;">
+        <a href="https://github.com/JaspreetKhela">
+          <img alt="GitHub Streak" height="165" src="https://streak-stats.demolab.com?user=jaspreetkhela&theme=tokyonight&hide_border=true&border_radius=10">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: none; padding: 0 8px;">
+        <a href="https://github.com/JaspreetKhela">
+          <img alt="Top Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaspreetkhela&layout=compact&theme=tokyonight&hide_border=true&border_radius=10">
+        </a>
+      </td>
+      <td style="border: none; padding: 0 8px;">
+        <a href="https://github.com/JaspreetKhela">
+          <img alt="GitHub Trophies" height="165" src="https://github-profile-trophy.vercel.app/?username=jaspreetkhela&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=3">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Table of Contents
 - [About Me](#about-me)
