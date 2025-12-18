@@ -102,25 +102,25 @@ Jump to the four hubs where I share work: LinkedIn for roles, GitHub for code, Y
 ### Professional Work History
 My roles, projects, and references all in one place.
 
-- LinkedIn: https://www.linkedin.com/in/jaspreetkhela/
+- [LinkedIn](https://www.linkedin.com/in/jaspreetkhela/)
 
 <a id="technical-education-and-work-repositories"></a>
 ### Technical Education and Work Repositories
 Code, experiments, and shipped projects across web, mobile, data, and product design.
 
-- GitHub: https://github.com/JaspreetKhela
+- [GitHub](https://github.com/JaspreetKhela)
 
 <a id="education-and-work-videos"></a>
 ### Education and Work Videos
 Quick videos on mindset, tech how-tos, and builds in progress.
 
-- YouTube: https://www.youtube.com/channel/UC5ybM4pfG9mW_r5YcpmVRPg
+- [YouTube](https://www.youtube.com/channel/UC5ybM4pfG9mW_r5YcpmVRPg)
 
 <a id="technical-education-and-work-blog-posts"></a>
 ### Technical Education and Work Blog Posts
 Build logs, lessons learned, and tutorials from what I'm making.
 
-- Hashnode: https://jaspreetkhela.hashnode.dev/
+- [Hashnode](https://jaspreetkhela.hashnode.dev/)
 
 <a id="work-history-title"></a>
 ## Work History
