@@ -8,24 +8,14 @@ Below is a structured overview of my background. It covers my education and work
     <tr>
       <td style="border: none; padding: 0 8px;">
         <a href="https://github.com/JaspreetKhela">
-          <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=jaspreetkhela&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true">
-        </a>
-      </td>
-      <td style="border: none; padding: 0 8px;">
-        <a href="https://streak-stats.demolab.com/?user=jaspreetkhela&theme=tokyonight&hide_border=true&border_radius=10">
-          <img alt="GitHub Streak" height="165" src="https://streak-stats.demolab.com/?user=jaspreetkhela&theme=tokyonight&hide_border=true&border_radius=10">
+          <img alt="GitHub Stats" height="165" width="420" src="https://github-readme-stats.vercel.app/api?username=jaspreetkhela&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true">
         </a>
       </td>
     </tr>
     <tr>
-      <td style="border: none; padding: 0 8px;">
+      <td style="border: none; padding: 8px 8px 0;">
         <a href="https://github.com/JaspreetKhela">
-          <img alt="Top Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaspreetkhela&layout=compact&theme=tokyonight&hide_border=true&border_radius=10">
-        </a>
-      </td>
-      <td style="border: none; padding: 0 8px;">
-        <a href="https://github-profile-trophy.vercel.app/?username=jaspreetkhela&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=3">
-          <img alt="GitHub Trophies" height="165" src="https://github-profile-trophy.vercel.app/?username=jaspreetkhela&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=3">
+          <img alt="Top Languages" height="165" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaspreetkhela&layout=compact&theme=tokyonight&hide_border=true&border_radius=10">
         </a>
       </td>
     </tr>
