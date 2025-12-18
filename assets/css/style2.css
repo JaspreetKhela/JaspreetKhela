@@ -1052,6 +1052,23 @@ blockquote p {
     border-radius: 25px 25px 0px 0px;
 }
 
+/* Quick Access cards rely on a top media area (like Work History cards). */
+/* Many Quick Access cards don't include an explicit .card-img-top element, */
+/* so add a consistent media header via a pseudo-element to prevent awkward empty space. */
+#quick-access-webpage-links .collapse .card:not(.overview-card) {
+    overflow: hidden;
+}
+
+#quick-access-webpage-links .collapse .card:not(.overview-card)::before {
+    content: "";
+    display: block;
+    height: 200px;
+    background-image: url("../images/card-images/cytonn-photography-TVyhDpvL8MY-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    border-radius: 25px 25px 0px 0px;
+}
+
 /* Define the styling for the header of a card which outlines the category of the card's topic (i.e. technical versus non-technical, etc.) */
 .card-header {
     min-height: 140px;
