@@ -1,7 +1,7 @@
 # Hello, I'm Jaspreet Khela! 👋
 Welcome! If you’ve ever wondered what happens when a curious overthinker with a Wi-Fi connection sets out to become their best self, this is it.
 
-Below is a structured overview of my background. It covers my education and work, past and present, alongside the interests and goals that guide what I build next. I also share the self-development practices I take seriously, including emotional intelligence, mental health, and personal growth. You will find examples of how I approach relationships and collaboration, through communication, relationship building, and real-world social dynamics. Finally, I include a snapshot of my academic and professional progress, plus the hobbies, values, and personal beliefs that keep the broader picture grounded. Taken together, these pieces reflect how I pursue continuous learning and steady improvement.
+Below is a guided overview of what I’ve built so far, what I’m working on now, and what I’m practicing to improve. It brings together my education and work experience, the technical and creative skills I’m sharpening, and the interests that shape my curiosity and long-term goals. It also covers the routines that help me stay healthy and consistent, along with the communication habits I rely on to work well with others. Taken together, it’s a practical snapshot of how I learn, execute, and grow over time.
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
@@ -74,6 +74,9 @@ On the Five-Factor model I'm relatively low in extraversion, average in agreeabl
 
 ### Capabilities
 I enjoy shaping strategy, making things, and leading teams. On the hard-skills side I lean on quantitative analysis and multimedia production; on the soft-skills side I focus on critical thinking and clear communication. I like to break down ambiguous goals into concrete plans, align people on priorities, and then build the software, hardware, data, and operational pieces that make the plan real.
+
+### Working Style
+I work best with clear writing, shared context, and tight feedback loops. In practice, I aim to align early on goals and constraints, communicate progress clearly, and give and receive feedback with respect.
 
 <a id="academic-professional-and-personal-focuses"></a>
 ## Academic, Professional, and Personal Focuses
@@ -400,7 +403,7 @@ Read critically, synthesize sources, and communicate findings in clear, structur
 
 <a id="personal-development-history-and-pursuits-title"></a>
 ### [Personal Development: Health, Mindset, Languages](quick-access/personal-development-health-mindset-languages.md)
-Personal development in health, mindset, and languages with routines and tools I lean on to stay steady outside of work. Fitness, mindfulness, and daily language practice keep me clear and consistent, and I track habits so progress stays honest and sustainable. I log sleep, nutrition, and training, and I keep reflection prompts to spot what to double down on or drop.
+Personal development in health, mindset, and languages with routines and tools I lean on to stay steady outside of work. I take mental health seriously and use fitness, mindfulness, and emotional intelligence practices to stay clear and consistent. I also track habits so progress stays honest and sustainable, log sleep, nutrition, and training, and use reflection prompts to spot what to double down on or drop.
 
 #### Strength Training And Conditioning
 Plan training, manage recovery, and build physical resilience with consistent routines.
