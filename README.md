@@ -12,8 +12,8 @@ Below is a structured overview of my background. It covers my education and work
         </a>
       </td>
       <td style="border: none; padding: 0 8px;">
-        <a href="https://github.com/JaspreetKhela">
-          <img alt="GitHub Streak" height="165" src="https://streak-stats.demolab.com?user=jaspreetkhela&theme=tokyonight&hide_border=true&border_radius=10">
+        <a href="https://streak-stats.demolab.com/?user=jaspreetkhela&theme=tokyonight&hide_border=true&border_radius=10">
+          <img alt="GitHub Streak" height="165" src="https://streak-stats.demolab.com/?user=jaspreetkhela&theme=tokyonight&hide_border=true&border_radius=10">
         </a>
       </td>
     </tr>
@@ -24,7 +24,7 @@ Below is a structured overview of my background. It covers my education and work
         </a>
       </td>
       <td style="border: none; padding: 0 8px;">
-        <a href="https://github.com/JaspreetKhela">
+        <a href="https://github-profile-trophy.vercel.app/?username=jaspreetkhela&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=3">
           <img alt="GitHub Trophies" height="165" src="https://github-profile-trophy.vercel.app/?username=jaspreetkhela&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=3">
         </a>
       </td>
