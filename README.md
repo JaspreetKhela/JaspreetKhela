@@ -144,7 +144,7 @@ Coordinating vendors, budgets, and process automation to remove friction.
 This section maps what's ahead: Business covers sales, operations, and go-to-market. Software spans full-stack products and user experience. Data focuses on engineering, analytics, science, and machine learning. Hardware includes embedded systems, electronics, and prototypes. Trades highlight hands-on skilled work and tooling. Multimedia captures audio, video, and design production. Performance centers on stage, voice, and presentation. Academic outlines coursework and research. Personal development covers habits, learning, and mindset. Interests share hobbies and curiosity projects.
 
 <a id="business-development-education-and-work-title"></a>
-### Business: Sales, Operations, and Strategy
+### [Business: Sales, Operations, and Strategy](quick-access/business-sales-operations-and-strategy.md)
 Sales, operations, and strategy experiments I'm packaging into case studies, covering how I test offers, build pipelines, tune operations, and share what works. I map markets, build playbooks, and stress-test processes so the next iteration is easier to ship and scale. Expect notes on discovery calls, pricing tests, deal reviews, and runbooks for onboarding, retention, and ops hygiene.
 
 #### Market Research And Incentive Mapping
@@ -172,7 +172,7 @@ Track unit economics, forecast outcomes, and monitor leading indicators so decis
 - [Coming Soon]
 
 <a id="hardware-development-education-and-work-title"></a>
-### Hardware: Electromechanical Systems
+### [Hardware: Electromechanical Systems](quick-access/hardware-electromechanical-systems.md)
 Electromechanical systems work: electronics, robotics, and embedded builds that connect software to the physical world. I prototype boards, wire up sensors and actuators, tune firmware, and pair devices with cloud services so they stay observable, safe, and maintainable in real environments. I care about enclosure design, power budgets, field updates, and test rigs that catch failures before they ship.
 
 #### Circuit Design And Prototyping
@@ -200,7 +200,7 @@ Prepare builds for production, create diagnostics, and design update paths that 
 - [Coming Soon]
 
 <a id="software-development-education-and-work-title"></a>
-### Software: Engineering, Integration, and Delivery
+### [Software: Engineering, Integration, and Delivery](quick-access/software-engineering-integration-and-delivery.md)
 Software engineering, integration, and delivery across web, mobile, services, and cloud, with reliability and user experience front and center. I focus on designing clean interfaces, instrumenting services, and rolling out changes safely, pairing code quality with observability, accessibility, and calm on-call playbooks. I like clear specs, small PRs, automated tests, and gradual rollouts backed by metrics and feedback loops.
 
 #### Requirements And Technical Specifications
@@ -236,7 +236,7 @@ Instrument services with logs, metrics, traces, and alerts, and respond to incid
 - [Coming Soon]
 
 <a id="data-development-education-and-work-title"></a>
-### Data: Engineering, Analysis, and Forecasting
+### [Data: Engineering, Analysis, and Forecasting](quick-access/data-engineering-analysis-and-forecasting.md)
 Data engineering, analysis, and forecasting work: pipelines, experiments, and models that turn raw data into decisions. I map questions to metrics, clean and model data, run experiments, and surface results in dashboards people actually use, tying forecasts back to product and revenue goals. That includes schema design, ETL/ELT, feature stores, experiment design, and taking models to production with monitoring.
 
 #### Data Modeling And SQL Development
@@ -268,7 +268,7 @@ Monitor data quality, drift, and lineage so reports and models stay trustworthy 
 - [Coming Soon]
 
 <a id="skilled-trades-education-and-work-title"></a>
-### Skilled Trades: Field Craft
+### [Skilled Trades: Field Craft](quick-access/skilled-trades-field-craft.md)
 Field craft across construction, electrical, mechanical, and safety skills that keep me practical when I design real-world systems. I like knowing how tools, materials, and safety practices actually work on-site, which helps me design solutions that crews can install, service, and trust. I keep notes on permits, site prep, sequencing, and how to avoid surprises once the plans meet the job site.
 
 #### Safety Practices And Code Compliance
@@ -296,7 +296,7 @@ Produce clear labels, as-builts, and checklists so others can service and operat
 - [Coming Soon]
 
 <a id="multimedia-production-education-and-work-title"></a>
-### Multimedia: Audio, Video, VFX
+### [Multimedia: Audio, Video, VFX](quick-access/multimedia-audio-video-vfx.md)
 Multimedia practice in audio, video, and VFX to sharpen storytelling and inform product and brand design. I script, shoot, edit, and experiment with motion so products ship with clear narratives and visuals, and I match sound, pacing, and typography to the feeling a product should convey. Expect breakdowns on storyboards, lighting setups, color, and sound design that reinforce the message.
 
 #### Creative Direction And Story Development
@@ -324,7 +324,7 @@ Publish content, measure engagement, gather feedback, and iterate toward stronge
 - [Coming Soon]
 
 <a id="performance-arts-education-and-work-title"></a>
-### Performance Arts: Stage and Screen
+### [Performance Arts: Stage and Screen](quick-access/performance-arts-stage-and-screen.md)
 Performance work for stage and screen: writing, movement, and on-camera practice to keep creative muscles sharp. I rehearse blocking, voice, and delivery to communicate with more clarity and presence, and I study audience cues so each run-through lands cleaner than the last. I also experiment with pacing, breath control, and framing so messages land consistently across formats.
 
 #### Vocal Technique And Speech Delivery
@@ -352,7 +352,7 @@ Review recordings, take actionable notes, and iterate so each run becomes cleane
 - [Coming Soon]
 
 <a id="academic-development-history-and-pursuits-title"></a>
-### Academic Development: Mathematics, Natural Sciences, Engineering, Social Sciences, Arts, and Humanities
+### [Academic Development: Mathematics, Natural Sciences, Engineering, Social Sciences, Arts, and Humanities](quick-access/academic-development.md)
 Academic development spanning mathematics, natural sciences, engineering, social sciences, arts, and humanities to keep my foundation broad and rigorous. I study proofs, experiments, systems, and culture to see patterns across domains, and to keep my technical work grounded in real-world context and human impact. I cycle between problem sets, lab-style tinkering, literature reviews, and writing to synthesize what I learn.
 
 #### Proof And Quantitative Reasoning
@@ -380,7 +380,7 @@ Read critically, synthesize sources, and communicate findings in clear, structur
 - [Coming Soon]
 
 <a id="personal-development-history-and-pursuits-title"></a>
-### Personal Development: Health, Mindset, Languages
+### [Personal Development: Health, Mindset, Languages](quick-access/personal-development-health-mindset-languages.md)
 Personal development in health, mindset, and languages with routines and tools I lean on to stay steady outside of work. Fitness, mindfulness, and daily language practice keep me clear and consistent, and I track habits so progress stays honest and sustainable. I log sleep, nutrition, and training, and I keep reflection prompts to spot what to double down on or drop.
 
 #### Strength Training And Conditioning
@@ -408,7 +408,7 @@ Define principles, review progress, and adjust course so growth stays aligned wi
 - [Coming Soon]
 
 <a id="personal-interests-title"></a>
-### Personal Interests
+### [Personal Interests](quick-access/personal-interests.md)
 Personal interests across books, music, film, games, and new skills I'm exploring to stay curious and creative. I rotate through new topics often to keep ideas fresh, borrow patterns from unexpected places, and balance deep work with play. I keep a rolling list of what to sample next and what to revisit when I need a spark.
 
 #### Exploration And Skill Sampling
