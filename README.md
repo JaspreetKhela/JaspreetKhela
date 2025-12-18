@@ -22,9 +22,9 @@ Below is a structured overview of my background. It covers my education and work
   - [Business Operations and Management Work History](#business-operations-and-management-work-history)
 - [Quick Access Webpage Links](#quick-access-webpage-links)
   - [Business: Sales, Operations, and Strategy](#business-development-education-and-work-title)
+  - [Hardware: Electromechanical Systems](#hardware-development-education-and-work-title)
   - [Software: Engineering, Integration, and Delivery](#software-development-education-and-work-title)
   - [Data: Engineering, Analysis, and Forecasting](#data-development-education-and-work-title)
-  - [Hardware: Electromechanical Systems](#hardware-development-education-and-work-title)
   - [Skilled Trades: Field Craft](#skilled-trades-education-and-work-title)
   - [Multimedia: Audio, Video, VFX](#multimedia-production-education-and-work-title)
   - [Performance Arts: Stage and Screen](#performance-arts-education-and-work-title)
@@ -147,17 +147,23 @@ This section maps what's ahead: Business covers sales, operations, and go-to-mar
 ### Business: Sales, Operations, and Strategy
 Sales, operations, and strategy experiments I'm packaging into case studies, covering how I test offers, build pipelines, tune operations, and share what works. I map markets, build playbooks, and stress-test processes so the next iteration is easier to ship and scale. Expect notes on discovery calls, pricing tests, deal reviews, and runbooks for onboarding, retention, and ops hygiene.
 
-- [Coming Soon] Education and Work: [Coming Soon]
+#### Market Research And Incentive Mapping
+Analyze market structure, incentives, and competitive dynamics to drive practical go-to-market decisions.
 
-<a id="software-development-education-and-work-title"></a>
-### Software: Engineering, Integration, and Delivery
-Software engineering, integration, and delivery across web, mobile, services, and cloud, with reliability and user experience front and center. I focus on designing clean interfaces, instrumenting services, and rolling out changes safely, pairing code quality with observability, accessibility, and calm on-call playbooks. I like clear specs, small PRs, automated tests, and gradual rollouts backed by metrics and feedback loops.
+#### Customer Discovery And Interviewing
+Run customer interviews, synthesize pain points, and define success criteria that guide product and sales execution.
 
-- [Coming Soon] Education and Work: [Coming Soon]
+#### Value Proposition And Positioning
+Articulate differentiation, craft messaging, and package offers that are easy to understand and easy to buy.
 
-<a id="data-development-education-and-work-title"></a>
-### Data: Engineering, Analysis, and Forecasting
-Data engineering, analysis, and forecasting work: pipelines, experiments, and models that turn raw data into decisions. I map questions to metrics, clean and model data, run experiments, and surface results in dashboards people actually use, tying forecasts back to product and revenue goals. That includes schema design, ETL/ELT, feature stores, experiment design, and taking models to production with monitoring.
+#### Pipeline Building And Deal Execution
+Prospect, qualify, negotiate, and manage a repeatable pipeline from outreach through close with disciplined deal hygiene.
+
+#### Operations Design And Process Improvement
+Build playbooks, workflows, and lightweight automation that improve consistency, speed, and accountability.
+
+#### Financial Modeling And KPI Tracking
+Track unit economics, forecast outcomes, and monitor leading indicators so decisions stay measurable and grounded.
 
 - [Coming Soon] Education and Work: [Coming Soon]
 
@@ -165,11 +171,104 @@ Data engineering, analysis, and forecasting work: pipelines, experiments, and mo
 ### Hardware: Electromechanical Systems
 Electromechanical systems work: electronics, robotics, and embedded builds that connect software to the physical world. I prototype boards, wire up sensors and actuators, tune firmware, and pair devices with cloud services so they stay observable, safe, and maintainable in real environments. I care about enclosure design, power budgets, field updates, and test rigs that catch failures before they ship.
 
+#### Circuit Design And Prototyping
+Design and prototype circuits with attention to power, signals, and component selection.
+
+#### Embedded Firmware Development
+Write stable, debuggable firmware with clear interfaces to peripherals and reliable runtime behavior.
+
+#### Sensor Integration And Control Systems
+Integrate sensors and actuators, implement calibration, and design safe control loops with clear failure modes.
+
+#### Mechanical Design And Enclosure Integration
+Design assemblies and enclosures that are durable, serviceable, and realistic to build and maintain.
+
+#### Validation Testing And Safety Engineering
+Build test rigs, validate reliability, and document safety expectations before devices ship.
+
+#### Manufacturing Readiness And Field Support
+Prepare builds for production, create diagnostics, and design update paths that support real-world deployments.
+
+- [Coming Soon] Education and Work: [Coming Soon]
+
+<a id="software-development-education-and-work-title"></a>
+### Software: Engineering, Integration, and Delivery
+Software engineering, integration, and delivery across web, mobile, services, and cloud, with reliability and user experience front and center. I focus on designing clean interfaces, instrumenting services, and rolling out changes safely, pairing code quality with observability, accessibility, and calm on-call playbooks. I like clear specs, small PRs, automated tests, and gradual rollouts backed by metrics and feedback loops.
+
+#### Requirements And Technical Specifications
+Translate user needs into scoped requirements, acceptance criteria, and implementation plans that teams can execute.
+
+#### Programming Fundamentals And Code Craft
+Write maintainable code with strong data modeling, clear interfaces, and disciplined refactoring practices.
+
+#### Backend Service Development
+Build APIs and services with predictable behavior, secure boundaries, and performance that holds up in production.
+
+#### Frontend Interface Development
+Ship user interfaces that are accessible, responsive, and aligned with product intent and design systems.
+
+#### System Design And Integration
+Design components, data flows, and integrations that scale with complexity and support safe change over time.
+
+#### Testing And Quality Engineering
+Build unit, integration, and end-to-end coverage that keeps behavior stable and makes refactors safe.
+
+#### CI/CD And Release Management
+Automate builds and deployments, manage releases, and roll back safely when needed.
+
+#### Observability And On-Call Reliability
+Instrument services with logs, metrics, traces, and alerts, and respond to incidents with calm, repeatable practices.
+
+- [Coming Soon] Education and Work: [Coming Soon]
+
+<a id="data-development-education-and-work-title"></a>
+### Data: Engineering, Analysis, and Forecasting
+Data engineering, analysis, and forecasting work: pipelines, experiments, and models that turn raw data into decisions. I map questions to metrics, clean and model data, run experiments, and surface results in dashboards people actually use, tying forecasts back to product and revenue goals. That includes schema design, ETL/ELT, feature stores, experiment design, and taking models to production with monitoring.
+
+#### Data Modeling And SQL Development
+Design schemas, write performant SQL, and validate correctness so analytics reflect reality.
+
+#### Analytics Instrumentation And Event Design
+Define event taxonomies, implement tracking, and capture context so analysis maps to real behavior.
+
+#### ETL/ELT Pipeline Engineering
+Build testable, recoverable pipelines with orchestration and alerting that support reliable operations.
+
+#### Analytics And Dashboard Delivery
+Translate questions into metrics, dashboards, and narratives that enable confident decisions.
+
+#### Statistical Analysis And Experimentation
+Design experiments, run analyses, and separate signal from noise with defensible methods.
+
+#### Forecasting And Machine Learning Engineering
+Build forecasting and machine learning solutions that connect to business outcomes and can be monitored in production.
+
+#### Data Quality Monitoring And Governance
+Monitor data quality, drift, and lineage so reports and models stay trustworthy over time.
+
 - [Coming Soon] Education and Work: [Coming Soon]
 
 <a id="skilled-trades-education-and-work-title"></a>
 ### Skilled Trades: Field Craft
 Field craft across construction, electrical, mechanical, and safety skills that keep me practical when I design real-world systems. I like knowing how tools, materials, and safety practices actually work on-site, which helps me design solutions that crews can install, service, and trust. I keep notes on permits, site prep, sequencing, and how to avoid surprises once the plans meet the job site.
+
+#### Safety Practices And Code Compliance
+Apply safety standards and code requirements so work is legal, safe, and repeatable on-site.
+
+#### Tools, Measurement, And Job Planning
+Select tools, measure accurately, and plan work packages so execution stays predictable.
+
+#### Materials Handling And Trade Techniques
+Choose materials, apply proper fastening and finishing methods, and avoid common failure patterns.
+
+#### Site Execution And Sequencing
+Sequence tasks, manage constraints, and reduce rework, delays, and hazards during execution.
+
+#### Quality Control And Inspection
+Verify tolerances, workmanship, and function so results hold up under real conditions.
+
+#### Documentation And Handover
+Produce clear labels, as-builts, and checklists so others can service and operate the work confidently.
 
 - [Coming Soon] Education and Work: [Coming Soon]
 
@@ -177,11 +276,47 @@ Field craft across construction, electrical, mechanical, and safety skills that 
 ### Multimedia: Audio, Video, VFX
 Multimedia practice in audio, video, and VFX to sharpen storytelling and inform product and brand design. I script, shoot, edit, and experiment with motion so products ship with clear narratives and visuals, and I match sound, pacing, and typography to the feeling a product should convey. Expect breakdowns on storyboards, lighting setups, color, and sound design that reinforce the message.
 
+#### Creative Direction And Story Development
+Define audience, goals, and narrative so creative choices support a clear message.
+
+#### Pre-Production Planning And Asset Management
+Plan scripts, shot lists, locations, and assets so production time stays focused and efficient.
+
+#### Production Audio And Video Capture
+Capture clean audio and video with strong lighting, framing, and signal quality under real constraints.
+
+#### Editing And Post-Production Finishing
+Shape pacing and clarity through editing, sound design, color, and final delivery workflows.
+
+#### Motion Graphics And Visual Effects
+Use motion and visual effects to explain ideas, improve polish, and reinforce product and brand identity.
+
+#### Publishing And Performance Optimization
+Publish content, measure engagement, gather feedback, and iterate toward stronger outcomes.
+
 - [Coming Soon] Education and Work: [Coming Soon]
 
 <a id="performance-arts-education-and-work-title"></a>
 ### Performance Arts: Stage and Screen
 Performance work for stage and screen: writing, movement, and on-camera practice to keep creative muscles sharp. I rehearse blocking, voice, and delivery to communicate with more clarity and presence, and I study audience cues so each run-through lands cleaner than the last. I also experiment with pacing, breath control, and framing so messages land consistently across formats.
+
+#### Vocal Technique And Speech Delivery
+Control breath, diction, projection, and pacing so delivery stays clear and consistent.
+
+#### Movement And Stage Presence
+Use posture, gesture, and physical storytelling to communicate with confidence and intention.
+
+#### Script Analysis And Character Development
+Analyze intent, stakes, and subtext so performance choices stay grounded and believable.
+
+#### Rehearsal Process And Blocking
+Rehearse with purpose, refine timing, and lock blocking so performances are repeatable.
+
+#### On-Camera Technique And Stage Craft
+Adapt to medium, framing, eyelines, and audience engagement so the message lands across formats.
+
+#### Performance Review And Iteration
+Review recordings, take actionable notes, and iterate so each run becomes cleaner and more intentional.
 
 - [Coming Soon] Education and Work: [Coming Soon]
 
@@ -189,17 +324,71 @@ Performance work for stage and screen: writing, movement, and on-camera practice
 ### Academic Development: Mathematics, Natural Sciences, Engineering, Social Sciences, Arts, and Humanities
 Academic development spanning mathematics, natural sciences, engineering, social sciences, arts, and humanities to keep my foundation broad and rigorous. I study proofs, experiments, systems, and culture to see patterns across domains, and to keep my technical work grounded in real-world context and human impact. I cycle between problem sets, lab-style tinkering, literature reviews, and writing to synthesize what I learn.
 
+#### Proof And Quantitative Reasoning
+Use proof, probability, and abstraction to reason clearly and model complex systems.
+
+#### Experimental Methods And Lab Practice
+Form hypotheses, run experiments, evaluate evidence, and document results with repeatable methods.
+
+#### Engineering Design And Systems Thinking
+Apply constraints, trade-offs, and design principles to build dependable systems.
+
+#### Economics And Organizational Analysis
+Analyze incentives, markets, and organizations to understand how decisions ripple through groups.
+
+#### Ethics, History, And Cultural Context
+Apply ethics, history, and cultural context so technical decisions stay human and responsible.
+
+#### Research Synthesis And Technical Writing
+Read critically, synthesize sources, and communicate findings in clear, structured writing.
+
 - [Coming Soon] Education and Work: [Coming Soon]
 
 <a id="personal-development-history-and-pursuits-title"></a>
 ### Personal Development: Health, Mindset, Languages
 Personal development in health, mindset, and languages with routines and tools I lean on to stay steady outside of work. Fitness, mindfulness, and daily language practice keep me clear and consistent, and I track habits so progress stays honest and sustainable. I log sleep, nutrition, and training, and I keep reflection prompts to spot what to double down on or drop.
 
+#### Strength Training And Conditioning
+Plan training, manage recovery, and build physical resilience with consistent routines.
+
+#### Mindfulness And Stress Management
+Use reflection and mindfulness tools to stay calm, focused, and emotionally regulated.
+
+#### Habit Design And Behavior Change
+Build routines, track progress, and design environments that make consistency easier.
+
+#### Language Learning And Skill Acquisition
+Practice deliberate learning, build study systems, and make progress on languages and new skills.
+
+#### Communication And Relationship Building
+Communicate clearly, build trust, and maintain supportive relationships through consistent practice.
+
+#### Values Clarification And Goal Review
+Define principles, review progress, and adjust course so growth stays aligned with what matters.
+
 - [Coming Soon] Education and Work: [Coming Soon]
 
 <a id="personal-interests-title"></a>
 ### Personal Interests
 Personal interests across books, music, film, games, and new skills I'm exploring to stay curious and creative. I rotate through new topics often to keep ideas fresh, borrow patterns from unexpected places, and balance deep work with play. I keep a rolling list of what to sample next and what to revisit when I need a spark.
+
+#### Exploration And Skill Sampling
+Rapidly sample new tools and domains through small projects that build practical intuition.
+
+#### Creative Making And Side Projects
+Ship small creative builds in writing, design, and tinkering to stay expressive and practice finishing.
+
+#### Reading And Media Analysis
+Extract mental models from books, films, and essays and apply them to real decisions.
+
+#### Game Systems And Strategy Study
+Analyze games as systems and strategy training, strengthening pattern recognition and decision making.
+
+#### Music Listening And Rhythm Study
+Use music for creative reset and study rhythm, mood, and pacing as transferable skills.
+
+#### Micro-Projects And Rapid Prototyping
+Prototype quickly, learn by doing, and keep momentum through low-friction micro-project workflows.
 
 - [Coming Soon] Education and Work: [Coming Soon]
 
