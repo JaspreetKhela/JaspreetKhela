@@ -3,6 +3,11 @@ Welcome! If you’ve ever wondered what happens when a curious overthinker with 
 
 Below is a structured overview of my background. It covers my education and work, past and present, alongside the interests and goals that guide what I build next. I also share the self-development practices I take seriously, including emotional intelligence, mental health, and personal growth. You will find examples of how I approach relationships and collaboration, through communication, relationship building, and real-world social dynamics. Finally, I include a snapshot of my academic and professional progress, plus the hobbies, values, and personal beliefs that keep the broader picture grounded. Taken together, these pieces reflect how I pursue continuous learning and steady improvement.
 
+[![GitHub Followers](https://img.shields.io/github/followers/JaspreetKhela?label=Followers&style=flat-square)](https://github.com/JaspreetKhela?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/JaspreetKhela?label=Stars&style=flat-square)](https://github.com/JaspreetKhela?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FJaspreetKhela)](https://github.com/JaspreetKhela?tab=repositories)
+[![Public Gists](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Public%20Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FJaspreetKhela)](https://gist.github.com/JaspreetKhela)
+
 ## Table of Contents
 - [About Me](#about-me)
 - [Academic, Professional, and Personal Focuses](#academic-professional-and-personal-focuses)
