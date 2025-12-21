@@ -3,7 +3,7 @@
 Training loops for audio, video, and VFX to sharpen storytelling and feed product and brand design. Drills on scripting, shooting, editing, and motion keep narratives and visuals tight, pairing sound, pacing, and typography practice with breakdowns of storyboards, lighting, color, and sound design.
 
 ## Purpose
-- Catalog relevant academic and professional training courses under the appropriate subheadings in this domain.
+Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.
 
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.

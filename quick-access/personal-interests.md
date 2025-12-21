@@ -3,7 +3,7 @@
 Training sprints for personal interests across books, music, film, games, and new skills to stay curious and creative. Topics rotate through deliberate practice blocks, with patterns worth borrowing noted and a backlog of what to sample next or revisit when a spark is needed.
 
 ## Purpose
-- Catalog relevant academic and professional training courses under the appropriate subheadings in this domain.
+Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.
 
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.

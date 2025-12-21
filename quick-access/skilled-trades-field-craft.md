@@ -3,7 +3,7 @@
 Training plan for field craft across construction, electrical, mechanical, and safety skills so designs stay grounded in reality. Shop time, certifications, and site simulations drive practice with tools, materials, permits, sequencing, and safety so crews can install, service, and trust what gets built.
 
 ## Purpose
-- Catalog relevant academic and professional training courses under the appropriate subheadings in this domain.
+Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.
 
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.

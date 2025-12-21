@@ -3,7 +3,7 @@
 Training program for stage and screen performance: writing, movement, and on-camera reps that build expressive, reliable delivery. Rehearsals on blocking, voice, pacing, and breath control capture feedback and drive adjustments so each run-through lands cleaner and more consistent across formats.
 
 ## Purpose
-- Catalog relevant academic and professional training courses under the appropriate subheadings in this domain.
+Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.
 
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.

@@ -3,7 +3,7 @@
 Training track for electromechanical systems: electronics, robotics, and embedded practice that stays fluent from bench to field. Lab blocks cover board prototyping, sensor/actuator integration, firmware tuning, and cloud/device observability, with safety, power budgets, enclosure design, and test rigs baked into each cycle.
 
 ## Purpose
-- Catalog relevant academic and professional training courses under the appropriate subheadings in this domain.
+Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.
 
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.
