@@ -1,6 +1,6 @@
 # Skilled Trades: Field Craft
 
-Field craft across construction, electrical, mechanical, and safety skills that keep me practical when I design real-world systems. I like knowing how tools, materials, and safety practices actually work on-site, which helps me design solutions that crews can install, service, and trust. I keep notes on permits, site prep, sequencing, and how to avoid surprises once the plans meet the job site.
+Training plan for field craft across construction, electrical, mechanical, and safety skills so designs stay grounded in reality. Shop time, certifications, and site simulations drive practice with tools, materials, permits, sequencing, and safety so crews can install, service, and trust what gets built.
 
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.

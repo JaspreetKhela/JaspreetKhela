@@ -1,6 +1,6 @@
 # Software: Engineering, Integration, and Delivery
 
-Software engineering, integration, and delivery across web, mobile, services, and cloud, with reliability and user experience front and center. I focus on designing clean interfaces, instrumenting services, and rolling out changes safely, pairing code quality with observability, accessibility, and calm on-call playbooks. I like clear specs, small PRs, automated tests, and gradual rollouts backed by metrics and feedback loops.
+Training and development tracks for software engineering, integration, and delivery across web, mobile, services, and cloud. Architecture katas, implementation drills, and rollout simulations strengthen interface design, observability, accessibility, and calm on-call habits, favoring clear specs, small PRs, automated tests, and gradual rollouts backed by metrics.
 
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.

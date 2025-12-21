@@ -1,6 +1,6 @@
 # Data: Engineering, Analysis, and Forecasting
 
-Data engineering, analysis, and forecasting work: pipelines, experiments, and models that turn raw data into decisions. I map questions to metrics, clean and model data, run experiments, and surface results in dashboards people actually use, tying forecasts back to product and revenue goals. That includes schema design, ETL/ELT, feature stores, experiment design, and taking models to production with monitoring.
+Training plan for data engineering, analysis, and forecasting: build-run-learn loops that turn raw data into decisions. Questions map to metrics, schemas get designed, and ETL/ELT, experiments, and forecasting are practiced with production-style monitoring so the discipline stays sharp and ready for real workloads.
 
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.

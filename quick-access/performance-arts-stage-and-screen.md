@@ -1,6 +1,6 @@
 # Performance Arts: Stage and Screen
 
-Performance work for stage and screen: writing, movement, and on-camera practice to keep creative muscles sharp. I rehearse blocking, voice, and delivery to communicate with more clarity and presence, and I study audience cues so each run-through lands cleaner than the last. I also experiment with pacing, breath control, and framing so messages land consistently across formats.
+Training program for stage and screen performance: writing, movement, and on-camera reps that build expressive, reliable delivery. Rehearsals on blocking, voice, pacing, and breath control capture feedback and drive adjustments so each run-through lands cleaner and more consistent across formats.
 
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.

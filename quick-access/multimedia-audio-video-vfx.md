@@ -1,6 +1,6 @@
 # Multimedia: Audio, Video, VFX
 
-Multimedia practice in audio, video, and VFX to sharpen storytelling and inform product and brand design. I script, shoot, edit, and experiment with motion so products ship with clear narratives and visuals, and I match sound, pacing, and typography to the feeling a product should convey. Expect breakdowns on storyboards, lighting setups, color, and sound design that reinforce the message.
+Training loops for audio, video, and VFX to sharpen storytelling and feed product and brand design. Drills on scripting, shooting, editing, and motion keep narratives and visuals tight, pairing sound, pacing, and typography practice with breakdowns of storyboards, lighting, color, and sound design.
 
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.

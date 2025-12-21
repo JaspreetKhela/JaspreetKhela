@@ -1,6 +1,6 @@
 # Personal Interests
 
-Personal interests across books, music, film, games, and new skills I'm exploring to stay curious and creative. I rotate through new topics often to keep ideas fresh, borrow patterns from unexpected places, and balance deep work with play. I keep a rolling list of what to sample next and what to revisit when I need a spark.
+Training sprints for personal interests across books, music, film, games, and new skills to stay curious and creative. Topics rotate through deliberate practice blocks, with patterns worth borrowing noted and a backlog of what to sample next or revisit when a spark is needed.
 
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.

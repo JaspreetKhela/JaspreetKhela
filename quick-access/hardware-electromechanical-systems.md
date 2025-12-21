@@ -1,6 +1,6 @@
 # Hardware: Electromechanical Systems
 
-Electromechanical systems work: electronics, robotics, and embedded builds that connect software to the physical world. I prototype boards, wire up sensors and actuators, tune firmware, and pair devices with cloud services so they stay observable, safe, and maintainable in real environments. I care about enclosure design, power budgets, field updates, and test rigs that catch failures before they ship.
+Training track for electromechanical systems: electronics, robotics, and embedded practice that stays fluent from bench to field. Lab blocks cover board prototyping, sensor/actuator integration, firmware tuning, and cloud/device observability, with safety, power budgets, enclosure design, and test rigs baked into each cycle.
 
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.

@@ -1,6 +1,6 @@
 # Personal Development: Health, Mindset, Languages
 
-Personal development in health, mindset, and languages with routines and tools I lean on to stay steady outside of work. Fitness, mindfulness, and daily language practice keep me clear and consistent, and I track habits so progress stays honest and sustainable. I log sleep, nutrition, and training, and I keep reflection prompts to spot what to double down on or drop.
+Training routines for health, mindset, and languages with systems that keep progress honest and sustainable. Fitness, mindfulness, and language practice run in cycles with habit tracking, recovery blocks, and reflection prompts to highlight what to double down on or drop.
 
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.

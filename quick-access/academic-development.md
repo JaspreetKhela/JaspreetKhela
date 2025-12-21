@@ -1,6 +1,6 @@
 # Academic Development: Mathematics, Natural Sciences, Engineering, Social Sciences, Arts, and Humanities
 
-Academic development spanning mathematics, natural sciences, engineering, social sciences, arts, and humanities to keep my foundation broad and rigorous. I study proofs, experiments, systems, and culture to see patterns across domains, and to keep my technical work grounded in real-world context and human impact. I cycle between problem sets, lab-style tinkering, literature reviews, and writing to synthesize what I learn.
+Training map for academic development across mathematics, natural sciences, engineering, social sciences, arts, and humanities. Practice blocks—problem sets, lab notebooks, literature reviews, and writing sprints—rotate to build fluency, test understanding, and keep technical work tied to real-world context and human impact.
 
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.
@@ -75,7 +75,7 @@ Academic development spanning mathematics, natural sciences, engineering, social
     - [Grant Writing, Publication & Peer Review](#grant-writing-publication-peer-review)
 
 ## Mathematics
-Study algebra, analysis, probability, and discrete math to sharpen proof and modeling skills.
+Training blocks in algebra, analysis, probability, and discrete math to sharpen proof and modeling skills.
 - [Coming Soon]
 ### Calculus & Linear Algebra (A/B/C)
 Provide calculus and linear algebra foundations for modeling and analysis.
@@ -214,7 +214,7 @@ Direct advanced inquiry, synthesis, and research agendas across the domain.
 - [Coming Soon]
 
 ## Natural Sciences
-Explore physics and chemistry through experiments and modeling.
+Training cycles across physics, chemistry, earth science, and astronomy using experiments and modeling.
 - [Coming Soon]
 ### Physics: Mechanics, E&M, Waves & Modern
 Study fundamental physics across mechanics, electromagnetism, waves, and modern topics.
@@ -278,7 +278,7 @@ Direct advanced inquiry, synthesis, and research agendas across the domain.
 - [Coming Soon]
 
 ## Life Sciences
-Study biology and related disciplines to understand living systems and health.
+Training tracks in biology disciplines to understand living systems and health through labs, models, and clinical contexts.
 - [Coming Soon]
 ### Cell, Molecular Biology & Biochemistry
 Study cells, molecular mechanisms, and biochemical pathways.
@@ -387,7 +387,7 @@ Direct advanced inquiry, synthesis, and research agendas across the domain.
 - [Coming Soon]
 
 ## Engineering
-Apply design principles across electrical, mechanical, and systems engineering to build dependable solutions.
+Training tracks across electrical, mechanical, and systems engineering to practice design principles and build dependable solutions.
 - [Coming Soon]
 ### Engineering Fundamentals, Statics & Design
 Learn statics, materials basics, and core engineering design methods.
@@ -511,7 +511,7 @@ Direct advanced inquiry, synthesis, and research agendas across the domain.
 - [Coming Soon]
 
 ## Social Sciences
-Analyze societies, incentives, and organizations to understand how decisions ripple through groups.
+Training focused on analyzing societies, incentives, and organizations to see how decisions ripple through groups.
 - [Coming Soon]
 ### Economics & Decision Sciences
 Analyze incentives, markets, and decision frameworks.
@@ -620,7 +620,7 @@ Direct advanced inquiry, synthesis, and research agendas across the domain.
 - [Coming Soon]
 
 ## Arts
-Practice visual and performing arts to strengthen creative expression and storytelling.
+Training in visual and performing arts to strengthen creative expression and storytelling.
 - [Coming Soon]
 ### Visual Arts, Design & Illustration
 Practice visual composition, design principles, and illustration.
@@ -714,7 +714,7 @@ Direct advanced inquiry, synthesis, and research agendas across the domain.
 - [Coming Soon]
 
 ## Humanities
-Study history, languages, philosophy, and culture to add context and ethics to technical work.
+Training in history, languages, philosophy, and culture to add context and ethics to technical work.
 - [Coming Soon]
 ### History, Classics & Civilization
 Study historical periods, classical texts, and civilizations.
@@ -808,7 +808,7 @@ Direct advanced inquiry, synthesis, and research agendas across the domain.
 - [Coming Soon]
 
 ## Research Methods & Technical Writing
-Run structured research, synthesize sources, and communicate findings clearly.
+Training in structured research, synthesis, and clear communication of findings.
 - [Coming Soon]
 ### Research Design: Quantitative & Qualitative
 Design studies using quantitative and qualitative methods.

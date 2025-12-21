@@ -1,6 +1,6 @@
 # Business: Sales, Operations, and Strategy
 
-Sales, operations, and strategy experiments I'm packaging into case studies, covering how I test offers, build pipelines, tune operations, and share what works. I map markets, build playbooks, and stress-test processes so the next iteration is easier to ship and scale. Expect notes on discovery calls, pricing tests, deal reviews, and runbooks for onboarding, retention, and ops hygiene.
+Training and development program for sales, operations, and strategy: reps on discovery, pricing, and deal execution paired with playbook drills and case write-ups. Simulations, pipelines, and postmortems drive practice on offer design, pipeline hygiene, and operational cadence so each iteration ships cleaner and scales faster.
 
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.
