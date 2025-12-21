@@ -37,8 +37,8 @@ Below is a guided overview of what I’ve built so far, what I’m working on no
   - [IT Operations Work History](#it-operations-work-history)
   - [Product Design Work History](#product-design-work-history)
   - [Project and Product Management Work History](#project-and-product-management-work-history)
-  - [Business Sales and Development Work History](#business-sales-and-development-work-history)
   - [Business Operations and Management Work History](#business-operations-and-management-work-history)
+  - [Business Sales and Development Work History](#business-sales-and-development-work-history)
 - [Quick Access Webpage Links](#quick-access-webpage-links)
   - [Business: Sales, Operations, and Strategy](#business-development-education-and-work-title)
   - [Hardware: Electromechanical Systems](#hardware-development-education-and-work-title)
@@ -159,14 +159,14 @@ Taking ideas from sketches to polished mockups with design systems, clear copy, 
 Keeping backlogs tidy, setting priorities, and planning releases with tight feedback loops.
 - [Coming Soon]
 
-<a id="business-sales-and-development-work-history"></a>
-### Business Sales and Development Work History
-Building decks, proposals, and negotiations that move deals forward while keeping partners confident.
-- [Coming Soon]
-
 <a id="business-operations-and-management-work-history"></a>
 ### Business Operations and Management Work History
 Coordinating vendors, budgets, and process automation to remove friction.
+- [Coming Soon]
+
+<a id="business-sales-and-development-work-history"></a>
+### Business Sales and Development Work History
+Building decks, proposals, and negotiations that move deals forward while keeping partners confident.
 - [Coming Soon]
 
 <a id="quick-access-webpage-links"></a>
