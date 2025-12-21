@@ -8,7 +8,7 @@ This directory holds domain pages used to catalogue academic and professional tr
 
 ## Contents
 ### Business: Sales, Operations, and Strategy
-Courses aligned to go-to-market strategy, pricing, sales execution, pipeline hygiene, operations design, and strategic planning. Place offerings here that strengthen commercial judgment, deal quality, and operational cadence.
+Courses aligned to go-to-market strategy, pricing, sales execution, pipeline hygiene, operations design, and strategic planning. Focused on building commercial judgment, deal quality, and operational cadence.
 
 ### Hardware: Electromechanical Systems
 Courses covering electronics, robotics, embedded firmware, and device-to-cloud integration. Anchors learning from schematics and firmware through enclosure design, safety, power budgeting, and field readiness.
@@ -26,7 +26,7 @@ Courses in construction, electrical, mechanical, safety, and commissioning. This
 Courses on scripting, shooting, editing, motion design, and visual effects. Emphasizes storytelling craft, pacing, sound, and production quality that supports product and brand narratives.
 
 ### Performance Arts: Stage and Screen
-Courses on performance technique, directing, movement, voice, and production practice for live and recorded formats. Use it to place training that improves delivery, presence, and audience engagement.
+Courses on performance technique, directing, movement, voice, and production practice for live and recorded formats. Focused on improving delivery, presence, and audience engagement.
 
 ### Academic Development: Mathematics, Natural Sciences, Engineering, Social Sciences, Arts, and Humanities
 Courses that build a broad academic foundation across quantitative disciplines, sciences, social science methods, and the arts. This page keeps technical work grounded in theory, context, and cross-domain literacy.

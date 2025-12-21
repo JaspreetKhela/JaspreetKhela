@@ -1,6 +1,6 @@
 # Business: Sales, Operations, and Strategy
 
-Course catalog for sales, operations, and strategy covering go-to-market design, pricing, discovery, account management, pipeline quality, and operational cadence. Use this page to place courses that strengthen commercial judgment, deal execution, and process design.
+Course catalog for sales, operations, and strategy covering go-to-market design, pricing, discovery, account management, pipeline quality, and operational cadence. Focused on strengthening commercial judgment, deal execution, and process design.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.
