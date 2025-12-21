@@ -2,6 +2,9 @@
 
 Training map for academic development across mathematics, natural sciences, engineering, social sciences, arts, and humanities. Practice blocks—problem sets, lab notebooks, literature reviews, and writing sprints—rotate to build fluency, test understanding, and keep technical work tied to real-world context and human impact.
 
+## Purpose
+- Catalog relevant academic and professional training courses under the appropriate subheadings in this domain.
+
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.
 - **Methods & Tools (Practitioner)**: Apply structured methods, templates, and instrumentation to deliver reliably and refine craft.

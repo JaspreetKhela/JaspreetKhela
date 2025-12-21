@@ -2,6 +2,9 @@
 
 Training routines for health, mindset, and languages with systems that keep progress honest and sustainable. Fitness, mindfulness, and language practice run in cycles with habit tracking, recovery blocks, and reflection prompts to highlight what to double down on or drop.
 
+## Purpose
+- Catalog relevant academic and professional training courses under the appropriate subheadings in this domain.
+
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.
 - **Methods & Tools (Practitioner)**: Apply structured methods, templates, and instrumentation to deliver reliably and refine craft.

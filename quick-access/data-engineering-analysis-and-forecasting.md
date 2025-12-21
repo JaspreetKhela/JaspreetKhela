@@ -2,6 +2,9 @@
 
 Training plan for data engineering, analysis, and forecasting: build-run-learn loops that turn raw data into decisions. Questions map to metrics, schemas get designed, and ETL/ELT, experiments, and forecasting are practiced with production-style monitoring so the discipline stays sharp and ready for real workloads.
 
+## Purpose
+- Catalog relevant academic and professional training courses under the appropriate subheadings in this domain.
+
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.
 - **Methods & Tools (Practitioner)**: Apply structured methods, templates, and instrumentation to deliver reliably and refine craft.

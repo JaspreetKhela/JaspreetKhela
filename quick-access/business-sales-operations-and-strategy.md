@@ -2,6 +2,9 @@
 
 Training and development program for sales, operations, and strategy: reps on discovery, pricing, and deal execution paired with playbook drills and case write-ups. Simulations, pipelines, and postmortems drive practice on offer design, pipeline hygiene, and operational cadence so each iteration ships cleaner and scales faster.
 
+## Purpose
+- Catalog relevant academic and professional training courses under the appropriate subheadings in this domain.
+
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.
 - **Methods & Tools (Practitioner)**: Apply structured methods, templates, and instrumentation to deliver reliably and refine craft.

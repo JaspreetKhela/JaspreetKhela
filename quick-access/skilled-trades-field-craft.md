@@ -2,6 +2,9 @@
 
 Training plan for field craft across construction, electrical, mechanical, and safety skills so designs stay grounded in reality. Shop time, certifications, and site simulations drive practice with tools, materials, permits, sequencing, and safety so crews can install, service, and trust what gets built.
 
+## Purpose
+- Catalog relevant academic and professional training courses under the appropriate subheadings in this domain.
+
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.
 - **Methods & Tools (Practitioner)**: Apply structured methods, templates, and instrumentation to deliver reliably and refine craft.
@@ -174,7 +177,7 @@ Wire controls and sensors, then commission for correct operation.
 Wire basic controls/sensors and verify signals with simple tests.
 - [Coming Soon]
 #### Methods & Tools (Practitioner)
-Configure controllers, tune sensors, and document I/O maps for commissioning.
+Configure controllers, tune sensors, and document input/output maps for commissioning.
 - [Coming Soon]
 #### Applied Practice & Delivery (Manager/Lead)
 Lead commissioning plans, punchlists, and handoff to operations teams.

@@ -2,6 +2,9 @@
 
 Training and development tracks for software engineering, integration, and delivery across web, mobile, services, and cloud. Architecture katas, implementation drills, and rollout simulations strengthen interface design, observability, accessibility, and calm on-call habits, favoring clear specs, small PRs, automated tests, and gradual rollouts backed by metrics.
 
+## Purpose
+- Catalog relevant academic and professional training courses under the appropriate subheadings in this domain.
+
 ### Role & Capability Tiers
 - **Foundations (Contributor/Analyst)**: Build baseline literacy, capture clean inputs, and execute core tasks with guidance.
 - **Methods & Tools (Practitioner)**: Apply structured methods, templates, and instrumentation to deliver reliably and refine craft.
