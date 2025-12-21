@@ -1,6 +1,6 @@
 # Business: Sales, Operations, and Strategy
 
-Training and development program for sales, operations, and strategy: reps on discovery, pricing, and deal execution paired with playbook drills and case write-ups. Simulations, pipelines, and postmortems drive practice on offer design, pipeline hygiene, and operational cadence so each iteration ships cleaner and scales faster.
+Course catalog for sales, operations, and strategy covering go-to-market design, pricing, discovery, account management, pipeline quality, and operational cadence. Use this page to place courses that strengthen commercial judgment, deal execution, and process design.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.

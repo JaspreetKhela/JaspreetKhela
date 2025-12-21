@@ -1,6 +1,6 @@
 # Data: Engineering, Analysis, and Forecasting
 
-Training plan for data engineering, analysis, and forecasting: build-run-learn loops that turn raw data into decisions. Questions map to metrics, schemas get designed, and ETL/ELT, experiments, and forecasting are practiced with production-style monitoring so the discipline stays sharp and ready for real workloads.
+Course catalog for data engineering, analysis, and forecasting. Includes courses on data modeling, pipelines, analytics, experimentation, and forecasting to connect questions, metrics, and decisions.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.

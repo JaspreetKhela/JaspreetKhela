@@ -8,22 +8,22 @@ This directory holds domain pages used to catalogue academic and professional tr
 
 ## Contents
 ### Business: Sales, Operations, and Strategy
-Courses aligned to go-to-market strategy, pricing, sales execution, pipeline hygiene, operations design, and strategic planning. Use this page to place offerings that strengthen commercial judgment, deal quality, and operational cadence.
+Courses aligned to go-to-market strategy, pricing, sales execution, pipeline hygiene, operations design, and strategic planning. Place offerings here that strengthen commercial judgment, deal quality, and operational cadence.
 
 ### Hardware: Electromechanical Systems
-Courses covering electronics, robotics, embedded firmware, and device-to-cloud integration. This page anchors learning that moves from schematics and firmware through enclosure design, safety, power budgeting, and field readiness.
+Courses covering electronics, robotics, embedded firmware, and device-to-cloud integration. Anchors learning from schematics and firmware through enclosure design, safety, power budgeting, and field readiness.
 
 ### Software: Engineering, Integration, and Delivery
 Courses across architecture, implementation, quality engineering, and operations. It focuses on service and frontend design, testing, deployment, observability, accessibility, and calm on-call practices for dependable delivery.
 
 ### Data: Engineering, Analysis, and Forecasting
-Courses for data pipelines, analytics, experimentation, and forecasting. It keeps questions, metrics, models, and monitoring tied together so analyses inform decisions and production data stays healthy.
+Courses for data pipelines, analytics, experimentation, and forecasting. Keeps questions, metrics, models, and monitoring tied together so analyses inform decisions and production data stays healthy.
 
 ### Skilled Trades: Field Craft
 Courses in construction, electrical, mechanical, safety, and commissioning. This page is a reference for training that keeps designs practical, installable, and compliant with real-world jobsite constraints.
 
 ### Multimedia: Audio, Video, VFX
-Courses on scripting, shooting, editing, motion design, and visual effects. The emphasis is on storytelling craft, pacing, sound, and production quality that supports product and brand narratives.
+Courses on scripting, shooting, editing, motion design, and visual effects. Emphasizes storytelling craft, pacing, sound, and production quality that supports product and brand narratives.
 
 ### Performance Arts: Stage and Screen
 Courses on performance technique, directing, movement, voice, and production practice for live and recorded formats. Use it to place training that improves delivery, presence, and audience engagement.

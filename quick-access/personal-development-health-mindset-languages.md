@@ -1,6 +1,6 @@
 # Personal Development: Health, Mindset, Languages
 
-Training routines for health, mindset, and languages with systems that keep progress honest and sustainable. Fitness, mindfulness, and language practice run in cycles with habit tracking, recovery blocks, and reflection prompts to highlight what to double down on or drop.
+Course catalog for health, mindset, and languages. Includes courses on fitness, recovery, mindfulness, stress management, and language learning to support steady personal routines and communication range.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.

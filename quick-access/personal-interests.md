@@ -1,6 +1,6 @@
 # Personal Interests
 
-Training sprints for personal interests across books, music, film, games, and new skills to stay curious and creative. Topics rotate through deliberate practice blocks, with patterns worth borrowing noted and a backlog of what to sample next or revisit when a spark is needed.
+Course catalog for personal interests across books, music, film, games, and new skills. Collects courses and explorations that keep curiosity active and feed creative thinking beyond core domains.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.

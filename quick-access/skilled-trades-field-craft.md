@@ -1,6 +1,6 @@
 # Skilled Trades: Field Craft
 
-Training plan for field craft across construction, electrical, mechanical, and safety skills so designs stay grounded in reality. Shop time, certifications, and site simulations drive practice with tools, materials, permits, sequencing, and safety so crews can install, service, and trust what gets built.
+Course catalog for field craft across construction, electrical, mechanical, and safety skills. Includes courses on tools, materials, permits, sequencing, commissioning, and jobsite practices that keep designs practical and installable.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.

@@ -1,6 +1,6 @@
 # Hardware: Electromechanical Systems
 
-Training track for electromechanical systems: electronics, robotics, and embedded practice that stays fluent from bench to field. Lab blocks cover board prototyping, sensor/actuator integration, firmware tuning, and cloud/device observability, with safety, power budgets, enclosure design, and test rigs baked into each cycle.
+Course catalog for electromechanical systems covering electronics, robotics, and embedded design. Includes courses on board design, sensor and actuator integration, firmware, safety, power, enclosures, and connecting devices to services.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.

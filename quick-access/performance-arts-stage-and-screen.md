@@ -1,6 +1,6 @@
 # Performance Arts: Stage and Screen
 
-Training program for stage and screen performance: writing, movement, and on-camera reps that build expressive, reliable delivery. Rehearsals on blocking, voice, pacing, and breath control capture feedback and drive adjustments so each run-through lands cleaner and more consistent across formats.
+Course catalog for stage and screen performance covering writing, movement, on-camera presence, and direction. Includes courses on blocking, voice, pacing, breath control, and production practice for live and recorded formats.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.

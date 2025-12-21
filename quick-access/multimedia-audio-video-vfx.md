@@ -1,6 +1,6 @@
 # Multimedia: Audio, Video, VFX
 
-Training loops for audio, video, and VFX to sharpen storytelling and feed product and brand design. Drills on scripting, shooting, editing, and motion keep narratives and visuals tight, pairing sound, pacing, and typography practice with breakdowns of storyboards, lighting, color, and sound design.
+Course catalog for audio, video, and VFX focused on storytelling and production quality. Covers scripting, shooting, editing, motion design, sound, pacing, typography, and visual effects for product and brand narratives.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.

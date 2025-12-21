@@ -1,6 +1,6 @@
 # Academic Development: Mathematics, Natural Sciences, Engineering, Social Sciences, Arts, and Humanities
 
-Training map for academic development across mathematics, natural sciences, engineering, social sciences, arts, and humanities. Practice blocks—problem sets, lab notebooks, literature reviews, and writing sprints—rotate to build fluency, test understanding, and keep technical work tied to real-world context and human impact.
+Course catalog for academic development across mathematics, natural sciences, engineering, social sciences, arts, and humanities. Highlights courses that build breadth and rigor across theory, methods, and application.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.
