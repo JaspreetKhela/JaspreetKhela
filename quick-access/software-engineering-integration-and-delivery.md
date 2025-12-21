@@ -10,6 +10,10 @@ Translate product goals into scoped requirements, technical specs, and delivery 
 Design services, data flows, and interfaces that scale safely with complexity.
 - [Coming Soon]
 
+## Application Security & Privacy Engineering
+Design secure application patterns, threat models, and privacy safeguards into services.
+- [Coming Soon]
+
 ## Backend Engineering
 Build APIs and services with predictable behavior, security, and performance.
 - [Coming Soon]

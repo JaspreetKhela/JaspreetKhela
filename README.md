@@ -241,6 +241,10 @@ Translate product goals into scoped requirements, technical specs, and delivery 
 Design services, data flows, and interfaces that scale safely with complexity.
 - [Coming Soon]
 
+#### Application Security & Privacy Engineering
+Design secure application patterns, threat models, and privacy safeguards into services.
+- [Coming Soon]
+
 #### Backend Engineering
 Build APIs and services with predictable behavior, security, and performance.
 - [Coming Soon]
@@ -281,8 +285,16 @@ Build testable, recoverable pipelines with orchestration, alerting, and lineage.
 Monitor quality, drift, access, and lineage so reports and models stay trustworthy.
 - [Coming Soon]
 
+#### Data Security & Privacy Compliance
+Implement data protection controls, retention, and compliance for safe data use.
+- [Coming Soon]
+
 #### Business Intelligence & Decision Analytics
 Translate questions into metrics, dashboards, and narratives that drive action.
+- [Coming Soon]
+
+#### Data Science & Applied Modeling
+Explore data, engineer features, and build statistical models to explain and predict.
 - [Coming Soon]
 
 #### Experimentation Science & Causal Inference
