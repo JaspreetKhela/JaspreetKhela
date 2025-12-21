@@ -177,292 +177,300 @@ This section maps what's ahead: Business covers sales, operations, and go-to-mar
 ### [Business: Sales, Operations, and Strategy](quick-access/business-sales-operations-and-strategy.md)
 Sales, operations, and strategy experiments I'm packaging into case studies, covering how I test offers, build pipelines, tune operations, and share what works. I map markets, build playbooks, and stress-test processes so the next iteration is easier to ship and scale. Expect notes on discovery calls, pricing tests, deal reviews, and runbooks for onboarding, retention, and ops hygiene.
 
-#### Market Research And Incentive Mapping
-Analyze market structure, incentives, and competitive dynamics to drive practical go-to-market decisions.
+#### Go-To-Market Strategy & Market Analysis
+Assess markets, incentives, and positioning to shape offers and entry strategy.
 - [Coming Soon]
 
-#### Customer Discovery And Interviewing
-Run customer interviews, synthesize pain points, and define success criteria that guide product and sales execution.
+#### Offer Packaging & Pricing Strategy
+Bundle services, set pricing models, and clarify value propositions buyers can act on.
 - [Coming Soon]
 
-#### Value Proposition And Positioning
-Articulate differentiation, craft messaging, and package offers that are easy to understand and easy to buy.
+#### Sales Discovery & Account Management
+Run discovery, manage accounts, and map success criteria that steer product and sales execution.
 - [Coming Soon]
 
-#### Pipeline Building And Deal Execution
-Prospect, qualify, negotiate, and manage a repeatable pipeline from outreach through close with disciplined deal hygiene.
+#### Pipeline Management & Deal Execution
+Prospect, qualify, negotiate, and keep a disciplined pipeline from outreach through close.
 - [Coming Soon]
 
-#### Operations Design And Process Improvement
-Build playbooks, workflows, and lightweight automation that improve consistency, speed, and accountability.
+#### Operations Design & Process Management
+Design playbooks, workflows, and automation that improve speed, quality, and accountability.
 - [Coming Soon]
 
-#### Financial Modeling And KPI Tracking
-Track unit economics, forecast outcomes, and monitor leading indicators so decisions stay measurable and grounded.
+#### Revenue Planning & Performance Analytics
+Model unit economics, forecast outcomes, and track KPIs to keep decisions grounded.
 - [Coming Soon]
 
 <a id="hardware-development-education-and-work-title"></a>
 ### [Hardware: Electromechanical Systems](quick-access/hardware-electromechanical-systems.md)
 Electromechanical systems work: electronics, robotics, and embedded builds that connect software to the physical world. I prototype boards, wire up sensors and actuators, tune firmware, and pair devices with cloud services so they stay observable, safe, and maintainable in real environments. I care about enclosure design, power budgets, field updates, and test rigs that catch failures before they ship.
 
-#### Circuit Design And Prototyping
-Design and prototype circuits with attention to power, signals, and component selection.
+#### Electrical Design Engineering
+Design and prototype circuits with sound power, signal integrity, and component choices.
 - [Coming Soon]
 
-#### Embedded Firmware Development
-Write stable, debuggable firmware with clear interfaces to peripherals and reliable runtime behavior.
+#### Embedded Firmware Engineering
+Write stable firmware interfaces to peripherals with debuggable, reliable behavior.
 - [Coming Soon]
 
-#### Sensor Integration And Control Systems
-Integrate sensors and actuators, implement calibration, and design safe control loops with clear failure modes.
+#### Controls & Automation Engineering
+Integrate sensors and actuators, calibrate signals, and design safe control loops.
 - [Coming Soon]
 
-#### Mechanical Design And Enclosure Integration
-Design assemblies and enclosures that are durable, serviceable, and realistic to build and maintain.
+#### Mechanical Design Engineering
+Design assemblies and enclosures that are durable, serviceable, and realistic to build.
 - [Coming Soon]
 
-#### Validation Testing And Safety Engineering
+#### Test & Validation Engineering
 Build test rigs, validate reliability, and document safety expectations before devices ship.
 - [Coming Soon]
 
-#### Manufacturing Readiness And Field Support
-Prepare builds for production, create diagnostics, and design update paths that support real-world deployments.
+#### Manufacturing & Field Support Engineering
+Prepare builds for production, create diagnostics, and design update paths for deployments.
 - [Coming Soon]
 
 <a id="software-development-education-and-work-title"></a>
 ### [Software: Engineering, Integration, and Delivery](quick-access/software-engineering-integration-and-delivery.md)
 Software engineering, integration, and delivery across web, mobile, services, and cloud, with reliability and user experience front and center. I focus on designing clean interfaces, instrumenting services, and rolling out changes safely, pairing code quality with observability, accessibility, and calm on-call playbooks. I like clear specs, small PRs, automated tests, and gradual rollouts backed by metrics and feedback loops.
 
-#### Requirements And Technical Specifications
-Translate user needs into scoped requirements, acceptance criteria, and implementation plans that teams can execute.
+#### Product & Technical Planning
+Translate product goals into scoped requirements, technical specs, and delivery plans.
 - [Coming Soon]
 
-#### Programming Fundamentals And Code Craft
-Write maintainable code with strong data modeling, clear interfaces, and disciplined refactoring practices.
+#### Software Architecture Engineering
+Design services, data flows, and interfaces that scale safely with complexity.
 - [Coming Soon]
 
-#### Backend Service Development
-Build APIs and services with predictable behavior, secure boundaries, and performance that holds up in production.
+#### Backend Engineering
+Build APIs and services with predictable behavior, security, and performance.
 - [Coming Soon]
 
-#### Frontend Interface Development
-Ship user interfaces that are accessible, responsive, and aligned with product intent and design systems.
+#### Frontend Engineering
+Ship accessible, responsive interfaces aligned with product intent and design systems.
 - [Coming Soon]
 
-#### System Design And Integration
-Design components, data flows, and integrations that scale with complexity and support safe change over time.
+#### Quality Engineering & Test Automation
+Create unit, integration, and end-to-end coverage that keeps behavior stable.
 - [Coming Soon]
 
-#### Testing And Quality Engineering
-Build unit, integration, and end-to-end coverage that keeps behavior stable and makes refactors safe.
+#### Platform & DevOps Engineering
+Automate builds and deployments, manage releases, and keep developer platforms reliable.
 - [Coming Soon]
 
-#### CI/CD And Release Management
-Automate builds and deployments, manage releases, and roll back safely when needed.
-- [Coming Soon]
-
-#### Observability And On-Call Reliability
-Instrument services with logs, metrics, traces, and alerts, and respond to incidents with calm, repeatable practices.
+#### Site Reliability Engineering & Observability
+Instrument services with logs, metrics, traces, and run calm, repeatable incident response.
 - [Coming Soon]
 
 <a id="data-development-education-and-work-title"></a>
 ### [Data: Engineering, Analysis, and Forecasting](quick-access/data-engineering-analysis-and-forecasting.md)
 Data engineering, analysis, and forecasting work: pipelines, experiments, and models that turn raw data into decisions. I map questions to metrics, clean and model data, run experiments, and surface results in dashboards people actually use, tying forecasts back to product and revenue goals. That includes schema design, ETL/ELT, feature stores, experiment design, and taking models to production with monitoring.
 
-#### Data Modeling And SQL Development
-Design schemas, write performant SQL, and validate correctness so analytics reflect reality.
+#### Instrumentation & Event Design
+Define tracking taxonomies and capture context so analysis maps to real behavior.
 - [Coming Soon]
 
-#### Analytics Instrumentation And Event Design
-Define event taxonomies, implement tracking, and capture context so analysis maps to real behavior.
+#### Analytics Engineering & Data Modeling
+Design schemas, data models, and transformations that keep analytics accurate.
 - [Coming Soon]
 
-#### ETL/ELT Pipeline Engineering
-Build testable, recoverable pipelines with orchestration and alerting that support reliable operations.
+#### Data Engineering & Platform Operations
+Build testable, recoverable pipelines with orchestration, alerting, and lineage.
 - [Coming Soon]
 
-#### Analytics And Dashboard Delivery
-Translate questions into metrics, dashboards, and narratives that enable confident decisions.
+#### Data Governance & Quality Management
+Monitor quality, drift, access, and lineage so reports and models stay trustworthy.
 - [Coming Soon]
 
-#### Statistical Analysis And Experimentation
-Design experiments, run analyses, and separate signal from noise with defensible methods.
+#### Business Intelligence & Decision Analytics
+Translate questions into metrics, dashboards, and narratives that drive action.
 - [Coming Soon]
 
-#### Forecasting And Machine Learning Engineering
-Build forecasting and machine learning solutions that connect to business outcomes and can be monitored in production.
+#### Experimentation Science & Causal Inference
+Design experiments, analyze results, and separate signal from noise with defensible methods.
 - [Coming Soon]
 
-#### Data Quality Monitoring And Governance
-Monitor data quality, drift, and lineage so reports and models stay trustworthy over time.
+#### Machine Learning & Forecasting Engineering
+Ship forecasting and ML solutions tied to business outcomes with monitoring.
 - [Coming Soon]
 
 <a id="skilled-trades-education-and-work-title"></a>
 ### [Skilled Trades: Field Craft](quick-access/skilled-trades-field-craft.md)
 Field craft across construction, electrical, mechanical, and safety skills that keep me practical when I design real-world systems. I like knowing how tools, materials, and safety practices actually work on-site, which helps me design solutions that crews can install, service, and trust. I keep notes on permits, site prep, sequencing, and how to avoid surprises once the plans meet the job site.
 
-#### Safety Practices And Code Compliance
-Apply safety standards and code requirements so work is legal, safe, and repeatable on-site.
+#### Site Safety & Code Compliance
+Apply safety standards and code requirements so work is legal, safe, and repeatable.
 - [Coming Soon]
 
-#### Tools, Measurement, And Job Planning
-Select tools, measure accurately, and plan work packages so execution stays predictable.
+#### Carpentry & Framing
+Frame, sheath, and build structures with accurate layout and durable joinery.
 - [Coming Soon]
 
-#### Materials Handling And Trade Techniques
-Choose materials, apply proper fastening and finishing methods, and avoid common failure patterns.
+#### Electrical & Controls Installation
+Plan circuits, pull wire, terminate panels, and commission controls safely.
 - [Coming Soon]
 
-#### Site Execution And Sequencing
-Sequence tasks, manage constraints, and reduce rework, delays, and hazards during execution.
+#### Plumbing, Piping & HVAC Installation
+Route piping, set fixtures, and install HVAC runs that respect flow and tolerances.
 - [Coming Soon]
 
-#### Quality Control And Inspection
-Verify tolerances, workmanship, and function so results hold up under real conditions.
+#### Metal Fabrication & Rigging
+Cut, weld, fabricate, and rig assemblies with attention to load, safety, and fit.
 - [Coming Soon]
 
-#### Documentation And Handover
-Produce clear labels, as-builts, and checklists so others can service and operate the work confidently.
+#### Closeout, QA & Documentation
+Inspect work, create as-builts, and hand off clear documentation for operations.
 - [Coming Soon]
 
 <a id="multimedia-production-education-and-work-title"></a>
 ### [Multimedia: Audio, Video, VFX](quick-access/multimedia-audio-video-vfx.md)
 Multimedia practice in audio, video, and VFX to sharpen storytelling and inform product and brand design. I script, shoot, edit, and experiment with motion so products ship with clear narratives and visuals, and I match sound, pacing, and typography to the feeling a product should convey. Expect breakdowns on storyboards, lighting setups, color, and sound design that reinforce the message.
 
-#### Creative Direction And Story Development
+#### Creative Direction & Scriptwriting
 Define audience, goals, and narrative so creative choices support a clear message.
 - [Coming Soon]
 
-#### Pre-Production Planning And Asset Management
-Plan scripts, shot lists, locations, and assets so production time stays focused and efficient.
+#### Production Management & Asset Coordination
+Plan scripts, shot lists, locations, and assets so production time stays efficient.
 - [Coming Soon]
 
-#### Production Audio And Video Capture
-Capture clean audio and video with strong lighting, framing, and signal quality under real constraints.
+#### Cinematography & Production Audio
+Capture clean video and audio with strong lighting, framing, and signal quality.
 - [Coming Soon]
 
-#### Editing And Post-Production Finishing
-Shape pacing and clarity through editing, sound design, color, and final delivery workflows.
+#### Video Editing & Post-Production
+Shape pacing and clarity through editing, sound design, color, and delivery workflows.
 - [Coming Soon]
 
-#### Motion Graphics And Visual Effects
-Use motion and visual effects to explain ideas, improve polish, and reinforce product and brand identity.
+#### Motion Design & Visual Effects
+Use motion and VFX to explain ideas and reinforce product and brand identity.
 - [Coming Soon]
 
-#### Publishing And Performance Optimization
-Publish content, measure engagement, gather feedback, and iterate toward stronger outcomes.
+#### Publishing, Distribution & Performance Analytics
+Publish content, measure engagement, and iterate toward stronger outcomes.
 - [Coming Soon]
 
 <a id="performance-arts-education-and-work-title"></a>
 ### [Performance Arts: Stage and Screen](quick-access/performance-arts-stage-and-screen.md)
 Performance work for stage and screen: writing, movement, and on-camera practice to keep creative muscles sharp. I rehearse blocking, voice, and delivery to communicate with more clarity and presence, and I study audience cues so each run-through lands cleaner than the last. I also experiment with pacing, breath control, and framing so messages land consistently across formats.
 
-#### Vocal Technique And Speech Delivery
-Control breath, diction, projection, and pacing so delivery stays clear and consistent.
+#### Voice & Speech Coaching
+Develop breath, diction, projection, and pacing for clear delivery.
 - [Coming Soon]
 
-#### Movement And Stage Presence
-Use posture, gesture, and physical storytelling to communicate with confidence and intention.
+#### Movement & Stage Presence
+Use posture, gesture, and blocking to communicate with confidence and intention.
 - [Coming Soon]
 
-#### Script Analysis And Character Development
-Analyze intent, stakes, and subtext so performance choices stay grounded and believable.
+#### Acting & Script Analysis
+Break down intent, stakes, and subtext to ground performance choices.
 - [Coming Soon]
 
-#### Rehearsal Process And Blocking
-Rehearse with purpose, refine timing, and lock blocking so performances are repeatable.
+#### Rehearsal Direction & Blocking
+Rehearse with purpose, refine timing, and lock blocking for repeatable shows.
 - [Coming Soon]
 
-#### On-Camera Technique And Stage Craft
-Adapt to medium, framing, eyelines, and audience engagement so the message lands across formats.
+#### Camera Technique & Stagecraft
+Adapt to medium, framing, eyelines, and audience engagement across formats.
 - [Coming Soon]
 
-#### Performance Review And Iteration
-Review recordings, take actionable notes, and iterate so each run becomes cleaner and more intentional.
+#### Performance Review & Iteration
+Review recordings, take actionable notes, and iterate for cleaner runs.
 - [Coming Soon]
 
 <a id="academic-development-history-and-pursuits-title"></a>
 ### [Academic Development: Mathematics, Natural Sciences, Engineering, Social Sciences, Arts, and Humanities](quick-access/academic-development.md)
 Academic development spanning mathematics, natural sciences, engineering, social sciences, arts, and humanities to keep my foundation broad and rigorous. I study proofs, experiments, systems, and culture to see patterns across domains, and to keep my technical work grounded in real-world context and human impact. I cycle between problem sets, lab-style tinkering, literature reviews, and writing to synthesize what I learn.
 
-#### Proof And Quantitative Reasoning
-Use proof, probability, and abstraction to reason clearly and model complex systems.
+#### Mathematics
+Study algebra, analysis, probability, and discrete math to sharpen proof and modeling skills.
 - [Coming Soon]
 
-#### Experimental Methods And Lab Practice
-Form hypotheses, run experiments, evaluate evidence, and document results with repeatable methods.
+#### Natural Sciences
+Explore physics and chemistry through experiments and modeling.
 - [Coming Soon]
 
-#### Engineering Design And Systems Thinking
-Apply constraints, trade-offs, and design principles to build dependable systems.
+#### Life Sciences
+Study biology and related disciplines to understand living systems and health.
 - [Coming Soon]
 
-#### Economics And Organizational Analysis
-Analyze incentives, markets, and organizations to understand how decisions ripple through groups.
+#### Engineering
+Apply design principles across electrical, mechanical, and systems engineering to build dependable solutions.
 - [Coming Soon]
 
-#### Ethics, History, And Cultural Context
-Apply ethics, history, and cultural context so technical decisions stay human and responsible.
+#### Social Sciences
+Analyze societies, incentives, and organizations to understand how decisions ripple through groups.
 - [Coming Soon]
 
-#### Research Synthesis And Technical Writing
-Read critically, synthesize sources, and communicate findings in clear, structured writing.
+#### Arts
+Practice visual and performing arts to strengthen creative expression and storytelling.
+- [Coming Soon]
+
+#### Humanities
+Study history, languages, philosophy, and culture to add context and ethics to technical work.
+- [Coming Soon]
+
+#### Research Methods & Technical Writing
+Run structured research, synthesize sources, and communicate findings clearly.
 - [Coming Soon]
 
 <a id="personal-development-history-and-pursuits-title"></a>
 ### [Personal Development: Health, Mindset, Languages](quick-access/personal-development-health-mindset-languages.md)
 Personal development in health, mindset, and languages with routines and tools I lean on to stay steady outside of work. I take mental health seriously and use fitness, mindfulness, and emotional intelligence practices to stay clear and consistent. I also track habits so progress stays honest and sustainable, log sleep, nutrition, and training, and use reflection prompts to spot what to double down on or drop.
 
-#### Strength Training And Conditioning
-Plan training, manage recovery, and build physical resilience with consistent routines.
+#### Sleep & Recovery Foundations
+Protect sleep, rest, and recovery to keep training and work sustainable.
 - [Coming Soon]
 
-#### Mindfulness And Stress Management
-Use reflection and mindfulness tools to stay calm, focused, and emotionally regulated.
+#### Nutrition & Hydration
+Set simple nutrition and hydration routines that support energy and focus.
 - [Coming Soon]
 
-#### Habit Design And Behavior Change
-Build routines, track progress, and design environments that make consistency easier.
+#### Strength, Conditioning & Mobility
+Build physical resilience with strength work, conditioning, and mobility practice.
 - [Coming Soon]
 
-#### Language Learning And Skill Acquisition
-Practice deliberate learning, build study systems, and make progress on languages and new skills.
+#### Mental Health & Stress Management
+Use reflection, mindfulness, and coping tools to stay calm and emotionally regulated.
 - [Coming Soon]
 
-#### Communication And Relationship Building
-Communicate clearly, build trust, and maintain supportive relationships through consistent practice.
+#### Habit Systems & Self-Management
+Design routines, track progress, and shape environments that make consistency easier.
 - [Coming Soon]
 
-#### Values Clarification And Goal Review
-Define principles, review progress, and adjust course so growth stays aligned with what matters.
+#### Communication, Relationships & Boundaries
+Practice clear communication, trust-building, and boundaries for healthy relationships.
+- [Coming Soon]
+
+#### Learning Systems & Language Practice
+Build study systems for ongoing learning, including languages and new skills.
 - [Coming Soon]
 
 <a id="personal-interests-title"></a>
 ### [Personal Interests](quick-access/personal-interests.md)
 Personal interests across books, music, film, games, and new skills I'm exploring to stay curious and creative. I rotate through new topics often to keep ideas fresh, borrow patterns from unexpected places, and balance deep work with play. I keep a rolling list of what to sample next and what to revisit when I need a spark.
 
-#### Exploration And Skill Sampling
-Rapidly sample new tools and domains through small projects that build practical intuition.
+#### Reading, Research & Media Notes
+Extract mental models from books, films, and essays and capture takeaways.
 - [Coming Soon]
 
-#### Creative Making And Side Projects
-Ship small creative builds in writing, design, and tinkering to stay expressive and practice finishing.
+#### Maker Craft & Tool Practice
+Build hands-on intuition with electronics, woodworking, and bench skills.
 - [Coming Soon]
 
-#### Reading And Media Analysis
-Extract mental models from books, films, and essays and apply them to real decisions.
+#### Music Appreciation & Theory Study
+Listen actively, study rhythm and harmony, and translate patterns to other domains.
 - [Coming Soon]
 
-#### Game Systems And Strategy Study
-Analyze games as systems and strategy training, strengthening pattern recognition and decision making.
+#### Visual Storytelling & Design Play
+Explore sketching, layout, color, and lightweight motion to communicate ideas.
 - [Coming Soon]
 
-#### Music Listening And Rhythm Study
-Use music for creative reset and study rhythm, mood, and pacing as transferable skills.
+#### Strategy Games & Systems Analysis
+Use games to practice pattern recognition, decision making, and probabilistic thinking.
 - [Coming Soon]
 
-#### Micro-Projects And Rapid Prototyping
-Prototype quickly, learn by doing, and keep momentum through low-friction micro-project workflows.
+#### Rapid Experiments & Micro-Builds
+Prototype quickly, learn by doing, and iterate through small, time-boxed projects.
 - [Coming Soon]
 
 <a id="contact"></a>

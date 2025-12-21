@@ -2,27 +2,34 @@
 
 Academic development spanning mathematics, natural sciences, engineering, social sciences, arts, and humanities to keep my foundation broad and rigorous. I study proofs, experiments, systems, and culture to see patterns across domains, and to keep my technical work grounded in real-world context and human impact. I cycle between problem sets, lab-style tinkering, literature reviews, and writing to synthesize what I learn.
 
-## Proof And Quantitative Reasoning
-Use proof, probability, and abstraction to reason clearly and model complex systems.
+## Mathematics
+Study algebra, analysis, probability, and discrete math to sharpen proof and modeling skills.
 - [Coming Soon]
 
-## Experimental Methods And Lab Practice
-Form hypotheses, run experiments, evaluate evidence, and document results with repeatable methods.
+## Natural Sciences
+Explore physics and chemistry through experiments and modeling.
 - [Coming Soon]
 
-## Engineering Design And Systems Thinking
-Apply constraints, trade-offs, and design principles to build dependable systems.
+## Life Sciences
+Study biology and related disciplines to understand living systems and health.
 - [Coming Soon]
 
-## Economics And Organizational Analysis
-Analyze incentives, markets, and organizations to understand how decisions ripple through groups.
+## Engineering
+Apply design principles across electrical, mechanical, and systems engineering to build dependable solutions.
 - [Coming Soon]
 
-## Ethics, History, And Cultural Context
-Apply ethics, history, and cultural context so technical decisions stay human and responsible.
+## Social Sciences
+Analyze societies, incentives, and organizations to understand how decisions ripple through groups.
 - [Coming Soon]
 
-## Research Synthesis And Technical Writing
-Read critically, synthesize sources, and communicate findings in clear, structured writing.
+## Arts
+Practice visual and performing arts to strengthen creative expression and storytelling.
 - [Coming Soon]
 
+## Humanities
+Study history, languages, philosophy, and culture to add context and ethics to technical work.
+- [Coming Soon]
+
+## Research Methods & Technical Writing
+Run structured research, synthesize sources, and communicate findings clearly.
+- [Coming Soon]

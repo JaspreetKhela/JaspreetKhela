@@ -2,27 +2,30 @@
 
 Personal development in health, mindset, and languages with routines and tools I lean on to stay steady outside of work. Fitness, mindfulness, and daily language practice keep me clear and consistent, and I track habits so progress stays honest and sustainable. I log sleep, nutrition, and training, and I keep reflection prompts to spot what to double down on or drop.
 
-## Strength Training And Conditioning
-Plan training, manage recovery, and build physical resilience with consistent routines.
+## Sleep & Recovery Foundations
+Protect sleep, rest, and recovery to keep training and work sustainable.
 - [Coming Soon]
 
-## Mindfulness And Stress Management
-Use reflection and mindfulness tools to stay calm, focused, and emotionally regulated.
+## Nutrition & Hydration
+Set simple nutrition and hydration routines that support energy and focus.
 - [Coming Soon]
 
-## Habit Design And Behavior Change
-Build routines, track progress, and design environments that make consistency easier.
+## Strength, Conditioning & Mobility
+Build physical resilience with strength work, conditioning, and mobility practice.
 - [Coming Soon]
 
-## Language Learning And Skill Acquisition
-Practice deliberate learning, build study systems, and make progress on languages and new skills.
+## Mental Health & Stress Management
+Use reflection, mindfulness, and coping tools to stay calm and emotionally regulated.
 - [Coming Soon]
 
-## Communication And Relationship Building
-Communicate clearly, build trust, and maintain supportive relationships through consistent practice.
+## Habit Systems & Self-Management
+Design routines, track progress, and shape environments that make consistency easier.
 - [Coming Soon]
 
-## Values Clarification And Goal Review
-Define principles, review progress, and adjust course so growth stays aligned with what matters.
+## Communication, Relationships & Boundaries
+Practice clear communication, trust-building, and boundaries for healthy relationships.
 - [Coming Soon]
 
+## Learning Systems & Language Practice
+Build study systems for ongoing learning, including languages and new skills.
+- [Coming Soon]

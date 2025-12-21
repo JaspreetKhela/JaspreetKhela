@@ -2,27 +2,26 @@
 
 Sales, operations, and strategy experiments I'm packaging into case studies, covering how I test offers, build pipelines, tune operations, and share what works. I map markets, build playbooks, and stress-test processes so the next iteration is easier to ship and scale. Expect notes on discovery calls, pricing tests, deal reviews, and runbooks for onboarding, retention, and ops hygiene.
 
-## Market Research And Incentive Mapping
-Analyze market structure, incentives, and competitive dynamics to drive practical go-to-market decisions.
+## Go-To-Market Strategy & Market Analysis
+Assess markets, incentives, and positioning to shape offers and entry strategy.
 - [Coming Soon]
 
-## Customer Discovery And Interviewing
-Run customer interviews, synthesize pain points, and define success criteria that guide product and sales execution.
+## Offer Packaging & Pricing Strategy
+Bundle services, set pricing models, and clarify value propositions buyers can act on.
 - [Coming Soon]
 
-## Value Proposition And Positioning
-Articulate differentiation, craft messaging, and package offers that are easy to understand and easy to buy.
+## Sales Discovery & Account Management
+Run discovery, manage accounts, and map success criteria that steer product and sales execution.
 - [Coming Soon]
 
-## Pipeline Building And Deal Execution
-Prospect, qualify, negotiate, and manage a repeatable pipeline from outreach through close with disciplined deal hygiene.
+## Pipeline Management & Deal Execution
+Prospect, qualify, negotiate, and keep a disciplined pipeline from outreach through close.
 - [Coming Soon]
 
-## Operations Design And Process Improvement
-Build playbooks, workflows, and lightweight automation that improve consistency, speed, and accountability.
+## Operations Design & Process Management
+Design playbooks, workflows, and automation that improve speed, quality, and accountability.
 - [Coming Soon]
 
-## Financial Modeling And KPI Tracking
-Track unit economics, forecast outcomes, and monitor leading indicators so decisions stay measurable and grounded.
+## Revenue Planning & Performance Analytics
+Model unit economics, forecast outcomes, and track KPIs to keep decisions grounded.
 - [Coming Soon]
-

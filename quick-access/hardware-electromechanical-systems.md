@@ -2,27 +2,26 @@
 
 Electromechanical systems work: electronics, robotics, and embedded builds that connect software to the physical world. I prototype boards, wire up sensors and actuators, tune firmware, and pair devices with cloud services so they stay observable, safe, and maintainable in real environments. I care about enclosure design, power budgets, field updates, and test rigs that catch failures before they ship.
 
-## Circuit Design And Prototyping
-Design and prototype circuits with attention to power, signals, and component selection.
+## Electrical Design Engineering
+Design and prototype circuits with sound power, signal integrity, and component choices.
 - [Coming Soon]
 
-## Embedded Firmware Development
-Write stable, debuggable firmware with clear interfaces to peripherals and reliable runtime behavior.
+## Embedded Firmware Engineering
+Write stable firmware interfaces to peripherals with debuggable, reliable behavior.
 - [Coming Soon]
 
-## Sensor Integration And Control Systems
-Integrate sensors and actuators, implement calibration, and design safe control loops with clear failure modes.
+## Controls & Automation Engineering
+Integrate sensors and actuators, calibrate signals, and design safe control loops.
 - [Coming Soon]
 
-## Mechanical Design And Enclosure Integration
-Design assemblies and enclosures that are durable, serviceable, and realistic to build and maintain.
+## Mechanical Design Engineering
+Design assemblies and enclosures that are durable, serviceable, and realistic to build.
 - [Coming Soon]
 
-## Validation Testing And Safety Engineering
+## Test & Validation Engineering
 Build test rigs, validate reliability, and document safety expectations before devices ship.
 - [Coming Soon]
 
-## Manufacturing Readiness And Field Support
-Prepare builds for production, create diagnostics, and design update paths that support real-world deployments.
+## Manufacturing & Field Support Engineering
+Prepare builds for production, create diagnostics, and design update paths for deployments.
 - [Coming Soon]
-
