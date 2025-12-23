@@ -66,7 +66,7 @@ I'm a Toronto-based full-stack engineer who blends hardware, software, data, ope
 Preparation. Pace. Patience. Persistence. Facta, Non Verba. Do the groundwork, move steadily, stay calm through slow climbs, and let shipped work speak louder than claims.
 
 ### Background
-I grew up bouncing between math puzzles at the kitchen table, science kits in the garage, sketching and producing music in the evenings, history books on weekends, and sports drills after school. That mix of mathematics, natural sciences, engineering, life sciences, social sciences, arts, humanities, and athletic practice taught me to test ideas with proof and experiment, study how people organize and lead, and blend creative exploration with technical rigor. Velut Arbor AEvo.
+I grew up bouncing between math puzzles at the kitchen table, science kits in the garage, sketching and producing music in the evenings, history books on weekends, and sports drills after school. That mix of mathematics, natural sciences, engineering, life sciences, social sciences, arts, humanities, and athletic practice taught me to <span class="highlight"><b>test ideas with proof and experiment, study how people organize and lead, and blend creative exploration with technical rigor. Velut Arbor Ӕvo.</b></span>
 
 ### Goals
 Near term, I want to contribute to technical R&D in quantum computing, machine learning, cryptography, nuclear fusion, surgery, and finance, alongside business development, operations, and sales work. Long term, I hope to blend creative work and service as an artist, entrepreneur, and mathematician, and in the public sphere serve through research, defense, healthcare, social work, and public service. Those paths keep me inventive, useful, and grounded in service.
