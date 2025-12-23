@@ -1,6 +1,6 @@
 # Quick Access
 
-This directory holds domain pages used to catalogue the programs and courses I'm taking for academic and professional training under the appropriate subheadings. It is a quick-reference index for where a course belongs across the broader set of domains; course materials and syllabi live elsewhere.
+This directory holds domain pages used to catalogue the courses and programs I'm taking for academic and professional training under the appropriate subheadings. It is a quick-reference index for where a course belongs across the broader set of domains; course materials and syllabi live elsewhere.
 
 ## Structure
 - Domain pages: One markdown file per domain in this folder.
@@ -8,31 +8,31 @@ This directory holds domain pages used to catalogue the programs and courses I'm
 
 ## Contents
 ### Business: Sales, Operations, and Strategy
-Courses aligned to go-to-market strategy, pricing, sales execution, pipeline hygiene, operations design, and strategic planning. Focused on building commercial judgment, deal quality, and operational cadence.
+Training log for go-to-market strategy, pricing, sales execution, pipeline hygiene, and operations. Captures the courses and programs I'm using to build commercial judgment, playbooks, and process discipline.
 
 ### Hardware: Electromechanical Systems
-Courses covering electronics, robotics, embedded firmware, and device-to-cloud integration. Anchors learning from schematics and firmware through enclosure design, safety, power budgeting, and field readiness.
+Electromechanical systems training across electronics, robotics, and embedded builds that connect software to the physical world. Logs the courses and programs on design, firmware, power, and test rigs so devices can be monitored, tested, and debugged safely in the field.
 
 ### Software: Engineering, Integration, and Delivery
-Courses across architecture, implementation, quality engineering, and operations. It focuses on service and frontend design, testing, deployment, observability, accessibility, and calm on-call practices for dependable delivery.
+Software engineering, integration, and delivery across web, mobile, services, and cloud. Tracks the courses and programs I'm using to practice clean interfaces, observability, accessibility, and safe rollouts.
 
 ### Data: Engineering, Analysis, and Forecasting
-Courses for data pipelines, analytics, experimentation, and forecasting. Keeps questions, metrics, models, and monitoring tied together so analyses inform decisions and production data stays healthy.
+Data engineering, analysis, and forecasting training covering pipelines, experiments, and models that turn raw data into decisions. Documents the courses and programs I'm using for instrumentation, modeling, experimentation, and production ML.
 
 ### Skilled Trades: Field Craft
-Courses in construction, site prep, foundations, electrical, mechanical, safety, and commissioning. This page is a reference for training that keeps designs practical, installable, and compliant with real-world jobsite constraints.
+Field craft across construction, electrical, mechanical, and safety skills that keep me practical when I design real-world systems. Documents the courses and programs I'm using on permits, layout, sequencing, commissioning, and avoiding surprises once the plans meet the job site.
 
 ### Multimedia: Audio, Video, VFX
-Courses on scripting, shooting, editing, motion design, and visual effects. Emphasizes storytelling craft, pacing, sound, and production quality that supports product and brand narratives.
+Multimedia practice in audio, video, and VFX to sharpen storytelling and inform product and brand design. Tracks the courses and programs I'm using to script, shoot, edit, and experiment with motion, sound, and pacing.
 
 ### Performance Arts: Stage and Screen
-Courses on performance technique, directing, movement, voice, and production practice for live and recorded formats. Focused on improving delivery, presence, and audience engagement.
+Performance work for stage and screen: writing, movement, and on-camera practice to keep creative muscles sharp. Logs the courses and programs I'm using to rehearse blocking, voice, delivery, and audience awareness.
 
 ### Academic Development: Mathematics, Natural Sciences, Engineering, Social Sciences, Arts, and Humanities
-Courses that build a broad academic foundation across quantitative disciplines, sciences, social science methods, and the arts. This page keeps technical work grounded in theory, context, and cross-domain literacy.
+Academic development spanning mathematics, natural sciences, engineering, social sciences, arts, and humanities to keep my foundation broad and rigorous. Catalogs the courses, programs, and research training I’m using to connect theory, experiments, systems, and culture.
 
 ### Personal Development: Health, Mindset, Languages
-Courses for fitness, recovery, mindfulness, learning systems, and language study. It supports steady personal routines, cognitive clarity, and communication range outside of work.
+Personal development in health, mindset, and learning systems with routines and tools I lean on to stay steady outside of work. Captures the courses and programs I'm using for fitness, mindfulness, habit building, and language study so progress stays honest and sustainable.
 
 ### Personal Interests
-Courses and explorations across arts, media, and emerging skills beyond core domains. This page captures learning paths that keep curiosity active and feed creative thinking.
+Personal interests across books, music, film, games, and new skills I'm exploring to stay curious and creative. Logs the courses, workshops, and experiments I'm trying to keep ideas fresh and balanced with play.
