@@ -1,6 +1,6 @@
 # Academic Development: Mathematics, Natural Sciences, Engineering, Social Sciences, Arts, and Humanities
 
-Course catalog for academic development across mathematics, natural sciences, engineering, social sciences, arts, and humanities. Highlights courses that build breadth and rigor across theory, methods, and application.
+Academic development spanning mathematics, natural sciences, engineering, social sciences, arts, and humanities to keep my foundation broad and rigorous. Catalogs the courses, programs, and research training I’m using to connect theory, experiments, systems, and culture.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.

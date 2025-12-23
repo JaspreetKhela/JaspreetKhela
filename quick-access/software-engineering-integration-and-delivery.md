@@ -1,6 +1,6 @@
 # Software: Engineering, Integration, and Delivery
 
-Course catalog for software engineering, integration, and delivery across web, mobile, services, and cloud. Highlights courses on architecture, interfaces, implementation, testing, deployment, observability, accessibility, and operational readiness.
+Software engineering, integration, and delivery across web, mobile, services, and cloud. Tracks the courses and programs I'm using to practice clean interfaces, observability, accessibility, and safe rollouts.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.

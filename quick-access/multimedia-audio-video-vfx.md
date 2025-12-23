@@ -1,6 +1,6 @@
 # Multimedia: Audio, Video, VFX
 
-Course catalog for audio, video, and VFX focused on storytelling and production quality. Covers scripting, shooting, editing, motion design, sound, pacing, typography, and visual effects for product and brand narratives.
+Multimedia practice in audio, video, and VFX to sharpen storytelling and inform product and brand design. Tracks the courses and programs I'm using to script, shoot, edit, and experiment with motion, sound, and pacing.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.

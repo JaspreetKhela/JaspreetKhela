@@ -1,6 +1,6 @@
 # Data: Engineering, Analysis, and Forecasting
 
-Course catalog for data engineering, analysis, and forecasting. Includes courses on data modeling, pipelines, analytics, experimentation, and forecasting to connect questions, metrics, and decisions.
+Data engineering, analysis, and forecasting training covering pipelines, experiments, and models that turn raw data into decisions. Documents the courses and programs I'm using for instrumentation, modeling, experimentation, and production ML.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.

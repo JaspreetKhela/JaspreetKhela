@@ -1,6 +1,6 @@
 # Personal Interests
 
-Course catalog for personal interests across books, music, film, games, and new skills. Collects courses and explorations that keep curiosity active and feed creative thinking beyond core domains.
+Personal interests across books, music, film, games, and new skills I'm exploring to stay curious and creative. Logs the courses, workshops, and experiments I'm trying to keep ideas fresh and balanced with play.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.

@@ -1,6 +1,6 @@
 # Quick Access
 
-This directory holds domain pages used to catalogue the courses and programs I'm taking for academic and professional training under the appropriate subheadings. It is a quick-reference index for where a course belongs across the broader set of domains; course materials and syllabi live elsewhere.
+Quick links to domain pages that document the courses, programs, and practice plans I'm using to build each discipline. Business covers go-to-market and operations; software spans full-stack delivery; data covers pipelines and models; hardware focuses on embedded and prototypes; trades capture hands-on field craft; multimedia covers audio, video, and motion; performance covers stage and screen; academic tracks coursework and research; personal development covers health and learning systems; interests log curiosity projects.
 
 ## Structure
 - Domain pages: One markdown file per domain in this folder.

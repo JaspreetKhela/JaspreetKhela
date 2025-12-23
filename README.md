@@ -171,11 +171,11 @@ Building decks, proposals, and negotiations that move deals forward while keepin
 
 <a id="quick-access-webpage-links"></a>
 ## Quick Access Webpage Links
-Quick links to domain pages that document the programs, courses, and practice plans I'm using to build each discipline. Business covers go-to-market and operations; software spans full-stack delivery; data covers pipelines and models; hardware focuses on embedded and prototypes; trades capture hands-on field craft; multimedia covers audio, video, and motion; performance covers stage and screen; academic tracks coursework and research; personal development covers health and learning systems; interests log curiosity projects.
+Quick links to domain pages that document the courses, programs, and practice plans I'm using to build each discipline. Business covers go-to-market and operations; software spans full-stack delivery; data covers pipelines and models; hardware focuses on embedded and prototypes; trades capture hands-on field craft; multimedia covers audio, video, and motion; performance covers stage and screen; academic tracks coursework and research; personal development covers health and learning systems; interests log curiosity projects.
 
 <a id="business-development-education-and-work-title"></a>
 ### [Business: Sales, Operations, and Strategy](quick-access/business-sales-operations-and-strategy.md)
-Training log for go-to-market strategy, pricing, sales execution, pipeline hygiene, and operations. These cards capture the programs and courses I'm using to build commercial judgment, playbooks, and process discipline.
+Training log for go-to-market strategy, pricing, sales execution, pipeline hygiene, and operations. Captures the courses and programs I'm using to build commercial judgment, playbooks, and process discipline.
 
 #### Go-To-Market Strategy & Market Analysis
 Assess markets, incentives, and positioning to shape offers and entry strategy.
@@ -203,7 +203,7 @@ Model unit economics, forecast outcomes, and track KPIs to keep decisions ground
 
 <a id="hardware-development-education-and-work-title"></a>
 ### [Hardware: Electromechanical Systems](quick-access/hardware-electromechanical-systems.md)
-Electromechanical systems training across electronics, robotics, and embedded builds that connect software to the physical world. These cards log courses and programs on design, firmware, power, and test rigs so devices can be monitored, tested, and debugged safely in the field.
+Electromechanical systems training across electronics, robotics, and embedded builds that connect software to the physical world. Logs the courses and programs on design, firmware, power, and test rigs so devices can be monitored, tested, and debugged safely in the field.
 
 #### Electrical Design Engineering
 Design and prototype circuits with sound power, signal integrity, and component choices.
@@ -231,7 +231,7 @@ Prepare builds for production, create diagnostics, and design update paths for d
 
 <a id="software-development-education-and-work-title"></a>
 ### [Software: Engineering, Integration, and Delivery](quick-access/software-engineering-integration-and-delivery.md)
-Software engineering, integration, and delivery across web, mobile, services, and cloud. These cards track the courses and programs I'm using to practice clean interfaces, observability, accessibility, and safe rollouts.
+Software engineering, integration, and delivery across web, mobile, services, and cloud. Tracks the courses and programs I'm using to practice clean interfaces, observability, accessibility, and safe rollouts.
 
 #### Product & Technical Planning
 Translate product goals into scoped requirements, technical specs, and delivery plans.
@@ -267,7 +267,7 @@ Instrument services with logs, metrics, traces, and run calm, repeatable inciden
 
 <a id="data-development-education-and-work-title"></a>
 ### [Data: Engineering, Analysis, and Forecasting](quick-access/data-engineering-analysis-and-forecasting.md)
-Data engineering, analysis, and forecasting training covering pipelines, experiments, and models that turn raw data into decisions. These cards document the courses and programs I'm using for instrumentation, modeling, experimentation, and production ML.
+Data engineering, analysis, and forecasting training covering pipelines, experiments, and models that turn raw data into decisions. Documents the courses and programs I'm using for instrumentation, modeling, experimentation, and production ML.
 
 #### Instrumentation & Event Design
 Define tracking taxonomies and capture context so analysis maps to real behavior.
@@ -307,7 +307,7 @@ Ship forecasting and ML solutions tied to business outcomes with monitoring.
 
 <a id="skilled-trades-education-and-work-title"></a>
 ### [Skilled Trades: Field Craft](quick-access/skilled-trades-field-craft.md)
-Field craft across construction, electrical, mechanical, and safety skills that keep me practical when I design real-world systems. These cards document the courses and programs I'm using on permits, layout, sequencing, commissioning, and avoiding surprises once the plans meet the job site.
+Field craft across construction, electrical, mechanical, and safety skills that keep me practical when I design real-world systems. Documents the courses and programs I'm using on permits, layout, sequencing, commissioning, and avoiding surprises once the plans meet the job site.
 
 #### Site Safety & Code Compliance
 Apply safety standards and code requirements so work is legal, safe, and repeatable.
@@ -347,7 +347,7 @@ Finish, inspect, create as-builts, and hand off clear documentation for operatio
 
 <a id="multimedia-production-education-and-work-title"></a>
 ### [Multimedia: Audio, Video, VFX](quick-access/multimedia-audio-video-vfx.md)
-Multimedia practice in audio, video, and VFX to sharpen storytelling and inform product and brand design. These cards track the courses and programs I'm using to script, shoot, edit, and experiment with motion, sound, and pacing.
+Multimedia practice in audio, video, and VFX to sharpen storytelling and inform product and brand design. Tracks the courses and programs I'm using to script, shoot, edit, and experiment with motion, sound, and pacing.
 
 #### Creative Direction & Scriptwriting
 Define audience, goals, and narrative so creative choices support a clear message.
@@ -375,7 +375,7 @@ Publish content, measure engagement, and iterate toward stronger outcomes.
 
 <a id="performance-arts-education-and-work-title"></a>
 ### [Performance Arts: Stage and Screen](quick-access/performance-arts-stage-and-screen.md)
-Performance work for stage and screen: writing, movement, and on-camera practice to keep creative muscles sharp. These cards log the programs and courses I'm using to rehearse blocking, voice, delivery, and audience awareness.
+Performance work for stage and screen: writing, movement, and on-camera practice to keep creative muscles sharp. Logs the courses and programs I'm using to rehearse blocking, voice, delivery, and audience awareness.
 
 #### Voice & Speech Coaching
 Develop breath, diction, projection, and pacing for clear delivery.
@@ -403,7 +403,7 @@ Review recordings, take actionable notes, and iterate for cleaner runs.
 
 <a id="academic-development-history-and-pursuits-title"></a>
 ### [Academic Development: Mathematics, Natural Sciences, Engineering, Social Sciences, Arts, and Humanities](quick-access/academic-development.md)
-Academic development spanning mathematics, natural sciences, engineering, social sciences, arts, and humanities to keep my foundation broad and rigorous. These cards catalog the programs, courses, and research training I’m using to connect theory, experiments, systems, and culture.
+Academic development spanning mathematics, natural sciences, engineering, social sciences, arts, and humanities to keep my foundation broad and rigorous. Catalogs the courses, programs, and research training I’m using to connect theory, experiments, systems, and culture.
 
 #### Mathematics
 Study algebra, analysis, probability, and discrete math to sharpen proof and modeling skills.
@@ -439,7 +439,7 @@ Design studies, synthesize literature, and publish findings with clear academic 
 
 <a id="personal-development-history-and-pursuits-title"></a>
 ### [Personal Development: Health, Mindset, Languages](quick-access/personal-development-health-mindset-languages.md)
-Personal development in health, mindset, and learning systems with routines and tools I lean on to stay steady outside of work. These cards capture the programs and courses I'm using for fitness, mindfulness, habit building, and language study so progress stays honest and sustainable.
+Personal development in health, mindset, and learning systems with routines and tools I lean on to stay steady outside of work. Captures the courses and programs I'm using for fitness, mindfulness, habit building, and language study so progress stays honest and sustainable.
 
 #### Sleep & Recovery Foundations
 Protect sleep, rest, and recovery to keep training and work sustainable.
@@ -475,7 +475,7 @@ Practice clear communication, trust-building, and boundaries for healthy relatio
 
 <a id="personal-interests-title"></a>
 ### [Personal Interests](quick-access/personal-interests.md)
-Personal interests across books, music, film, games, and new skills I'm exploring to stay curious and creative. These cards log the courses, workshops, and experiments I'm trying to keep ideas fresh and balanced with play.
+Personal interests across books, music, film, games, and new skills I'm exploring to stay curious and creative. Logs the courses, workshops, and experiments I'm trying to keep ideas fresh and balanced with play.
 
 #### Reading, Research & Media Notes
 Extract mental models from books, films, and essays and capture takeaways.

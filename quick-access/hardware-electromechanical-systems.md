@@ -1,6 +1,6 @@
 # Hardware: Electromechanical Systems
 
-Course catalog for electromechanical systems covering electronics, robotics, and embedded design. Includes courses on board design, sensor and actuator integration, firmware, safety, power, enclosures, and connecting devices to services.
+Electromechanical systems training across electronics, robotics, and embedded builds that connect software to the physical world. Logs the courses and programs on design, firmware, power, and test rigs so devices can be monitored, tested, and debugged safely in the field.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.

@@ -1,6 +1,6 @@
 # Personal Development: Health, Mindset, Languages
 
-Course catalog for health, mindset, learning systems, and languages. Includes courses on fitness, recovery, mindfulness, stress management, study systems, and language learning to support steady personal routines and communication range.
+Personal development in health, mindset, and learning systems with routines and tools I lean on to stay steady outside of work. Captures the courses and programs I'm using for fitness, mindfulness, habit building, and language study so progress stays honest and sustainable.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.
