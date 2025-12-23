@@ -72,7 +72,7 @@ I grew up fascinated by math, science, engineering, life sciences, social scienc
 Near term, I want to contribute to technical R&D in quantum computing, machine learning, cryptography, nuclear fusion, surgery, and finance, alongside business development, operations, and sales work. Long term, I hope to blend creative work and service as an artist, entrepreneur, and mathematician, and in the public sphere serve through research, defense, healthcare, social work, and public service. Those paths keep me inventive, useful, and grounded in service.
 
 ### Personality
-On the Five-Factor model I'm quieter and conscientious (INTJ). Extraversion: low–moderate; I prefer focused solo work or small groups and step up when goals are clear. Agreeableness: moderate; I stay cooperative and give direct but respectful feedback while protecting standards. Conscientiousness: high; I plan ahead, keep commitments, and favor structured execution with checklists, metrics, and clear ownership. Neuroticism: low–moderate; I stay calm under pressure and use routines to avoid overwork or overthinking. Openness: moderate–high; I'm curious across disciplines, mixing structured learning with experiments while balancing new ideas with evidence and practicality.
+On the Five-Factor model I'm a quieter, conscientious INTJ. Extraversion: low–moderate; I prefer focused solo work or small groups and step up when goals are clear. Agreeableness: moderate; cooperative with direct but respectful feedback while guarding standards. Conscientiousness: high; I plan ahead, keep commitments, and lean on checklists, metrics, and clear ownership. Neuroticism: low–moderate; I stay calm under pressure and use routines to avoid overwork or overthinking. Openness: moderate–high; I'm curious across disciplines, mixing structured learning with experiments and balancing new ideas with evidence and practicality.
 
 ### Capabilities
 I enjoy shaping strategy, making things, and leading teams. I lean on quantitative analysis, storytelling, and clear communication to turn ambiguous goals into plans, align people, and build the software, hardware, data, and operational pieces that make the plan real.
@@ -203,7 +203,7 @@ Model unit economics, forecast outcomes, and track KPIs to keep decisions ground
 
 <a id="hardware-development-education-and-work-title"></a>
 ### [Hardware: Electromechanical Systems](quick-access/hardware-electromechanical-systems.md)
-Electromechanical systems training across electronics, robotics, and embedded builds that connect software to the physical world. These cards log courses and programs on design, firmware, power, and test rigs so devices stay observable, safe, and maintainable.
+Electromechanical systems training across electronics, robotics, and embedded builds that connect software to the physical world. These cards log courses and programs on design, firmware, power, and test rigs so devices can be monitored, tested, and debugged safely in the field.
 
 #### Electrical Design Engineering
 Design and prototype circuits with sound power, signal integrity, and component choices.
