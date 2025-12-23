@@ -1,6 +1,6 @@
-# Personal Development: Health, Mindset, Languages
+# Personal Training and Development: Health, Fitness, Mindset, Habits, Learning, and Languages
 
-Personal development in health, mindset, and learning systems with routines and tools I lean on to stay steady outside of work. Captures the courses and programs I'm using for fitness, mindfulness, habit building, and language study so progress stays honest and sustainable.
+Personal development in health, fitness, mindset, habits, learning systems, and languages with routines and tools I lean on to stay steady outside of work. Captures the courses and programs I'm using for training, mindfulness, habit building, study systems, and language practice so progress stays honest and sustainable.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.
@@ -13,7 +13,7 @@ Catalog of academic and professional training courses aligned to this domain's s
 
 ## Table of Contents
 
-- [Personal Development: Health, Mindset, Languages](#personal-development-health-mindset-languages)
+- [Personal Training and Development: Health, Fitness, Mindset, Habits, Learning, and Languages](#personal-training-and-development-health-fitness-mindset-habits-learning-and-languages)
   - [Sleep & Recovery Foundations](#sleep-recovery-foundations)
     - [Sleep Hygiene & Environment](#sleep-hygiene-environment)
     - [Recovery Protocols & Deloads](#recovery-protocols-deloads)

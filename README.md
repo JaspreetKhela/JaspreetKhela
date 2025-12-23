@@ -40,15 +40,15 @@ Below is a guided overview of what I’ve built so far, what I’m working on no
   - [Business Operations and Management Work History](#business-operations-and-management-work-history)
   - [Business Sales and Development Work History](#business-sales-and-development-work-history)
 - [Quick Access Webpage Links](#quick-access-webpage-links)
-  - [Business: Sales, Operations, and Strategy](#business-development-education-and-work-title)
-  - [Hardware: Electromechanical Systems](#hardware-development-education-and-work-title)
-  - [Software: Engineering, Integration, and Delivery](#software-development-education-and-work-title)
-  - [Data: Engineering, Analysis, and Forecasting](#data-development-education-and-work-title)
-  - [Skilled Trades: Field Craft](#skilled-trades-education-and-work-title)
-  - [Multimedia: Audio, Video, VFX](#multimedia-production-education-and-work-title)
-  - [Performance Arts: Stage and Screen](#performance-arts-education-and-work-title)
-  - [Academic Development: Mathematics, Natural Sciences, Engineering, Social Sciences, Arts, and Humanities](#academic-development-history-and-pursuits-title)
-  - [Personal Development: Health, Mindset, Languages](#personal-development-history-and-pursuits-title)
+  - [Business Training and Development: Strategy, Sales, and Operations](#business-development-education-and-work-title)
+  - [Hardware Training and Development: Electrical, Firmware, Controls, Mechanical, Validation, and Manufacturing](#hardware-development-education-and-work-title)
+  - [Software Training and Development: Planning, Architecture, Security, Backend, Frontend, Quality, Platform, and Reliability](#software-development-education-and-work-title)
+  - [Data Training and Development: Instrumentation, Modeling, Pipelines, Governance, Security, BI, Science, and ML](#data-development-education-and-work-title)
+  - [Skilled Trades Training and Development: Safety, Site Prep, Concrete, Carpentry, Plumbing, Electrical, HVAC, Metal, and Finishes](#skilled-trades-education-and-work-title)
+  - [Multimedia Training and Development: Direction, Production, Cinematography, Editing, Motion, and Publishing](#multimedia-production-education-and-work-title)
+  - [Performance Arts Training and Development: Voice, Movement, Acting, Rehearsal, Camera, and Review](#performance-arts-education-and-work-title)
+  - [Academic Training and Development: Mathematics, Natural Sciences, Engineering, Life Sciences, Social Sciences, Arts, Humanities, and Research](#academic-development-history-and-pursuits-title)
+  - [Personal Training and Development: Health, Fitness, Mindset, Habits, Learning, and Languages](#personal-development-history-and-pursuits-title)
   - [Personal Interests](#personal-interests-title)
 - [Contact](#contact)
 
@@ -66,7 +66,7 @@ I'm a Toronto-based full-stack engineer who blends hardware, software, data, ope
 Preparation. Pace. Patience. Persistence. Facta, Non Verba. Do the groundwork, move steadily, stay calm through slow climbs, and let shipped work speak louder than claims.
 
 ### Background
-I grew up fascinated by math, science, engineering, life sciences, social sciences, and the arts. That mix taught me to respect proof and experimentation, understand how people organize and lead, and balance creative work with technical depth. Velut Arbor AEvo.
+I grew up bouncing between math puzzles at the kitchen table, science kits in the garage, sketching and music practice in the evenings, history books on weekends, and sports drills after school. That mix of mathematics, natural sciences, engineering, life sciences, social sciences, arts, humanities, and athletic practice taught me to respect proof and experimentation, notice how people organize and lead, and balance creative work with technical depth. Velut Arbor AEvo.
 
 ### Goals
 Near term, I want to contribute to technical R&D in quantum computing, machine learning, cryptography, nuclear fusion, surgery, and finance, alongside business development, operations, and sales work. Long term, I hope to blend creative work and service as an artist, entrepreneur, and mathematician, and in the public sphere serve through research, defense, healthcare, social work, and public service. Those paths keep me inventive, useful, and grounded in service.
@@ -174,7 +174,7 @@ Building decks, proposals, and negotiations that move deals forward while keepin
 Quick links to domain pages that document the courses, programs, and practice plans I'm using to build each discipline. Business covers go-to-market and operations; software spans full-stack delivery; data covers pipelines and models; hardware focuses on embedded and prototypes; trades capture hands-on field craft; multimedia covers audio, video, and motion; performance covers stage and screen; academic tracks coursework and research; personal development covers health and learning systems; interests log curiosity projects.
 
 <a id="business-development-education-and-work-title"></a>
-### [Business: Sales, Operations, and Strategy](quick-access/business-sales-operations-and-strategy.md)
+### [Business Training and Development: Strategy, Sales, and Operations](quick-access/business-sales-operations-and-strategy.md)
 Training log for go-to-market strategy, pricing, sales execution, pipeline hygiene, and operations. Captures the courses and programs I'm using to build commercial judgment, playbooks, and process discipline.
 
 #### Go-To-Market Strategy & Market Analysis
@@ -202,8 +202,8 @@ Model unit economics, forecast outcomes, and track KPIs to keep decisions ground
 - [Coming Soon]
 
 <a id="hardware-development-education-and-work-title"></a>
-### [Hardware: Electromechanical Systems](quick-access/hardware-electromechanical-systems.md)
-Electromechanical systems training across electronics, robotics, and embedded builds that connect software to the physical world. Logs the courses and programs on design, firmware, power, and test rigs so devices can be monitored, tested, and debugged safely in the field.
+### [Hardware Training and Development: Electrical, Firmware, Controls, Mechanical, Validation, and Manufacturing](quick-access/hardware-electromechanical-systems.md)
+Electromechanical systems training across electronics, robotics, and embedded builds that connect software to the physical world. Logs the courses and programs on design, firmware, power, test rigs, and manufacturing handoff so devices can be monitored, tested, and debugged safely in the field.
 
 #### Electrical Design Engineering
 Design and prototype circuits with sound power, signal integrity, and component choices.
@@ -230,7 +230,7 @@ Prepare builds for production, create diagnostics, and design update paths for d
 - [Coming Soon]
 
 <a id="software-development-education-and-work-title"></a>
-### [Software: Engineering, Integration, and Delivery](quick-access/software-engineering-integration-and-delivery.md)
+### [Software Training and Development: Planning, Architecture, Security, Backend, Frontend, Quality, Platform, and Reliability](quick-access/software-engineering-integration-and-delivery.md)
 Software engineering, integration, and delivery across web, mobile, services, and cloud. Tracks the courses and programs I'm using to practice clean interfaces, observability, accessibility, and safe rollouts.
 
 #### Product & Technical Planning
@@ -266,7 +266,7 @@ Instrument services with logs, metrics, traces, and run calm, repeatable inciden
 - [Coming Soon]
 
 <a id="data-development-education-and-work-title"></a>
-### [Data: Engineering, Analysis, and Forecasting](quick-access/data-engineering-analysis-and-forecasting.md)
+### [Data Training and Development: Instrumentation, Modeling, Pipelines, Governance, Security, BI, Science, and ML](quick-access/data-engineering-analysis-and-forecasting.md)
 Data engineering, analysis, and forecasting training covering pipelines, experiments, and models that turn raw data into decisions. Documents the courses and programs I'm using for instrumentation, modeling, experimentation, and production ML.
 
 #### Instrumentation & Event Design
@@ -306,7 +306,7 @@ Ship forecasting and ML solutions tied to business outcomes with monitoring.
 - [Coming Soon]
 
 <a id="skilled-trades-education-and-work-title"></a>
-### [Skilled Trades: Field Craft](quick-access/skilled-trades-field-craft.md)
+### [Skilled Trades Training and Development: Safety, Site Prep, Concrete, Carpentry, Plumbing, Electrical, HVAC, Metal, and Finishes](quick-access/skilled-trades-field-craft.md)
 Field craft across construction, electrical, mechanical, and safety skills that keep me practical when I design real-world systems. Documents the courses and programs I'm using on permits, layout, sequencing, commissioning, and avoiding surprises once the plans meet the job site.
 
 #### Site Safety & Code Compliance
@@ -346,7 +346,7 @@ Finish, inspect, create as-builts, and hand off clear documentation for operatio
 - [Coming Soon]
 
 <a id="multimedia-production-education-and-work-title"></a>
-### [Multimedia: Audio, Video, VFX](quick-access/multimedia-audio-video-vfx.md)
+### [Multimedia Training and Development: Direction, Production, Cinematography, Editing, Motion, and Publishing](quick-access/multimedia-audio-video-vfx.md)
 Multimedia practice in audio, video, and VFX to sharpen storytelling and inform product and brand design. Tracks the courses and programs I'm using to script, shoot, edit, and experiment with motion, sound, and pacing.
 
 #### Creative Direction & Scriptwriting
@@ -374,7 +374,7 @@ Publish content, measure engagement, and iterate toward stronger outcomes.
 - [Coming Soon]
 
 <a id="performance-arts-education-and-work-title"></a>
-### [Performance Arts: Stage and Screen](quick-access/performance-arts-stage-and-screen.md)
+### [Performance Arts Training and Development: Voice, Movement, Acting, Rehearsal, Camera, and Review](quick-access/performance-arts-stage-and-screen.md)
 Performance work for stage and screen: writing, movement, and on-camera practice to keep creative muscles sharp. Logs the courses and programs I'm using to rehearse blocking, voice, delivery, and audience awareness.
 
 #### Voice & Speech Coaching
@@ -402,8 +402,8 @@ Review recordings, take actionable notes, and iterate for cleaner runs.
 - [Coming Soon]
 
 <a id="academic-development-history-and-pursuits-title"></a>
-### [Academic Development: Mathematics, Natural Sciences, Engineering, Social Sciences, Arts, and Humanities](quick-access/academic-development.md)
-Academic development spanning mathematics, natural sciences, engineering, social sciences, arts, and humanities to keep my foundation broad and rigorous. Catalogs the courses, programs, and research training I’m using to connect theory, experiments, systems, and culture.
+### [Academic Training and Development: Mathematics, Natural Sciences, Engineering, Life Sciences, Social Sciences, Arts, Humanities, and Research](quick-access/academic-development.md)
+Academic development spanning mathematics, natural sciences, engineering, life sciences, social sciences, arts, humanities, and research to keep my foundation broad and rigorous. Catalogs the courses, programs, and research training I’m using to connect theory, experiments, systems, and culture.
 
 #### Mathematics
 Study algebra, analysis, probability, and discrete math to sharpen proof and modeling skills.
@@ -413,12 +413,12 @@ Study algebra, analysis, probability, and discrete math to sharpen proof and mod
 Explore physics and chemistry through experiments and modeling.
 - [Coming Soon]
 
-#### Life Sciences
-Study biology and related disciplines to understand living systems and health.
-- [Coming Soon]
-
 #### Engineering
 Apply design principles across electrical, mechanical, and systems engineering to build dependable solutions.
+- [Coming Soon]
+
+#### Life Sciences
+Study biology and related disciplines to understand living systems and health.
 - [Coming Soon]
 
 #### Social Sciences
@@ -438,8 +438,8 @@ Design studies, synthesize literature, and publish findings with clear academic 
 - [Coming Soon]
 
 <a id="personal-development-history-and-pursuits-title"></a>
-### [Personal Development: Health, Mindset, Languages](quick-access/personal-development-health-mindset-languages.md)
-Personal development in health, mindset, and learning systems with routines and tools I lean on to stay steady outside of work. Captures the courses and programs I'm using for fitness, mindfulness, habit building, and language study so progress stays honest and sustainable.
+### [Personal Training and Development: Health, Fitness, Mindset, Habits, Learning, and Languages](quick-access/personal-development-health-mindset-languages.md)
+Personal development in health, fitness, mindset, habits, learning systems, and languages with routines and tools I lean on to stay steady outside of work. Captures the courses and programs I'm using for training, mindfulness, habit building, study systems, and language practice so progress stays honest and sustainable.
 
 #### Sleep & Recovery Foundations
 Protect sleep, rest, and recovery to keep training and work sustainable.

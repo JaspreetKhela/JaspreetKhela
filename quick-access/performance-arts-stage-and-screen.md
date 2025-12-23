@@ -1,4 +1,4 @@
-# Performance Arts: Stage and Screen
+# Performance Arts Training and Development: Voice, Movement, Acting, Rehearsal, Camera, and Review
 
 Performance work for stage and screen: writing, movement, and on-camera practice to keep creative muscles sharp. Logs the courses and programs I'm using to rehearse blocking, voice, delivery, and audience awareness.
 
@@ -13,7 +13,7 @@ Catalog of academic and professional training courses aligned to this domain's s
 
 ## Table of Contents
 
-- [Performance Arts: Stage and Screen](#performance-arts-stage-and-screen)
+- [Performance Arts Training and Development: Voice, Movement, Acting, Rehearsal, Camera, and Review](#performance-arts-training-and-development-voice-movement-acting-rehearsal-camera-and-review)
   - [Voice & Speech Coaching](#voice-speech-coaching)
     - [Breath Support & Placement](#breath-support-placement)
     - [Diction, Projection & Articulation](#diction-projection-articulation)

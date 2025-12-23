@@ -1,4 +1,4 @@
-# Business: Sales, Operations, and Strategy
+# Business Training and Development: Strategy, Sales, and Operations
 
 Training log for go-to-market strategy, pricing, sales execution, pipeline hygiene, and operations. Captures the courses and programs I'm using to build commercial judgment, playbooks, and process discipline.
 
@@ -13,7 +13,7 @@ Catalog of academic and professional training courses aligned to this domain's s
 
 ## Table of Contents
 
-- [Business: Sales, Operations, and Strategy](#business-sales-operations-and-strategy)
+- [Business Training and Development: Strategy, Sales, and Operations](#business-training-and-development-strategy-sales-and-operations)
   - [Go-To-Market Strategy & Market Analysis](#go-to-market-strategy-market-analysis)
     - [Market Sizing & Segmentation](#market-sizing-segmentation)
     - [Competitive & Incentive Mapping](#competitive-incentive-mapping)

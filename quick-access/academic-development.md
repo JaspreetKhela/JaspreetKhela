@@ -1,6 +1,6 @@
-# Academic Development: Mathematics, Natural Sciences, Engineering, Social Sciences, Arts, and Humanities
+# Academic Training and Development: Mathematics, Natural Sciences, Engineering, Life Sciences, Social Sciences, Arts, Humanities, and Research
 
-Academic development spanning mathematics, natural sciences, engineering, social sciences, arts, and humanities to keep my foundation broad and rigorous. Catalogs the courses, programs, and research training I’m using to connect theory, experiments, systems, and culture.
+Academic development spanning mathematics, natural sciences, engineering, life sciences, social sciences, arts, humanities, and research to keep my foundation broad and rigorous. Catalogs the courses, programs, and research training I’m using to connect theory, experiments, systems, and culture.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.
@@ -13,7 +13,7 @@ Catalog of academic and professional training courses aligned to this domain's s
 
 ## Table of Contents
 
-- [Academic Development: Mathematics, Natural Sciences, Engineering, Social Sciences, Arts, and Humanities](#academic-development-mathematics-natural-sciences-engineering-social-sciences-arts-and-humanities)
+- [Academic Training and Development: Mathematics, Natural Sciences, Engineering, Life Sciences, Social Sciences, Arts, Humanities, and Research](#academic-training-and-development-mathematics-natural-sciences-engineering-life-sciences-social-sciences-arts-humanities-and-research)
   - [Mathematics](#mathematics)
     - [Calculus & Linear Algebra (A/B/C)](#calculus-linear-algebra-abc)
     - [Discrete Math, Logic & Algorithms](#discrete-math-logic-algorithms)
@@ -29,14 +29,6 @@ Catalog of academic and professional training courses aligned to this domain's s
     - [Chemistry: Structure, Thermo, Organic & Materials](#chemistry-structure-thermo-organic-materials)
     - [Earth, Atmospheric & Environmental Science](#earth-atmospheric-environmental-science)
     - [Astronomy & Astrophysics](#astronomy-astrophysics)
-  - [Life Sciences](#life-sciences)
-    - [Cell, Molecular Biology & Biochemistry](#cell-molecular-biology-biochemistry)
-    - [Genetics, Genomics, Microbiology & Immunology](#genetics-genomics-microbiology-immunology)
-    - [Physiology, Neuroscience & Systems Biology](#physiology-neuroscience-systems-biology)
-    - [Ecology, Evolution, Environment & Conservation](#ecology-evolution-environment-conservation)
-    - [Health, Disease & Public Health](#health-disease-public-health)
-    - [Bioinformatics, Systems & Computational Biology](#bioinformatics-systems-computational-biology)
-    - [Developmental Biology & Stem Cell Science](#developmental-biology-stem-cell-science)
   - [Engineering](#engineering)
     - [Engineering Fundamentals, Statics & Design](#engineering-fundamentals-statics-design)
     - [Electrical, Computer & Software Systems](#electrical-computer-software-systems)
@@ -46,6 +38,14 @@ Catalog of academic and professional training courses aligned to this domain's s
     - [Power, Energy Systems & Sustainability](#power-energy-systems-sustainability)
     - [Advanced Manufacturing, CAD/CAE & Materials](#advanced-manufacturing-cadcae-materials)
     - [Advanced Mechatronics, Automation & Cyber-Physical Systems](#advanced-mechatronics-automation-cyber-physical-systems)
+  - [Life Sciences](#life-sciences)
+    - [Cell, Molecular Biology & Biochemistry](#cell-molecular-biology-biochemistry)
+    - [Genetics, Genomics, Microbiology & Immunology](#genetics-genomics-microbiology-immunology)
+    - [Physiology, Neuroscience & Systems Biology](#physiology-neuroscience-systems-biology)
+    - [Ecology, Evolution, Environment & Conservation](#ecology-evolution-environment-conservation)
+    - [Health, Disease & Public Health](#health-disease-public-health)
+    - [Bioinformatics, Systems & Computational Biology](#bioinformatics-systems-computational-biology)
+    - [Developmental Biology & Stem Cell Science](#developmental-biology-stem-cell-science)
   - [Social Sciences](#social-sciences)
     - [Economics & Decision Sciences](#economics-decision-sciences)
     - [Political Science, Policy & Governance](#political-science-policy-governance)
@@ -280,115 +280,6 @@ Lead study plans, labs, or projects that connect theory to execution for others.
 Direct advanced inquiry, synthesis, and research agendas across the domain.
 - [Coming Soon]
 
-## Life Sciences
-Training tracks in biology disciplines to understand living systems and health through labs, models, and clinical contexts.
-- [Coming Soon]
-### Cell, Molecular Biology & Biochemistry
-Study cells, molecular mechanisms, and biochemical pathways.
-- [Coming Soon]
-#### Foundations (Contributor/Analyst)
-Survey core concepts and vocabulary to build confident baseline literacy.
-- [Coming Soon]
-#### Methods & Tools (Practitioner)
-Apply standard methods, problem sets, and analytical tools to deepen fluency.
-- [Coming Soon]
-#### Applied Practice & Delivery (Manager/Lead)
-Lead study plans, labs, or projects that connect theory to execution for others.
-- [Coming Soon]
-#### Advanced Leadership & Research (Principal/Strategist)
-Direct advanced inquiry, synthesis, and research agendas across the domain.
-- [Coming Soon]
-### Genetics, Genomics, Microbiology & Immunology
-Explore heredity, genomes, microbes, and immune system function.
-- [Coming Soon]
-#### Foundations (Contributor/Analyst)
-Survey core concepts and vocabulary to build confident baseline literacy.
-- [Coming Soon]
-#### Methods & Tools (Practitioner)
-Apply standard methods, problem sets, and analytical tools to deepen fluency.
-- [Coming Soon]
-#### Applied Practice & Delivery (Manager/Lead)
-Lead study plans, labs, or projects that connect theory to execution for others.
-- [Coming Soon]
-#### Advanced Leadership & Research (Principal/Strategist)
-Direct advanced inquiry, synthesis, and research agendas across the domain.
-- [Coming Soon]
-### Physiology, Neuroscience & Systems Biology
-Understand organismal function, neural systems, and systemic integration.
-- [Coming Soon]
-#### Foundations (Contributor/Analyst)
-Survey core concepts and vocabulary to build confident baseline literacy.
-- [Coming Soon]
-#### Methods & Tools (Practitioner)
-Apply standard methods, problem sets, and analytical tools to deepen fluency.
-- [Coming Soon]
-#### Applied Practice & Delivery (Manager/Lead)
-Lead study plans, labs, or projects that connect theory to execution for others.
-- [Coming Soon]
-#### Advanced Leadership & Research (Principal/Strategist)
-Direct advanced inquiry, synthesis, and research agendas across the domain.
-- [Coming Soon]
-### Ecology, Evolution, Environment & Conservation
-Analyze ecosystems, evolutionary dynamics, and conservation strategies.
-- [Coming Soon]
-#### Foundations (Contributor/Analyst)
-Survey core concepts and vocabulary to build confident baseline literacy.
-- [Coming Soon]
-#### Methods & Tools (Practitioner)
-Apply standard methods, problem sets, and analytical tools to deepen fluency.
-- [Coming Soon]
-#### Applied Practice & Delivery (Manager/Lead)
-Lead study plans, labs, or projects that connect theory to execution for others.
-- [Coming Soon]
-#### Advanced Leadership & Research (Principal/Strategist)
-Direct advanced inquiry, synthesis, and research agendas across the domain.
-- [Coming Soon]
-### Health, Disease & Public Health
-Examine health, disease mechanisms, and population health practices.
-- [Coming Soon]
-#### Foundations (Contributor/Analyst)
-Survey core concepts and vocabulary to build confident baseline literacy.
-- [Coming Soon]
-#### Methods & Tools (Practitioner)
-Apply standard methods, problem sets, and analytical tools to deepen fluency.
-- [Coming Soon]
-#### Applied Practice & Delivery (Manager/Lead)
-Lead study plans, labs, or projects that connect theory to execution for others.
-- [Coming Soon]
-#### Advanced Leadership & Research (Principal/Strategist)
-Direct advanced inquiry, synthesis, and research agendas across the domain.
-- [Coming Soon]
-### Bioinformatics, Systems & Computational Biology
-Apply computational methods to biological data and systems modeling.
-- [Coming Soon]
-#### Foundations (Contributor/Analyst)
-Survey core concepts and vocabulary to build confident baseline literacy.
-- [Coming Soon]
-#### Methods & Tools (Practitioner)
-Apply standard methods, problem sets, and analytical tools to deepen fluency.
-- [Coming Soon]
-#### Applied Practice & Delivery (Manager/Lead)
-Lead study plans, labs, or projects that connect theory to execution for others.
-- [Coming Soon]
-#### Advanced Leadership & Research (Principal/Strategist)
-Direct advanced inquiry, synthesis, and research agendas across the domain.
-- [Coming Soon]
-### Developmental Biology & Stem Cell Science
-Study development, differentiation, and stem cell biology.
-- [Coming Soon]
-#### Foundations (Contributor/Analyst)
-Survey core concepts and vocabulary to build confident baseline literacy.
-- [Coming Soon]
-#### Methods & Tools (Practitioner)
-Apply standard methods, problem sets, and analytical tools to deepen fluency.
-- [Coming Soon]
-#### Applied Practice & Delivery (Manager/Lead)
-Lead study plans, labs, or projects that connect theory to execution for others.
-- [Coming Soon]
-#### Advanced Leadership & Research (Principal/Strategist)
-Direct advanced inquiry, synthesis, and research agendas across the domain.
-- [Coming Soon]
-
 ## Engineering
 Training tracks across electrical, mechanical, and systems engineering to practice design principles and build dependable solutions.
 - [Coming Soon]
@@ -499,6 +390,115 @@ Direct advanced inquiry, synthesis, and research agendas across the domain.
 - [Coming Soon]
 ### Advanced Mechatronics, Automation & Cyber-Physical Systems
 Integrate mechatronics, automation, and cyber-physical system design.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Survey core concepts and vocabulary to build confident baseline literacy.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Apply standard methods, problem sets, and analytical tools to deepen fluency.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Lead study plans, labs, or projects that connect theory to execution for others.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Direct advanced inquiry, synthesis, and research agendas across the domain.
+- [Coming Soon]
+
+## Life Sciences
+Training tracks in biology disciplines to understand living systems and health through labs, models, and clinical contexts.
+- [Coming Soon]
+### Cell, Molecular Biology & Biochemistry
+Study cells, molecular mechanisms, and biochemical pathways.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Survey core concepts and vocabulary to build confident baseline literacy.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Apply standard methods, problem sets, and analytical tools to deepen fluency.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Lead study plans, labs, or projects that connect theory to execution for others.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Direct advanced inquiry, synthesis, and research agendas across the domain.
+- [Coming Soon]
+### Genetics, Genomics, Microbiology & Immunology
+Explore heredity, genomes, microbes, and immune system function.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Survey core concepts and vocabulary to build confident baseline literacy.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Apply standard methods, problem sets, and analytical tools to deepen fluency.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Lead study plans, labs, or projects that connect theory to execution for others.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Direct advanced inquiry, synthesis, and research agendas across the domain.
+- [Coming Soon]
+### Physiology, Neuroscience & Systems Biology
+Understand organismal function, neural systems, and systemic integration.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Survey core concepts and vocabulary to build confident baseline literacy.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Apply standard methods, problem sets, and analytical tools to deepen fluency.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Lead study plans, labs, or projects that connect theory to execution for others.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Direct advanced inquiry, synthesis, and research agendas across the domain.
+- [Coming Soon]
+### Ecology, Evolution, Environment & Conservation
+Analyze ecosystems, evolutionary dynamics, and conservation strategies.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Survey core concepts and vocabulary to build confident baseline literacy.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Apply standard methods, problem sets, and analytical tools to deepen fluency.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Lead study plans, labs, or projects that connect theory to execution for others.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Direct advanced inquiry, synthesis, and research agendas across the domain.
+- [Coming Soon]
+### Health, Disease & Public Health
+Examine health, disease mechanisms, and population health practices.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Survey core concepts and vocabulary to build confident baseline literacy.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Apply standard methods, problem sets, and analytical tools to deepen fluency.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Lead study plans, labs, or projects that connect theory to execution for others.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Direct advanced inquiry, synthesis, and research agendas across the domain.
+- [Coming Soon]
+### Bioinformatics, Systems & Computational Biology
+Apply computational methods to biological data and systems modeling.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Survey core concepts and vocabulary to build confident baseline literacy.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Apply standard methods, problem sets, and analytical tools to deepen fluency.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Lead study plans, labs, or projects that connect theory to execution for others.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Direct advanced inquiry, synthesis, and research agendas across the domain.
+- [Coming Soon]
+### Developmental Biology & Stem Cell Science
+Study development, differentiation, and stem cell biology.
 - [Coming Soon]
 #### Foundations (Contributor/Analyst)
 Survey core concepts and vocabulary to build confident baseline literacy.

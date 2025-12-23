@@ -1,6 +1,6 @@
-# Hardware: Electromechanical Systems
+# Hardware Training and Development: Electrical, Firmware, Controls, Mechanical, Validation, and Manufacturing
 
-Electromechanical systems training across electronics, robotics, and embedded builds that connect software to the physical world. Logs the courses and programs on design, firmware, power, and test rigs so devices can be monitored, tested, and debugged safely in the field.
+Electromechanical systems training across electronics, robotics, and embedded builds that connect software to the physical world. Logs the courses and programs on design, firmware, power, test rigs, and manufacturing handoff so devices can be monitored, tested, and debugged safely in the field.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.
@@ -13,7 +13,7 @@ Catalog of academic and professional training courses aligned to this domain's s
 
 ## Table of Contents
 
-- [Hardware: Electromechanical Systems](#hardware-electromechanical-systems)
+- [Hardware Training and Development: Electrical, Firmware, Controls, Mechanical, Validation, and Manufacturing](#hardware-training-and-development-electrical-firmware-controls-mechanical-validation-and-manufacturing)
   - [Electrical Design Engineering](#electrical-design-engineering)
     - [Schematics, Simulation & Component Selection](#schematics-simulation-component-selection)
     - [Power, Signal Integrity & EMC](#power-signal-integrity-emc)

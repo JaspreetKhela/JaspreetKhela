@@ -1,4 +1,4 @@
-# Data: Engineering, Analysis, and Forecasting
+# Data Training and Development: Instrumentation, Modeling, Pipelines, Governance, Security, BI, Science, and ML
 
 Data engineering, analysis, and forecasting training covering pipelines, experiments, and models that turn raw data into decisions. Documents the courses and programs I'm using for instrumentation, modeling, experimentation, and production ML.
 
@@ -13,7 +13,7 @@ Catalog of academic and professional training courses aligned to this domain's s
 
 ## Table of Contents
 
-- [Data: Engineering, Analysis, and Forecasting](#data-engineering-analysis-and-forecasting)
+- [Data Training and Development: Instrumentation, Modeling, Pipelines, Governance, Security, BI, Science, and ML](#data-training-and-development-instrumentation-modeling-pipelines-governance-security-bi-science-and-ml)
   - [Instrumentation & Event Design](#instrumentation-event-design)
     - [Taxonomy & Schema Design](#taxonomy-schema-design)
     - [Client & Server Instrumentation](#client-server-instrumentation)

@@ -1,4 +1,4 @@
-# Software: Engineering, Integration, and Delivery
+# Software Training and Development: Planning, Architecture, Security, Backend, Frontend, Quality, Platform, and Reliability
 
 Software engineering, integration, and delivery across web, mobile, services, and cloud. Tracks the courses and programs I'm using to practice clean interfaces, observability, accessibility, and safe rollouts.
 
@@ -13,7 +13,7 @@ Catalog of academic and professional training courses aligned to this domain's s
 
 ## Table of Contents
 
-- [Software: Engineering, Integration, and Delivery](#software-engineering-integration-and-delivery)
+- [Software Training and Development: Planning, Architecture, Security, Backend, Frontend, Quality, Platform, and Reliability](#software-training-and-development-planning-architecture-security-backend-frontend-quality-platform-and-reliability)
   - [Product & Technical Planning](#product-technical-planning)
     - [Product Requirements & Acceptance Criteria](#product-requirements-acceptance-criteria)
     - [Technical Specs & Architecture Decisions](#technical-specs-architecture-decisions)

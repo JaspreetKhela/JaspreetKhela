@@ -1,4 +1,4 @@
-# Multimedia: Audio, Video, VFX
+# Multimedia Training and Development: Direction, Production, Cinematography, Editing, Motion, and Publishing
 
 Multimedia practice in audio, video, and VFX to sharpen storytelling and inform product and brand design. Tracks the courses and programs I'm using to script, shoot, edit, and experiment with motion, sound, and pacing.
 
@@ -13,7 +13,7 @@ Catalog of academic and professional training courses aligned to this domain's s
 
 ## Table of Contents
 
-- [Multimedia: Audio, Video, VFX](#multimedia-audio-video-vfx)
+- [Multimedia Training and Development: Direction, Production, Cinematography, Editing, Motion, and Publishing](#multimedia-training-and-development-direction-production-cinematography-editing-motion-and-publishing)
   - [Creative Direction & Scriptwriting](#creative-direction-scriptwriting)
     - [Audience, Goals & Concept](#audience-goals-concept)
     - [Script, Outline & Boards](#script-outline-boards)

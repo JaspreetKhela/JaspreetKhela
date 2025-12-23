@@ -1,4 +1,4 @@
-# Skilled Trades: Field Craft
+# Skilled Trades Training and Development: Safety, Site Prep, Concrete, Carpentry, Plumbing, Electrical, HVAC, Metal, and Finishes
 
 Field craft across construction, electrical, mechanical, and safety skills that keep me practical when I design real-world systems. Documents the courses and programs I'm using on permits, layout, sequencing, commissioning, and avoiding surprises once the plans meet the job site.
 
@@ -13,7 +13,7 @@ Catalog of academic and professional training courses aligned to this domain's s
 
 ## Table of Contents
 
-- [Skilled Trades: Field Craft](#skilled-trades-field-craft)
+- [Skilled Trades Training and Development: Safety, Site Prep, Concrete, Carpentry, Plumbing, Electrical, HVAC, Metal, and Finishes](#skilled-trades-training-and-development-safety-site-prep-concrete-carpentry-plumbing-electrical-hvac-metal-and-finishes)
   - [Site Safety & Code Compliance](#site-safety-code-compliance)
     - [PPE, LOTO & Hazard Controls](#ppe-loto-hazard-controls)
     - [Codes, Permits & Inspections](#codes-permits-inspections)
