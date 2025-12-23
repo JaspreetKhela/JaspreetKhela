@@ -72,7 +72,7 @@ I grew up fascinated by math, science, engineering, life sciences, social scienc
 Near term, I want to contribute to technical R&D in quantum computing, machine learning, cryptography, nuclear fusion, surgery, and finance, alongside business development, operations, and sales work. Long term, I hope to blend creative work and service as an artist, entrepreneur, and mathematician, and in the public sphere serve through research, defense, healthcare, social work, and public service. Those paths keep me inventive, useful, and grounded in service.
 
 ### Personality
-On the Five-Factor model I'm quieter and conscientious (INTJ). I plan ahead, keep commitments, think through problems before acting, and stay open to feedback and collaboration.
+On the Five-Factor model I'm quieter and conscientious (INTJ). Extraversion: low–moderate; I prefer focused solo work or small groups and step up when goals are clear. Agreeableness: moderate; I stay cooperative and give direct but respectful feedback while protecting standards. Conscientiousness: high; I plan ahead, keep commitments, and favor structured execution with checklists, metrics, and clear ownership. Neuroticism: low–moderate; I stay calm under pressure and use routines to avoid overwork or overthinking. Openness: moderate–high; I'm curious across disciplines, mixing structured learning with experiments while balancing new ideas with evidence and practicality.
 
 ### Capabilities
 I enjoy shaping strategy, making things, and leading teams. I lean on quantitative analysis, storytelling, and clear communication to turn ambiguous goals into plans, align people, and build the software, hardware, data, and operational pieces that make the plan real.
@@ -86,7 +86,7 @@ I work best with clear writing, shared context, and tight feedback loops. In pra
 I stay versatile by switching disciplines, testing ideas quickly, and translating lessons between them. Action plus reflection moves work from prototype to polish without losing momentum.
 
 ### Academic Focus
-I study mathematics, natural sciences, engineering, and economics to see how systems behave, scale, and stay stable. Those lenses help me spot patterns, weigh trade-offs, and catch failure points early.
+I study mathematics, natural sciences, engineering, and economics to understand how systems behave, scale, and stay stable. Mathematics sharpens proof, modeling, and probabilistic thinking. Natural sciences keep me grounded in observation and experimentation. Engineering turns constraints into reliable hardware and software. Economics frames incentives, markets, and trade-offs. Together these lenses help me spot patterns early, design resilient systems, and choose interventions that hold up in the real world.
 
 ### Professional Focus
 I build dependable, human-centered products by bridging software, hardware, data, IT operations, and product design. I connect user research to technical choices and roll out changes safely so services stay usable and reliable in production.
