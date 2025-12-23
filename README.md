@@ -56,7 +56,7 @@ Below is a guided overview of what I’ve built so far, what I’m working on no
 ## About Me
 **Jaspreet Khela's Digital Doorstep**
 
-Hello, world! I pair mathematics, sciences, engineering, and economics to build dependable hardware, software, data, and IT systems anchored in product design. When I'm not shipping, I'm probably burning another grilled cheese for science.
+Hello, world! I pair mathematics, natural sciences, engineering, and economics to build dependable hardware, software, data, and IT systems anchored in product design. When I'm not shipping, I'm probably burning another grilled cheese for science.
 
 I lean on clear thinking that cuts through noise, steady execution, and outcomes you can rely on every time.
 
