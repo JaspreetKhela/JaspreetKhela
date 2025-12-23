@@ -1,6 +1,6 @@
 # Quick Access
 
-This directory holds domain pages used to catalogue academic and professional training courses under the appropriate subheadings. It is a quick-reference index for where a course belongs across the broader set of domains; course materials and syllabi live elsewhere.
+This directory holds domain pages used to catalogue the programs and courses I'm taking for academic and professional training under the appropriate subheadings. It is a quick-reference index for where a course belongs across the broader set of domains; course materials and syllabi live elsewhere.
 
 ## Structure
 - Domain pages: One markdown file per domain in this folder.
@@ -20,7 +20,7 @@ Courses across architecture, implementation, quality engineering, and operations
 Courses for data pipelines, analytics, experimentation, and forecasting. Keeps questions, metrics, models, and monitoring tied together so analyses inform decisions and production data stays healthy.
 
 ### Skilled Trades: Field Craft
-Courses in construction, electrical, mechanical, safety, and commissioning. This page is a reference for training that keeps designs practical, installable, and compliant with real-world jobsite constraints.
+Courses in construction, site prep, foundations, electrical, mechanical, safety, and commissioning. This page is a reference for training that keeps designs practical, installable, and compliant with real-world jobsite constraints.
 
 ### Multimedia: Audio, Video, VFX
 Courses on scripting, shooting, editing, motion design, and visual effects. Emphasizes storytelling craft, pacing, sound, and production quality that supports product and brand narratives.
@@ -32,7 +32,7 @@ Courses on performance technique, directing, movement, voice, and production pra
 Courses that build a broad academic foundation across quantitative disciplines, sciences, social science methods, and the arts. This page keeps technical work grounded in theory, context, and cross-domain literacy.
 
 ### Personal Development: Health, Mindset, Languages
-Courses for fitness, recovery, mindfulness, and language learning. It supports steady personal routines, cognitive clarity, and communication range outside of work.
+Courses for fitness, recovery, mindfulness, learning systems, and language study. It supports steady personal routines, cognitive clarity, and communication range outside of work.
 
 ### Personal Interests
 Courses and explorations across arts, media, and emerging skills beyond core domains. This page captures learning paths that keep curiosity active and feed creative thinking.

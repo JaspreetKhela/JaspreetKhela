@@ -1,6 +1,6 @@
 # Personal Development: Health, Mindset, Languages
 
-Course catalog for health, mindset, and languages. Includes courses on fitness, recovery, mindfulness, stress management, and language learning to support steady personal routines and communication range.
+Course catalog for health, mindset, learning systems, and languages. Includes courses on fitness, recovery, mindfulness, stress management, study systems, and language learning to support steady personal routines and communication range.
 
 ## Purpose
 Catalog of academic and professional training courses aligned to this domain's subheadings for quick reference.
@@ -34,14 +34,17 @@ Catalog of academic and professional training courses aligned to this domain's s
     - [Habit Design & Tracking](#habit-design-tracking)
     - [Environment & Time Management](#environment-time-management)
     - [Reviews, Retros & Adjustments](#reviews-retros-adjustments)
+  - [Learning Systems & Meta-Study](#learning-systems-meta-study)
+    - [Study Systems & Spaced Practice](#study-systems-spaced-practice)
+    - [Skill Acquisition & Feedback](#skill-acquisition-feedback)
+  - [Language Study & Fluency](#language-study-fluency)
+    - [Foundations, Grammar & Vocabulary](#foundations-grammar-vocabulary)
+    - [Listening & Speaking Practice](#listening-speaking-practice)
+    - [Reading, Writing & Translation](#reading-writing-translation)
   - [Communication, Relationships & Boundaries](#communication-relationships-boundaries)
     - [Listening & Assertive Communication](#listening-assertive-communication)
     - [Trust, Empathy & Conflict](#trust-empathy-conflict)
     - [Boundaries & Agreements](#boundaries-agreements)
-  - [Learning Systems & Language Practice](#learning-systems-language-practice)
-    - [Study Systems & Spaced Practice](#study-systems-spaced-practice)
-    - [Language Practice & Immersion](#language-practice-immersion)
-    - [Skill Acquisition & Feedback](#skill-acquisition-feedback)
 
 ## Sleep & Recovery Foundations
 Protect sleep, rest, and recovery to keep training and work sustainable.
@@ -288,6 +291,89 @@ Run review cadences, integrate feedback, and reprioritize effectively.
 Develop review systems, templates, and accountability loops for teams or groups.
 - [Coming Soon]
 
+## Learning Systems & Meta-Study
+Build study systems for ongoing learning across new skills and domains.
+- [Coming Soon]
+### Study Systems & Spaced Practice
+Use study systems and spaced practice to retain more effectively.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Set basic study cadence, flashcards/notes, and spaced intervals.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Refine study plans, retrieval practice, and feedback loops for retention.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Run study cycles, adjust materials, and teach others to reinforce learning.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Design learning systems, curricula, and experimentation for skill growth.
+- [Coming Soon]
+### Skill Acquisition & Feedback
+Learn new skills with tight feedback loops and deliberate practice.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Break skills into fundamentals and set simple practice reps with feedback.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Use deliberate practice plans, drills, and measurement to accelerate progress.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Coordinate coaching, milestones, and environment design for skill growth.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Develop skill acquisition frameworks, teaching materials, and evaluation rubrics.
+- [Coming Soon]
+
+## Language Study & Fluency
+Develop languages through structured practice, immersion, and feedback loops.
+- [Coming Soon]
+### Foundations, Grammar & Vocabulary
+Build core grammar and vocabulary with steady drills.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Learn key grammar patterns and high-frequency vocab with simple reps.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Use spaced practice, shadowing, and SRS tools to solidify grammar and vocab.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Plan focused study blocks, track weak spots, and work with partners or tutors.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Design language roadmaps, resources, and assessments for sustained progress.
+- [Coming Soon]
+### Listening & Speaking Practice
+Use immersion, drills, and conversation to grow fluency.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Practice pronunciation, listening, and simple conversations with feedback.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Shadow audio, record practice, and use media to expand listening and speech.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Schedule conversation hours, role-play scenarios, and review recordings for improvement.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Coach others on speaking practice and design immersion plans for specific goals.
+- [Coming Soon]
+### Reading, Writing & Translation
+Read, write, and translate with attention to accuracy and nuance.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Read short texts and write simple passages accurately.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Use graded readers, journaling, and translation drills with structured feedback.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Handle longer forms, editing, and context-sensitive translation work.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Develop style guides, translation workflows, and editing standards for teams.
+- [Coming Soon]
+
 ## Communication, Relationships & Boundaries
 Practice clear communication, trust-building, and boundaries for healthy relationships.
 - [Coming Soon]
@@ -335,53 +421,4 @@ Manage expectations, reinforce agreements, and address breaches constructively.
 - [Coming Soon]
 #### Advanced Leadership & Research (Principal/Strategist)
 Define boundary/agreements frameworks, policies, and training for teams.
-- [Coming Soon]
-
-## Learning Systems & Language Practice
-Build study systems for ongoing learning, including languages and new skills.
-- [Coming Soon]
-### Study Systems & Spaced Practice
-Use study systems and spaced practice to retain more effectively.
-- [Coming Soon]
-#### Foundations (Contributor/Analyst)
-Set basic study cadence, flashcards/notes, and spaced intervals.
-- [Coming Soon]
-#### Methods & Tools (Practitioner)
-Refine study plans, retrieval practice, and feedback loops for retention.
-- [Coming Soon]
-#### Applied Practice & Delivery (Manager/Lead)
-Run study cycles, adjust materials, and teach others to reinforce learning.
-- [Coming Soon]
-#### Advanced Leadership & Research (Principal/Strategist)
-Design learning systems, curricula, and experimentation for skill growth.
-- [Coming Soon]
-### Language Practice & Immersion
-Practice languages with deliberate drills and immersion.
-- [Coming Soon]
-#### Foundations (Contributor/Analyst)
-Build core vocab, pronunciation, and simple conversation reps.
-- [Coming Soon]
-#### Methods & Tools (Practitioner)
-Use spaced drills, immersion tactics, and media to expand fluency.
-- [Coming Soon]
-#### Applied Practice & Delivery (Manager/Lead)
-Plan immersion blocks, speaking practice, and assessments with partners or tutors.
-- [Coming Soon]
-#### Advanced Leadership & Research (Principal/Strategist)
-Create language learning roadmaps, resources, and teaching aids.
-- [Coming Soon]
-### Skill Acquisition & Feedback
-Learn new skills with tight feedback loops and deliberate practice.
-- [Coming Soon]
-#### Foundations (Contributor/Analyst)
-Break skills into fundamentals and set simple practice reps with feedback.
-- [Coming Soon]
-#### Methods & Tools (Practitioner)
-Use deliberate practice plans, drills, and measurement to accelerate progress.
-- [Coming Soon]
-#### Applied Practice & Delivery (Manager/Lead)
-Coordinate coaching, milestones, and environment design for skill growth.
-- [Coming Soon]
-#### Advanced Leadership & Research (Principal/Strategist)
-Develop skill acquisition frameworks, teaching materials, and evaluation rubrics.
 - [Coming Soon]

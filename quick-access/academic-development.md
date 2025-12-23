@@ -68,11 +68,11 @@ Catalog of academic and professional training courses aligned to this domain's s
     - [Religion, Culture & Comparative Studies](#religion-culture-comparative-studies)
     - [Critical Theory, Rhetoric & Discourse Analysis](#critical-theory-rhetoric-discourse-analysis)
     - [Heritage, Archival & Museum Studies](#heritage-archival-museum-studies)
-  - [Research Methods & Technical Writing](#research-methods-technical-writing)
+- [Scholarly Research & Publications](#scholarly-research-publications)
     - [Research Design: Quantitative & Qualitative](#research-design-quantitative-qualitative)
     - [Measurement, Data Collection & Analysis](#measurement-data-collection-analysis)
     - [Literature Review & Synthesis](#literature-review-synthesis)
-    - [Technical, Academic & Communication Writing](#technical-academic-communication-writing)
+    - [Scholarly Writing & Publication](#scholarly-writing-publication)
     - [Advanced Statistics, Causal Inference & Experimental Design](#advanced-statistics-causal-inference-experimental-design)
     - [Mixed Methods, Field Methods & Survey Design](#mixed-methods-field-methods-survey-design)
     - [Grant Writing, Publication & Peer Review](#grant-writing-publication-peer-review)
@@ -810,8 +810,8 @@ Lead study plans, labs, or projects that connect theory to execution for others.
 Direct advanced inquiry, synthesis, and research agendas across the domain.
 - [Coming Soon]
 
-## Research Methods & Technical Writing
-Training in structured research, synthesis, and clear communication of findings.
+## Scholarly Research & Publications
+Training in research design, academic synthesis, and peer-reviewed publication.
 - [Coming Soon]
 ### Research Design: Quantitative & Qualitative
 Design studies using quantitative and qualitative methods.
@@ -858,8 +858,8 @@ Lead study plans, labs, or projects that connect theory to execution for others.
 #### Advanced Leadership & Research (Principal/Strategist)
 Direct advanced inquiry, synthesis, and research agendas across the domain.
 - [Coming Soon]
-### Technical, Academic & Communication Writing
-Write clearly for technical, academic, and cross-functional audiences.
+### Scholarly Writing & Publication
+Write and publish papers, reports, and peer reviews with clear academic communication.
 - [Coming Soon]
 #### Foundations (Contributor/Analyst)
 Survey core concepts and vocabulary to build confident baseline literacy.

@@ -56,24 +56,26 @@ Below is a guided overview of what I’ve built so far, what I’m working on no
 ## About Me
 **Jaspreet Khela's Digital Doorstep**
 
-Hello, world! I mix mathematics, natural sciences, engineering, and economics to build dependable hardware, software, data engineering, data analytics, data science (including machine learning), and IT operations systems. Everything is grounded in product design to most effectively create delight in the world in service of achieving business objectives. When I'm not building and shipping, I'm burning another grilled cheese in the name of science.
+Hello, world! I pair mathematics, sciences, engineering, and economics to build dependable hardware, software, data, and IT systems anchored in product design. When I'm not shipping, I'm probably burning another grilled cheese for science.
 
-Fundamentally, I care about clear thinking that cuts through noise, steady execution that keeps momentum, and outcomes you can rely on every time.
+I lean on clear thinking that cuts through noise, steady execution, and outcomes you can rely on every time.
+
+I'm a Toronto-based full-stack engineer who blends hardware, software, data, operations, and product design to ship systems that hold up in production.
 
 ### Motto
-Preparation. Pace. Patience. Persistence. Facta, Non Verba. To me that means doing the groundwork before I build, moving at a steady clip instead of sprinting and stalling, staying calm through slow progress, and letting shipped work speak louder than claims.
+Preparation. Pace. Patience. Persistence. Facta, Non Verba. Do the groundwork, move steadily, stay calm through slow climbs, and let shipped work speak louder than claims.
 
 ### Background
-I grew up fascinated by Zermelo-Fraenkel-Choice mathematics, the precision of the natural sciences, feats of engineering and technology, the breadth of life sciences and medicine, the dynamics of social sciences and management, and the creativity of the arts, humanities, and athletics. That mix taught me to respect proof and experimentation, appreciate how people organize and lead, keep room for creative work alongside technical depth, and stay rooted while growing across disciplines. Velut Arbor Ævo.
+I grew up fascinated by math, science, engineering, life sciences, social sciences, and the arts. That mix taught me to respect proof and experimentation, understand how people organize and lead, and balance creative work with technical depth. Velut Arbor AEvo.
 
 ### Goals
-Near term, I want to contribute to technical R&D in quantum computing, machine learning, cryptography, nuclear fusion, surgery, and finance, alongside business development, operations, and sales work. Long term, I hope to blend creative work and service as an artist, entrepreneur, and mathematician; and in the public sphere, serve through research, defense, healthcare, social work, and public service. I see those paths as a way to stay inventive, useful, and grounded in service.
+Near term, I want to contribute to technical R&D in quantum computing, machine learning, cryptography, nuclear fusion, surgery, and finance, alongside business development, operations, and sales work. Long term, I hope to blend creative work and service as an artist, entrepreneur, and mathematician, and in the public sphere serve through research, defense, healthcare, social work, and public service. Those paths keep me inventive, useful, and grounded in service.
 
 ### Personality
-On the Five-Factor model I'm relatively low in extraversion, average in agreeableness, neuroticism, and openness, and relatively high in conscientiousness. My MBTI is INTJ, and I also have additional assessments available (HEXACO-PI-R, Dark Triad). In practice, I plan ahead, keep commitments, think through problems quietly before acting, and stay open to feedback and collaboration.
+On the Five-Factor model I'm quieter and conscientious (INTJ). I plan ahead, keep commitments, think through problems before acting, and stay open to feedback and collaboration.
 
 ### Capabilities
-I enjoy shaping strategy, making things, and leading teams. On the hard-skills side I lean on quantitative analysis and multimedia production; on the soft-skills side I focus on critical thinking and clear communication. I like to break down ambiguous goals into concrete plans, align people on priorities, and then build the software, hardware, data, and operational pieces that make the plan real.
+I enjoy shaping strategy, making things, and leading teams. I lean on quantitative analysis, storytelling, and clear communication to turn ambiguous goals into plans, align people, and build the software, hardware, data, and operational pieces that make the plan real.
 
 ### Working Style
 I work best with clear writing, shared context, and tight feedback loops. In practice, I aim to align early on goals and constraints, communicate progress clearly, and give and receive feedback with respect.
@@ -81,21 +83,19 @@ I work best with clear writing, shared context, and tight feedback loops. In pra
 <a id="academic-professional-and-personal-focuses"></a>
 ## Academic, Professional, and Personal Focuses
 ### Core Pillars
-I learn fast, build useful things, and stay versatile by shifting between disciplines, testing ideas quickly, and translating lessons from one domain into another. Action and reflection together keep momentum as ideas move from prototype to polish. I mix structured learning with messy tinkering, which helps me ramp up on new topics, spot useful patterns sooner, and stay grounded when projects change mid-flight.
+I stay versatile by switching disciplines, testing ideas quickly, and translating lessons between them. Action plus reflection moves work from prototype to polish without losing momentum.
 
 ### Academic Focus
-I study mathematics, natural sciences, engineering, and economics to see how systems behave, scale, and stay stable. Mathematics sharpens how I frame problems and reason with proof and probability. The natural sciences keep me observing and experimenting so I notice how the world actually works. Engineering turns ideas into hardware and software that hold up under constraints. Economics shows how incentives and markets shape outcomes, helping me weigh trade-offs and design systems people will use. Together these lenses help me spot patterns across the physical world, people, and markets, model trade-offs, catch failure points early, and make grounded decisions day to day.
+I study mathematics, natural sciences, engineering, and economics to see how systems behave, scale, and stay stable. Those lenses help me spot patterns, weigh trade-offs, and catch failure points early.
 
 ### Professional Focus
-I build dependable, human-centered products by bridging software, hardware, data engineering/analytics/science (including machine learning), IT operations, and product design. I connect user research to technical choices, pair usability with reliability, and keep teams aligned on outcomes so services stay healthy in production. In practice that means translating customer needs into clear scope, choosing architectures that stand up to real-world load, planning rollouts that are safe and observable, and running feedback loops that keep the product useful and stable over time.
+I build dependable, human-centered products by bridging software, hardware, data, IT operations, and product design. I connect user research to technical choices and roll out changes safely so services stay usable and reliable in production.
 
 ### Personal Pursuits
-I prototype side projects, study human factors and design, and keep tinkering to stay curious. I rotate between coding, electronics, writing, and design exercises so I keep learning new tools and perspectives, then fold those lessons back into everyday work. Curiosity in practice keeps the work fresh and human, refreshing my problem-solving habits, surfacing new ideas, and helping me spot small improvements that make products feel better to the people using them.
+I prototype side projects, study human factors and design, and keep tinkering to stay curious. Rotating between coding, electronics, writing, and design keeps the work fresh and feeds small improvements back into daily work.
 
 ### Fortune Favors the Brave
-This Latin proverb reminds me to lean into hard, stretching work; that's where I learn quickest and make my biggest leaps.
-
-It reminds me to choose courage over comfort: prepare well, move with intent, and stay patient when hard problems show up, since meaningful progress needs risk, focused practice, and resilience. It pushes me to take on stretch projects instead of easy wins, to test ideas in the open where feedback is real, and to iterate until the work is reliable, teachable, and useful to others.
+This Latin proverb reminds me to lean into hard, stretching work where the biggest learning happens. Prepare well, move with intent, stay patient, and iterate until the work is reliable, teachable, and useful to others.
 
 <a id="social-media-profiles-title"></a>
 ## General Webpages
@@ -171,11 +171,11 @@ Building decks, proposals, and negotiations that move deals forward while keepin
 
 <a id="quick-access-webpage-links"></a>
 ## Quick Access Webpage Links
-This section maps what's ahead: Business covers sales, operations, and go-to-market. Software spans full-stack products and user experience. Data focuses on engineering, analytics, science, and machine learning. Hardware includes embedded systems, electronics, and prototypes. Trades highlight hands-on skilled work and tooling. Multimedia captures audio, video, and design production. Performance centers on stage, voice, and presentation. Academic outlines coursework and research. Personal development covers habits, learning, and mindset. Interests share hobbies and curiosity projects.
+Quick links to domain pages that document the programs, courses, and practice plans I'm using to build each discipline. Business covers go-to-market and operations; software spans full-stack delivery; data covers pipelines and models; hardware focuses on embedded and prototypes; trades capture hands-on field craft; multimedia covers audio, video, and motion; performance covers stage and screen; academic tracks coursework and research; personal development covers health and learning systems; interests log curiosity projects.
 
 <a id="business-development-education-and-work-title"></a>
 ### [Business: Sales, Operations, and Strategy](quick-access/business-sales-operations-and-strategy.md)
-Sales, operations, and strategy experiments I'm packaging into case studies, covering how I test offers, build pipelines, tune operations, and share what works. I map markets, build playbooks, and stress-test processes so the next iteration is easier to ship and scale. Expect notes on discovery calls, pricing tests, deal reviews, and runbooks for onboarding, retention, and ops hygiene.
+Training log for go-to-market strategy, pricing, sales execution, pipeline hygiene, and operations. These cards capture the programs and courses I'm using to build commercial judgment, playbooks, and process discipline.
 
 #### Go-To-Market Strategy & Market Analysis
 Assess markets, incentives, and positioning to shape offers and entry strategy.
@@ -203,7 +203,7 @@ Model unit economics, forecast outcomes, and track KPIs to keep decisions ground
 
 <a id="hardware-development-education-and-work-title"></a>
 ### [Hardware: Electromechanical Systems](quick-access/hardware-electromechanical-systems.md)
-Electromechanical systems work: electronics, robotics, and embedded builds that connect software to the physical world. I prototype boards, wire up sensors and actuators, tune firmware, and pair devices with cloud services so they stay observable, safe, and maintainable in real environments. I care about enclosure design, power budgets, field updates, and test rigs that catch failures before they ship.
+Electromechanical systems training across electronics, robotics, and embedded builds that connect software to the physical world. These cards log courses and programs on design, firmware, power, and test rigs so devices stay observable, safe, and maintainable.
 
 #### Electrical Design Engineering
 Design and prototype circuits with sound power, signal integrity, and component choices.
@@ -231,7 +231,7 @@ Prepare builds for production, create diagnostics, and design update paths for d
 
 <a id="software-development-education-and-work-title"></a>
 ### [Software: Engineering, Integration, and Delivery](quick-access/software-engineering-integration-and-delivery.md)
-Software engineering, integration, and delivery across web, mobile, services, and cloud, with reliability and user experience front and center. I focus on designing clean interfaces, instrumenting services, and rolling out changes safely, pairing code quality with observability, accessibility, and calm on-call playbooks. I like clear specs, small PRs, automated tests, and gradual rollouts backed by metrics and feedback loops.
+Software engineering, integration, and delivery across web, mobile, services, and cloud. These cards track the courses and programs I'm using to practice clean interfaces, observability, accessibility, and safe rollouts.
 
 #### Product & Technical Planning
 Translate product goals into scoped requirements, technical specs, and delivery plans.
@@ -267,7 +267,7 @@ Instrument services with logs, metrics, traces, and run calm, repeatable inciden
 
 <a id="data-development-education-and-work-title"></a>
 ### [Data: Engineering, Analysis, and Forecasting](quick-access/data-engineering-analysis-and-forecasting.md)
-Data engineering, analysis, and forecasting work: pipelines, experiments, and models that turn raw data into decisions. I map questions to metrics, clean and model data, run experiments, and surface results in dashboards people actually use, tying forecasts back to product and revenue goals. That includes schema design, ETL/ELT, feature stores, experiment design, and taking models to production with monitoring.
+Data engineering, analysis, and forecasting training covering pipelines, experiments, and models that turn raw data into decisions. These cards document the courses and programs I'm using for instrumentation, modeling, experimentation, and production ML.
 
 #### Instrumentation & Event Design
 Define tracking taxonomies and capture context so analysis maps to real behavior.
@@ -307,35 +307,47 @@ Ship forecasting and ML solutions tied to business outcomes with monitoring.
 
 <a id="skilled-trades-education-and-work-title"></a>
 ### [Skilled Trades: Field Craft](quick-access/skilled-trades-field-craft.md)
-Field craft across construction, electrical, mechanical, and safety skills that keep me practical when I design real-world systems. I like knowing how tools, materials, and safety practices actually work on-site, which helps me design solutions that crews can install, service, and trust. I keep notes on permits, site prep, sequencing, and how to avoid surprises once the plans meet the job site.
+Field craft across construction, electrical, mechanical, and safety skills that keep me practical when I design real-world systems. These cards document the courses and programs I'm using on permits, layout, sequencing, commissioning, and avoiding surprises once the plans meet the job site.
 
 #### Site Safety & Code Compliance
 Apply safety standards and code requirements so work is legal, safe, and repeatable.
+- [Coming Soon]
+
+#### Site Prep, Layout & Foundations
+Prepare sites, set layout, and build foundations that keep structures true.
+- [Coming Soon]
+
+#### Concrete & Masonry
+Form, pour, finish, and repair concrete and masonry safely.
 - [Coming Soon]
 
 #### Carpentry & Framing
 Frame, sheath, and build structures with accurate layout and durable joinery.
 - [Coming Soon]
 
+#### Plumbing & Piping Installation
+Route supply, drain, and vent piping with the right slopes, supports, and tests.
+- [Coming Soon]
+
 #### Electrical & Controls Installation
 Plan circuits, pull wire, terminate panels, and commission controls safely.
 - [Coming Soon]
 
-#### Plumbing, Piping & HVAC Installation
-Route piping, set fixtures, and install HVAC runs that respect flow and tolerances.
+#### HVAC & Sheet Metal Installation
+Install ducting, set equipment, and balance airflow with safe controls.
 - [Coming Soon]
 
 #### Metal Fabrication & Rigging
 Cut, weld, fabricate, and rig assemblies with attention to load, safety, and fit.
 - [Coming Soon]
 
-#### Closeout, QA & Documentation
-Inspect work, create as-builts, and hand off clear documentation for operations.
+#### Finishes, QA & Documentation
+Finish, inspect, create as-builts, and hand off clear documentation for operations.
 - [Coming Soon]
 
 <a id="multimedia-production-education-and-work-title"></a>
 ### [Multimedia: Audio, Video, VFX](quick-access/multimedia-audio-video-vfx.md)
-Multimedia practice in audio, video, and VFX to sharpen storytelling and inform product and brand design. I script, shoot, edit, and experiment with motion so products ship with clear narratives and visuals, and I match sound, pacing, and typography to the feeling a product should convey. Expect breakdowns on storyboards, lighting setups, color, and sound design that reinforce the message.
+Multimedia practice in audio, video, and VFX to sharpen storytelling and inform product and brand design. These cards track the courses and programs I'm using to script, shoot, edit, and experiment with motion, sound, and pacing.
 
 #### Creative Direction & Scriptwriting
 Define audience, goals, and narrative so creative choices support a clear message.
@@ -363,7 +375,7 @@ Publish content, measure engagement, and iterate toward stronger outcomes.
 
 <a id="performance-arts-education-and-work-title"></a>
 ### [Performance Arts: Stage and Screen](quick-access/performance-arts-stage-and-screen.md)
-Performance work for stage and screen: writing, movement, and on-camera practice to keep creative muscles sharp. I rehearse blocking, voice, and delivery to communicate with more clarity and presence, and I study audience cues so each run-through lands cleaner than the last. I also experiment with pacing, breath control, and framing so messages land consistently across formats.
+Performance work for stage and screen: writing, movement, and on-camera practice to keep creative muscles sharp. These cards log the programs and courses I'm using to rehearse blocking, voice, delivery, and audience awareness.
 
 #### Voice & Speech Coaching
 Develop breath, diction, projection, and pacing for clear delivery.
@@ -391,7 +403,7 @@ Review recordings, take actionable notes, and iterate for cleaner runs.
 
 <a id="academic-development-history-and-pursuits-title"></a>
 ### [Academic Development: Mathematics, Natural Sciences, Engineering, Social Sciences, Arts, and Humanities](quick-access/academic-development.md)
-Academic development spanning mathematics, natural sciences, engineering, social sciences, arts, and humanities to keep my foundation broad and rigorous. I study proofs, experiments, systems, and culture to see patterns across domains, and to keep my technical work grounded in real-world context and human impact. I cycle between problem sets, lab-style tinkering, literature reviews, and writing to synthesize what I learn.
+Academic development spanning mathematics, natural sciences, engineering, social sciences, arts, and humanities to keep my foundation broad and rigorous. These cards catalog the programs, courses, and research training I’m using to connect theory, experiments, systems, and culture.
 
 #### Mathematics
 Study algebra, analysis, probability, and discrete math to sharpen proof and modeling skills.
@@ -421,13 +433,13 @@ Practice visual and performing arts to strengthen creative expression and storyt
 Study history, languages, philosophy, and culture to add context and ethics to technical work.
 - [Coming Soon]
 
-#### Research Methods & Technical Writing
-Run structured research, synthesize sources, and communicate findings clearly.
+#### Scholarly Research & Publications
+Design studies, synthesize literature, and publish findings with clear academic communication.
 - [Coming Soon]
 
 <a id="personal-development-history-and-pursuits-title"></a>
 ### [Personal Development: Health, Mindset, Languages](quick-access/personal-development-health-mindset-languages.md)
-Personal development in health, mindset, and languages with routines and tools I lean on to stay steady outside of work. I take mental health seriously and use fitness, mindfulness, and emotional intelligence practices to stay clear and consistent. I also track habits so progress stays honest and sustainable, log sleep, nutrition, and training, and use reflection prompts to spot what to double down on or drop.
+Personal development in health, mindset, and learning systems with routines and tools I lean on to stay steady outside of work. These cards capture the programs and courses I'm using for fitness, mindfulness, habit building, and language study so progress stays honest and sustainable.
 
 #### Sleep & Recovery Foundations
 Protect sleep, rest, and recovery to keep training and work sustainable.
@@ -449,17 +461,21 @@ Use reflection, mindfulness, and coping tools to stay calm and emotionally regul
 Design routines, track progress, and shape environments that make consistency easier.
 - [Coming Soon]
 
+#### Learning Systems & Meta-Study
+Build study systems for ongoing learning across new skills and domains.
+- [Coming Soon]
+
+#### Language Study & Fluency
+Develop languages through structured practice, immersion, and feedback loops.
+- [Coming Soon]
+
 #### Communication, Relationships & Boundaries
 Practice clear communication, trust-building, and boundaries for healthy relationships.
 - [Coming Soon]
 
-#### Learning Systems & Language Practice
-Build study systems for ongoing learning, including languages and new skills.
-- [Coming Soon]
-
 <a id="personal-interests-title"></a>
 ### [Personal Interests](quick-access/personal-interests.md)
-Personal interests across books, music, film, games, and new skills I'm exploring to stay curious and creative. I rotate through new topics often to keep ideas fresh, borrow patterns from unexpected places, and balance deep work with play. I keep a rolling list of what to sample next and what to revisit when I need a spark.
+Personal interests across books, music, film, games, and new skills I'm exploring to stay curious and creative. These cards log the courses, workshops, and experiments I'm trying to keep ideas fresh and balanced with play.
 
 #### Reading, Research & Media Notes
 Extract mental models from books, films, and essays and capture takeaways.

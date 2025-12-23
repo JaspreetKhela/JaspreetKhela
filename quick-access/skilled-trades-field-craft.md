@@ -18,23 +18,35 @@ Catalog of academic and professional training courses aligned to this domain's s
     - [PPE, LOTO & Hazard Controls](#ppe-loto-hazard-controls)
     - [Codes, Permits & Inspections](#codes-permits-inspections)
     - [Jobsite Setup & Housekeeping](#jobsite-setup-housekeeping)
+  - [Site Prep, Layout & Foundations](#site-prep-layout-foundations)
+    - [Surveying, Layout & Benchmarking](#surveying-layout-benchmarking)
+    - [Excavation, Drainage & Backfill](#excavation-drainage-backfill)
+    - [Foundations, Forms & Slabs](#foundations-forms-slabs)
+  - [Concrete & Masonry](#concrete-masonry)
+    - [Forming & Reinforcement](#forming-reinforcement)
+    - [Placing, Finishing & Curing](#placing-finishing-curing)
+    - [Masonry Installation & Repair](#masonry-installation-repair)
   - [Carpentry & Framing](#carpentry-framing)
     - [Layout, Measuring & Fastening](#layout-measuring-fastening)
     - [Framing, Sheathing & Decks](#framing-sheathing-decks)
     - [Doors, Windows & Trim Basics](#doors-windows-trim-basics)
+  - [Plumbing & Piping Installation](#plumbing-piping-installation)
+    - [Supply, Drain & Vent Basics](#supply-drain-vent-basics)
+    - [Piping Materials & Joining](#piping-materials-joining)
+    - [Fixtures, Testing & Inspections](#fixtures-testing-inspections)
   - [Electrical & Controls Installation](#electrical-controls-installation)
     - [Circuits, Panels & Terminations](#circuits-panels-terminations)
     - [Conduit, Cable & Pulling](#conduit-cable-pulling)
     - [Controls, Sensors & Commissioning](#controls-sensors-commissioning)
-  - [Plumbing, Piping & HVAC Installation](#plumbing-piping-hvac-installation)
-    - [Supply, Drain & Vent Basics](#supply-drain-vent-basics)
-    - [Piping Materials & Joining](#piping-materials-joining)
+  - [HVAC & Sheet Metal Installation](#hvac-sheet-metal-installation)
     - [HVAC Ducting, Airflow & Balance](#hvac-ducting-airflow-balance)
+    - [Equipment Setting & Controls Checkout](#equipment-setting-controls-checkout)
   - [Metal Fabrication & Rigging](#metal-fabrication-rigging)
     - [Cutting, Grinding & Prep](#cutting-grinding-prep)
     - [Welding & Fastening Methods](#welding-fastening-methods)
     - [Lifting, Rigging & Safety](#lifting-rigging-safety)
-  - [Closeout, QA & Documentation](#closeout-qa-documentation)
+  - [Finishes, QA & Documentation](#finishes-qa-documentation)
+    - [Finishes & Weatherproofing](#finishes-weatherproofing)
     - [QA, Punchlists & Testing](#qa-punchlists-testing)
     - [As-Builts & Labeling](#as-builts-labeling)
     - [Handover, Training & Maintenance](#handover-training-maintenance)
@@ -88,6 +100,104 @@ Supervise site setup, enforce housekeeping, and adjust for changing scopes.
 Define site setup standards, logistics playbooks, and contractor expectations.
 - [Coming Soon]
 
+## Site Prep, Layout & Foundations
+Prepare sites, set layout, and build foundations that keep structures true.
+- [Coming Soon]
+### Surveying, Layout & Benchmarking
+Set control lines, elevations, and benchmarks for accurate builds.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Use basic surveying and layout tools to set lines, benchmarks, and references.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Apply leveling, offsets, and documentation to keep layout repeatable.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Supervise layout, verify tolerances, and coordinate checks across crews.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Define layout standards, QA routines, and training for teams and contractors.
+- [Coming Soon]
+### Excavation, Drainage & Backfill
+Excavate safely, manage drainage, and backfill correctly.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Follow dig plans, shoring basics, and spoils management safely.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Plan trenching, drainage paths, soil compaction, and erosion controls.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Lead excavation sequencing, inspections, and adjustments for site conditions.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Set excavation and drainage standards, safety plans, and vendor coordination.
+- [Coming Soon]
+### Foundations, Forms & Slabs
+Form and pour foundations and slabs to spec.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Assemble simple forms, reinforcement, and embeds to plan.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Place reinforcement, set form tolerances, and prep pours with checks.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Oversee pours, finishing, curing plans, and inspections.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Define foundation standards, material choices, and QA/inspection templates.
+- [Coming Soon]
+
+## Concrete & Masonry
+Form, pour, finish, and repair concrete and masonry safely.
+- [Coming Soon]
+### Forming & Reinforcement
+Prepare forms and reinforcement for durable placements.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Assemble basic forms and reinforcement per drawings.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Check alignment, spacing, and ties with safe workflows.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Coordinate crews, inspections, and adjustments before pours.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Establish forming standards, material sourcing, and QA routines.
+- [Coming Soon]
+### Placing, Finishing & Curing
+Place, finish, and cure concrete to spec.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Support placing and basic finishing with safety controls.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Manage placement, finishing techniques, and curing plans.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Lead pours, finish schedules, and testing for strength and quality.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Design placement/curing standards, testing regimes, and documentation.
+- [Coming Soon]
+### Masonry Installation & Repair
+Set block/brick and perform basic repairs with clean joints.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Mix mortar, set units, and tool joints to plan.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Lay courses true, manage reinforcement, and handle flashing details.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Coordinate masonry sequencing, inspections, and punch corrections.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Develop masonry standards, vendor plans, and QA/maintenance guides.
+- [Coming Soon]
+
 ## Carpentry & Framing
 Frame, sheath, and build structures with accurate layout and durable joinery.
 - [Coming Soon]
@@ -135,6 +245,55 @@ Plan sequences, QA fit/finish, and coordinate with other trades.
 - [Coming Soon]
 #### Advanced Leadership & Research (Principal/Strategist)
 Define standards for openings, materials, and weatherproofing practices.
+- [Coming Soon]
+
+## Plumbing & Piping Installation
+Route supply, drain, and vent piping with the right slopes, supports, and tests.
+- [Coming Soon]
+### Supply, Drain & Vent Basics
+Lay out supply, drain, and vent runs that respect flow and slope.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Plan routes, slopes, and tie-ins that meet basic plumbing principles.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Install runs with proper supports, testing, and code checks for leaks/flow.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Sequence work with other trades, inspections, and pressure tests.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Define standards, materials strategy, and QA for plumbing systems.
+- [Coming Soon]
+### Piping Materials & Joining
+Select materials and joining methods suited to the system.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Choose appropriate materials and execute basic joining techniques safely.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Apply correct prep, joining, and testing methods for each material type.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Plan material procurement, crew training, and QA for piping installs.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Set material standards, vendor strategies, and joining practices across jobs.
+- [Coming Soon]
+### Fixtures, Testing & Inspections
+Set fixtures, run tests, and prepare for inspections.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Install basic fixtures, perform simple tests, and follow inspection checklists.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Apply pressure tests, flushing, and documentation to ready systems for inspection.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Coordinate fixture sequencing, inspections, and punch corrections with other trades.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Standardize testing, inspection prep, and fixture packages across jobs.
 - [Coming Soon]
 
 ## Electrical & Controls Installation
@@ -186,38 +345,8 @@ Lead commissioning plans, punchlists, and handoff to operations teams.
 Develop controls standards, templates, and QA for complex systems.
 - [Coming Soon]
 
-## Plumbing, Piping & HVAC Installation
-Route piping, set fixtures, and install HVAC runs that respect flow and tolerances.
-- [Coming Soon]
-### Supply, Drain & Vent Basics
-Lay out supply, drain, and vent runs that respect flow and slope.
-- [Coming Soon]
-#### Foundations (Contributor/Analyst)
-Plan routes, slopes, and tie-ins that meet basic plumbing principles.
-- [Coming Soon]
-#### Methods & Tools (Practitioner)
-Install runs with proper supports, testing, and code checks for leaks/flow.
-- [Coming Soon]
-#### Applied Practice & Delivery (Manager/Lead)
-Sequence work with other trades, inspections, and pressure tests.
-- [Coming Soon]
-#### Advanced Leadership & Research (Principal/Strategist)
-Define standards, materials strategy, and QA for plumbing systems.
-- [Coming Soon]
-### Piping Materials & Joining
-Select materials and joining methods suited to the system.
-- [Coming Soon]
-#### Foundations (Contributor/Analyst)
-Choose appropriate materials and execute basic joining techniques safely.
-- [Coming Soon]
-#### Methods & Tools (Practitioner)
-Apply correct prep, joining, and testing methods for each material type.
-- [Coming Soon]
-#### Applied Practice & Delivery (Manager/Lead)
-Plan material procurement, crew training, and QA for piping installs.
-- [Coming Soon]
-#### Advanced Leadership & Research (Principal/Strategist)
-Set material standards, vendor strategies, and joining practices across jobs.
+## HVAC & Sheet Metal Installation
+Install ducting, set equipment, and balance airflow with safe controls.
 - [Coming Soon]
 ### HVAC Ducting, Airflow & Balance
 Install ducting and balance airflow for efficient performance.
@@ -233,6 +362,21 @@ Manage install sequencing, inspections, and balancing with other trades.
 - [Coming Soon]
 #### Advanced Leadership & Research (Principal/Strategist)
 Develop HVAC standards, balancing practices, and commissioning playbooks.
+- [Coming Soon]
+### Equipment Setting & Controls Checkout
+Place equipment, connect services, and verify controls safely.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Set equipment, connect basic services, and follow lockout procedures.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Align, level, and start up equipment with airflow and control checks.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Coordinate lifts, tie-ins, commissioning steps, and documentation.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Define equipment standards, controls checklists, and commissioning playbooks.
 - [Coming Soon]
 
 ## Metal Fabrication & Rigging
@@ -284,8 +428,23 @@ Coordinate complex lifts, permits, and communication among crews.
 Develop rigging standards, training, and critical lift procedures.
 - [Coming Soon]
 
-## Closeout, QA & Documentation
-Inspect work, create as-builts, and hand off clear documentation for operations.
+## Finishes, QA & Documentation
+Finish work, inspect, document, and hand off clear systems for operations.
+- [Coming Soon]
+### Finishes & Weatherproofing
+Install finishes and seal assemblies cleanly for durability.
+- [Coming Soon]
+#### Foundations (Contributor/Analyst)
+Apply basic finishes and sealants following specs and safety practices.
+- [Coming Soon]
+#### Methods & Tools (Practitioner)
+Sequence finishes, manage materials, and check adhesion/weatherproofing.
+- [Coming Soon]
+#### Applied Practice & Delivery (Manager/Lead)
+Coordinate trades, mockups, and inspections to meet finish standards.
+- [Coming Soon]
+#### Advanced Leadership & Research (Principal/Strategist)
+Set finish standards, vendor strategies, and QA for long-term durability.
 - [Coming Soon]
 ### QA, Punchlists & Testing
 Execute QA, punchlists, and tests to verify performance.
