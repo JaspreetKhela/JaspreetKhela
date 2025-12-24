@@ -4,9 +4,15 @@ Welcome! If you’ve ever wondered what happens when a curious overthinker with 
 Below is a guided overview of what I’ve built so far, what I’m working on now, and what I’m practicing to improve. It brings together my education and work experience, the technical and creative skills I’m sharpening, and the interests that shape my curiosity and long-term goals. It also covers the routines that help me stay healthy and consistent, along with the communication habits I rely on to work well with others. Taken together, it’s a practical snapshot of how I learn, execute, and grow over time.
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JaspreetKhela&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=7200" />
+  <img
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=JaspreetKhela&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
+  />
   <br>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaspreetKhela&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=7200" />
+  <img
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaspreetKhela&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
+  />
 </p>
 
 ## Table of Contents
