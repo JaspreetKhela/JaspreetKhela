@@ -126,86 +126,62 @@ Build logs, lessons learned, and tutorials from what I'm making.
 
 <a id="work-history-title"></a>
 ## Work History
-Highlights from software, data, product design, sales, and operations roles that taught me to connect strategy to shipped systems.
+Highlights from roles across hardware, software, data, operations, design, management, and sales. Each category links to the quick-access work history page for details, references, and projects.
 
-<a id="hardware-work-history"></a>
-### Hardware Work History
+### [Hardware Development Work History](quick-access/work-history.md#hardware-development-work-history)
 Building embedded and electromechanical systems that connect sensors and actuators to reliable firmware, software, and field-ready prototypes.
-- [Coming Soon]
 
-<a id="software-development-work-history"></a>
-### Software Development Work History
-Translating needs into fast services and interfaces with an eye on usability and reliability.
-- [Coming Soon]
+### [Software Development Work History](quick-access/work-history.md#software-development-work-history)
+Translating needs into services and interfaces with an emphasis on usability, reliability, and secure delivery.
 
-<a id="data-engineering-analytics-and-science-work-history"></a>
-### Data Engineering, Analytics, and Science Work History
-Using notebooks, statistics, machine learning, and experiments to turn data into decisions.
-- [Coming Soon]
+### [Data Engineering, Analytics, and Science Work History](quick-access/work-history.md#data-engineering-analytics-and-science-work-history)
+Using pipelines, analytics, experiments, and models to turn data into decisions and production outcomes.
 
-<a id="it-operations-work-history"></a>
-### IT Operations Work History
-Keeping production systems healthy with monitoring, automation, incident response, and reliability practices that reduce downtime and improve performance.
-- [Coming Soon]
+### [IT Operations Work History](quick-access/work-history.md#it-operations-work-history)
+Keeping production systems healthy with monitoring, automation, incident response, and operational readiness.
 
-<a id="product-design-work-history"></a>
-### Product Design Work History
-Taking ideas from sketches to polished mockups with design systems, clear copy, and usability tests.
-- [Coming Soon]
+### [Project and Product Management Work History](quick-access/work-history.md#project-and-product-management-work-history)
+Planning, prioritizing, and shipping with clear backlogs, releases, and tight feedback loops.
 
-<a id="project-and-product-management-work-history"></a>
-### Project and Product Management Work History
-Keeping backlogs tidy, setting priorities, and planning releases with tight feedback loops.
-- [Coming Soon]
+### [Product Design Work History](quick-access/work-history.md#product-design-work-history)
+Taking ideas from research and sketches to polished designs with usability, clarity, and design-system discipline.
 
-<a id="business-operations-and-management-work-history"></a>
-### Business Operations and Management Work History
-Coordinating vendors, budgets, and process automation to remove friction.
-- [Coming Soon]
+### [Business Operations and Management Work History](quick-access/work-history.md#business-operations-and-management-work-history)
+Coordinating vendors, budgets, processes, and automation to remove friction and scale execution.
 
-<a id="business-sales-and-development-work-history"></a>
-### Business Sales and Development Work History
-Building decks, proposals, and negotiations that move deals forward while keeping partners confident.
-- [Coming Soon]
+### [Business Development and Sales Work History](quick-access/work-history.md#business-development-and-sales-work-history)
+Running go-to-market, sales, and partnerships from outreach through close with proposals and negotiations that build trust.
 
 <a id="quick-access-webpage-links"></a>
 ## Quick Access Webpage Links
 Quick links to the markdown pages that mirror the site sections. Each quick-access page follows a single-category course structure (Foundations/Theory, Applied/Projects, Tools/Stack, Practice/Assessment, Integration/Capstone).
 
 ### [Academic Training and Development](quick-access/academic-development.md)
-Mathematics, natural sciences, engineering, life sciences, social sciences, arts, humanities, and research.
+Mathematics, natural sciences, engineering, life sciences, social sciences, arts, humanities, and research. This track keeps the theoretical base sharp while connecting it to experiments, proofs, and published work so ideas can move from study to application. Notes capture reading lists, coursework plans, and research habits that make the foundations useful in other domains.
 
 ### [Personal Training and Development](quick-access/personal-development-health-mindset-languages.md)
-Health, fitness, mindset, habits, learning systems, and languages.
+Health, fitness, mindset, habits, learning systems, and languages. This plan focuses on routines and systems that keep energy, focus, and recovery steady so the rest of the work stays sustainable. It includes study workflows, reflection practices, and communication drills that support day-to-day execution.
 
 ### [Skilled Trades Training and Development](quick-access/skilled-trades-field-craft.md)
-Safety, construction foundations, electrical, plumbing/HVAC, mechanical/industrial, automotive, and metalwork.
+Safety, construction foundations, electrical, plumbing/HVAC, mechanical/industrial, automotive, and metalwork. The goal is to ground designs in real-world buildability and codes, with checklists for permits, inspections, sequencing, and safe execution. Coursework and labs are organized to build muscle memory for field workflows and commissioning.
 
 ### [Hardware Training and Development](quick-access/hardware-electromechanical-systems.md)
-Electrical fundamentals, electronics/embedded, firmware/controls, mechanical systems, manufacturing, and systems testing.
+Electrical fundamentals, electronics/embedded, firmware/controls, mechanical systems, manufacturing, and systems testing. This path links schematic-level thinking to firmware, fixtures, and validation so devices can be brought up, tested, and supported in the field. Notes track builds, debug routines, and manufacturing handoff practices.
 
 ### [Software Training and Development](quick-access/software-engineering-integration-and-delivery.md)
-Programming fundamentals, data structures/algorithms, backend, frontend, security, platform/reliability, and quality/delivery.
+Programming fundamentals, data structures/algorithms, backend, frontend, security, platform/reliability, and quality/delivery. Courses are sequenced from fundamentals to deployment so services stay reliable and observable. Each section emphasizes design clarity, secure defaults, and release practices that hold up in production.
 
 ### [Data Training and Development](quick-access/data-engineering-analysis-and-forecasting.md)
-Statistics/probability, instrumentation, pipelines, analytics/BI, modeling/ML, experimentation, and governance.
+Statistics/probability, instrumentation, pipelines, analytics/BI, modeling/ML, experimentation, and governance. The curriculum connects clean data capture to trustworthy decisions, with checkpoints for validation, documentation, and responsible use. It balances experimentation with production readiness so models and dashboards remain actionable.
 
 ### [Business Training and Development](quick-access/business-sales-operations-and-strategy.md)
-Business fundamentals, strategy, go-to-market/sales, finance, risk/compliance, and venture building.
+Business fundamentals, strategy, go-to-market/sales, finance, risk/compliance, and venture building. This track ties market analysis to execution, with emphasis on pricing, pipeline discipline, and operational controls. Notes highlight financial modeling, governance expectations, and ways to align commercial decisions with delivery constraints.
 
 ### [Multimedia Training and Development](quick-access/multimedia-audio-video-vfx.md)
-Visual/audio fundamentals, production, editing/post, motion/graphics, and publishing/distribution.
+Visual/audio fundamentals, production, editing/post, motion/graphics, and publishing/distribution. The plan covers storytelling from concept to release, including shot planning, sound, pacing, and motion design. Checkpoints focus on reusability of assets, consistent style guides, and performance measurement after publishing.
 
 ### [Performance Arts Training and Development](quick-access/performance-arts-stage-and-screen.md)
-Voice/movement, acting, rehearsal/technique, camera/stage performance, and review/iteration.
-
-<a id="contact"></a>
-## Contact
-### Let's Chat Over a Virtual Latte!
-If you want to swap ideas, build together, or follow what I am shipping next, let's keep the conversation going.
-
-- Let's Connect: [General Webpages](#social-media-profiles-title)
-- Email: [jaspreet.khela@gmail.com](mailto:jaspreet.khela@gmail.com)
+Voice/movement, acting, rehearsal/technique, camera/stage performance, and review/iteration. Training emphasizes deliberate practice, feedback loops, and stage/screen adaptability. Notes track exercises for presence, timing, and iterative refinement based on recordings and critiques.
 
 ### Quick Access Category Framework
 - Foundations / Theory: core principles, models, and standards.
@@ -214,3 +190,10 @@ If you want to swap ideas, build together, or follow what I am shipping next, le
 - Practice / Assessment: drills, certification prep, critiques, or performance review.
 - Integration / Capstone: end-to-end delivery that combines multiple areas.
 
+<a id="contact"></a>
+## Contact
+### Let's Chat Over a Virtual Latte!
+If you want to swap ideas, build together, or follow what I am shipping next, let's keep the conversation going.
+
+- Let's Connect: [General Webpages](#social-media-profiles-title)
+- Email: [jaspreet.khela@gmail.com](mailto:jaspreet.khela@gmail.com)
