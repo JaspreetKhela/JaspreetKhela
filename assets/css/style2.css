@@ -1291,18 +1291,63 @@ blockquote p {
 /* Card Styling Ends Here */
 
 /* GIF Styling Starts Here */
+:root {
+    --container-max: 1140px;
+    --gif-size: 220px;
+    --gif-inset: clamp(32px, 7vw, 50px);
+}
+
+@media (max-width: 1199.98px) {
+    :root {
+        --container-max: 960px;
+        --gif-size: 200px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    :root {
+        --container-max: 720px;
+        --gif-size: 180px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    :root {
+        --container-max: 540px;
+        --gif-size: 160px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    :root {
+        --container-max: 100vw;
+        --gif-size: 140px;
+    }
+}
+
+.gif-parent {
+    position: relative;
+}
+
+.gif-anchor {
+    position: relative;
+    min-height: 0;
+    z-index: 2;
+}
+
 .gif {
-    height: 300px;
-    width: 300px;
-    margin-top: 250px;
-    left: 2%;
+    position: absolute;
+    top: 140px;
+    height: var(--gif-size);
+    width: var(--gif-size);
     border-radius: 25px 25px 25px 25px;
     background-image: linear-gradient(
         var(--rotate)
         , #5ddcff, #3c67e3 43%, #4e00c2);
-        z-index: -1;
+        z-index: 0;
         animation: spin 2.5s linear infinite;
         padding: 2%;
+    pointer-events: none;
     box-shadow:
         inset 0 0 50px #fff,
         inset 20px 0 80px #f0f,
@@ -1314,8 +1359,18 @@ blockquote p {
         10px 0 80px #0ff;
 }
 
+.gif:not(.right-gif) {
+    left: var(--gif-inset);
+}
+
 .right-gif {
-    left: 82%;
+    left: auto;
+    right: var(--gif-inset);
+}
+
+/* Position the gif background relative to each collapsible section */
+.collapse {
+    position: relative;
 }
 /* GIF Styling Ends Here */
 
