@@ -4,168 +4,149 @@ Training and development in hands-on craft that keeps designs grounded in codes,
 
 <a id="safety-codes-standards"></a>
 ## Safety, Codes & Standards
-Safe work practices, permits, inspections, and compliance.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for safety, codes & standards.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where safety, codes & standards is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in safety, codes & standards.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in safety, codes & standards.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate safety, codes & standards into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="construction-foundations"></a>
 ## Construction Foundations
-Site prep, layout, and structural basics before advanced trades begin.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for construction foundations.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where construction foundations is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in construction foundations.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in construction foundations.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate construction foundations into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="electrical-trades"></a>
 ## Electrical Trades
-Power, controls, wiring, and commissioning with safety at every step.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for electrical trades.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where electrical trades is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in electrical trades.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in electrical trades.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate electrical trades into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="plumbing-hvac"></a>
 ## Plumbing & HVAC
-Fluid handling, piping, air systems, and commissioning checks.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for plumbing & hvac.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where plumbing & hvac is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in plumbing & hvac.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in plumbing & hvac.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate plumbing & hvac into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="mechanical-industrial-trades"></a>
 ## Mechanical & Industrial Trades
-Rotating equipment, pneumatics, and maintenance fundamentals.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for mechanical & industrial trades.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where mechanical & industrial trades is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in mechanical & industrial trades.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in mechanical & industrial trades.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate mechanical & industrial trades into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="automotive-heavy-equipment"></a>
 ## Automotive & Heavy Equipment
-Diagnostics, drivetrains, hydraulics, and safe operation.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for automotive & heavy equipment.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where automotive & heavy equipment is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in automotive & heavy equipment.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in automotive & heavy equipment.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate automotive & heavy equipment into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="metalwork-fabrication"></a>
 ## Metalwork & Fabrication
-Welding, machining, fitting, and rigging for durable builds.
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for metalwork & fabrication.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where metalwork & fabrication is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in metalwork & fabrication.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in metalwork & fabrication.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate metalwork & fabrication into a cohesive project or showcase.
 - [Coming Soon]
 

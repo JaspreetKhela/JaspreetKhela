@@ -4,144 +4,128 @@ Training and development in embedded, electromechanical, and test work for relia
 
 <a id="electrical-fundamentals"></a>
 ## Electrical Fundamentals
-Circuits, power, signal integrity, grounding, and safety.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for electrical fundamentals.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where electrical fundamentals is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in electrical fundamentals.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in electrical fundamentals.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate electrical fundamentals into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="electronics-embedded-systems"></a>
 ## Electronics & Embedded Systems
-PCBs, sensors, actuators, and real-world interfacing.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for electronics & embedded systems.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where electronics & embedded systems is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in electronics & embedded systems.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in electronics & embedded systems.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate electronics & embedded systems into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="firmware-controls"></a>
 ## Firmware & Controls
-Peripherals, control loops, timing, and real-time behavior.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for firmware & controls.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where firmware & controls is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in firmware & controls.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in firmware & controls.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate firmware & controls into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="mechanical-systems"></a>
 ## Mechanical Systems
-Mechanisms, enclosures, materials, and tolerancing.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for mechanical systems.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where mechanical systems is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in mechanical systems.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in mechanical systems.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate mechanical systems into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="manufacturing-validation"></a>
 ## Manufacturing & Validation
-DFM/DFA, reliability testing, fixtures, and bring-up.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for manufacturing & validation.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where manufacturing & validation is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in manufacturing & validation.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in manufacturing & validation.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate manufacturing & validation into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="systems-integration-testing"></a>
 ## Systems Integration & Testing
-Diagnostics, instrumentation, and field readiness.
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for systems integration & testing.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where systems integration & testing is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in systems integration & testing.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in systems integration & testing.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate systems integration & testing into a cohesive project or showcase.
 - [Coming Soon]
 

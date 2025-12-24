@@ -4,168 +4,149 @@ Training and development in core disciplines to build reasoning, proof, and theo
 
 <a id="mathematics"></a>
 ## Mathematics
-Proofs, modeling, and quantitative thinking that anchor every other discipline.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for mathematics.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where mathematics is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in mathematics.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in mathematics.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate mathematics into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="natural-sciences"></a>
 ## Natural Sciences
-Physics and chemistry foundations to reason about the physical world and constraints.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for natural sciences.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where natural sciences is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in natural sciences.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in natural sciences.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate natural sciences into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="engineering"></a>
 ## Engineering
-Applied systems thinking across electrical, mechanical, and systems design.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for engineering.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where engineering is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in engineering.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in engineering.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate engineering into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="life-sciences"></a>
 ## Life Sciences
-Biology and related disciplines to understand living systems and health impacts.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for life sciences.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where life sciences is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in life sciences.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in life sciences.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate life sciences into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="social-sciences"></a>
 ## Social Sciences
-Behavior, incentives, and organizational dynamics for how groups and decisions interact.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for social sciences.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where social sciences is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in social sciences.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in social sciences.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate social sciences into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="arts-humanities"></a>
 ## Arts & Humanities
-Culture, languages, history, and philosophy to add ethics and context to technical work.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for arts & humanities.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where arts & humanities is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in arts & humanities.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in arts & humanities.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate arts & humanities into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="research-methods"></a>
 ## Research Methods
-Study design, literature synthesis, measurement, and publication discipline.
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for research methods.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where research methods is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in research methods.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in research methods.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate research methods into a cohesive project or showcase.
 - [Coming Soon]
 

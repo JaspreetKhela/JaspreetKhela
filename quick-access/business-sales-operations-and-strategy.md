@@ -4,144 +4,128 @@ Training and development in commercial fundamentals through strategy, finance, a
 
 <a id="business-fundamentals"></a>
 ## Business Fundamentals
-Accounting, economics, and operations literacy to run the basics.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for business fundamentals.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where business fundamentals is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in business fundamentals.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in business fundamentals.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate business fundamentals into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="strategy-competitive-analysis"></a>
 ## Strategy & Competitive Analysis
-Positioning, incentives, market structure, and advantage design.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for strategy & competitive analysis.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where strategy & competitive analysis is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in strategy & competitive analysis.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in strategy & competitive analysis.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate strategy & competitive analysis into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="sales-marketing-go-to-market"></a>
 ## Sales, Marketing & Go-to-Market
-Pipeline building, messaging, enablement, and disciplined revenue execution.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for sales, marketing & go-to-market.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where sales, marketing & go-to-market is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in sales, marketing & go-to-market.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in sales, marketing & go-to-market.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate sales, marketing & go-to-market into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="finance-investment-analysis"></a>
 ## Finance & Investment Analysis
-Capital planning, valuation, and portfolio thinking for sustainable growth.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for finance & investment analysis.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where finance & investment analysis is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in finance & investment analysis.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in finance & investment analysis.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate finance & investment analysis into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="risk-compliance-governance"></a>
 ## Risk, Compliance & Governance
-Controls, audit readiness, and accountability to safeguard operations.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for risk, compliance & governance.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where risk, compliance & governance is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in risk, compliance & governance.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in risk, compliance & governance.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate risk, compliance & governance into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="entrepreneurship-venture-building"></a>
 ## Entrepreneurship & Venture Building
-Company design, funding paths, and operating cadence for new ventures.
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for entrepreneurship & venture building.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where entrepreneurship & venture building is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in entrepreneurship & venture building.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in entrepreneurship & venture building.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate entrepreneurship & venture building into a cohesive project or showcase.
 - [Coming Soon]
 

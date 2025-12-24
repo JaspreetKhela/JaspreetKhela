@@ -1126,6 +1126,14 @@ blockquote p {
     text-shadow: 0 1px 0 rgba(255,255,255,0.6);
 }
 
+/* Socials and Work History: use the gradient header treatment (not the solid blue). */
+#social-media-profiles .card-header.technical-education-and-work,
+#work-history-category .card-header.technical-education-and-work {
+    background: linear-gradient(135deg, #f8d7e6 0%, #d9eaf7 60%, #e5f6e0 100%);
+    color: #0c1b33;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.6);
+}
+
 /* Override the car-header font-size for the overview div elements */
 .overview {
     font-size: 200%;

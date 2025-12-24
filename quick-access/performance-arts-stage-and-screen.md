@@ -4,120 +4,107 @@ Training and development in performance craft to sharpen communication, presence
 
 <a id="voice-movement"></a>
 ## Voice & Movement
-Breath, diction, posture, and physical control.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for voice & movement.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where voice & movement is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in voice & movement.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in voice & movement.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate voice & movement into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="acting-fundamentals"></a>
 ## Acting Fundamentals
-Script analysis, stakes, and intention to anchor choices.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for acting fundamentals.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where acting fundamentals is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in acting fundamentals.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in acting fundamentals.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate acting fundamentals into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="rehearsal-technique"></a>
 ## Rehearsal & Technique
-Deliberate practice, timing, blocking, and feedback loops.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for rehearsal & technique.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where rehearsal & technique is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in rehearsal & technique.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in rehearsal & technique.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate rehearsal & technique into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="camera-stage-performance"></a>
 ## Camera & Stage Performance
-Presence, framing, and audience awareness across mediums.
-
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for camera & stage performance.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where camera & stage performance is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in camera & stage performance.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in camera & stage performance.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate camera & stage performance into a cohesive project or showcase.
 - [Coming Soon]
 
-<a id="review-iteration"></a>
 ## Review & Iteration
-Self-review, notes, and deliberate adjustments show over show.
 ### Foundations / Theory
-Courses focused on core principles, models, and standards that anchor the discipline.
+Courses focused on core principles, models, and standards for review & iteration.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses centered on building artifacts, labs, or fieldwork to put concepts to work.
+Courses where review & iteration is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses focused on the specific tools, platforms, or frameworks used in the domain.
+Courses on tools, platforms, or frameworks commonly used in review & iteration.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses and drills for repetition, critique, certification prep, or performance review.
+Courses or drills to practice, get feedback, or prepare for reviews in review & iteration.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that combine multiple areas into a coherent delivery or showcase.
+End-to-end courses that integrate review & iteration into a cohesive project or showcase.
 - [Coming Soon]
 
