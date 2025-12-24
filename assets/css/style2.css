@@ -287,7 +287,8 @@ nav {
     display: flex;
     flex-wrap: wrap;
     gap: 0.5rem;
-    justify-content: center;
+    justify-content: space-between;
+    width: 100%;
 }
 
 .quick-nav-shell {
@@ -305,10 +306,13 @@ nav {
 .quick-nav .pill {
     display: flex;
     justify-content: center;
+    flex: 1 1 10%;
+    min-width: 120px;
 }
 
 .quick-nav .btn {
     display: block;
+    width: 100%;
     border-radius: 999px;
     font-weight: 700;
     padding: 0.65rem 1.15rem;
@@ -439,6 +443,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 100%;
     padding-right: 2.5rem;
 }
 
@@ -459,6 +464,12 @@ nav {
 .collapsible-heading .custom-heading-background {
     padding: 1.2rem 1rem;
     font-size: 1.1em;
+}
+
+.quick-access-wrapper {
+    max-width: 100%;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 .subheading-large {
@@ -716,7 +727,26 @@ nav {
 }
 
 /* Sections' Headings Styling Starts Here*/
-#social-media-profiles, #work-history-category, #software-education-and-work-category, #hardware-education-and-work-category, #multimedia-production-portfolios, #skilled-trades-portfolios, #performance-arts-portfolios, #business-education-and-work-category, #academic-education-and-work-category, #personal-development-education-and-work-category, #interests-education-and-work-category {
+#social-media-profiles,
+#work-history-category,
+#software-education-and-work-category,
+#hardware-education-and-work-category,
+#multimedia-production-portfolios,
+#skilled-trades-portfolios,
+#performance-arts-portfolios,
+#business-education-and-work-category,
+#academic-education-and-work-category,
+#personal-development-education-and-work-category,
+#interests-education-and-work-category,
+#academic-training-and-development-cards,
+#personal-training-and-development-cards,
+#skilled-trades-training-and-development-cards,
+#hardware-training-and-development-cards,
+#software-training-and-development-cards,
+#data-training-and-development-cards,
+#business-training-and-development-cards,
+#multimedia-training-and-development-cards,
+#performance-arts-training-and-development-cards {
     padding: 3%;
     border: 25px solid;
     border-color: var(--accent-color);
