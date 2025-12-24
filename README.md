@@ -147,7 +147,7 @@ Running go-to-market, sales, and partnerships from outreach through close with p
 
 <a id="quick-access-webpage-links"></a>
 ## Quick Access Webpage Links
-Quick links to the markdown pages that mirror the site sections. Each quick-access page follows a single-category course structure (Foundations/Theory, Applied/Projects, Tools/Stack, Practice/Assessment, Integration/Capstone).
+Quick links to the markdown pages that mirror the site sections. Each quick-access page follows a single-category course structure (Foundations/Theory, Applied/Projects, Tools/Stack, Practice/Assessment, Integration/Capstone) and is grouped into the same rationale used on the webpage: Foundations (academic, personal) for base cognition and routines, Physical Systems (trades, hardware) for buildability, Digital Systems (software) for engineered services, Information & Decision Systems (data) for signal to decisions, Organizational Systems (business) for commercial execution, and Creative & Expressive Systems (multimedia, performance) for storytelling and presence.
 
 ### [Foundations: Academic Training and Development](quick-access/academic-development.md)
 Training and development courses across mathematics, natural sciences, engineering, life sciences, social sciences, arts, humanities, and research. The focus is on proofs, experiments, and academic writing that keep theory strong and transferable to applied work.

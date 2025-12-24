@@ -1,6 +1,6 @@
 # Quick Access
 
-Capability stack from foundational disciplines to expressive work. Each markdown page captures the courses, programs, and practice plans behind the matching quick-access header on the site: Foundations (academic, personal), Physical Systems (skilled trades, hardware), Digital Systems (software), Information &amp; Decision Systems (data), Organizational Systems (business), and Creative &amp; Expressive Systems (multimedia, performance).
+Capability stack from foundational disciplines to expressive work. Each markdown page captures the courses, programs, and practice plans behind the matching quick-access header on the site. Headings follow the rationale used on the webpage: Foundations (academic, personal) for base cognition and routines, Physical Systems (skilled trades, hardware) for buildability, Digital Systems (software) for engineered services, Information &amp; Decision Systems (data) for signal-to-decision flows, Organizational Systems (business) for commercial execution, and Creative &amp; Expressive Systems (multimedia, performance) for storytelling and presence.
 
 ## Order
 1. Foundations: Academic Training and Development
