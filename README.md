@@ -3,7 +3,7 @@ Welcome! If you’ve ever wondered what happens when a curious overthinker with 
 
 Below is a guided overview of what I’ve built so far, what I’m working on now, and what I’m practicing to improve. It brings together my education and work experience, the technical and creative skills I’m sharpening, and the interests that shape my curiosity and long-term goals. It also covers the routines that help me stay healthy and consistent, along with the communication habits I rely on to work well with others. Taken together, it’s a practical snapshot of how I learn, execute, and grow over time.
 
-<p align="center">
+<!-- <p align="center">
   <img
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api?username=JaspreetKhela&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
@@ -13,7 +13,7 @@ Below is a guided overview of what I’ve built so far, what I’m working on no
     alt="Top Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaspreetKhela&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
   />
-</p>
+</p> -->
 
 ## Table of Contents
 - [About Me](#about-me)
@@ -33,15 +33,15 @@ Below is a guided overview of what I’ve built so far, what I’m working on no
   - [Business Operations and Management Work History](#business-operations-and-management-work-history)
   - [Business Sales and Development Work History](#business-sales-and-development-work-history)
 - [Quick Access Webpage Links](#quick-access-webpage-links)
-  - [Academic Training and Development](#academic-training-and-development-title)
-  - [Personal Training and Development](#personal-training-and-development-title)
-  - [Skilled Trades Training and Development](#skilled-trades-education-and-work-title)
-  - [Hardware Training and Development](#hardware-training-and-development-title)
-  - [Software Training and Development](#software-training-and-development-title)
-  - [Data Training and Development](#data-training-and-development-title)
-  - [Business Training and Development](#business-training-and-development-title)
-  - [Multimedia Training and Development](#multimedia-production-education-and-work-title)
-  - [Performance Arts Training and Development](#performance-arts-education-and-work-title)
+  - [Foundations: Academic Training and Development](#academic-training-and-development-title)
+  - [Foundations: Personal Training and Development](#personal-training-and-development-title)
+  - [Physical Systems: Skilled Trades Training and Development](#skilled-trades-education-and-work-title)
+  - [Physical Systems: Hardware Training and Development](#hardware-training-and-development-title)
+  - [Digital Systems: Software Training and Development](#software-training-and-development-title)
+  - [Information & Decision Systems: Data Training and Development](#data-training-and-development-title)
+  - [Organizational Systems: Business Training and Development](#business-training-and-development-title)
+  - [Creative & Expressive Systems: Multimedia Training and Development](#multimedia-production-education-and-work-title)
+  - [Creative & Expressive Systems: Performance Arts Training and Development](#performance-arts-education-and-work-title)
 - [Contact](#contact)
 
 <a id="about-me"></a>
@@ -149,31 +149,31 @@ Running go-to-market, sales, and partnerships from outreach through close with p
 ## Quick Access Webpage Links
 Quick links to the markdown pages that mirror the site sections. Each quick-access page follows a single-category course structure (Foundations/Theory, Applied/Projects, Tools/Stack, Practice/Assessment, Integration/Capstone).
 
-### [Academic Training and Development](quick-access/academic-development.md)
+### [Foundations: Academic Training and Development](quick-access/academic-development.md)
 Training and development courses across mathematics, natural sciences, engineering, life sciences, social sciences, arts, humanities, and research. The focus is on proofs, experiments, and academic writing that keep theory strong and transferable to applied work.
 
-### [Personal Training and Development](quick-access/personal-development-health-mindset-languages.md)
+### [Foundations: Personal Training and Development](quick-access/personal-development-health-mindset-languages.md)
 Training and development courses in health, fitness, mindset, habits, learning systems, and languages. Emphasis is on repeatable routines, recovery, study methods, communication practice, and language progress that support daily execution.
 
-### [Skilled Trades Training and Development](quick-access/skilled-trades-field-craft.md)
+### [Physical Systems: Skilled Trades Training and Development](quick-access/skilled-trades-field-craft.md)
 Training and development courses in safety, construction foundations, electrical, plumbing/HVAC, mechanical/industrial, automotive, and metalwork. The goal is code-compliant, buildable work with labs that build muscle memory for field workflows, commissioning, and handoffs.
 
-### [Hardware Training and Development](quick-access/hardware-electromechanical-systems.md)
+### [Physical Systems: Hardware Training and Development](quick-access/hardware-electromechanical-systems.md)
 Training and development courses in electrical fundamentals, electronics/embedded, firmware/controls, mechanical systems, manufacturing, and systems testing. The path links schematics to firmware, fixtures, validation, and manufacturing handoff so devices can be brought up, debugged, and supported in the field.
 
-### [Software Training and Development](quick-access/software-engineering-integration-and-delivery.md)
+### [Digital Systems: Software Training and Development](quick-access/software-engineering-integration-and-delivery.md)
 Training and development courses covering programming fundamentals, data structures/algorithms, backend, frontend, security, platform/reliability, and quality/delivery. The sequence moves from core skills to production deployment with an emphasis on design clarity, secure defaults, testing, and post-release operations.
 
-### [Data Training and Development](quick-access/data-engineering-analysis-and-forecasting.md)
+### [Information & Decision Systems: Data Training and Development](quick-access/data-engineering-analysis-and-forecasting.md)
 Training and development courses in statistics/probability, instrumentation, pipelines, analytics/BI, modeling/ML, experimentation, and governance. The curriculum ties clean data capture to trustworthy decisions with validation, documentation, and responsible-use checkpoints so models and dashboards stay actionable and auditable.
 
-### [Business Training and Development](quick-access/business-sales-operations-and-strategy.md)
+### [Organizational Systems: Business Training and Development](quick-access/business-sales-operations-and-strategy.md)
 Training and development courses in business fundamentals, strategy, go-to-market/sales, finance, risk/compliance, and venture building. The track ties market analysis to execution with pricing, pipeline discipline, operational controls, financial modeling, governance expectations, and operating cadences.
 
-### [Multimedia Training and Development](quick-access/multimedia-audio-video-vfx.md)
+### [Creative & Expressive Systems: Multimedia Training and Development](quick-access/multimedia-audio-video-vfx.md)
 Training and development courses in visual/audio fundamentals, production, editing/post, motion/graphics, and publishing/distribution. Coverage runs from concept to release, including shot planning, sound, pacing, motion design, reusable assets, style guides, and performance measurement after publishing.
 
-### [Performance Arts Training and Development](quick-access/performance-arts-stage-and-screen.md)
+### [Creative & Expressive Systems: Performance Arts Training and Development](quick-access/performance-arts-stage-and-screen.md)
 Training and development courses in voice/movement, acting, rehearsal/technique, camera/stage performance, and review/iteration. Emphasis is on deliberate practice, feedback loops, stage/screen adaptability, presence, timing, iterative refinement from recordings and critiques, and transferable performance habits.
 
 ### Quick Access Category Framework

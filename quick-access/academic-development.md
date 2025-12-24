@@ -1,4 +1,4 @@
-# Academic Training and Development
+# Foundations: Academic Training and Development
 
 Training and development in core disciplines to build reasoning, proof, and theory-to-practice skills as the base layer.
 

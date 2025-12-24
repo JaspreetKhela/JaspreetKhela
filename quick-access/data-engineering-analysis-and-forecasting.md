@@ -1,4 +1,4 @@
-# Data Training and Development
+# Information & Decision Systems: Data Training and Development
 
 Training and development in analytics, engineering, and science to turn clean signal into confident decisions.
 

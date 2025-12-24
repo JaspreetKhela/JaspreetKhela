@@ -1,17 +1,17 @@
 # Quick Access
 
-Capability stack from foundational disciplines to expressive work. Each markdown page captures the courses, programs, and practice plans behind the matching quick-access header on the site, sequenced from academics and personal systems through trades, hardware, software, data, business, multimedia, and performance.
+Capability stack from foundational disciplines to expressive work. Each markdown page captures the courses, programs, and practice plans behind the matching quick-access header on the site: Foundations (academic, personal), Physical Systems (skilled trades, hardware), Digital Systems (software), Information &amp; Decision Systems (data), Organizational Systems (business), and Creative &amp; Expressive Systems (multimedia, performance).
 
 ## Order
-1. Academic Training and Development: training and development in math, sciences, engineering, humanities, and research methods as the base layer.
-2. Personal Training and Development: training and development in health, learning, routines, and composure to keep every other layer stable.
-3. Skilled Trades Training and Development: training and development in hands-on craft to keep designs grounded in codes, safety, and buildability.
-4. Hardware Training and Development: training and development in embedded, electromechanical, and test work to build reliable devices.
-5. Software Training and Development: training and development in full-stack engineering to turn ideas into secure, reliable software.
-6. Data Training and Development: training and development in analytics, engineering, and science to move from clean signal to confident decisions.
-7. Business Training and Development: training and development in commercial fundamentals, strategy, finance, and venture building.
-8. Multimedia Training and Development: training and development in production to tell clear visual and audio stories.
-9. Performance Arts Training and Development: training and development in performance craft to sharpen communication, presence, and iteration.
+1. Foundations: Academic Training and Development
+2. Foundations: Personal Training and Development
+3. Physical Systems: Skilled Trades Training and Development
+4. Physical Systems: Hardware Training and Development
+5. Digital Systems: Software Training and Development
+6. Information &amp; Decision Systems: Data Training and Development
+7. Organizational Systems: Business Training and Development
+8. Creative &amp; Expressive Systems: Multimedia Training and Development
+9. Creative &amp; Expressive Systems: Performance Arts Training and Development
 
 ## Files
 - `academic-development.md`
@@ -30,4 +30,3 @@ Capability stack from foundational disciplines to expressive work. Each markdown
 - Tools / Stack: domain tools, platforms, or frameworks.
 - Practice / Assessment: drills, certification prep, critiques, or performance review.
 - Integration / Capstone: end-to-end delivery that combines multiple areas.
-

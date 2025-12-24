@@ -1,4 +1,4 @@
-# Performance Arts Training and Development
+# Creative & Expressive Systems: Performance Arts Training and Development
 
 Training and development in performance craft to sharpen communication, presence, and iteration.
 

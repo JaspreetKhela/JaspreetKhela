@@ -1,4 +1,4 @@
-# Multimedia Training and Development
+# Creative & Expressive Systems: Multimedia Training and Development
 
 Training and development in production to tell clear visual and audio stories.
 

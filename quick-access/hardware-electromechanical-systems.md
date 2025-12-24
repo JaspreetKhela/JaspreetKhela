@@ -1,4 +1,4 @@
-# Hardware Training and Development
+# Physical Systems: Hardware Training and Development
 
 Training and development in embedded, electromechanical, and test work for reliable devices.
 

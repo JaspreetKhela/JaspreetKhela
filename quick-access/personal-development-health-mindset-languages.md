@@ -1,4 +1,4 @@
-# Personal Training and Development
+# Foundations: Personal Training and Development
 
 Training and development in personal systems—health, learning, routines, and composure—that keep every other stack stable.
 
