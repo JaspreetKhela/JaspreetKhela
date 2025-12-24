@@ -3,15 +3,8 @@ Welcome! If you’ve ever wondered what happens when a curious overthinker with 
 
 Below is a guided overview of what I’ve built so far, what I’m working on now, and what I’m practicing to improve. It brings together my education and work experience, the technical and creative skills I’m sharpening, and the interests that shape my curiosity and long-term goals. It also covers the routines that help me stay healthy and consistent, along with the communication habits I rely on to work well with others. Taken together, it’s a practical snapshot of how I learn, execute, and grow over time.
 
-<p align="center">
-  <a href="https://github.com/JaspreetKhela">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JaspreetKhela&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&cache_seconds=1800">
-  </a>
-  <br>
-  <a href="https://github.com/JaspreetKhela">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaspreetKhela&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800">
-  </a>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaspreetKhela&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&cache_seconds=7200)](https://github.com/JaspreetKhela)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaspreetKhela&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=7200)](https://github.com/JaspreetKhela)
 
 ## Table of Contents
 - [About Me](#about-me)
