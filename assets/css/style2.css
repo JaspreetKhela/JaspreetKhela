@@ -1080,22 +1080,19 @@ blockquote p {
     height: 200px;
     object-fit: cover;
     border-radius: 25px 25px 0px 0px;
+    background: linear-gradient(145deg, #0f172a, #1d2f4f);
 }
 
-/* Quick Access cards rely on a top media area (like Work History cards). */
-/* Many Quick Access cards don't include an explicit .card-img-top element, */
-/* so add a consistent media header via a pseudo-element to prevent awkward empty space. */
-#quick-access-webpage-links .collapse .card:not(.overview-card) {
+/* Quick Access: ensure a media block exists even when no card-img-top is present. */
+#quick-access-webpage-links .collapse .card:not(.overview-card):not(:has(.card-img-top)) {
     overflow: hidden;
 }
 
-#quick-access-webpage-links .collapse .card:not(.overview-card)::before {
+#quick-access-webpage-links .collapse .card:not(.overview-card):not(:has(.card-img-top))::before {
     content: "";
     display: block;
     height: 200px;
-    background-image: url("../images/card-images/cytonn-photography-TVyhDpvL8MY-unsplash.jpg");
-    background-size: cover;
-    background-position: center;
+    background: linear-gradient(145deg, #0f172a, #1d2f4f);
     border-radius: 25px 25px 0px 0px;
 }
 
@@ -1109,6 +1106,21 @@ blockquote p {
     justify-content: center;
     align-items: center;
     font-size: 125%;
+    background: linear-gradient(135deg, #f8d7e6 0%, #d9eaf7 60%, #e5f6e0 100%);
+    color: #0c1b33;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.6);
+}
+
+/* Match Work History header styling by preserving solid brand colors on variants. */
+.card-header.technical-education-and-work {
+    background-color: #11468F;
+    background-image: none;
+    color: #fff;
+    text-shadow: none;
+}
+
+/* Quick Access: keep headers on the gradient palette instead of solid brand color. */
+#quick-access-webpage-links .collapse .card:not(.overview-card) .card-header {
     background: linear-gradient(135deg, #f8d7e6 0%, #d9eaf7 60%, #e5f6e0 100%);
     color: #0c1b33;
     text-shadow: 0 1px 0 rgba(255,255,255,0.6);

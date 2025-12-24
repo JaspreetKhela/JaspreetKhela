@@ -23,3 +23,11 @@ Capability stack from foundational disciplines to expressive work. Each markdown
 - `business-sales-operations-and-strategy.md`
 - `multimedia-audio-video-vfx.md`
 - `performance-arts-stage-and-screen.md`
+
+### Quick Access Category Framework
+- Foundations / Theory: core principles, models, and standards.
+- Applied / Projects: builds, labs, and fieldwork to put concepts into practice.
+- Tools / Stack: domain tools, platforms, or frameworks.
+- Practice / Assessment: drills, certification prep, critiques, or performance review.
+- Integration / Capstone: end-to-end delivery that combines multiple areas.
+

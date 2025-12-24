@@ -40,15 +40,15 @@ Below is a guided overview of what I’ve built so far, what I’m working on no
   - [Business Operations and Management Work History](#business-operations-and-management-work-history)
   - [Business Sales and Development Work History](#business-sales-and-development-work-history)
 - [Quick Access Webpage Links](#quick-access-webpage-links)
-  - [Business Training and Development: Strategy, Sales, and Operations](#business-development-education-and-work-title)
-  - [Hardware Training and Development: Electrical, Firmware, Controls, Mechanical, Validation, and Manufacturing](#hardware-development-education-and-work-title)
-  - [Software Training and Development: Planning, Architecture, Security, Backend, Frontend, Quality, Platform, and Reliability](#software-development-education-and-work-title)
-  - [Data Training and Development: Instrumentation, Modeling, Pipelines, Governance, Security, BI, Science, and ML](#data-development-education-and-work-title)
+  - [Business Training and Development: Strategy, Sales, and Operations](#business-training-and-development-title)
+  - [Hardware Training and Development: Electrical, Firmware, Controls, Mechanical, Validation, and Manufacturing](#hardware-training-and-development-title)
+  - [Software Training and Development: Planning, Architecture, Security, Backend, Frontend, Quality, Platform, and Reliability](#software-training-and-development-title)
+  - [Data Training and Development: Instrumentation, Modeling, Pipelines, Governance, Security, BI, Science, and ML](#data-training-and-development-title)
   - [Skilled Trades Training and Development: Safety, Site Prep, Concrete, Carpentry, Plumbing, Electrical, HVAC, Metal, and Finishes](#skilled-trades-education-and-work-title)
   - [Multimedia Training and Development: Direction, Production, Cinematography, Editing, Motion, and Publishing](#multimedia-production-education-and-work-title)
   - [Performance Arts Training and Development: Voice, Movement, Acting, Rehearsal, Camera, and Review](#performance-arts-education-and-work-title)
-  - [Academic Training and Development: Mathematics, Natural Sciences, Engineering, Life Sciences, Social Sciences, Arts, Humanities, and Research](#academic-development-history-and-pursuits-title)
-  - [Personal Training and Development: Health, Fitness, Mindset, Habits, Learning, and Languages](#personal-development-history-and-pursuits-title)
+  - [Academic Training and Development: Mathematics, Natural Sciences, Engineering, Life Sciences, Social Sciences, Arts, Humanities, and Research](#academic-training-and-development-title)
+  - [Personal Training and Development: Health, Fitness, Mindset, Habits, Learning, and Languages](#personal-training-and-development-title)
   - [Personal Interests](#personal-interests-title)
 - [Contact](#contact)
 
@@ -173,7 +173,7 @@ Building decks, proposals, and negotiations that move deals forward while keepin
 ## Quick Access Webpage Links
 Quick links to domain pages that document the courses, programs, and practice plans I'm using to build each discipline. Business covers go-to-market and operations; software spans full-stack delivery; data covers pipelines and models; hardware focuses on embedded and prototypes; trades capture hands-on field craft; multimedia covers audio, video, and motion; performance covers stage and screen; academic tracks coursework and research; personal development covers health and learning systems; interests log curiosity projects.
 
-<a id="business-development-education-and-work-title"></a>
+<a id="business-training-and-development-title"></a>
 ### [Business Training and Development: Strategy, Sales, and Operations](quick-access/business-sales-operations-and-strategy.md)
 Training log for go-to-market strategy, pricing, sales execution, pipeline hygiene, and operations. Captures the courses and programs I'm using to build commercial judgment, playbooks, and process discipline.
 
@@ -201,7 +201,7 @@ Design playbooks, workflows, and automation that improve speed, quality, and acc
 Model unit economics, forecast outcomes, and track KPIs to keep decisions grounded.
 - [Coming Soon]
 
-<a id="hardware-development-education-and-work-title"></a>
+<a id="hardware-training-and-development-title"></a>
 ### [Hardware Training and Development: Electrical, Firmware, Controls, Mechanical, Validation, and Manufacturing](quick-access/hardware-electromechanical-systems.md)
 Electromechanical systems training across electronics, robotics, and embedded builds that connect software to the physical world. Logs the courses and programs on design, firmware, power, test rigs, and manufacturing handoff so devices can be monitored, tested, and debugged safely in the field.
 
@@ -229,7 +229,7 @@ Build test rigs, validate reliability, and document safety expectations before d
 Prepare builds for production, create diagnostics, and design update paths for deployments.
 - [Coming Soon]
 
-<a id="software-development-education-and-work-title"></a>
+<a id="software-training-and-development-title"></a>
 ### [Software Training and Development: Planning, Architecture, Security, Backend, Frontend, Quality, Platform, and Reliability](quick-access/software-engineering-integration-and-delivery.md)
 Software engineering, integration, and delivery across web, mobile, services, and cloud. Tracks the courses and programs I'm using to practice clean interfaces, observability, accessibility, and safe rollouts.
 
@@ -265,7 +265,7 @@ Automate builds and deployments, manage releases, and keep developer platforms r
 Instrument services with logs, metrics, traces, and run calm, repeatable incident response.
 - [Coming Soon]
 
-<a id="data-development-education-and-work-title"></a>
+<a id="data-training-and-development-title"></a>
 ### [Data Training and Development: Instrumentation, Modeling, Pipelines, Governance, Security, BI, Science, and ML](quick-access/data-engineering-analysis-and-forecasting.md)
 Data engineering, analysis, and forecasting training covering pipelines, experiments, and models that turn raw data into decisions. Documents the courses and programs I'm using for instrumentation, modeling, experimentation, and production ML.
 
@@ -401,7 +401,7 @@ Adapt to medium, framing, eyelines, and audience engagement across formats.
 Review recordings, take actionable notes, and iterate for cleaner runs.
 - [Coming Soon]
 
-<a id="academic-development-history-and-pursuits-title"></a>
+<a id="academic-training-and-development-title"></a>
 ### [Academic Training and Development: Mathematics, Natural Sciences, Engineering, Life Sciences, Social Sciences, Arts, Humanities, and Research](quick-access/academic-development.md)
 Academic development spanning mathematics, natural sciences, engineering, life sciences, social sciences, arts, humanities, and research to keep my foundation broad and rigorous. Catalogs the courses, programs, and research training I’m using to connect theory, experiments, systems, and culture.
 
@@ -437,7 +437,7 @@ Study history, languages, philosophy, and culture to add context and ethics to t
 Design studies, synthesize literature, and publish findings with clear academic communication.
 - [Coming Soon]
 
-<a id="personal-development-history-and-pursuits-title"></a>
+<a id="personal-training-and-development-title"></a>
 ### [Personal Training and Development: Health, Fitness, Mindset, Habits, Learning, and Languages](quick-access/personal-development-health-mindset-languages.md)
 Personal development in health, fitness, mindset, habits, learning systems, and languages with routines and tools I lean on to stay steady outside of work. Captures the courses and programs I'm using for training, mindfulness, habit building, study systems, and language practice so progress stays honest and sustainable.
 
@@ -508,3 +508,11 @@ If you want to swap ideas, build together, or follow what I am shipping next, le
 
 - Let's Connect: [General Webpages](#social-media-profiles-title)
 - Email: [jaspreet.khela@gmail.com](mailto:jaspreet.khela@gmail.com)
+
+### Quick Access Category Framework
+- Foundations / Theory: core principles, models, and standards.
+- Applied / Projects: builds, labs, and fieldwork to put concepts into practice.
+- Tools / Stack: domain tools, platforms, or frameworks.
+- Practice / Assessment: drills, certification prep, critiques, or performance review.
+- Integration / Capstone: end-to-end delivery that combines multiple areas.
+
