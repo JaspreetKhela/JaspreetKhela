@@ -40,16 +40,15 @@ Below is a guided overview of what I’ve built so far, what I’m working on no
   - [Business Operations and Management Work History](#business-operations-and-management-work-history)
   - [Business Sales and Development Work History](#business-sales-and-development-work-history)
 - [Quick Access Webpage Links](#quick-access-webpage-links)
-  - [Business Training and Development: Strategy, Sales, and Operations](#business-training-and-development-title)
-  - [Hardware Training and Development: Electrical, Firmware, Controls, Mechanical, Validation, and Manufacturing](#hardware-training-and-development-title)
-  - [Software Training and Development: Planning, Architecture, Security, Backend, Frontend, Quality, Platform, and Reliability](#software-training-and-development-title)
-  - [Data Training and Development: Instrumentation, Modeling, Pipelines, Governance, Security, BI, Science, and ML](#data-training-and-development-title)
-  - [Skilled Trades Training and Development: Safety, Site Prep, Concrete, Carpentry, Plumbing, Electrical, HVAC, Metal, and Finishes](#skilled-trades-education-and-work-title)
-  - [Multimedia Training and Development: Direction, Production, Cinematography, Editing, Motion, and Publishing](#multimedia-production-education-and-work-title)
-  - [Performance Arts Training and Development: Voice, Movement, Acting, Rehearsal, Camera, and Review](#performance-arts-education-and-work-title)
-  - [Academic Training and Development: Mathematics, Natural Sciences, Engineering, Life Sciences, Social Sciences, Arts, Humanities, and Research](#academic-training-and-development-title)
-  - [Personal Training and Development: Health, Fitness, Mindset, Habits, Learning, and Languages](#personal-training-and-development-title)
-  - [Personal Interests](#personal-interests-title)
+  - [Academic Training and Development](#academic-training-and-development-title)
+  - [Personal Training and Development](#personal-training-and-development-title)
+  - [Skilled Trades Training and Development](#skilled-trades-education-and-work-title)
+  - [Hardware Training and Development](#hardware-training-and-development-title)
+  - [Software Training and Development](#software-training-and-development-title)
+  - [Data Training and Development](#data-training-and-development-title)
+  - [Business Training and Development](#business-training-and-development-title)
+  - [Multimedia Training and Development](#multimedia-production-education-and-work-title)
+  - [Performance Arts Training and Development](#performance-arts-education-and-work-title)
 - [Contact](#contact)
 
 <a id="about-me"></a>
@@ -171,21 +170,34 @@ Building decks, proposals, and negotiations that move deals forward while keepin
 
 <a id="quick-access-webpage-links"></a>
 ## Quick Access Webpage Links
-Quick links to the markdown pages that mirror the site’s quick-access sections. Each page uses this single-category course structure: Foundations / Theory, Applied / Projects, Tools / Stack, Practice / Assessment, Integration / Capstone.
+Quick links to the markdown pages that mirror the site sections. Each quick-access page follows a single-category course structure (Foundations/Theory, Applied/Projects, Tools/Stack, Practice/Assessment, Integration/Capstone).
 
-Order matches the site navigation:
+### [Academic Training and Development](quick-access/academic-development.md)
+Mathematics, natural sciences, engineering, life sciences, social sciences, arts, humanities, and research.
 
-- [Academic Training and Development](quick-access/academic-development.md) (#academic-training-and-development-title)
-- [Personal Training and Development](quick-access/personal-development-health-mindset-languages.md) (#personal-training-and-development-title)
-- [Skilled Trades Training and Development](quick-access/skilled-trades-field-craft.md) (#skilled-trades-education-and-work-title)
-- [Hardware Training and Development](quick-access/hardware-electromechanical-systems.md) (#hardware-training-and-development-title)
-- [Software Training and Development](quick-access/software-engineering-integration-and-delivery.md) (#software-training-and-development-title)
-- [Data Training and Development](quick-access/data-engineering-analysis-and-forecasting.md) (#data-training-and-development-title)
-- [Business Training and Development](quick-access/business-sales-operations-and-strategy.md) (#business-training-and-development-title)
-- [Multimedia Training and Development](quick-access/multimedia-audio-video-vfx.md) (#multimedia-production-education-and-work-title)
-- [Performance Arts Training and Development](quick-access/performance-arts-stage-and-screen.md) (#performance-arts-education-and-work-title)
+### [Personal Training and Development](quick-access/personal-development-health-mindset-languages.md)
+Health, fitness, mindset, habits, learning systems, and languages.
 
-Each linked page contains the detailed breakdown and [Coming Soon] placeholders per category.
+### [Skilled Trades Training and Development](quick-access/skilled-trades-field-craft.md)
+Safety, construction foundations, electrical, plumbing/HVAC, mechanical/industrial, automotive, and metalwork.
+
+### [Hardware Training and Development](quick-access/hardware-electromechanical-systems.md)
+Electrical fundamentals, electronics/embedded, firmware/controls, mechanical systems, manufacturing, and systems testing.
+
+### [Software Training and Development](quick-access/software-engineering-integration-and-delivery.md)
+Programming fundamentals, data structures/algorithms, backend, frontend, security, platform/reliability, and quality/delivery.
+
+### [Data Training and Development](quick-access/data-engineering-analysis-and-forecasting.md)
+Statistics/probability, instrumentation, pipelines, analytics/BI, modeling/ML, experimentation, and governance.
+
+### [Business Training and Development](quick-access/business-sales-operations-and-strategy.md)
+Business fundamentals, strategy, go-to-market/sales, finance, risk/compliance, and venture building.
+
+### [Multimedia Training and Development](quick-access/multimedia-audio-video-vfx.md)
+Visual/audio fundamentals, production, editing/post, motion/graphics, and publishing/distribution.
+
+### [Performance Arts Training and Development](quick-access/performance-arts-stage-and-screen.md)
+Voice/movement, acting, rehearsal/technique, camera/stage performance, and review/iteration.
 
 <a id="contact"></a>
 ## Contact
