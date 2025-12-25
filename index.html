@@ -1877,8 +1877,9 @@
 
           const directionScale = pos.goingRight ? 1 : -1;
           const fixedTilt = 34; // stronger downward/forward pitch
+          const yBase = 16; // keep plane lower across all screens
 
-          plane.style.transform=`translate(calc(-50% + ${smoothX}px), calc(-16px + ${smoothY}px)) scaleX(${directionScale}) rotate(${fixedTilt}deg)`;
+          plane.style.transform=`translate(calc(-50% + ${smoothX}px), calc(${yBase}px + ${smoothY}px)) scaleX(${directionScale}) rotate(${fixedTilt}deg)`;
         }
 
         let ticking=false;
