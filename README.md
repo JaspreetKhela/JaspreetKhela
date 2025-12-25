@@ -35,13 +35,13 @@ Below is a guided overview of what I’ve built so far, what I’m working on no
 - [Quick Access Webpage Links](#quick-access-webpage-links)
   - [Foundations: Academic Training and Development](#academic-training-and-development-title)
   - [Foundations: Personal Training and Development](#personal-training-and-development-title)
-  - [Physical Systems: Skilled Trades Training and Development](#skilled-trades-education-and-work-title)
+  - [Physical Systems: Skilled Trades Training and Development](#skilled-trades-training-and-development-title)
   - [Physical Systems: Hardware Training and Development](#hardware-training-and-development-title)
   - [Digital Systems: Software Training and Development](#software-training-and-development-title)
   - [Information & Decision Systems: Data Training and Development](#data-training-and-development-title)
   - [Organizational Systems: Business Training and Development](#business-training-and-development-title)
-  - [Creative & Expressive Systems: Multimedia Training and Development](#multimedia-production-education-and-work-title)
-  - [Creative & Expressive Systems: Performance Arts Training and Development](#performance-arts-education-and-work-title)
+  - [Creative & Expressive Systems: Multimedia Training and Development](#multimedia-training-and-development-title)
+  - [Creative & Expressive Systems: Performance Arts Training and Development](#performance-arts-training-and-development-title)
 - [Contact](#contact)
 
 <a id="about-me"></a>
@@ -149,30 +149,39 @@ Running go-to-market, sales, and partnerships from outreach through close with p
 ## Quick Access Webpage Links
 Quick links to the markdown pages that mirror the site sections. Each quick-access page follows a single-category course structure (Foundations/Theory, Applied/Projects, Tools/Stack, Practice/Assessment, Integration/Capstone) and is grouped into the same rationale used on the webpage: Foundations (academic, personal) for base cognition and routines, Physical Systems (trades, hardware) for buildability, Digital Systems (software) for engineered services, Information & Decision Systems (data) for signal to decisions, Organizational Systems (business) for commercial execution, and Creative & Expressive Systems (multimedia, performance) for storytelling and presence.
 
+<a id="academic-training-and-development-title"></a>
 ### [Foundations: Academic Training and Development](quick-access/academic-development.md)
 Training and development courses across mathematics, natural sciences, engineering, life sciences, social sciences, arts, humanities, and research. The focus is on proofs, experiments, and academic writing that keep theory strong and transferable to applied work.
 
+<a id="personal-training-and-development-title"></a>
 ### [Foundations: Personal Training and Development](quick-access/personal-development-health-mindset-languages.md)
 Training and development courses in health, fitness, mindset, habits, learning systems, and languages. Emphasis is on repeatable routines, recovery, study methods, communication practice, and language progress that support daily execution.
 
+<a id="skilled-trades-training-and-development-title"></a>
 ### [Physical Systems: Skilled Trades Training and Development](quick-access/skilled-trades-field-craft.md)
 Training and development courses in safety, construction foundations, electrical, plumbing/HVAC, mechanical/industrial, automotive, and metalwork. The goal is code-compliant, buildable work with labs that build muscle memory for field workflows, commissioning, and handoffs.
 
+<a id="hardware-training-and-development-title"></a>
 ### [Physical Systems: Hardware Training and Development](quick-access/hardware-electromechanical-systems.md)
 Training and development courses in electrical fundamentals, electronics/embedded, firmware/controls, mechanical systems, manufacturing, and systems testing. The path links schematics to firmware, fixtures, validation, and manufacturing handoff so devices can be brought up, debugged, and supported in the field.
 
+<a id="software-training-and-development-title"></a>
 ### [Digital Systems: Software Training and Development](quick-access/software-engineering-integration-and-delivery.md)
 Training and development courses covering programming fundamentals, data structures/algorithms, backend, frontend, security, platform/reliability, and quality/delivery. The sequence moves from core skills to production deployment with an emphasis on design clarity, secure defaults, testing, and post-release operations.
 
+<a id="data-training-and-development-title"></a>
 ### [Information & Decision Systems: Data Training and Development](quick-access/data-engineering-analysis-and-forecasting.md)
 Training and development courses in statistics/probability, instrumentation, pipelines, analytics/BI, modeling/ML, experimentation, and governance. The curriculum ties clean data capture to trustworthy decisions with validation, documentation, and responsible-use checkpoints so models and dashboards stay actionable and auditable.
 
+<a id="business-training-and-development-title"></a>
 ### [Organizational Systems: Business Training and Development](quick-access/business-sales-operations-and-strategy.md)
 Training and development courses in business fundamentals, strategy, go-to-market/sales, finance, risk/compliance, and venture building. The track ties market analysis to execution with pricing, pipeline discipline, operational controls, financial modeling, governance expectations, and operating cadences.
 
+<a id="multimedia-training-and-development-title"></a>
 ### [Creative & Expressive Systems: Multimedia Training and Development](quick-access/multimedia-audio-video-vfx.md)
 Training and development courses in visual/audio fundamentals, production, editing/post, motion/graphics, and publishing/distribution. Coverage runs from concept to release, including shot planning, sound, pacing, motion design, reusable assets, style guides, and performance measurement after publishing.
 
+<a id="performance-arts-training-and-development-title"></a>
 ### [Creative & Expressive Systems: Performance Arts Training and Development](quick-access/performance-arts-stage-and-screen.md)
 Training and development courses in voice/movement, acting, rehearsal/technique, camera/stage performance, and review/iteration. Emphasis is on deliberate practice, feedback loops, stage/screen adaptability, presence, timing, iterative refinement from recordings and critiques, and transferable performance habits.
 

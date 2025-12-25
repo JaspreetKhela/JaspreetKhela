@@ -1392,12 +1392,6 @@ blockquote p {
     height: 100%;
 }
 
-@media (max-width: 768px) {
-    #paper-plane {
-        display: none;
-    }
-}
-
 @media (max-width: 991.98px) {
     .gif {
         display: none;
