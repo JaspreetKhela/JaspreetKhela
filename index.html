@@ -1773,6 +1773,14 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 
+    <a id="paper-plane" href="mailto:jaspreet.khela@gmail.com" aria-label="Contact Jaspreet via email">
+      <svg viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg" role="presentation">
+        <path d="M8 40 L110 10 78 70 60 50 36 65 Z" fill="#e7f0ff" stroke="#1f4f99" stroke-width="3" />
+        <path d="M60 50 L110 10 60 40" fill="none" stroke="#1f4f99" stroke-width="3" />
+        <path d="M36 65 L60 50 48 44" fill="none" stroke="#1f4f99" stroke-width="3" />
+      </svg>
+    </a>
+
     <script>
       (function(){
         function expandHeader(targetId){
@@ -1800,6 +1808,92 @@
         }
         bindClicks('#navigation-bar a[href^=\"#\"]');
         bindClicks('.quick-nav a[href^=\"#\"]');
+      })();
+    </script>
+
+    <script>
+      (function(){
+        const plane=document.getElementById('paper-plane');
+        const prefersReduced=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        if(!plane || prefersReduced) return;
+
+        function noise(seed){
+          const x=Math.sin(seed * 12.9898) * 43758.5453;
+          return x - Math.floor(x);
+        }
+
+        let smoothX=null, smoothY=null;
+
+        function updatePosition(){
+          const docHeight=document.documentElement.scrollHeight;
+          const winH=window.innerHeight;
+          const winW=window.innerWidth;
+          const planeWidth=(plane.getBoundingClientRect && plane.getBoundingClientRect().width) || 150;
+          const maxScroll=Math.max(docHeight - winH, 1);
+          const scroll=window.pageYOffset || document.documentElement.scrollTop || 0;
+          const t=Math.min(1, Math.max(0, scroll / maxScroll));
+
+          function calcPosition(fraction){
+            const cycles=4;
+            const phase=(fraction * cycles) % 1;
+            const goingRight=phase < 0.5;
+            const travel=goingRight ? phase * 2 : (1 - phase) * 2; // 0→1 left→right, then right→left
+
+            const halfSpan=Math.max(0, (winW / 2) - (planeWidth / 2) - 10);
+            const baseHeight=Math.max(120, Math.min(260, winH * 0.32));
+            const bob=Math.sin(fraction * Math.PI * cycles) * Math.min(80, winH * 0.12);
+
+            const x = -halfSpan + travel * (halfSpan * 2);
+            const y = -baseHeight - bob;
+
+            const loopPeriod=2;
+            const loopPhase=(fraction * loopPeriod) % 1;
+            if(loopPhase > 0.18 && loopPhase < 0.58){
+              const normalized=(loopPhase - 0.18) / 0.4; // 0→1 during the loop
+              const loopAngle=normalized * Math.PI * 2;
+              const loopRadius=Math.min(Math.min(winW, winH) * 0.48, Math.max(winW, winH));
+              const loopCenterY=-Math.min(winH * 0.45, winH - 120);
+              const loopX=Math.cos(loopAngle) * loopRadius;
+              const loopY=Math.sin(loopAngle) * loopRadius;
+              const dx=-Math.sin(loopAngle);
+              const loopGoingRight=dx >= 0;
+              return { x: loopX, y: loopCenterY - loopY, goingRight: loopGoingRight };
+            }
+
+            return { x, y, goingRight };
+          }
+
+          const pos=calcPosition(t);
+          const tilt=90; // keep the nose pointing downward
+
+          if(smoothX === null){
+            smoothX=pos.x;
+            smoothY=pos.y;
+          } else {
+            const alpha=0.22;
+            smoothX += (pos.x - smoothX) * alpha;
+            smoothY += (pos.y - smoothY) * alpha;
+          }
+
+          const directionScale = pos.goingRight ? 1 : -1;
+          const fixedTilt = 34; // stronger downward/forward pitch
+
+          plane.style.transform=`translate(calc(-50% + ${smoothX}px), calc(-16px + ${smoothY}px)) scaleX(${directionScale}) rotate(${fixedTilt}deg)`;
+        }
+
+        let ticking=false;
+        function requestTick(){
+          if(ticking) return;
+          ticking=true;
+          requestAnimationFrame(()=>{
+            updatePosition();
+            ticking=false;
+          });
+        }
+
+        window.addEventListener('scroll', requestTick, { passive:true });
+        window.addEventListener('resize', requestTick);
+        updatePosition();
       })();
     </script>
 
