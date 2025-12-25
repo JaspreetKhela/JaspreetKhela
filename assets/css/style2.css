@@ -1374,6 +1374,12 @@ blockquote p {
 }
 /* GIF Styling Ends Here */
 
+@media (max-width: 991.98px) {
+    .gif {
+        display: none;
+    }
+}
+
 /* Media Queries Styling Starts Here */
 @media (max-width: 992px) {
     body {
