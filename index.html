@@ -1851,7 +1851,7 @@
             if(loopPhase > 0.18 && loopPhase < 0.58){
               const normalized=(loopPhase - 0.18) / 0.4; // 0→1 during the loop
               const loopAngle=normalized * Math.PI * 2;
-              const loopRadius=Math.min(Math.min(winW, winH) * 0.48, Math.max(winW, winH));
+            const loopRadius=Math.min(Math.min(winW, winH) * 0.65, Math.max(winW, winH) * 0.9);
               const loopCenterY=-Math.min(winH * 0.45, winH - 120);
               const loopX=Math.cos(loopAngle) * loopRadius;
               const loopY=Math.sin(loopAngle) * loopRadius;
@@ -1877,7 +1877,7 @@
 
           const directionScale = pos.goingRight ? 1 : -1;
           const fixedTilt = 34; // stronger downward/forward pitch
-          const yBase = 16; // keep plane lower across all screens
+          const yBase = 80; // push plane further down across all screens
 
           plane.style.transform=`translate(calc(-50% + ${smoothX}px), calc(${yBase}px + ${smoothY}px)) scaleX(${directionScale}) rotate(${fixedTilt}deg)`;
         }
