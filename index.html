@@ -1839,7 +1839,7 @@
             const goingRight=phase < 0.5;
             const travel=goingRight ? phase * 2 : (1 - phase) * 2; // 0→1 left→right, then right→left
 
-            const halfSpan=Math.max(0, (winW / 2) - (planeWidth / 2) - 10);
+            const halfSpan=Math.max(0, (winW / 2) + (planeWidth * 0.8) + 24); // let direction changes happen off-screen
             const baseHeight=Math.max(90, Math.min(140, winH * 0.18));
             const bob=Math.sin(fraction * Math.PI * cycles) * Math.min(40, winH * 0.08);
 
