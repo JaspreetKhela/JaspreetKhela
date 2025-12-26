@@ -32,7 +32,7 @@ Below is a guided overview of what I’ve built so far, what I’m working on no
   - [Project and Product Management Work History](#project-and-product-management-work-history)
   - [Business Operations and Management Work History](#business-operations-and-management-work-history)
   - [Business Sales and Development Work History](#business-sales-and-development-work-history)
-- [Quick Access Webpage Links](#quick-access-webpage-links)
+- [Learning & Capabilities Map](#quick-access-webpage-links)
   - [Foundations: Academic Training and Development](#academic-training-and-development-title)
   - [Foundations: Personal Training and Development](#personal-training-and-development-title)
   - [Physical Systems: Skilled Trades Training and Development](#skilled-trades-training-and-development-title)
@@ -146,7 +146,7 @@ Coordinating vendors, budgets, processes, and automation to remove friction and 
 Running go-to-market, sales, and partnerships from outreach through close with proposals and negotiations that build trust. Effort centers on discovery, account strategy, and deal execution that align with delivery capacity.
 
 <a id="quick-access-webpage-links"></a>
-## Quick Access Webpage Links
+## Learning & Capabilities Map
 Quick links to the markdown pages that mirror the site sections. Each quick-access page follows a single-category course structure (Foundations/Theory, Applied/Projects, Tools/Stack, Practice/Assessment, Integration/Capstone) and is grouped into the same rationale used on the webpage: Foundations (academic, personal) for base cognition and routines, Physical Systems (trades, hardware) for buildability, Digital Systems (software) for engineered services, Information & Decision Systems (data) for signal to decisions, Organizational Systems (business) for commercial execution, and Creative & Expressive Systems (multimedia, performance) for storytelling and presence. The headers are sequenced from foundational cognition and routines through field craft, technical builds, analytical systems, commercial execution, and creative expression.
 
 <a id="academic-training-and-development-title"></a>
@@ -185,7 +185,7 @@ Training and development courses in visual/audio fundamentals, production, editi
 ### [Creative & Expressive Systems: Performance Arts Training and Development](quick-access/performance-arts-stage-and-screen.md)
 Training and development courses in voice/movement, acting, rehearsal/technique, camera/stage performance, and review/iteration. Emphasis is on deliberate practice, feedback loops, stage/screen adaptability, presence, timing, iterative refinement from recordings and critiques, and transferable performance habits.
 
-### Quick Access Category Framework
+### Learning & Capabilities Map Framework
 - Foundations / Theory: core principles, models, and standards.
 - Applied / Projects: builds, labs, and fieldwork to put concepts into practice.
 - Tools / Stack: domain tools, platforms, or frameworks.

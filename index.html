@@ -593,7 +593,7 @@
         <br>
         <br>
 
-        <h1 class="category-heading reveal"><div class="custom-heading-background">Quick Access Webpage Links</div></h1>
+        <h1 class="category-heading reveal"><div class="custom-heading-background">Learning & Capabilities Map</div></h1>
 
         <br>
 
@@ -1862,6 +1862,9 @@
             window.location.href=target;
             return;
           }
+          if(window.expandSectionFromTarget){
+            window.expandSectionFromTarget(target);
+          }
           const id=target.replace('#','');
           const el=document.getElementById(id);
           if(el && typeof el.scrollIntoView === 'function'){
@@ -1918,29 +1921,33 @@
 
     <script>
       (function(){
-        function expandHeader(targetId){
-          if(!targetId) return;
+        function expandSectionFromTarget(target){
+          const targetId=(target || '').replace('#','');
+          if(!targetId) return null;
           const heading=document.getElementById(targetId);
-          if(!heading) return;
+          if(!heading) return null;
           const collapseSelector=heading.getAttribute('data-target');
-          if(!collapseSelector) return;
+          if(!collapseSelector) return heading;
           const collapseEl=document.querySelector(collapseSelector);
-          if(!collapseEl) return;
+          if(!collapseEl) return heading;
           if(window.jQuery && typeof window.jQuery(collapseEl).collapse === 'function'){
             window.jQuery(collapseEl).collapse('show');
           } else {
             collapseEl.classList.add('show');
             collapseEl.style.height='auto';
           }
+          return heading;
         }
+
         function bindClicks(selector){
           document.querySelectorAll(selector).forEach(link=>{
             link.addEventListener('click', function(){
-              const targetId=(this.hash || '').replace('#','');
-              expandHeader(targetId);
+              expandSectionFromTarget(this.hash || '');
             });
           });
         }
+
+        window.expandSectionFromTarget = expandSectionFromTarget;
         bindClicks('#navigation-bar a[href^=\"#\"]');
         bindClicks('.quick-nav a[href^=\"#\"]');
       })();
