@@ -1648,7 +1648,10 @@ blockquote p {
     .card {
         margin: 1rem auto;
         max-width: 23.5rem !important;
-        box-shadow: 0 10px 22px rgba(0, 0, 0, 0.3), 0 0 0 1px rgba(255, 255, 255, 0.05);
+        box-shadow:
+            0 0 0 6px var(--accent-color),
+            0 10px 22px rgba(0, 0, 0, 0.3),
+            0 0 0 1px rgba(255, 255, 255, 0.05);
     }
 
     /* Keep overview cards full width on mobile and tablet, including landscape */
