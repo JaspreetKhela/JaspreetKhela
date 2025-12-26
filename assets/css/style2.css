@@ -2035,52 +2035,55 @@ blockquote p {
     filter: drop-shadow(0 0 16px rgba(255, 196, 133, 0.55));
 }
 
-#preloader .planet.one {
+#preloader .planet.one,
+#contact-overlay .planet.one {
     width: 140px;
     height: 140px;
-    top: 12%;
-    left: 12%;
-    --spin-duration: 160s;
+    top: 10%;
+    left: 10%;
+    --spin-duration: 150s;
     --planet-bg:
-        radial-gradient(circle at 28% 32%, rgba(255,255,255,0.88), rgba(214,245,255,0.5) 32%, rgba(108,202,255,0.76) 56%, rgba(8,30,96,0.86) 100%),
-        conic-gradient(from 18deg at 56% 52%, rgba(140,230,255,0.18), rgba(18,54,120,0.08), rgba(190,255,255,0.14), rgba(18,54,120,0.06)),
-        radial-gradient(110px 120px at 22% 64%, rgba(72,172,255,0.1), rgba(0,22,80,0)),
-        radial-gradient(210px 165px at 78% 72%, rgba(74,170,255,0.18), rgba(8,28,90,0.54)),
-        radial-gradient(90px 80px at 70% 32%, rgba(160,220,255,0.12), rgba(8,30,96,0.02)),
-        linear-gradient(195deg, rgba(255,255,255,0.08), rgba(14,42,96,0.18) 52%, rgba(0,0,0,0.22) 86%);
+        radial-gradient(circle at 34% 26%, rgba(255,248,220,0.82), rgba(255,210,120,0.48) 32%, rgba(255,142,46,0.82) 60%, rgba(118,32,0,0.88) 100%),
+        conic-gradient(from 0deg at 58% 54%, rgba(255,188,72,0.22), rgba(120,32,0,0.12), rgba(255,128,32,0.2), rgba(120,32,0,0.1)),
+        radial-gradient(126px 120px at 24% 68%, rgba(214,110,32,0.12), rgba(82,22,0,0)),
+        radial-gradient(218px 160px at 72% 76%, rgba(240,128,28,0.2), rgba(82,22,0,0.6)),
+        radial-gradient(92px 88px at 72% 30%, rgba(255,172,86,0.1), rgba(118,32,0,0.02)),
+        linear-gradient(215deg, rgba(255,255,255,0.08), rgba(94,32,0,0.26) 52%, rgba(0,0,0,0.24) 82%);
     --planet-blend: screen, overlay, soft-light, soft-light, multiply, normal;
 }
 
-#preloader .planet.two {
-    width: 100px;
-    height: 100px;
-    bottom: 18%;
-    right: 15%;
-    --spin-duration: 180s;
+#preloader .planet.two,
+#contact-overlay .planet.two {
+    width: 110px;
+    height: 110px;
+    bottom: 16%;
+    right: 13%;
+    --spin-duration: 170s;
     --planet-bg:
-        radial-gradient(circle at 64% 40%, rgba(255,255,255,0.86), rgba(220,255,230,0.5) 32%, rgba(70,220,188,0.8) 56%, rgba(6,52,46,0.84) 100%),
-        conic-gradient(from 90deg at 48% 50%, rgba(120,255,200,0.18), rgba(10,60,44,0.08), rgba(90,245,190,0.18), rgba(10,60,44,0.06)),
-        radial-gradient(120px 124px at 26% 70%, rgba(54,214,180,0.1), rgba(0,34,42,0)),
-        radial-gradient(170px 150px at 70% 76%, rgba(40,200,168,0.18), rgba(4,28,32,0.52)),
-        radial-gradient(82px 86px at 74% 30%, rgba(118,236,200,0.12), rgba(6,52,46,0.02)),
-        linear-gradient(18deg, rgba(255,255,255,0.08), rgba(6,40,56,0.18) 48%, rgba(0,0,0,0.22) 80%);
+        radial-gradient(circle at 58% 36%, rgba(255,248,250,0.82), rgba(255,192,236,0.48) 34%, rgba(232,70,210,0.82) 60%, rgba(90,8,94,0.88) 100%),
+        conic-gradient(from 150deg at 52% 52%, rgba(255,100,220,0.22), rgba(70,6,90,0.14), rgba(255,170,240,0.18), rgba(70,6,90,0.1)),
+        radial-gradient(122px 122px at 26% 72%, rgba(200,60,160,0.1), rgba(58,6,74,0)),
+        radial-gradient(178px 150px at 72% 74%, rgba(230,92,178,0.18), rgba(60,4,74,0.52)),
+        radial-gradient(84px 82px at 74% 26%, rgba(255,150,230,0.1), rgba(90,8,94,0.02)),
+        linear-gradient(32deg, rgba(255,255,255,0.08), rgba(62,12,92,0.24) 50%, rgba(0,0,0,0.26) 80%);
     --planet-blend: screen, overlay, soft-light, soft-light, multiply, normal;
     animation-delay: 2.5s;
 }
 
-#preloader .planet.three {
-    width: 70px;
-    height: 70px;
-    top: 30%;
-    right: 32%;
-    --spin-duration: 140s;
+#preloader .planet.three,
+#contact-overlay .planet.three {
+    width: 80px;
+    height: 80px;
+    top: 28%;
+    right: 30%;
+    --spin-duration: 130s;
     --planet-bg:
-        radial-gradient(circle at 50% 44%, rgba(255,255,255,0.82), rgba(214,206,255,0.44) 32%, rgba(152,124,250,0.76) 58%, rgba(22,18,92,0.86) 100%),
-        conic-gradient(from 240deg at 52% 52%, rgba(190,150,255,0.2), rgba(26,18,92,0.12), rgba(130,215,255,0.16), rgba(26,18,92,0.1)),
-        radial-gradient(118px 112px at 26% 68%, rgba(130,126,250,0.12), rgba(18,22,88,0)),
-        radial-gradient(168px 150px at 72% 72%, rgba(112,102,238,0.16), rgba(18,24,88,0.48)),
-        radial-gradient(78px 74px at 72% 32%, rgba(190,180,255,0.1), rgba(22,18,92,0.02)),
-        linear-gradient(62deg, rgba(255,255,255,0.08), rgba(20,28,84,0.22) 50%, rgba(0,0,0,0.24) 82%);
+        radial-gradient(circle at 48% 44%, rgba(236,255,245,0.82), rgba(170,245,210,0.46) 34%, rgba(60,210,160,0.8) 58%, rgba(4,64,40,0.9) 100%),
+        conic-gradient(from 230deg at 50% 50%, rgba(150,255,200,0.22), rgba(8,64,40,0.14), rgba(190,255,220,0.18), rgba(8,64,40,0.1)),
+        radial-gradient(118px 112px at 24% 72%, rgba(92,206,168,0.1), rgba(4,52,48,0)),
+        radial-gradient(168px 140px at 72% 74%, rgba(120,236,192,0.16), rgba(6,42,56,0.5)),
+        radial-gradient(82px 80px at 72% 28%, rgba(150,255,210,0.1), rgba(4,64,40,0.02)),
+        linear-gradient(62deg, rgba(255,255,255,0.08), rgba(20,82,72,0.24) 48%, rgba(0,0,0,0.26) 78%);
     --planet-blend: screen, overlay, soft-light, soft-light, multiply, normal;
     animation-delay: 1.2s;
 }
