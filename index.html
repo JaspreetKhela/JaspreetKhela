@@ -1773,6 +1773,141 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous" defer></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous" defer></script>
 
+    <button class="chat-toggle" id="chat-toggle" aria-label="Open Jaspreet's assistant" aria-expanded="false">
+      <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" role="presentation">
+        <path d="M4 5.5a2.5 2.5 0 0 1 2.5-2.5h11A2.5 2.5 0 0 1 20 5.5v7a2.5 2.5 0 0 1-2.5 2.5h-6.7c-.2 0-.4.1-.6.2l-3.2 2.4c-.3.2-.7-.1-.6-.4l.6-1.9c.1-.4-.2-.8-.6-.8H6.5A2.5 2.5 0 0 1 4 12.5v-7Z" stroke="#e9f3ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="9" cy="9" r="1" fill="#e9f3ff"/>
+        <circle cx="12.5" cy="9" r="1" fill="#e9f3ff"/>
+        <circle cx="16" cy="9" r="1" fill="#e9f3ff"/>
+      </svg>
+    </button>
+    <div class="chat-tooltip" aria-hidden="true">Quick overview</div>
+
+    <div class="chat-popup" id="chat-popup" role="dialog" aria-modal="false" aria-labelledby="chat-heading">
+      <div class="chat-header">
+        <div id="chat-heading">Get to Know Me!</div>
+        <button class="chat-close" id="chat-close" aria-label="Close chat panel">
+          <svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" role="presentation">
+            <path d="M5 5l10 10m0-10L5 15" stroke="#e9f3ff" stroke-width="1.6" stroke-linecap="round"/>
+          </svg>
+        </button>
+      </div>
+      <div class="chat-body">
+        <div class="chat-card" id="chat-message">
+          Hi! Tap a topic below for a quick tour of who Jaspreet is, what he does, and how to connect.
+        </div>
+      </div>
+      <div class="chat-actions" id="chat-actions"></div>
+      <div class="chat-footer">
+        <button id="chat-reset" aria-label="Reset chat choices">Start over</button>
+      </div>
+    </div>
+
+    <script>
+      (function(){
+        const popup=document.getElementById('chat-popup');
+        const toggle=document.getElementById('chat-toggle');
+        const closeBtn=document.getElementById('chat-close');
+        const resetBtn=document.getElementById('chat-reset');
+        const messageEl=document.getElementById('chat-message');
+        const actionsEl=document.getElementById('chat-actions');
+        if(!popup || !toggle || !closeBtn || !resetBtn || !messageEl || !actionsEl) return;
+
+        const topics=[
+          {
+            id:'about',
+            label:'About Jaspreet',
+            message:'Toronto-based full-stack engineer pairing hardware, software, data, and IT with product design sensibilities.',
+            target:'#about-section'
+          },
+          {
+            id:'values',
+            label:'Values & Motto',
+            message:'Preparation. Pace. Patience. Persistence. Facta, Non Verba: steady execution and shipped proof over hype.',
+            target:'#about-section'
+          },
+          {
+            id:'capabilities',
+            label:'Capabilities',
+            message:'Builds dependable products that bridge software, hardware, data, IT ops, and user-centered design.',
+            target:'#about-section'
+          },
+          {
+            id:'work',
+            label:'Work & Training',
+            message:'Explore work history plus training across software, data, business, hardware, trades, and more.',
+            target:'#work-history-title'
+          },
+          {
+            id:'focus',
+            label:'Academic Focus',
+            message:'Mathematics, natural sciences, engineering, and economics to model systems and design resilient solutions.',
+            target:'#academic-training-and-development-title'
+          },
+          {
+            id:'connect',
+            label:'Connect',
+            message:'Email jaspreet.khela@gmail.com or jump to Socials for the best channel to reach out.',
+            target:'#social-media-profiles-title'
+          },
+        ];
+
+        function setMessage(text){
+          messageEl.textContent=text;
+        }
+
+        function scrollToTarget(target){
+          if(!target) return;
+          if(target.startsWith('mailto:')){
+            window.location.href=target;
+            return;
+          }
+          const id=target.replace('#','');
+          const el=document.getElementById(id);
+          if(el && typeof el.scrollIntoView === 'function'){
+            el.scrollIntoView({ behavior:'smooth', block:'start' });
+          }
+        }
+
+        function renderActions(){
+          actionsEl.innerHTML='';
+          topics.forEach(topic=>{
+            const btn=document.createElement('button');
+            btn.type='button';
+            btn.textContent=topic.label;
+            btn.addEventListener('click', ()=>{
+              setMessage(topic.message);
+              scrollToTarget(topic.target);
+            });
+            actionsEl.appendChild(btn);
+          });
+        }
+
+        function openPopup(){
+          popup.setAttribute('data-open','true');
+          toggle.setAttribute('data-open','true');
+          toggle.setAttribute('aria-expanded','true');
+        }
+
+        function closePopup(){
+          popup.removeAttribute('data-open');
+          toggle.removeAttribute('data-open');
+          toggle.setAttribute('aria-expanded','false');
+        }
+
+        toggle.addEventListener('click', openPopup);
+        closeBtn.addEventListener('click', closePopup);
+        resetBtn.addEventListener('click', ()=>{
+          setMessage('Hi! Tap a topic below for a quick tour of who Jaspreet is, what he does, and how to connect.');
+          popup.setAttribute('data-open','true');
+          toggle.setAttribute('data-open','true');
+          toggle.setAttribute('aria-expanded','true');
+        });
+
+        renderActions();
+      })();
+    </script>
+
     <a id="paper-plane" href="mailto:jaspreet.khela@gmail.com" aria-label="Contact Jaspreet via email">
       <svg viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg" role="presentation">
         <path d="M8 40 L110 10 78 70 60 50 36 65 Z" fill="#e7f0ff" stroke="#1f4f99" stroke-width="3" />
