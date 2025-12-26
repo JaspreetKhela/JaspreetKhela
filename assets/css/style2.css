@@ -253,8 +253,10 @@ nav {
     border: 10px solid #ffffff;
     border-radius: 18px;
     box-shadow: 0 14px 30px rgba(0, 0, 0, 0.35), inset 0 1px 0 rgba(255, 255, 255, 0.08);
-    position: relative;
-    z-index: 2;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 99999;
 }
 
 body.preloader-lock #navigation-bar {
