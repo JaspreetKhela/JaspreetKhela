@@ -1840,8 +1840,8 @@
             const travel=goingRight ? phase * 2 : (1 - phase) * 2; // 0→1 left→right, then right→left
 
             const halfSpan=Math.max(0, (winW / 2) - (planeWidth / 2) - 10);
-            const baseHeight=Math.max(120, Math.min(260, winH * 0.32));
-            const bob=Math.sin(fraction * Math.PI * cycles) * Math.min(80, winH * 0.12);
+            const baseHeight=Math.max(90, Math.min(140, winH * 0.18));
+            const bob=Math.sin(fraction * Math.PI * cycles) * Math.min(40, winH * 0.08);
 
             const x = -halfSpan + travel * (halfSpan * 2);
             const y = -baseHeight - bob;
@@ -1877,7 +1877,7 @@
 
           const directionScale = pos.goingRight ? 1 : -1;
           const fixedTilt = 34; // stronger downward/forward pitch
-          const yBase = 80; // push plane further down across all screens
+          const yBase = Math.max(70, Math.min(100, winH * 0.14)); // keep starting position tucked near the bottom
 
           plane.style.transform=`translate(calc(-50% + ${smoothX}px), calc(${yBase}px + ${smoothY}px)) scaleX(${directionScale}) rotate(${fixedTilt}deg)`;
         }
