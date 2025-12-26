@@ -1559,11 +1559,11 @@ blockquote p {
     left: 0;
     top: 0;
     animation: gifZip 8s ease-in-out infinite, gifFadeIn 2.5s ease forwards;
-    z-index: 7;
+    z-index: 12;
 }
 
 #contact-overlay .popup-gif.top-left {
-    z-index: 9;
+    z-index: 13;
 }
 
 .popup-gif.right-middle {
@@ -1571,7 +1571,7 @@ blockquote p {
     top: 50%;
     transform: translateY(-50%);
     animation: gifDrift 40s linear infinite, gifFadeIn 2.5s ease forwards;
-    z-index: 8;
+    z-index: 12;
 }
 
 .popup-gif.fly-diagonal {
@@ -1602,7 +1602,12 @@ blockquote p {
 }
 
 @media (max-width: 768px) {
-    .popup-gif {
+    .popup-gif.top-left,
+    #contact-overlay .popup-gif.top-left,
+    .popup-gif.right-middle {
+        z-index: 12 !important;
+    }
+    .popup-gif:not(.top-left):not(.right-middle) {
         z-index: 0 !important;
     }
 }
