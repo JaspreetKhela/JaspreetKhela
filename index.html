@@ -17,7 +17,40 @@
 
     <title>Jaspreet Khela</title>
 </head>
-<body class="bg-light">
+<body class="bg-light preloader-lock">
+    <div id="preloader" role="dialog" aria-modal="true" aria-label="Loading Jaspreet Khela's site">
+      <div class="sky-layer"></div>
+      <div class="sky-layer layer-2"></div>
+      <div class="sky-layer layer-3"></div>
+      <div class="planet one"></div>
+      <div class="planet two"></div>
+      <div class="planet three"></div>
+      <div class="content">
+        <div class="title">Jaspreet Khela</div>
+        <div class="subtitle">A curious builder’s guide to hardware, software, data, design, operations, business, and the late-night experiments that keep everything moving.</div>
+        <div class="loading-group">
+          <div class="loading-bar"></div>
+          <div class="loading">Rendering your experience...</div>
+        </div>
+        <button id="preloader-begin" class="begin-btn overlay-cta" disabled aria-label="Begin your journey">Begin Your Journey</button>
+      </div>
+    </div>
+    <div id="contact-overlay" role="dialog" aria-modal="true" aria-label="Connect with Jaspreet">
+      <div class="sky-layer"></div>
+      <div class="sky-layer layer-2"></div>
+      <div class="sky-layer layer-3"></div>
+      <div class="planet one"></div>
+      <div class="planet two"></div>
+      <div class="planet three"></div>
+      <div class="content">
+        <div class="title">Let’s Connect</div>
+        <div class="subtitle">Reach out to team up on builds, roles, or experiments.</div>
+        <div id="contact-card-slot" class="contact-card-slot" aria-live="polite"></div>
+        <div class="contact-actions">
+          <button id="contact-back-btn" class="contact-back-btn overlay-cta" type="button">Let's Go Back!</button>
+        </div>
+      </div>
+    </div>
     <div class="sun"></div>
 
     <!-- Navbar -->
@@ -123,7 +156,7 @@
         </div>        
     </div>
 
-    <div id="about-section">
+    <div id="about-section" class="hero-gate">
         <div class="lead border-glow">
             <div class="current">
                 <div class="welcome-title">Jaspreet Khela's Digital Doorstep</div>
@@ -228,7 +261,7 @@
         <div class="row">
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                 <!-- LinkedIn Profile -->
-                <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
+                <div class="card text-white bg-primary mb-3" style="max-width: 18rem;" id="linkedin-card">
                     <video preload="metadata" id="linkedin-profile-card-video-or-image" class="card-img-top" poster="./assets/images/card-images/socials/20251221_1031_Clay LinkedIn Logo_simple_compose_01kd0rhjyre8386s4r8wx5s3bt.png" autoplay loop muted>
                         <source src="./assets/videos/card-videos/pexels-pressmaster-hd.mp4" type="video/mp4">
                         Your browser does not support the video tag.
@@ -1911,6 +1944,104 @@
       })();
     </script>
 
+    <script>
+      (function(){
+        const preloader=document.getElementById('preloader');
+        const beginBtn=document.getElementById('preloader-begin');
+        const body=document.body;
+        const loadingGroup=document.querySelector('#preloader .loading-group');
+        if(!preloader || !beginBtn || !body) return;
+
+        beginBtn.disabled=true;
+
+        function showButton(){
+          beginBtn.disabled=false;
+          beginBtn.classList.add('visible');
+        }
+
+        setTimeout(()=>{
+          if(loadingGroup){
+            loadingGroup.classList.add('preloader-fade');
+            setTimeout(showButton, 550);
+          } else {
+            showButton();
+          }
+        }, 10000);
+
+        beginBtn.addEventListener('click', ()=>{
+          preloader.classList.add('hidden');
+          const fadeMs=1800;
+          const heroDelay=3000;
+          setTimeout(()=>{
+            body.classList.remove('preloader-lock');
+            setTimeout(()=>{ body.classList.add('hero-reveal'); }, heroDelay);
+            setTimeout(()=>{ preloader.remove(); }, 50);
+          }, fadeMs);
+        });
+      })();
+    </script>
+
+    <script>
+      (function(){
+        const overlay=document.getElementById('contact-overlay');
+        const backBtn=document.getElementById('contact-back-btn');
+        const slot=document.getElementById('contact-card-slot');
+        const contactLink=document.querySelector('#navigation-bar a[href^="mailto:jaspreet.khela@gmail.com"]');
+        const body=document.body;
+        let filled=false;
+        let visible=false;
+        let shownOnScroll=false;
+
+        if(!overlay || !backBtn || !slot) return;
+
+        function fillCard(){
+          if(filled) return;
+          const source=document.getElementById('linkedin-card');
+          if(!source) return;
+          const clone=source.cloneNode(true);
+          clone.id='linkedin-card-clone';
+          slot.innerHTML='';
+          slot.appendChild(clone);
+          filled=true;
+        }
+
+        function showOverlay(){
+          if(visible) return;
+          fillCard();
+          overlay.classList.add('show');
+          body.classList.add('contact-overlay-open');
+          backBtn.classList.add('visible');
+          backBtn.disabled=false;
+          visible=true;
+        }
+
+        function hideOverlay(){
+          overlay.classList.remove('show');
+          body.classList.remove('contact-overlay-open');
+          visible=false;
+        }
+
+        backBtn.addEventListener('click', hideOverlay);
+
+        if(contactLink){
+          contactLink.addEventListener('click', (e)=>{
+            e.preventDefault();
+            showOverlay();
+          });
+        }
+
+        window.addEventListener('scroll', ()=>{
+          if(shownOnScroll || visible) return;
+          const scrolled=(window.pageYOffset || document.documentElement.scrollTop || 0) + window.innerHeight;
+          const limit=document.documentElement.scrollHeight - 80;
+          if(scrolled >= limit){
+            shownOnScroll=true;
+            showOverlay();
+          }
+        }, { passive:true });
+      })();
+    </script>
+
     <a id="paper-plane" href="mailto:jaspreet.khela@gmail.com" aria-label="Contact Jaspreet via email">
       <svg viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg" role="presentation">
         <path d="M8 40 L110 10 78 70 60 50 36 65 Z" fill="#e7f0ff" stroke="#1f4f99" stroke-width="3" />
@@ -1965,6 +2096,7 @@
         }
 
         let smoothX=null, smoothY=null;
+        let directionScale=1;
 
         function updatePosition(){
           const docHeight=document.documentElement.scrollHeight;
@@ -2007,6 +2139,18 @@
 
           const pos=calcPosition(t);
           const tilt=90; // keep the nose pointing downward
+          const newDirectionScale = pos.goingRight ? 1 : -1;
+
+          // when changing direction, let the plane exit off-screen before coming back
+          if(directionScale !== newDirectionScale){
+            const exitOffset = (winW / 2) + (planeWidth * 1.2);
+            const exitX = directionScale === 1 ? exitOffset : -exitOffset;
+            const exitY = smoothY ?? pos.y;
+            plane.style.transition='transform 0.45s ease';
+            plane.style.transform=`translate(calc(-50% + ${exitX}px), calc(${Math.max(70, Math.min(100, winH * 0.14))}px + ${exitY}px)) scaleX(${directionScale}) rotate(34deg)`;
+            setTimeout(()=>{ plane.style.transition=''; }, 460);
+          }
+          directionScale = newDirectionScale;
 
           if(smoothX === null){
             smoothX=pos.x;
@@ -2017,7 +2161,6 @@
             smoothY += (pos.y - smoothY) * alpha;
           }
 
-          const directionScale = pos.goingRight ? 1 : -1;
           const fixedTilt = 34; // stronger downward/forward pitch
           const yBase = Math.max(70, Math.min(100, winH * 0.14)); // keep starting position tucked near the bottom
 
