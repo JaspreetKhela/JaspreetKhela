@@ -1559,10 +1559,11 @@ blockquote p {
     left: 0;
     top: 0;
     animation: gifZip 8s ease-in-out infinite, gifFadeIn 2.5s ease forwards;
+    z-index: 7;
 }
 
 #contact-overlay .popup-gif.top-left {
-    z-index: 6;
+    z-index: 9;
 }
 
 .popup-gif.right-middle {
@@ -1570,6 +1571,7 @@ blockquote p {
     top: 50%;
     transform: translateY(-50%);
     animation: gifDrift 40s linear infinite, gifFadeIn 2.5s ease forwards;
+    z-index: 8;
 }
 
 .popup-gif.fly-diagonal {
@@ -1587,6 +1589,7 @@ blockquote p {
     right: -12%;
     width: 480px;
     height: 480px;
+    z-index: 4;
 }
 
 @keyframes gifFly {
@@ -1995,9 +1998,9 @@ blockquote p {
 
 #preloader .subtitle, #contact-overlay .subtitle {
     font-size: clamp(1.1rem, 2.6vw, 1.5rem);
-    color: #c3d6f5;
+    color: #e9f3ff;
     line-height: 1.6;
-    text-shadow: 0 0 16px rgba(111, 177, 255, 0.35);
+    text-shadow: 0 0 24px rgba(111, 177, 255, 0.55), 0 0 48px rgba(111, 177, 255, 0.25);
     max-width: 780px;
     text-align: center;
 }
