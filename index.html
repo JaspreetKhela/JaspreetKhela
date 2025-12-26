@@ -1966,6 +1966,15 @@
 
         toggle.addEventListener('click', openPopup);
         closeBtn.addEventListener('click', closePopup);
+        document.addEventListener('click', (e)=>{
+          if(!popup.hasAttribute('data-open')) return;
+          const target=e.target;
+          const clickedPopup=popup.contains(target);
+          const clickedToggle=toggle.contains(target);
+          if(!clickedPopup && !clickedToggle){
+            closePopup();
+          }
+        });
         resetBtn.addEventListener('click', ()=>{
           setMessage('Hi! Tap a topic below for a quick tour of who I am, what I do, and how to connect.');
           popup.setAttribute('data-open','true');
