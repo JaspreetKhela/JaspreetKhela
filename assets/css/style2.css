@@ -584,6 +584,11 @@ body.contact-overlay-open #back-to-top {
     pointer-events: none !important;
 }
 
+body.chat-open #back-to-top {
+    opacity: 0 !important;
+    pointer-events: none !important;
+}
+
 @keyframes taglinePulse {
     0%, 100% {
         opacity: 0.9;
@@ -1440,11 +1445,9 @@ blockquote p {
     bottom: 1.1rem;
     width: 64px;
     height: 64px;
-    border: 1px solid rgba(233, 243, 255, 0.12);
+    border: 2px solid rgba(244, 245, 247, 0.45);
     border-radius: 18px;
-    background:
-        radial-gradient(circle at 30% 20%, rgba(255, 255, 255, 0.18), rgba(255, 255, 255, 0)),
-        linear-gradient(140deg, #0f1c33, #1f63b1 55%, #2c8eea);
+    background: #0b1224;
     box-shadow: 0 14px 32px rgba(0, 0, 0, 0.38), inset 0 1px 0 rgba(255,255,255,0.16);
     color: #fff;
     display: inline-flex;
@@ -1463,7 +1466,7 @@ blockquote p {
     position: absolute;
     inset: -2px;
     border-radius: 20px;
-    background: radial-gradient(circle at 30% 30%, rgba(255,255,255,0.22), rgba(255,255,255,0));
+    background: transparent;
     opacity: 0.9;
     pointer-events: none;
 }
@@ -1473,7 +1476,7 @@ blockquote p {
     position: absolute;
     inset: 0;
     border-radius: 18px;
-    box-shadow: 0 0 0 0 rgba(98, 167, 255, 0.45);
+    box-shadow: 0 0 0 0 rgba(31, 111, 235, 0.45);
     animation: chatPulseGlow 3.4s ease-in-out infinite;
     pointer-events: none;
 }
@@ -1481,6 +1484,16 @@ blockquote p {
 .chat-toggle svg {
     position: relative;
     filter: drop-shadow(0 4px 10px rgba(0, 0, 0, 0.45));
+    color: var(--accent-color);
+}
+
+.chat-toggle svg path {
+    stroke: var(--accent-color);
+}
+
+.chat-toggle svg circle {
+    stroke: var(--accent-color);
+    fill: #ffe86a;
 }
 
 @keyframes chatPulse {
@@ -1516,11 +1529,11 @@ blockquote p {
     bottom: 1rem;
     width: 360px;
     max-width: calc(100vw - 2rem);
-    background: radial-gradient(circle at 20% 20%, rgba(66, 118, 188, 0.22), rgba(18, 31, 58, 0.96));
-    border: 6px solid var(--accent-color);
+    background: #0b1224;
+    border: 4px solid rgba(244, 245, 247, 0.42);
     border-radius: 18px;
     box-shadow: 0 18px 48px rgba(0, 0, 0, 0.42);
-    color: #eef4ff;
+    color: var(--accent-color);
     z-index: 21;
     display: none;
     overflow: hidden;
@@ -1543,21 +1556,21 @@ blockquote p {
     align-items: center;
     padding: 0.85rem 1rem;
     font-weight: 700;
-    background: linear-gradient(135deg, rgba(20, 35, 72, 0.9), rgba(26, 67, 122, 0.85));
-    color: #f5fbff;
+    background: #122139;
+    color: var(--accent-color);
 }
 
 .chat-header .badge-accent {
-    color: #9ae8a8;
+    color: #ffe86a;
 }
 
 .chat-close {
-    background: rgba(255, 255, 255, 0.08);
-    border: 1px solid rgba(255, 255, 255, 0.15);
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(244, 245, 247, 0.25);
     width: 32px;
     height: 32px;
     border-radius: 10px;
-    color: #f3f7ff;
+    color: var(--accent-color);
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -1569,13 +1582,13 @@ blockquote p {
 }
 
 .chat-card {
-    background: linear-gradient(145deg, rgba(56, 106, 182, 0.32), rgba(29, 52, 99, 0.7));
-    border: 6px solid var(--accent-color);
+    background: #122139;
+    border: 4px solid rgba(244, 245, 247, 0.35);
     border-radius: 14px;
     padding: 0.9rem 1rem;
     font-size: 0.95rem;
     line-height: 1.45;
-    color: #e7efff;
+    color: var(--accent-color);
 }
 
 .chat-actions {
@@ -1587,9 +1600,9 @@ blockquote p {
 }
 
 .chat-actions button {
-    background: linear-gradient(135deg, #1f66b7, #163968);
-    color: #e9f3ff;
-    border: 1px solid rgba(255, 255, 255, 0.15);
+    background: #162e55;
+    color: var(--accent-color);
+    border: 1px solid rgba(255, 232, 106, 0.32);
     border-radius: 999px;
     padding: 0.55rem 0.95rem;
     font-size: 0.92rem;
@@ -1610,9 +1623,9 @@ blockquote p {
 
 .chat-footer button {
     width: 100%;
-    background: linear-gradient(135deg, #1c7c3b, #0f5226);
-    color: #d9ffdf;
-    border: 1px solid rgba(255, 255, 255, 0.12);
+    background: #162e55;
+    color: var(--accent-color);
+    border: 1px solid rgba(255, 232, 106, 0.32);
     border-radius: 12px;
     padding: 0.65rem;
     font-weight: 700;
@@ -1628,8 +1641,8 @@ blockquote p {
     position: fixed;
     bottom: 82px;
     right: 1.1rem;
-    background: rgba(15, 26, 53, 0.9);
-    color: #e8f3ff;
+    background: #0b1224;
+    color: var(--accent-color);
     padding: 0.4rem 0.7rem;
     border-radius: 10px;
     font-size: 0.85rem;

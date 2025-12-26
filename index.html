@@ -1844,6 +1844,7 @@
         const resetBtn=document.getElementById('chat-reset');
         const messageEl=document.getElementById('chat-message');
         const actionsEl=document.getElementById('chat-actions');
+        const body=document.body;
         if(!popup || !toggle || !closeBtn || !resetBtn || !messageEl || !actionsEl) return;
 
         const topics=[
@@ -1923,12 +1924,14 @@
           popup.setAttribute('data-open','true');
           toggle.setAttribute('data-open','true');
           toggle.setAttribute('aria-expanded','true');
+          body.classList.add('chat-open');
         }
 
         function closePopup(){
           popup.removeAttribute('data-open');
           toggle.removeAttribute('data-open');
           toggle.setAttribute('aria-expanded','false');
+          body.classList.remove('chat-open');
         }
 
         toggle.addEventListener('click', openPopup);
@@ -1938,6 +1941,7 @@
           popup.setAttribute('data-open','true');
           toggle.setAttribute('data-open','true');
           toggle.setAttribute('aria-expanded','true');
+          body.classList.add('chat-open');
         });
 
         renderActions();
