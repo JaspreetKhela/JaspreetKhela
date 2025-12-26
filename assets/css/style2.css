@@ -1592,6 +1592,15 @@ blockquote p {
     z-index: 4;
 }
 
+@media (max-width: 576px) {
+    .popup-gif.top-right-half {
+        top: -6rem;
+        right: -30%;
+        width: 420px;
+        height: 420px;
+    }
+}
+
 @keyframes gifFly {
     0% {
         transform: translate(-120%, 15vh);
