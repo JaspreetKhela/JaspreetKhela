@@ -1601,6 +1601,12 @@ blockquote p {
     }
 }
 
+@media (max-width: 768px) {
+    .popup-gif {
+        z-index: 0 !important;
+    }
+}
+
 @keyframes gifFly {
     0% {
         transform: translate(-120%, 15vh);
@@ -1989,7 +1995,7 @@ blockquote p {
 
 #preloader .content, #contact-overlay .content {
     position: relative;
-    z-index: 2;
+    z-index: 10;
     max-width: 720px;
     display: grid;
     gap: 1.25rem;
