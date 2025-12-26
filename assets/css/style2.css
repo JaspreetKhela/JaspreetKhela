@@ -1593,6 +1593,18 @@ blockquote p {
 }
 
 @media (max-width: 576px) {
+    #preloader .content, #contact-overlay .content {
+        z-index: 12;
+    }
+    .overlay-text-box {
+        background: rgba(5, 9, 20, 0.78);
+        border: 1px solid rgba(255, 255, 255, 0.32);
+    }
+    #preloader .loading-group {
+        background: rgba(5, 9, 20, 0.78);
+        border: 1px solid rgba(255, 255, 255, 0.32);
+        box-shadow: 0 10px 28px rgba(0, 0, 0, 0.35), 0 0 20px rgba(111, 177, 255, 0.35);
+    }
     .popup-gif.top-right-half {
         top: -6rem;
         right: -30%;
@@ -2028,8 +2040,8 @@ blockquote p {
 .overlay-text-box {
     display: inline-block;
     padding: 1.05rem 1.4rem;
-    background: rgba(5, 9, 20, 0.4);
-    border: 1px solid rgba(255, 255, 255, 0.14);
+    background: rgba(5, 9, 20, 0.68);
+    border: 1px solid rgba(255, 255, 255, 0.24);
     border-radius: 18px;
     box-shadow: 0 10px 28px rgba(0, 0, 0, 0.35), 0 0 20px rgba(111, 177, 255, 0.35);
     width: auto;
@@ -2044,6 +2056,11 @@ blockquote p {
     transition: opacity 0.5s ease, transform 0.5s ease;
     margin-top: 2.75rem;
     min-height: 80px;
+    padding: 1rem 1.25rem;
+    background: rgba(5, 9, 20, 0.68);
+    border: 1px solid rgba(255, 255, 255, 0.24);
+    border-radius: 16px;
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.35), 0 0 20px rgba(111, 177, 255, 0.35);
 }
 
 #preloader .loading-bar {
