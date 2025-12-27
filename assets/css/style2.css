@@ -1618,6 +1618,11 @@ blockquote p {
     opacity: 0.85;
 }
 
+#preloader .popup-gif.falling-comet,
+#contact-overlay .popup-gif.falling-comet {
+    z-index: 999 !important;
+}
+
 .popup-gif.horizon-glow {
     position: absolute;
     bottom: -8%;
