@@ -5,6 +5,12 @@
     --accent-strong: #1f6feb;
     --pill-glow: 0 10px 22px rgba(31, 111, 235, 0.18);
     --preloader-glow: #6fb1ff;
+    --contact-card-glow:
+        0 0 0 6px var(--accent-color),
+        0 0 60px rgba(111, 177, 255, 0.328),
+        0 0 120px rgba(255, 232, 106, 0.255),
+        0 0 200px rgba(31, 111, 235, 0.255);
+    --card-glow-boosted: var(--contact-card-glow);
 }
 
 body {
@@ -1110,13 +1116,7 @@ blockquote p {
     border: none;
     border-radius: 25px;
     background: linear-gradient(145deg, #0f172a, #1d2f4f);
-    box-shadow:
-        0 0 0 6px var(--accent-color),
-        0 12px 28px rgba(0, 0, 0, 0.35),
-        0 0 0 1px rgba(255, 255, 255, 0.04),
-        0 0 75px rgba(111, 177, 255, 0.5625),
-        0 0 150px rgba(255, 232, 106, 0.4375),
-        0 0 250px rgba(31, 111, 235, 0.4375);
+    box-shadow: var(--card-glow-boosted);
     overflow: hidden;
 }
 
@@ -2000,10 +2000,7 @@ blockquote p {
     .card {
         margin: 1rem auto;
         max-width: 23.5rem !important;
-        box-shadow:
-            0 0 0 6px var(--accent-color),
-            0 10px 22px rgba(0, 0, 0, 0.3),
-            0 0 0 1px rgba(255, 255, 255, 0.05);
+        box-shadow: var(--card-glow-boosted);
     }
 
     /* Keep overview cards full width on mobile and tablet, including landscape */
@@ -2550,11 +2547,7 @@ blockquote p {
     transform: scale(0.92);
     transform-origin: top center;
     border: none;
-    box-shadow:
-        0 0 0 6px var(--accent-color),
-        0 0 60px rgba(111, 177, 255, 0.45),
-        0 0 120px rgba(255, 232, 106, 0.35),
-        0 0 200px rgba(31, 111, 235, 0.35);
+    box-shadow: var(--contact-card-glow);
 }
 
 body.contact-overlay-open {
