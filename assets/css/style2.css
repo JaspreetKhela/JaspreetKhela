@@ -1612,7 +1612,7 @@ blockquote p {
     left: 65%;
     width: 180px;
     height: 180px;
-    z-index: 14;
+    z-index: 40;
     animation: floatDescend 44s linear infinite;
     animation-delay: 9s;
     opacity: 0.85;
@@ -1686,7 +1686,10 @@ blockquote p {
     .popup-gif.right-middle {
         z-index: 12 !important;
     }
-    .popup-gif:not(.top-left):not(.right-middle) {
+    .popup-gif.falling-comet {
+        z-index: 40 !important;
+    }
+    .popup-gif:not(.top-left):not(.right-middle):not(.falling-comet) {
         z-index: 0 !important;
     }
     .popup-gif.top-crest {
