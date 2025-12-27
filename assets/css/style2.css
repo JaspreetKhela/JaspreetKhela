@@ -1577,7 +1577,7 @@ blockquote p {
 }
 
 .popup-gif.fly-diagonal {
-    position: fixed;
+    position: absolute;
     top: 50%;
     left: -8rem;
     width: 140px;
@@ -1595,7 +1595,7 @@ blockquote p {
 }
 
 .popup-gif.floating-orb {
-    position: fixed;
+    position: absolute;
     top: -20%;
     left: -15%;
     width: 200px;
@@ -1607,7 +1607,7 @@ blockquote p {
 }
 
 .popup-gif.falling-comet {
-    position: fixed;
+    position: absolute;
     top: -30%;
     left: 65%;
     width: 180px;
@@ -2339,6 +2339,7 @@ blockquote p {
     text-transform: uppercase;
     color: rgba(233, 243, 255, 0.9);
     text-shadow: 0 0 14px rgba(111, 177, 255, 0.5);
+    text-align: center;
 }
 
 #preloader .sky-layer,
