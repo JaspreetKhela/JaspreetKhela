@@ -1600,12 +1600,12 @@ blockquote p {
         z-index: 12;
     }
     .overlay-text-box {
-        background: rgba(5, 9, 20, 0.78);
-        border: 1px solid rgba(255, 255, 255, 0.32);
+        background: rgba(5, 9, 20, 0.9);
+        border: 1px solid rgba(255, 255, 255, 0.4);
     }
     #preloader .loading-group {
-        background: rgba(5, 9, 20, 0.78);
-        border: 1px solid rgba(255, 255, 255, 0.32);
+        background: rgba(5, 9, 20, 0.9);
+        border: 1px solid rgba(255, 255, 255, 0.4);
         box-shadow: 0 10px 28px rgba(0, 0, 0, 0.35), 0 0 20px rgba(111, 177, 255, 0.35);
     }
     .popup-gif.top-right-half {
@@ -1750,8 +1750,14 @@ blockquote p {
     cursor: pointer;
 }
 
+.chat-close svg {
+    width: 18px;
+    height: 18px;
+    display: block;
+}
+
 .chat-close svg path {
-    stroke: #0b1224;
+    stroke: currentColor;
 }
 
 .chat-body {
@@ -2178,8 +2184,8 @@ blockquote p {
 .overlay-text-box {
     display: inline-block;
     padding: 1.05rem 1.4rem;
-    background: rgba(5, 9, 20, 0.68);
-    border: 1px solid rgba(255, 255, 255, 0.24);
+    background: rgba(5, 9, 20, 0.92);
+    border: 1px solid rgba(255, 255, 255, 0.4);
     border-radius: 18px;
     box-shadow: 0 10px 28px rgba(0, 0, 0, 0.35), 0 0 20px rgba(111, 177, 255, 0.35);
     width: auto;
@@ -2195,8 +2201,8 @@ blockquote p {
     margin-top: 2.75rem;
     min-height: 80px;
     padding: 1rem 1.25rem;
-    background: rgba(5, 9, 20, 0.68);
-    border: 1px solid rgba(255, 255, 255, 0.24);
+    background: rgba(5, 9, 20, 0.92);
+    border: 1px solid rgba(255, 255, 255, 0.4);
     border-radius: 16px;
     box-shadow: 0 10px 28px rgba(0, 0, 0, 0.35), 0 0 20px rgba(111, 177, 255, 0.35);
 }
