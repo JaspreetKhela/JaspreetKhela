@@ -36,31 +36,31 @@
         <button id="preloader-begin" class="begin-btn overlay-cta" disabled aria-label="Begin your journey">Begin Your Journey</button>
       </div>
       <div class="popup-gif bottom-left" aria-hidden="true">
-        <iframe src="https://giphy.com/embed/A6KHyt3LyHe3mYYLCm" width="100%" height="100%" frameborder="0" allowfullscreen loading="eager" title="Animated rocket"></iframe>
+        <iframe src="https://giphy.com/embed/A6KHyt3LyHe3mYYLCm" width="100%" height="100%" frameborder="0" allowfullscreen loading="lazy" title="Animated rocket"></iframe>
       </div>
       <div class="popup-gif top-left" aria-hidden="true">
-        <iframe src="https://giphy.com/embed/EtiAbGEV4BHS2IGVJl" width="100%" height="100%" frameborder="0" allowfullscreen loading="eager" title="Animated sparkles"></iframe>
+        <iframe src="https://giphy.com/embed/EtiAbGEV4BHS2IGVJl" width="100%" height="100%" frameborder="0" allowfullscreen loading="lazy" title="Animated sparkles"></iframe>
       </div>
       <div class="popup-gif right-middle" aria-hidden="true">
-        <iframe src="https://giphy.com/embed/i1UCTfIDdbuH7OI6n0" width="100%" height="100%" frameborder="0" allowfullscreen loading="eager" title="Animated astronaut"></iframe>
+        <iframe src="https://giphy.com/embed/i1UCTfIDdbuH7OI6n0" width="100%" height="100%" frameborder="0" allowfullscreen loading="lazy" title="Animated astronaut"></iframe>
       </div>
       <div class="popup-gif fly-diagonal" aria-hidden="true">
-        <iframe src="https://giphy.com/embed/XxgwxP97w8j1KBtm1R" width="100%" height="100%" frameborder="0" allowfullscreen loading="eager" title="Animated flying object"></iframe>
+        <iframe src="https://giphy.com/embed/XxgwxP97w8j1KBtm1R" width="100%" height="100%" frameborder="0" allowfullscreen loading="lazy" title="Animated flying object"></iframe>
       </div>
       <div class="popup-gif top-right-half" aria-hidden="true">
-        <iframe src="https://giphy.com/embed/kOvPo6vScx3cM1xu81" width="100%" height="100%" frameborder="0" allowfullscreen loading="eager" title="Animated nebula"></iframe>
+        <iframe src="https://giphy.com/embed/kOvPo6vScx3cM1xu81" width="100%" height="100%" frameborder="0" allowfullscreen loading="lazy" title="Animated nebula"></iframe>
       </div>
       <div class="popup-gif floating-orb" aria-hidden="true">
-        <iframe src="https://giphy.com/embed/B0VUHEagb36W9knBSl" width="100%" height="100%" frameborder="0" allowfullscreen loading="eager" title="Floating orb gif"></iframe>
+        <iframe src="https://giphy.com/embed/B0VUHEagb36W9knBSl" width="100%" height="100%" frameborder="0" allowfullscreen loading="lazy" title="Floating orb gif"></iframe>
       </div>
       <div class="popup-gif falling-comet" aria-hidden="true">
-        <iframe src="https://giphy.com/embed/AFuvqdSLGoaJGTE7Iy" width="100%" height="100%" frameborder="0" allowfullscreen loading="eager" title="Descending comet gif"></iframe>
+        <iframe src="https://giphy.com/embed/AFuvqdSLGoaJGTE7Iy" width="100%" height="100%" frameborder="0" allowfullscreen loading="lazy" title="Descending comet gif"></iframe>
       </div>
       <div class="popup-gif horizon-glow" aria-hidden="true">
-        <iframe src="https://giphy.com/embed/MAWKf4CcnrwBk4tsr9" width="100%" height="100%" frameborder="0" allowfullscreen loading="eager" title="Horizon glow gif"></iframe>
+        <iframe src="https://giphy.com/embed/MAWKf4CcnrwBk4tsr9" width="100%" height="100%" frameborder="0" allowfullscreen loading="lazy" title="Horizon glow gif"></iframe>
       </div>
       <div class="popup-gif top-crest" aria-hidden="true">
-        <iframe src="https://giphy.com/embed/kdriTY31OUweRmqGlw" width="100%" height="100%" frameborder="0" allowfullscreen loading="eager" title="Animated top crest"></iframe>
+        <iframe src="https://giphy.com/embed/kdriTY31OUweRmqGlw" width="100%" height="100%" frameborder="0" allowfullscreen loading="lazy" title="Animated top crest"></iframe>
       </div>
     </div>
     <div id="contact-overlay" role="dialog" aria-modal="true" aria-label="Connect with Jaspreet">
@@ -2022,6 +2022,7 @@
         if(!preloader || !beginBtn || !body) return;
 
         beginBtn.disabled=true;
+        requestAnimationFrame(()=>{ preloader.classList.add('ready'); });
 
         function showButton(){
           beginBtn.disabled=false;
@@ -2030,8 +2031,17 @@
 
         setTimeout(()=>{
           if(loadingGroup){
+            let revealed=false;
+            const revealAfterFade=()=>{
+              if(revealed) return;
+              revealed=true;
+              showButton();
+            };
+            loadingGroup.addEventListener('transitionend', (e)=>{
+              if(e.propertyName==='opacity') revealAfterFade();
+            }, { once:true });
             loadingGroup.classList.add('preloader-fade');
-            setTimeout(showButton, 550);
+            setTimeout(revealAfterFade, 1400);
           } else {
             showButton();
           }
@@ -2046,6 +2056,22 @@
             setTimeout(()=>{ body.classList.add('hero-reveal'); }, heroDelay);
             setTimeout(()=>{ preloader.remove(); }, 50);
           }, fadeMs);
+        });
+      })();
+    </script>
+
+    <script>
+      (function(){
+        const lazyCandidates=[...document.querySelectorAll('img, iframe')];
+        lazyCandidates.forEach(el=>{
+          if(el.dataset.critical === 'true') return;
+          const currentLoading=el.getAttribute('loading');
+          if(!currentLoading || currentLoading.toLowerCase() === 'eager'){
+            el.setAttribute('loading','lazy');
+          }
+          if(el.tagName === 'IMG'){
+            el.setAttribute('decoding','async');
+          }
         });
       })();
     </script>
