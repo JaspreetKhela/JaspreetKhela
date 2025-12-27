@@ -1574,7 +1574,7 @@ blockquote p {
     top: 50%;
     transform: translateY(-50%);
     animation: gifDrift 40s linear infinite, gifFadeIn 2.5s ease forwards;
-    z-index: 12;
+    z-index: 5;
 }
 
 .popup-gif.fly-diagonal {
@@ -1593,6 +1593,52 @@ blockquote p {
     width: 480px;
     height: 480px;
     z-index: 4;
+}
+
+.popup-gif.floating-orb {
+    position: fixed;
+    top: -20%;
+    left: -15%;
+    width: 200px;
+    height: 200px;
+    z-index: 11;
+    animation: floatDriftAcross 52s linear infinite;
+    animation-delay: 4s;
+    opacity: 0.9;
+}
+
+.popup-gif.falling-comet {
+    position: fixed;
+    top: -30%;
+    left: 65%;
+    width: 180px;
+    height: 180px;
+    z-index: 11;
+    animation: floatDescend 44s linear infinite;
+    animation-delay: 9s;
+    opacity: 0.85;
+}
+
+.popup-gif.horizon-glow {
+    position: fixed;
+    bottom: 6%;
+    left: 18%;
+    width: 260px;
+    height: 260px;
+    z-index: 2;
+    animation: none;
+    opacity: 0.8;
+}
+
+.popup-gif.top-crest {
+    position: fixed;
+    top: -8rem;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 260px;
+    height: 260px;
+    z-index: 0;
+    animation: gifFadeIn 2.5s ease forwards;
 }
 
 @media (max-width: 576px) {
@@ -1614,6 +1660,13 @@ blockquote p {
         width: 420px;
         height: 420px;
     }
+    .popup-gif.top-crest {
+        left: 50%;
+        top: -10rem;
+        width: 220px;
+        height: 220px;
+        z-index: -2 !important;
+    }
 }
 
 @media (max-width: 768px) {
@@ -1624,6 +1677,9 @@ blockquote p {
     }
     .popup-gif:not(.top-left):not(.right-middle) {
         z-index: 0 !important;
+    }
+    .popup-gif.top-crest {
+        z-index: -2 !important;
     }
 }
 
@@ -1703,6 +1759,38 @@ blockquote p {
 @keyframes gifFadeIn {
     from { opacity: 0; }
     to { opacity: 1; }
+}
+
+@keyframes floatOrbit {
+    0%   { transform: translate(-5vw, -5vh) scale(1); }
+    25%  { transform: translate(20vw, -10vh) scale(1.05); }
+    50%  { transform: translate(10vw, 12vh) scale(0.95); }
+    75%  { transform: translate(-15vw, 8vh) scale(1.08); }
+    100% { transform: translate(25vw, 18vh) scale(1); }
+}
+
+@keyframes floatDriftAcross {
+    0%   { transform: translate(-20vw, -10vh) scale(1); opacity: 0; }
+    5%   { opacity: 0.75; }
+    50%  { transform: translate(60vw, 40vh) scale(1.04); opacity: 0.9; }
+    95%  { opacity: 0.75; }
+    100% { transform: translate(120vw, 80vh) scale(0.98); opacity: 0; }
+}
+
+@keyframes floatDescend {
+    0%   { transform: translate(10vw, -25vh) scale(1); opacity: 0; }
+    5%   { opacity: 0.7; }
+    50%  { transform: translate(-5vw, 40vh) scale(1.05); opacity: 0.9; }
+    95%  { opacity: 0.7; }
+    100% { transform: translate(-15vw, 120vh) scale(0.97); opacity: 0; }
+}
+
+@keyframes horizonDrift {
+    0%   { transform: translate(-10vw, 0) scale(1); opacity: 0; }
+    10%  { opacity: 0.75; }
+    50%  { transform: translate(20vw, -8vh) scale(1.04); opacity: 0.9; }
+    90%  { opacity: 0.75; }
+    100% { transform: translate(45vw, 4vh) scale(0.98); opacity: 0; }
 }
 .popup-gif iframe {
     width: 100%;
