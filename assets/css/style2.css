@@ -1562,11 +1562,11 @@ blockquote p {
     left: 0;
     top: 0;
     animation: gifZip 8s ease-in-out infinite, gifFadeIn 2.5s ease forwards;
-    z-index: 12;
+    z-index: 9;
 }
 
 #contact-overlay .popup-gif.top-left {
-    z-index: 13;
+    z-index: 10;
 }
 
 .popup-gif.right-middle {
@@ -1621,8 +1621,8 @@ blockquote p {
 
 .popup-gif.horizon-glow {
     position: fixed;
-    bottom: 6%;
-    left: 18%;
+    bottom: -8%;
+    left: 24%;
     width: 260px;
     height: 260px;
     z-index: 2;
