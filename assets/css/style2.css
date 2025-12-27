@@ -1562,11 +1562,11 @@ blockquote p {
     left: 0;
     top: 0;
     animation: gifZip 8s ease-in-out infinite, gifFadeIn 2.5s ease forwards;
-    z-index: 8;
+    z-index: 13;
 }
 
 #contact-overlay .popup-gif.top-left {
-    z-index: 9;
+    z-index: 14;
 }
 
 .popup-gif.right-middle {
