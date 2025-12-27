@@ -1,6 +1,6 @@
 # Creative & Expressive Systems: Multimedia Training and Development
 
-Training and development in production to tell clear visual and audio stories.
+Training and development that start with visual and audio fundamentals, move through production, editing, and motion, and finish with publishing to tell clear visual and audio stories.
 
 <a id="visual-audio-fundamentals"></a>
 ## Visual & Audio Fundamentals
@@ -107,4 +107,3 @@ Courses or drills to practice, get feedback, or prepare for reviews in publishin
 ### Integration / Capstone
 End-to-end courses that integrate publishing & distribution into a cohesive project or showcase.
 - [Coming Soon]
-

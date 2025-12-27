@@ -1,6 +1,6 @@
 # Organizational Systems: Business Training and Development
 
-Training and development in commercial fundamentals through strategy, finance, and venture building.
+Training and development in commercial fundamentals spanning business basics, strategy, go-to-market, finance, governance, and venture building.
 
 <a id="business-fundamentals"></a>
 ## Business Fundamentals
@@ -128,4 +128,3 @@ Courses or drills to practice, get feedback, or prepare for reviews in entrepren
 ### Integration / Capstone
 End-to-end courses that integrate entrepreneurship & venture building into a cohesive project or showcase.
 - [Coming Soon]
-

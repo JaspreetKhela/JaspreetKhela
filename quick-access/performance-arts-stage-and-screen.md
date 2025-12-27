@@ -1,6 +1,6 @@
 # Creative & Expressive Systems: Performance Arts Training and Development
 
-Training and development in performance craft to sharpen communication, presence, and iteration.
+Training and development that build from voice and movement to acting fundamentals, rehearsal, camera work, and review to sharpen communication, presence, and iteration.
 
 <a id="voice-movement"></a>
 ## Voice & Movement
@@ -107,4 +107,3 @@ Courses or drills to practice, get feedback, or prepare for reviews in review & 
 ### Integration / Capstone
 End-to-end courses that integrate review & iteration into a cohesive project or showcase.
 - [Coming Soon]
-
