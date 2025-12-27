@@ -1613,7 +1613,7 @@ blockquote p {
     left: 65%;
     width: 180px;
     height: 180px;
-    z-index: 11;
+    z-index: 14;
     animation: floatDescend 44s linear infinite;
     animation-delay: 9s;
     opacity: 0.85;
