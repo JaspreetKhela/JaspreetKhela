@@ -1533,6 +1533,8 @@ blockquote p {
     bottom: 1rem;
     width: 360px;
     max-width: calc(100vw - 2rem);
+    height: 520px;
+    max-height: calc(100vh - 120px);
     background: #0b1224;
     border: 10px solid #ffffff;
     border-radius: 18px;
@@ -1540,6 +1542,7 @@ blockquote p {
     color: var(--accent-color);
     z-index: 21;
     display: none;
+    flex-direction: column;
     overflow: hidden;
     backdrop-filter: blur(10px);
 }
@@ -1823,7 +1826,7 @@ blockquote p {
 }
 
 .chat-popup[data-open="true"] {
-    display: block;
+    display: flex;
     animation: chat-in 220ms ease;
 }
 
@@ -1871,6 +1874,9 @@ blockquote p {
 
 .chat-body {
     padding: 1rem 1rem 0.4rem 1rem;
+    flex: 1;
+    min-height: 0;
+    overflow-y: auto;
 }
 
 .chat-card {
