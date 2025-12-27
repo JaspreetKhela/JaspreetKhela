@@ -147,7 +147,7 @@ Running go-to-market, sales, and partnerships from outreach through close with p
 
 <a id="quick-access-webpage-links"></a>
 ## Learning & Capabilities Map
-Quick links to the markdown pages that mirror the site sections. Each quick-access page follows a single-category course structure (Foundations/Theory, Applied/Projects, Tools/Stack, Practice/Assessment, Integration/Capstone) and is grouped into the same rationale used on the webpage: Foundations (academic, personal) for base cognition and routines, Physical Systems (trades, hardware) for buildability, Digital Systems (software) for engineered services, Information & Decision Systems (data) for signal to decisions, Organizational Systems (business) for commercial execution, and Creative & Expressive Systems (multimedia, performance) for storytelling and presence. The headers are sequenced from foundational cognition and routines through field craft, technical builds, analytical systems, commercial execution, and creative expression.
+The capability map walks through my stack from foundational disciplines to expressive work, and these quick links mirror that layout. Each quick-access page follows a single-category course structure (Foundations/Theory, Applied/Projects, Tools/Stack, Practice/Assessment, Integration/Capstone) and is grouped into the same rationale used on the webpage: Foundations (academic, personal) for base cognition and routines, Physical Systems (trades, hardware) for buildability, Digital Systems (software) for engineered services, Information & Decision Systems (data) for signal to decisions, Organizational Systems (business) for commercial execution, and Creative & Expressive Systems (multimedia, performance) for storytelling and presence. The headers are sequenced from foundational cognition and routines through field craft, technical builds, analytical systems, commercial execution, and creative expression.
 
 <a id="academic-training-and-development-title"></a>
 ### [Foundations: Academic Training and Development](quick-access/academic-development.md)
@@ -189,7 +189,7 @@ Training and development courses in voice/movement, acting, rehearsal/technique,
 - Foundations / Theory: core principles, models, and standards.
 - Applied / Projects: builds, labs, and fieldwork to put concepts into practice.
 - Tools / Stack: domain tools, platforms, or frameworks.
-- Practice / Assessment: drills, certification prep, critiques, or performance review.
+- Practice / Assessment: drills, certification preparation, critiques, or performance review.
 - Integration / Capstone: end-to-end delivery that combines multiple areas.
 
 <a id="contact"></a>

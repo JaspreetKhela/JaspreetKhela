@@ -39,5 +39,5 @@ Coordinating vendors, budgets, processes, and automation to remove friction and 
 
 <a id="business-development-and-sales-work-history"></a>
 ## Business Development and Sales Work History
-GTM, sales, and partnerships from outreach through close, with proposals and negotiations that build trust.
+Go-to-market strategy, sales, and partnerships from outreach through close, with proposals and negotiations that build trust.
 - [Coming Soon]
