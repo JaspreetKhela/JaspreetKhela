@@ -1637,7 +1637,7 @@ blockquote p {
     transform: translateX(-50%);
     width: 260px;
     height: 260px;
-    z-index: 0;
+    z-index: -2;
     animation: gifFadeIn 2.5s ease forwards;
 }
 
