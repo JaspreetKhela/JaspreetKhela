@@ -48,7 +48,7 @@ Below is a guided overview of what I’ve built so far, what I’m working on no
 ## About Me
 **Jaspreet Khela's Digital Doorstep**
 
-Hello, world! I pair mathematics, natural sciences, engineering, and economics to build dependable systems across hardware, software, data, IT/operations, and design. When I'm not shipping, I'm probably burning another grilled cheese for science.
+Hello, world! I pair mathematics, natural sciences, engineering, and economics to build dependable systems across hardware, software, data, IT/operations, design, and business. When I'm not shipping, I'm probably burning another grilled cheese for science.
 
 I lean on clear thinking that cuts through noise, steady execution, and outcomes you can rely on every time.
 
@@ -79,7 +79,7 @@ I stay versatile by switching disciplines, testing ideas quickly, and translatin
 I study mathematics, natural sciences, engineering, and economics to understand how systems behave, scale, and stay stable. Mathematics sharpens proof, modeling, and probabilistic thinking. Natural sciences keep me grounded in observation and experimentation. Engineering turns constraints into reliable hardware and software. Economics frames incentives, markets, and trade-offs. Together these lenses help me spot patterns early, design resilient systems, and choose interventions that hold up in the real world.
 
 ### Professional Focus
-I build dependable, human-centered products by bridging hardware, software, data, IT/operations, and design. I connect user research to technical choices and roll out changes safely so services stay usable and reliable in production.
+I build dependable, human-centered products by bridging hardware, software, data, IT/operations, design, and business. I connect user research to technical choices and roll out changes safely so services stay usable and reliable in production.
 
 ### Personal Pursuits
 I prototype side projects, study human factors and design, and keep tinkering to stay curious. Rotating between coding, electronics, writing, and design keeps the work fresh and feeds small improvements back into daily work.
