@@ -2104,8 +2104,8 @@ blockquote p {
 
 @media (max-width: 640px) {
     #preloader, #contact-overlay {
-        justify-content: flex-start;
-        padding-top: calc(4.5rem + env(safe-area-inset-top, 0px));
+        justify-content: center;
+        padding-top: calc(5rem + env(safe-area-inset-top, 0px));
     }
 }
 
@@ -2303,13 +2303,10 @@ blockquote p {
     display: grid;
     gap: 1.25rem;
     align-items: center;
-    padding-top: clamp(2.75rem, 8vh, 4rem);
-}
-
-@media (max-width: 640px) {
-    #preloader .content {
-        padding-top: calc(3.5rem + env(safe-area-inset-top, 0px));
-    }
+    align-content: center;
+    justify-items: center;
+    min-height: 100vh;
+    padding-top: calc(clamp(2.75rem, 8vh, 4rem) + env(safe-area-inset-top, 0px));
 }
 
 #preloader .title, #contact-overlay .title {
@@ -2348,6 +2345,7 @@ blockquote p {
     opacity: 0;
     transform: translateY(12px);
     transition: opacity 0.65s ease, transform 0.65s ease;
+    position: relative;
 }
 
 #preloader .preloader-stage.stage-visible {
@@ -2358,6 +2356,8 @@ blockquote p {
 #preloader .preloader-stage {
     width: 100%;
     padding-top: clamp(1.5rem, 6vh, 2.5rem);
+    min-height: 100vh;
+    align-content: center;
 }
 
 #preloader .preloader-stage.stage-hidden {

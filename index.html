@@ -49,7 +49,7 @@
         </div>
         <div id="preloader-stage-social" class="preloader-stage preloader-stage-wide stage-hidden" hidden aria-live="polite">
           <div class="title overlay-text-box stage-fade-item" style="--stage-delay: 0.05s;">SATELLITE VIEW</div>
-          <div class="subtitle overlay-text-box stage-fade-item" style="--stage-delay: 0.15s;">Glide through the social docks without leaving orbit.<br>A quick snapshot: I move projects from idea to orbit by pairing hardware and software engineering with data analysis and product leadership, grounded in math, engineering, and design research.</div>
+          <div class="subtitle overlay-text-box stage-fade-item" style="--stage-delay: 0.15s;">Glide through the social docks without leaving orbit.<br>Quick snapshot: I take projects from idea to orbit by pairing math, sciences, engineering, and economics to build dependable hardware, software, data, and IT systems anchored in product design, leaning on clear thinking, steady execution, and outcomes you can rely on every time.</div>
           <div class="preloader-social-container stage-fade-item" style="--stage-delay: 0.35s;">
             <div id="preloader-social-slot" class="preloader-social-slot" aria-live="polite"></div>
           </div>
@@ -2115,6 +2115,9 @@
 
         function hideStage(fromStage, toStage, onShown){
           if(!fromStage || !toStage) return;
+          if(preloader && typeof preloader.scrollTo === 'function'){
+            preloader.scrollTo({ top: 0, behavior: 'auto' });
+          }
           fromStage.classList.remove('stage-visible');
           fromStage.classList.add('stage-hidden');
           let swapped=false;
