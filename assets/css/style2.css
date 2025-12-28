@@ -2102,6 +2102,13 @@ blockquote p {
     box-sizing: border-box;
 }
 
+@media (max-width: 640px) {
+    #preloader, #contact-overlay {
+        justify-content: flex-start;
+        padding-top: calc(4.5rem + env(safe-area-inset-top, 0px));
+    }
+}
+
 #preloader .sky-layer, #contact-overlay .sky-layer {
     position: absolute;
     inset: -30%;
@@ -2297,6 +2304,12 @@ blockquote p {
     gap: 1.25rem;
     align-items: center;
     padding-top: clamp(2.75rem, 8vh, 4rem);
+}
+
+@media (max-width: 640px) {
+    #preloader .content {
+        padding-top: calc(3.5rem + env(safe-area-inset-top, 0px));
+    }
 }
 
 #preloader .title, #contact-overlay .title {
