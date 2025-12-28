@@ -1,6 +1,6 @@
 # Work History
 
-Mostly, yes. The flow from hardware → software → data → IT/operations → design → business is logical: stack to infra to product to outcomes. If you want a cleaner narrative, you could tuck IT fully into operations and go “hardware → software → data → operations/IT → design → business.” Let me know which version to ship. Each section outlines focus areas and will be expanded with roles, projects, and references.
+Here are highlights from hardware, software, data, IT/operations, design, and business (including sales) roles that taught me how to connect strategy to shipped systems. Each section outlines focus areas and will be expanded with roles, projects, and references.
 
 <a id="hardware-development-work-history"></a>
 ## Hardware Development Work History

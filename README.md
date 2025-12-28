@@ -48,7 +48,7 @@ Below is a guided overview of what I’ve built so far, what I’m working on no
 ## About Me
 **Jaspreet Khela's Digital Doorstep**
 
-Hello, world! Mostly, yes. The flow from hardware → software → data → IT/operations → design → business is logical: stack to infra to product to outcomes. If you want a cleaner narrative, you could tuck IT fully into operations and go “hardware → software → data → operations/IT → design → business.” Let me know which version to ship. When I'm not shipping, I'm probably burning another grilled cheese for science.
+Hello, world! I pair mathematics, natural sciences, engineering, and economics to build dependable systems across hardware, software, data, IT/operations, and design. When I'm not shipping, I'm probably burning another grilled cheese for science.
 
 I lean on clear thinking that cuts through noise, steady execution, and outcomes you can rely on every time.
 
@@ -65,7 +65,7 @@ Near term, I want to contribute to technical R&D in quantum computing, machine l
 My MBTI is INTJ. On the Five-Factor model I sit lower on extraversion and prefer focused solo work or small, tight teams, stepping up when objectives are clear. I am moderately agreeable, collaborating respectfully while giving direct feedback with a bias for quality and safety. I score high on conscientiousness, planning ahead, keeping commitments, and leaning on checklists, metrics, and clear ownership to ship reliably. I am low to moderate on neuroticism, steady under pressure, and I use routines to avoid overwork and overthinking. I am moderate to high on openness, curious across disciplines, mixing structured study with experiments, and pairing new ideas with evidence and practicality.
 
 ### Capabilities
-I enjoy shaping strategy, making things, and leading teams. Mostly, yes. The flow from hardware → software → data → IT/operations → design → business is logical: stack to infra to product to outcomes. If you want a cleaner narrative, you could tuck IT fully into operations and go “hardware → software → data → operations/IT → design → business.” Let me know which version to ship.
+I enjoy shaping strategy, making things, and leading teams. I lean on quantitative analysis, storytelling, and clear communication to turn ambiguous goals into plans, align people, and build the hardware, software, data, IT/operations, design, and business pieces that make the plan real.
 
 ### Working Style
 I work best with clear writing, shared context, and tight feedback loops. In practice, I aim to align early on goals and constraints, communicate progress clearly, and give and receive feedback with respect.
@@ -79,7 +79,7 @@ I stay versatile by switching disciplines, testing ideas quickly, and translatin
 I study mathematics, natural sciences, engineering, and economics to understand how systems behave, scale, and stay stable. Mathematics sharpens proof, modeling, and probabilistic thinking. Natural sciences keep me grounded in observation and experimentation. Engineering turns constraints into reliable hardware and software. Economics frames incentives, markets, and trade-offs. Together these lenses help me spot patterns early, design resilient systems, and choose interventions that hold up in the real world.
 
 ### Professional Focus
-Mostly, yes. The flow from hardware → software → data → IT/operations → design → business is logical: stack to infra to product to outcomes. If you want a cleaner narrative, you could tuck IT fully into operations and go “hardware → software → data → operations/IT → design → business.” Let me know which version to ship.
+I build dependable, human-centered products by bridging hardware, software, data, IT/operations, and design. I connect user research to technical choices and roll out changes safely so services stay usable and reliable in production.
 
 ### Personal Pursuits
 I prototype side projects, study human factors and design, and keep tinkering to stay curious. Rotating between coding, electronics, writing, and design keeps the work fresh and feeds small improvements back into daily work.
@@ -117,7 +117,7 @@ Technical blog posts cover build logs, lessons learned, and tutorials from what 
 
 <a id="work-history-title"></a>
 ## Work History
-Mostly, yes. The flow from hardware → software → data → IT/operations → design → business is logical: stack to infra to product to outcomes. If you want a cleaner narrative, you could tuck IT fully into operations and go “hardware → software → data → operations/IT → design → business.” Let me know which version to ship.
+Here are highlights from hardware, software, data, IT/operations, design, and business (including sales) roles that taught me how to connect strategy to shipped systems. Each category links to the quick-access work history page for details, references, and projects.
 
 ### [Hardware Development Work History](quick-access/work-history.md#hardware-development-work-history)
 Hardware work spans embedded and electromechanical systems that connect sensors and actuators to reliable firmware, software, and field-ready prototypes.
