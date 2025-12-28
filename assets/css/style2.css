@@ -2725,7 +2725,7 @@ blockquote p {
     margin: 1.25rem 0 0;
     opacity: 0;
     transform: translateY(8px);
-    transition: opacity 0.95s ease 4.6s, transform 0.95s ease 4.6s;
+    transition: opacity 0.95s ease 6.4s, transform 0.95s ease 6.4s;
 }
 
 .contact-card-slot .card {
@@ -2817,11 +2817,11 @@ body.contact-overlay-open {
     display: flex;
     justify-content: center;
     width: 100%;
-    margin-top: -1rem;
+    margin-top: 0;
     margin-bottom: 2.5rem;
     opacity: 0;
     transform: translateY(10px);
-    transition: opacity 1s ease 5.8s, transform 1s ease 5.8s;
+    transition: opacity 1s ease 9.4s, transform 1s ease 9.4s;
 }
 
 #contact-overlay.show .sky-layer,
