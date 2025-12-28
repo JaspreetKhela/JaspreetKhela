@@ -52,8 +52,6 @@ Hello, world! I pair mathematics, natural sciences, engineering, and economics t
 
 I lean on clear thinking that cuts through noise, steady execution, and outcomes you can rely on every time.
 
-I'm a Toronto-based full-stack engineer who blends hardware, software, data, operations, and product design to ship systems that hold up in production.
-
 ### Motto
 Preparation. Pace. Patience. Persistence. Facta, Non Verba. Do the groundwork, move steadily, stay calm through slow climbs, and let shipped work speak louder than claims.
 
