@@ -1,6 +1,6 @@
 # Digital Systems: Software Training and Development
 
-Training and development in full-stack engineering to translate ideas into secure, reliable software.
+Training and development in full-stack engineering to translate ideas into secure, reliable software within the Digital Systems layer.
 
 <a id="programming-fundamentals"></a>
 ## Programming Fundamentals
@@ -149,4 +149,3 @@ Courses or drills to practice, get feedback, or prepare for reviews in quality, 
 ### Integration / Capstone
 End-to-end courses that integrate quality, testing & delivery into a cohesive project or showcase.
 - [Coming Soon]
-

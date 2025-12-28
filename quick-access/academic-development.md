@@ -1,6 +1,6 @@
 # Foundations: Academic Training and Development
 
-Training and development in core disciplines to build reasoning, proof, and theory-to-practice skills as the base layer.
+Training and development in core disciplines to build reasoning, proof, and theory-to-practice skills for the Foundations (Theory & Cognition) layer.
 
 <a id="mathematics"></a>
 ## Mathematics
@@ -149,4 +149,3 @@ Courses or drills to practice, get feedback, or prepare for reviews in research 
 ### Integration / Capstone
 End-to-end courses that integrate research methods into a cohesive project or showcase.
 - [Coming Soon]
-

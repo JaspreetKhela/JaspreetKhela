@@ -1,6 +1,6 @@
 # Organizational Systems: Business Training and Development
 
-Training and development in commercial fundamentals spanning business basics, strategy, go-to-market, finance, governance, and venture building.
+Training and development in commercial fundamentals spanning business basics, strategy, go-to-market, finance, governance, and venture building for the Organizational Systems layer.
 
 <a id="business-fundamentals"></a>
 ## Business Fundamentals

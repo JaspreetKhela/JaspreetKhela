@@ -1,6 +1,6 @@
 # Physical Systems: Skilled Trades Training and Development
 
-Training and development in hands-on craft that keeps designs grounded in codes, safety, and buildability.
+Training and development in hands-on craft that keeps designs grounded in codes, safety, and buildability for the Physical Systems layer.
 
 <a id="safety-codes-standards"></a>
 ## Safety, Codes & Standards
@@ -149,4 +149,3 @@ Courses or drills to practice, get feedback, or prepare for reviews in metalwork
 ### Integration / Capstone
 End-to-end courses that integrate metalwork & fabrication into a cohesive project or showcase.
 - [Coming Soon]
-

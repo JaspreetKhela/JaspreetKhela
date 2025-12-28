@@ -1,6 +1,6 @@
 # Information & Decision Systems: Data Training and Development
 
-Training and development in analytics, engineering, and science to turn clean signal into confident decisions.
+Training and development in analytics, engineering, and science to turn clean signal into confident decisions across the Information & Decision Systems layer.
 
 <a id="statistics-probability"></a>
 ## Statistics & Probability
@@ -149,4 +149,3 @@ Courses or drills to practice, get feedback, or prepare for reviews in governanc
 ### Integration / Capstone
 End-to-end courses that integrate governance, ethics & security into a cohesive project or showcase.
 - [Coming Soon]
-

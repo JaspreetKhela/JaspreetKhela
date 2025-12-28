@@ -1,6 +1,6 @@
 # Creative & Expressive Systems: Performance Arts Training and Development
 
-Training and development that build from voice and movement to acting fundamentals, rehearsal, camera work, and review to sharpen communication, presence, and iteration.
+Training and development that build from voice and movement to acting fundamentals, rehearsal, camera work, and review to sharpen communication, presence, and iteration for the Creative & Expressive Systems layer.
 
 <a id="voice-movement"></a>
 ## Voice & Movement

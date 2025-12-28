@@ -1,6 +1,6 @@
 # Creative & Expressive Systems: Multimedia Training and Development
 
-Training and development that start with visual and audio fundamentals, move through production, editing, and motion, and finish with publishing to tell clear visual and audio stories.
+Training and development that start with visual and audio fundamentals, move through production, editing, and motion, and finish with publishing to tell clear visual and audio stories for the Creative & Expressive Systems layer.
 
 <a id="visual-audio-fundamentals"></a>
 ## Visual & Audio Fundamentals

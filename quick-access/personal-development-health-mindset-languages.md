@@ -1,6 +1,6 @@
 # Foundations: Personal Training and Development
 
-Training and development in personal systems—health, learning, routines, and composure—that keep every other stack stable.
+Training and development across personal systems including health, learning, routines, and composure that keep every other stack stable for the Foundations (Theory & Cognition) layer.
 
 <a id="health-physical-fitness"></a>
 ## Health & Physical Fitness
@@ -107,4 +107,3 @@ Courses or drills to practice, get feedback, or prepare for reviews in communica
 ### Integration / Capstone
 End-to-end courses that integrate communication & languages into a cohesive project or showcase.
 - [Coming Soon]
-

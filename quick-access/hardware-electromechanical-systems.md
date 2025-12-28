@@ -1,6 +1,6 @@
 # Physical Systems: Hardware Training and Development
 
-Training and development in embedded, electromechanical, and test work for reliable devices.
+Training and development in embedded, electromechanical, and test work for reliable devices in the Physical Systems layer.
 
 <a id="electrical-fundamentals"></a>
 ## Electrical Fundamentals
@@ -128,4 +128,3 @@ Courses or drills to practice, get feedback, or prepare for reviews in systems i
 ### Integration / Capstone
 End-to-end courses that integrate systems integration & testing into a cohesive project or showcase.
 - [Coming Soon]
-
