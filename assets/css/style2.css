@@ -2339,7 +2339,8 @@ blockquote p {
     margin: 0 auto 0.6rem;
 }
 
-#preloader .preloader-stage {
+#preloader .preloader-stage,
+#contact-overlay .preloader-stage {
     display: grid;
     gap: 1.25rem;
     justify-items: center;
@@ -2349,29 +2350,34 @@ blockquote p {
     position: relative;
 }
 
-#preloader .preloader-stage.stage-visible {
+#preloader .preloader-stage.stage-visible,
+#contact-overlay .preloader-stage.stage-visible {
     opacity: 1;
     transform: translateY(0);
 }
 
-#preloader .preloader-stage {
+#preloader .preloader-stage,
+#contact-overlay .preloader-stage {
     width: 100%;
     padding-top: clamp(1.5rem, 6vh, 2.5rem);
     min-height: 100vh;
     align-content: center;
 }
 
-#preloader .preloader-stage.stage-hidden {
+#preloader .preloader-stage.stage-hidden,
+#contact-overlay .preloader-stage.stage-hidden {
     opacity: 0;
     transform: translateY(-10px);
     pointer-events: none;
 }
 
-#preloader .preloader-stage[hidden] {
+#preloader .preloader-stage[hidden],
+#contact-overlay .preloader-stage[hidden] {
     display: none;
 }
 
-#preloader .preloader-stage .stage-fade-item {
+#preloader .preloader-stage .stage-fade-item,
+#contact-overlay .preloader-stage .stage-fade-item {
     opacity: 0;
     transform: translateY(10px);
     --stage-duration: 1.2s;
@@ -2379,12 +2385,14 @@ blockquote p {
     transition-delay: var(--stage-delay, 0s);
 }
 
-#preloader .preloader-stage.stage-active .stage-fade-item {
+#preloader .preloader-stage.stage-active .stage-fade-item,
+#contact-overlay .preloader-stage.stage-active .stage-fade-item {
     opacity: 1;
     transform: translateY(0);
 }
 
-#preloader .preloader-stage.preloader-stage-wide {
+#preloader .preloader-stage.preloader-stage-wide,
+#contact-overlay .preloader-stage.preloader-stage-wide {
     max-width: 100%;
     width: 100%;
 }
