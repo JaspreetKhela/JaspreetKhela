@@ -1,109 +1,94 @@
 # Creative & Expressive Systems: Multimedia Training and Development
 
-Training and development that start with visual and audio fundamentals, move through production, editing, and motion, and finish with publishing to tell clear visual and audio stories for the Creative & Expressive Systems layer.
+Multimedia training starts with visual and audio fundamentals, moves through production and capture, editing and post-production, motion and graphics, and finishes with publishing and distribution to tell clear visual and audio stories for the Creative & Expressive Systems layer. This section shapes ideas into finished media that is ready to release and improve.
 
 <a id="visual-audio-fundamentals"></a>
 ## Visual & Audio Fundamentals
+Visual and audio fundamentals training introduces light, sound, composition, and signal basics as the base layer for production.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for visual & audio fundamentals.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where visual & audio fundamentals is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in visual & audio fundamentals.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in visual & audio fundamentals.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate visual & audio fundamentals into a cohesive project or showcase.
 - [Coming Soon]
 
 ## Production & Capture
+Production and capture training covers planning, directing, and capturing assets as core production steps.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for production & capture.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where production & capture is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in production & capture.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in production & capture.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate production & capture into a cohesive project or showcase.
 - [Coming Soon]
 
 ## Editing & Post-Production
+Editing and post-production training explains pacing, sound design, color, and delivery fundamentals.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for editing & post-production.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where editing & post-production is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in editing & post-production.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in editing & post-production.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate editing & post-production into a cohesive project or showcase.
 - [Coming Soon]
 
 ## Motion & Graphics
+Motion and graphics training highlights animation, visual effects, and visual clarity fundamentals.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for motion & graphics.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where motion & graphics is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in motion & graphics.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in motion & graphics.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate motion & graphics into a cohesive project or showcase.
 - [Coming Soon]
 
 ## Publishing & Distribution
+Publishing and distribution training covers release management, analytics, and iteration fundamentals.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for publishing & distribution.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where publishing & distribution is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in publishing & distribution.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in publishing & distribution.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate publishing & distribution into a cohesive project or showcase.
 - [Coming Soon]

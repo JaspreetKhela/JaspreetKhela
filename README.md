@@ -93,55 +93,55 @@ Jump to the four hubs where I share work: LinkedIn for roles, GitHub for code, Y
 
 <a id="professional-work-history"></a>
 ### Professional Work History
-My roles, projects, and references all in one place.
+My professional work history gathers roles, projects, and references in one place.
 
 - [LinkedIn](https://www.linkedin.com/in/jaspreetkhela/)
 
 <a id="technical-education-and-work-repositories"></a>
 ### Technical Education and Work Repositories
-Code, experiments, and shipped projects across web, mobile, data, and product design.
+My repositories link to code, experiments, and shipped projects across web, mobile, data, and product design.
 
 - [GitHub](https://github.com/JaspreetKhela)
 
 <a id="education-and-work-videos"></a>
 ### Education and Work Videos
-Quick videos on mindset, tech how-tos, and builds in progress.
+Education and work videos share quick pieces on mindset, technology how-tos, and builds in progress.
 
 - [YouTube](https://www.youtube.com/channel/UC5ybM4pfG9mW_r5YcpmVRPg)
 
 <a id="technical-education-and-work-blog-posts"></a>
 ### Technical Education and Work Blog Posts
-Build logs, lessons learned, and tutorials from what I'm making.
+Technical blog posts cover build logs, lessons learned, and tutorials from what I'm making.
 
 - [Hashnode](https://jaspreetkhela.hashnode.dev/)
 
 <a id="work-history-title"></a>
 ## Work History
-Highlights from roles across hardware, software, data, operations, design, management, and sales. Each category links to the quick-access work history page for details, references, and projects.
+Here are highlights from hardware, software, data, IT, product design, operations, and sales roles that taught me how to connect strategy to shipped systems. Each category links to the quick-access work history page for details, references, and projects.
 
 ### [Hardware Development Work History](quick-access/work-history.md#hardware-development-work-history)
-Building embedded and electromechanical systems that connect sensors and actuators to reliable firmware, software, and field-ready prototypes. This includes circuit design, firmware bring-up, test fixtures, and validation so devices can be deployed and supported confidently in the field.
+Hardware work spans embedded and electromechanical systems that connect sensors and actuators to reliable firmware, software, and field-ready prototypes.
 
 ### [Software Development Work History](quick-access/work-history.md#software-development-work-history)
-Translating needs into services and interfaces with an emphasis on usability, reliability, and secure delivery. Work spans planning, API and UI design, observability, and release practices that keep products stable as they evolve.
+Software work translates needs into fast services and interfaces with an eye on usability and reliability.
 
 ### [Data Engineering, Analytics, and Science Work History](quick-access/work-history.md#data-engineering-analytics-and-science-work-history)
-Using pipelines, analytics, experiments, and models to turn data into decisions and production outcomes. Projects cover instrumentation, quality checks, experimentation, and productionized models that stay trustworthy over time.
+Data work uses notebooks, statistics, machine learning, and experiments to turn data into decisions.
 
 ### [IT Operations Work History](quick-access/work-history.md#it-operations-work-history)
-Keeping production systems healthy with monitoring, automation, incident response, and operational readiness. Focus areas include runbooks, alert hygiene, change management, and recovery drills to reduce downtime and risk.
+IT operations keep production systems healthy with monitoring, automation, incident response, and reliability practices that reduce downtime and improve performance.
 
 ### [Project and Product Management Work History](quick-access/work-history.md#project-and-product-management-work-history)
-Planning, prioritizing, and shipping with clear backlogs, releases, and tight feedback loops. This covers roadmap shaping, stakeholder alignment, and delivery cadence so teams can ship predictably.
+Project and product management keep backlogs tidy, set priorities, and plan releases with tight feedback loops.
 
 ### [Product Design Work History](quick-access/work-history.md#product-design-work-history)
-Taking ideas from research and sketches to polished designs with usability, clarity, and design-system discipline. Work emphasizes user research, interaction design, copy, and design-system reuse to ship coherent experiences.
+Product design takes ideas from sketches to polished mockups with design systems, clear copy, and usability tests.
 
 ### [Business Operations and Management Work History](quick-access/work-history.md#business-operations-and-management-work-history)
-Coordinating vendors, budgets, processes, and automation to remove friction and scale execution. Responsibilities include vendor management, budgeting, SOPs, and automation that keep operations predictable.
+Business operations coordinate vendors, budgets, and process automation to remove friction.
 
 ### [Business Development and Sales Work History](quick-access/work-history.md#business-development-and-sales-work-history)
-Running go-to-market, sales, and partnerships from outreach through close with proposals and negotiations that build trust. Effort centers on discovery, account strategy, and deal execution that align with delivery capacity.
+Business development builds decks, proposals, and negotiations that move deals forward while keeping partners confident.
 
 <a id="quick-access-webpage-links"></a>
 ## Learning & Capabilities Map

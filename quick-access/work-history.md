@@ -1,43 +1,43 @@
 # Work History
 
-Snapshots of professional experience across hardware, software, data, operations, design, management, and commercial execution. Each section outlines focus areas and will be expanded with roles, projects, and references.
+Here are highlights from hardware, software, data, IT, product design, operations, and sales roles that taught me how to connect strategy to shipped systems. Each section outlines focus areas and will be expanded with roles, projects, and references.
 
 <a id="hardware-development-work-history"></a>
 ## Hardware Development Work History
-End-to-end hardware development, from circuits and firmware to fixtures, validation, and manufacturing handoff.
+Hardware work spans embedded and electromechanical systems that connect sensors and actuators to reliable firmware, software, and field-ready prototypes.
 - [Coming Soon]
 
 <a id="software-development-work-history"></a>
 ## Software Development Work History
-Full-stack engineering work spanning planning, services, interfaces, security, and reliable delivery.
+Software work translates needs into fast services and interfaces with an eye on usability and reliability.
 - [Coming Soon]
 
 <a id="data-engineering-analytics-and-science-work-history"></a>
 ## Data Engineering, Analytics, and Science Work History
-Building pipelines, analytics, experiments, and models that move from insight to production decisions.
+Data work uses notebooks, statistics, machine learning, and experiments to turn data into decisions.
 - [Coming Soon]
 
 <a id="it-operations-work-history"></a>
 ## IT Operations Work History
-Keeping systems healthy with monitoring, automation, incident response, and operational readiness.
+IT operations keep production systems healthy with monitoring, automation, incident response, and reliability practices that reduce downtime and improve performance.
 - [Coming Soon]
 
 <a id="project-and-product-management-work-history"></a>
 ## Project and Product Management Work History
-Planning, prioritizing, and shipping with clear backlogs, releases, and feedback loops.
+Project and product management keep backlogs tidy, set priorities, and plan releases with tight feedback loops.
 - [Coming Soon]
 
 <a id="product-design-work-history"></a>
 ## Product Design Work History
-Taking ideas from research and sketches to polished designs with usability and clarity.
+Product design takes ideas from sketches to polished mockups with design systems, clear copy, and usability tests.
 - [Coming Soon]
 
 <a id="business-operations-and-management-work-history"></a>
 ## Business Operations and Management Work History
-Coordinating vendors, budgets, processes, and automation to remove friction and scale execution.
+Business operations coordinate vendors, budgets, and process automation to remove friction.
 - [Coming Soon]
 
 <a id="business-development-and-sales-work-history"></a>
 ## Business Development and Sales Work History
-Go-to-market strategy, sales, and partnerships from outreach through close, with proposals and negotiations that build trust.
+Business development builds decks, proposals, and negotiations that move deals forward while keeping partners confident.
 - [Coming Soon]

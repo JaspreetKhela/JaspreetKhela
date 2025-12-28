@@ -1,130 +1,112 @@
 # Organizational Systems: Business Training and Development
 
-Training and development in commercial fundamentals spanning business basics, strategy, go-to-market, finance, governance, and venture building for the Organizational Systems layer.
+Business training moves from fundamentals and strategy through sales, marketing and go-to-market, finance and investment analysis, risk, compliance and governance, and entrepreneurship and venture building to shape the Organizational Systems layer. This section ties commercial analysis to execution so plans become durable businesses.
 
 <a id="business-fundamentals"></a>
 ## Business Fundamentals
+Business fundamentals training covers financial statements, unit economics, and core operations as the commercial base.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for business fundamentals.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where business fundamentals is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in business fundamentals.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in business fundamentals.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate business fundamentals into a cohesive project or showcase.
 - [Coming Soon]
 
 ## Strategy & Competitive Analysis
+Strategy and competitive analysis training explores market research, positioning, incentives, and market structure fundamentals.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for strategy & competitive analysis.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where strategy & competitive analysis is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in strategy & competitive analysis.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in strategy & competitive analysis.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate strategy & competitive analysis into a cohesive project or showcase.
 - [Coming Soon]
 
 ## Sales, Marketing & Go-to-Market
+Sales, marketing, and go-to-market training explains segmentation, pipeline design, qualification, messaging, and revenue execution fundamentals.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for sales, marketing & go-to-market.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where sales, marketing & go-to-market is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in sales, marketing & go-to-market.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in sales, marketing & go-to-market.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate sales, marketing & go-to-market into a cohesive project or showcase.
 - [Coming Soon]
 
 ## Finance & Investment Analysis
+Finance and investment analysis training highlights capital planning, valuation, and portfolio thinking fundamentals.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for finance & investment analysis.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where finance & investment analysis is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in finance & investment analysis.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in finance & investment analysis.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate finance & investment analysis into a cohesive project or showcase.
 - [Coming Soon]
 
 ## Risk, Compliance & Governance
+Risk, compliance, and governance training focuses on controls, audit readiness, and accountability fundamentals.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for risk, compliance & governance.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where risk, compliance & governance is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in risk, compliance & governance.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in risk, compliance & governance.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate risk, compliance & governance into a cohesive project or showcase.
 - [Coming Soon]
 
 ## Entrepreneurship & Venture Building
+Entrepreneurship and venture building training covers idea validation, product-market fit, financing options, and operating cadence essentials.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for entrepreneurship & venture building.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where entrepreneurship & venture building is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in entrepreneurship & venture building.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in entrepreneurship & venture building.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate entrepreneurship & venture building into a cohesive project or showcase.
 - [Coming Soon]

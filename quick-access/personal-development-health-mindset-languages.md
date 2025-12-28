@@ -1,109 +1,94 @@
 # Foundations: Personal Training and Development
 
-Training and development across personal systems including health, learning, routines, and composure that keep every other stack stable for the Foundations (Theory & Cognition) layer.
+Training and development in health and physical fitness, learning systems, mindset and habits, resilience and stress management, and communication and languages keep the Foundations (Theory & Cognition) layer stable in that order. This section locks in daily routines that support focus, recovery, and clear communication.
 
 <a id="health-physical-fitness"></a>
 ## Health & Physical Fitness
+Health and physical fitness training emphasizes strength, conditioning, mobility, and recovery fundamentals.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for health & physical fitness.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where health & physical fitness is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in health & physical fitness.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in health & physical fitness.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate health & physical fitness into a cohesive project or showcase.
 - [Coming Soon]
 
 ## Learning Systems & Memory
+Learning systems training explains study workflows, spaced review, and retention fundamentals.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for learning systems & memory.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where learning systems & memory is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in learning systems & memory.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in learning systems & memory.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate learning systems & memory into a cohesive project or showcase.
 - [Coming Soon]
 
 ## Habits, Discipline & Routines
+Habits, discipline, and routines training explores habit loops, tracking, and environment design for consistent execution.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for habits, discipline & routines.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where habits, discipline & routines is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in habits, discipline & routines.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in habits, discipline & routines.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate habits, discipline & routines into a cohesive project or showcase.
 - [Coming Soon]
 
 ## Mindset & Stress Management
+Resilience and stress management training covers attention, emotional regulation, and recovery tools as daily foundations.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for mindset & stress management.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where mindset & stress management is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in mindset & stress management.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in mindset & stress management.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate mindset & stress management into a cohesive project or showcase.
 - [Coming Soon]
 
 ## Communication & Languages
+Communication and languages training highlights writing, speaking, and multilingual practice fundamentals.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for communication & languages.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where communication & languages is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in communication & languages.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in communication & languages.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate communication & languages into a cohesive project or showcase.
 - [Coming Soon]

@@ -1,151 +1,130 @@
 # Information & Decision Systems: Data Training and Development
 
-Training and development in analytics, engineering, and science to turn clean signal into confident decisions across the Information & Decision Systems layer.
+Analytics, engineering, and science training progress through statistics and probability, data collection and instrumentation, data engineering and pipelines, analytics and business intelligence, modeling and machine learning, experimentation and decision systems, and governance, ethics, and security to move from clean signal to confident decisions across the Information & Decision Systems layer. This section keeps data trustworthy from capture to policy.
 
 <a id="statistics-probability"></a>
 ## Statistics & Probability
+Statistics and probability training builds inference, uncertainty quantification, and quantitative reasoning fundamentals.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for statistics & probability.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where statistics & probability is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in statistics & probability.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in statistics & probability.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate statistics & probability into a cohesive project or showcase.
 - [Coming Soon]
 
 ## Data Collection & Instrumentation
+Data collection and instrumentation training covers events, schemas, and signal quality fundamentals.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for data collection & instrumentation.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where data collection & instrumentation is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in data collection & instrumentation.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in data collection & instrumentation.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate data collection & instrumentation into a cohesive project or showcase.
 - [Coming Soon]
 
 ## Data Engineering & Pipelines
+Data engineering and pipelines training explains ingestion, transformation, and reliability fundamentals.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for data engineering & pipelines.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where data engineering & pipelines is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in data engineering & pipelines.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in data engineering & pipelines.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate data engineering & pipelines into a cohesive project or showcase.
 - [Coming Soon]
 
 ## Analytics & Business Intelligence
+Analytics and business intelligence training highlights metric design, visualization, and decision narrative fundamentals.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for analytics & business intelligence.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where analytics & business intelligence is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in analytics & business intelligence.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in analytics & business intelligence.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate analytics & business intelligence into a cohesive project or showcase.
 - [Coming Soon]
 
 ## Modeling & Machine Learning
+Modeling and machine learning training covers feature design, model evaluation, and deployment fundamentals.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for modeling & machine learning.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where modeling & machine learning is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in modeling & machine learning.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in modeling & machine learning.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate modeling & machine learning into a cohesive project or showcase.
 - [Coming Soon]
 
 ## Experimentation & Decision Systems
+Experimentation and decision systems training focuses on testing, causal methods, and policy design fundamentals.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for experimentation & decision systems.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where experimentation & decision systems is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in experimentation & decision systems.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in experimentation & decision systems.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate experimentation & decision systems into a cohesive project or showcase.
 - [Coming Soon]
 
 ## Governance, Ethics & Security
+Governance, ethics, and security training emphasize stewardship, privacy, and responsible use fundamentals.
+
 ### Foundations / Theory
-Courses focused on core principles, models, and standards for governance, ethics & security.
 - [Coming Soon]
 
 ### Applied / Projects
-Courses where governance, ethics & security is applied through builds, labs, or fieldwork.
 - [Coming Soon]
 
 ### Tools / Stack
-Courses on tools, platforms, or frameworks commonly used in governance, ethics & security.
 - [Coming Soon]
 
 ### Practice / Assessment
-Courses or drills to practice, get feedback, or prepare for reviews in governance, ethics & security.
 - [Coming Soon]
 
 ### Integration / Capstone
-End-to-end courses that integrate governance, ethics & security into a cohesive project or showcase.
 - [Coming Soon]
