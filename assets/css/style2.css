@@ -2291,11 +2291,12 @@ blockquote p {
 #preloader .content, #contact-overlay .content {
     position: relative;
     z-index: 10;
-    max-width: 720px;
+    max-width: min(1200px, 96vw);
+    width: 100%;
     display: grid;
     gap: 1.25rem;
     align-items: center;
-    padding-top: 2.75rem;
+    padding-top: clamp(2.75rem, 8vh, 4rem);
 }
 
 #preloader .title, #contact-overlay .title {
@@ -2325,6 +2326,148 @@ blockquote p {
     width: auto;
     max-width: 90%;
     margin: 0 auto 0.6rem;
+}
+
+#preloader .preloader-stage {
+    display: grid;
+    gap: 1.25rem;
+    justify-items: center;
+    opacity: 0;
+    transform: translateY(12px);
+    transition: opacity 0.65s ease, transform 0.65s ease;
+}
+
+#preloader .preloader-stage.stage-visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+#preloader .preloader-stage {
+    width: 100%;
+    padding-top: clamp(1.5rem, 6vh, 2.5rem);
+}
+
+#preloader .preloader-stage.stage-hidden {
+    opacity: 0;
+    transform: translateY(-10px);
+    pointer-events: none;
+}
+
+#preloader .preloader-stage[hidden] {
+    display: none;
+}
+
+#preloader .preloader-stage .stage-fade-item {
+    opacity: 0;
+    transform: translateY(10px);
+    --stage-duration: 1.2s;
+    transition: opacity var(--stage-duration) ease, transform var(--stage-duration) ease;
+    transition-delay: var(--stage-delay, 0s);
+}
+
+#preloader .preloader-stage.stage-active .stage-fade-item {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+#preloader .preloader-stage.preloader-stage-wide {
+    max-width: 100%;
+    width: 100%;
+}
+
+#preloader .preloader-social-container {
+    width: 100%;
+}
+
+#preloader .preloader-social-slot {
+    width: 100%;
+}
+
+#preloader .preloader-social-slot .container {
+    max-width: none;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+}
+
+#preloader .preloader-social-slot .row {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 1rem;
+    margin: 0;
+    width: 100%;
+}
+
+#preloader .preloader-social-slot .row > * {
+    flex: 1 1 25%;
+    min-width: 240px;
+    max-width: 25%;
+}
+
+@media (max-width: 1200px) {
+    #preloader .preloader-social-slot .row {
+        flex-wrap: wrap;
+    }
+    #preloader .preloader-social-slot .row > * {
+        flex: 1 1 50%;
+        max-width: 50%;
+    }
+}
+
+@media (max-width: 768px) {
+    #preloader .preloader-social-slot .row > * {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
+}
+
+#preloader-stage-social .preloader-social-slot .row > * {
+    opacity: 0;
+    transform: translateY(12px);
+    transition: opacity 0.95s ease, transform 0.95s ease;
+}
+
+#preloader-stage-social.stage-active .preloader-social-slot .row > * {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+#preloader-stage-social .preloader-social-slot .row > *:nth-child(1) { transition-delay: 1s; }
+#preloader-stage-social .preloader-social-slot .row > *:nth-child(2) { transition-delay: 2s; }
+#preloader-stage-social .preloader-social-slot .row > *:nth-child(3) { transition-delay: 3s; }
+#preloader-stage-social .preloader-social-slot .row > *:nth-child(4) { transition-delay: 4s; }
+
+#preloader-stage-social .choice-actions {
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 1s ease 5s, transform 1s ease 5s;
+}
+
+#preloader-stage-social.stage-active .choice-actions {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+#preloader-stage-choice .overlay-text-box.stage-fade-item {
+    /* Match loading-screen style */
+    opacity: 0;
+    transform: translateY(6px);
+    --stage-duration: 1.2s;
+    transition: opacity var(--stage-duration) ease, transform var(--stage-duration) ease;
+    transition-delay: calc(var(--stage-delay, 0s) + 0.2s);
+}
+
+#preloader-stage-choice.stage-active .overlay-text-box.stage-fade-item {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+#preloader .choice-actions {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 #preloader .loading-group {
@@ -2405,7 +2548,7 @@ blockquote p {
     opacity: 1;
 }
 
-#preloader.ready .overlay-text-box {
+#preloader.ready #preloader-stage-initial .overlay-text-box {
     opacity: 1;
     transform: translateY(0);
 }
@@ -2591,6 +2734,25 @@ body.contact-overlay-open {
     text-align: center;
     text-shadow: 0 0 16px rgba(111, 177, 255, 0.65);
     margin: 0 auto;
+    min-width: 150px;
+    transition: box-shadow 0.25s ease, transform 0.2s ease;
+}
+
+.overlay-cta.secondary {
+    background: linear-gradient(135deg, rgba(5, 9, 20, 0.82), rgba(12, 24, 44, 0.8));
+    border-color: rgba(255, 255, 255, 0.28);
+}
+
+.overlay-cta:focus-visible,
+.overlay-cta:hover {
+    box-shadow: 0 0 24px rgba(111, 177, 255, 0.55), 0 0 0 1px rgba(255, 255, 255, 0.2);
+    transform: translateY(-1px);
+    outline: none;
+}
+
+.overlay-cta:active {
+    transform: translateY(0);
+    box-shadow: 0 0 18px rgba(111, 177, 255, 0.45), 0 0 0 1px rgba(255, 255, 255, 0.18);
 }
 
 .contact-actions {

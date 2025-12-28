@@ -30,13 +30,34 @@
       <div class="planet two"></div>
       <div class="planet three"></div>
       <div class="content">
-        <div class="title overlay-text-box">Jaspreet Khela</div>
-        <div class="subtitle overlay-text-box">A curious builder’s guide to hardware, software, data, design, operations, business, and the moonlit builds that keep the engines burning.</div>
-        <div class="loading-group">
-          <div class="loading-bar"></div>
-          <div class="loading">Rendering your experience...</div>
+        <div id="preloader-stage-initial" class="preloader-stage stage-visible" aria-live="polite">
+          <div class="title overlay-text-box">Jaspreet Khela</div>
+          <div class="subtitle overlay-text-box">A curious builder’s guide to hardware, software, data, design, operations, business, and the moonlit builds that keep the engines burning.</div>
+          <div class="loading-group">
+            <div class="loading-bar"></div>
+            <div class="loading">Rendering your experience...</div>
+          </div>
+          <button id="preloader-begin" class="begin-btn overlay-cta" disabled aria-label="Begin your journey">Begin Your Journey</button>
         </div>
-        <button id="preloader-begin" class="begin-btn overlay-cta" disabled aria-label="Begin your journey">Begin Your Journey</button>
+        <div id="preloader-stage-choice" class="preloader-stage stage-hidden" hidden aria-live="polite">
+          <div class="title overlay-text-box stage-fade-item" style="--stage-delay: 0.05s;">Choose Your Trajectory</div>
+          <div class="subtitle overlay-text-box stage-fade-item" style="--stage-delay: 0.15s;">Stay in orbit to enjoy the view, or land on the site to explore the full map.</div>
+          <div class="choice-actions stage-fade-item" style="--stage-delay: 0.3s;">
+            <button id="preloader-stay" class="overlay-cta secondary" type="button" aria-label="Stay on this screen">Stay In Orbit</button>
+            <button id="preloader-visit" class="overlay-cta" type="button" aria-label="Visit my planet">Visit My Planet</button>
+          </div>
+        </div>
+        <div id="preloader-stage-social" class="preloader-stage preloader-stage-wide stage-hidden" hidden aria-live="polite">
+          <div class="title overlay-text-box stage-fade-item" style="--stage-delay: 0.05s;">Orbit Signals</div>
+          <div class="subtitle overlay-text-box stage-fade-item" style="--stage-delay: 0.15s;">Glide through the social docks without leaving orbit.</div>
+          <div class="preloader-social-container stage-fade-item" style="--stage-delay: 0.35s;">
+            <div id="preloader-social-slot" class="preloader-social-slot" aria-live="polite"></div>
+          </div>
+          <div class="choice-actions stage-fade-item" style="--stage-delay: 0.5s;">
+            <button id="preloader-social-back" class="overlay-cta secondary" type="button" aria-label="Back to choices">Back</button>
+            <button id="preloader-social-visit" class="overlay-cta" type="button" aria-label="Visit my planet from socials">Visit My Planet</button>
+          </div>
+        </div>
       </div>
       <div class="popup-gif bottom-left" aria-hidden="true">
         <iframe src="https://giphy.com/embed/A6KHyt3LyHe3mYYLCm" width="100%" height="100%" frameborder="0" allowfullscreen loading="lazy" title="Animated rocket"></iframe>
@@ -2022,7 +2043,19 @@
         const beginBtn=document.getElementById('preloader-begin');
         const body=document.body;
         const loadingGroup=document.querySelector('#preloader .loading-group');
+        const initialStage=document.getElementById('preloader-stage-initial');
+        const choiceStage=document.getElementById('preloader-stage-choice');
+        const socialStage=document.getElementById('preloader-stage-social');
+        const stayBtn=document.getElementById('preloader-stay');
+        const visitBtn=document.getElementById('preloader-visit');
+        const socialBackBtn=document.getElementById('preloader-social-back');
+        const socialVisitBtn=document.getElementById('preloader-social-visit');
+        const socialSlot=document.getElementById('preloader-social-slot');
         if(!preloader || !beginBtn || !body) return;
+        let choiceVisible=false;
+        let socialVisible=false;
+        let exiting=false;
+        let socialsFilled=false;
 
         beginBtn.disabled=true;
         requestAnimationFrame(()=>{ preloader.classList.add('ready'); });
@@ -2050,7 +2083,9 @@
           }
         }, 10000);
 
-        beginBtn.addEventListener('click', ()=>{
+        function exitPreloader(){
+          if(exiting) return;
+          exiting=true;
           preloader.classList.add('hidden');
           const fadeMs=1800;
           const heroDelay=2000;
@@ -2059,7 +2094,153 @@
             setTimeout(()=>{ body.classList.add('hero-reveal'); }, heroDelay);
             setTimeout(()=>{ preloader.remove(); }, 50);
           }, fadeMs);
-        });
+        }
+
+        function showChoiceStage(){
+          if(choiceVisible){
+            return;
+          }
+          if(!choiceStage || !initialStage){
+            exitPreloader();
+            return;
+          }
+          beginBtn.disabled=true;
+          hideStage(initialStage, choiceStage, ()=>{
+            choiceVisible=true;
+            if(visitBtn && typeof visitBtn.focus === 'function'){
+              visitBtn.focus({ preventScroll:true });
+            }
+          });
+        }
+
+        function hideStage(fromStage, toStage, onShown){
+          if(!fromStage || !toStage) return;
+          fromStage.classList.remove('stage-visible');
+          fromStage.classList.add('stage-hidden');
+          let swapped=false;
+          const swapToChoices=()=>{
+            if(swapped) return;
+            swapped=true;
+            fromStage.hidden=true;
+            toStage.hidden=false;
+            toStage.classList.remove('stage-hidden');
+            requestAnimationFrame(()=>{
+              toStage.classList.add('stage-visible');
+              requestAnimationFrame(()=>{ toStage.classList.add('stage-active'); });
+              if(onShown) onShown();
+            });
+          };
+          fromStage.addEventListener('transitionend', (e)=>{
+            if(e.propertyName === 'opacity'){
+              swapToChoices();
+            }
+          }, { once:true });
+          setTimeout(swapToChoices, 800);
+        }
+
+        function returnToInitial(){
+          if(!choiceVisible || !choiceStage || !initialStage) return;
+          choiceStage.classList.remove('stage-active');
+          choiceVisible=false;
+          choiceStage.classList.remove('stage-visible');
+          choiceStage.classList.add('stage-hidden');
+          let swapped=false;
+          const swapBack=()=>{
+            if(swapped) return;
+            swapped=true;
+            choiceStage.hidden=true;
+            initialStage.hidden=false;
+            requestAnimationFrame(()=>{
+              initialStage.classList.add('stage-visible');
+              initialStage.classList.remove('stage-hidden');
+              beginBtn.disabled=false;
+              beginBtn.classList.add('visible');
+              initialStage.classList.add('stage-active');
+              if(typeof beginBtn.focus === 'function'){
+                beginBtn.focus({ preventScroll:true });
+              }
+            });
+          };
+          choiceStage.addEventListener('transitionend', (e)=>{
+            if(e.propertyName === 'opacity'){
+              swapBack();
+            }
+          }, { once:true });
+          setTimeout(swapBack, 800);
+        }
+
+        beginBtn.addEventListener('click', showChoiceStage);
+        if(stayBtn){
+          stayBtn.addEventListener('click', ()=>{
+            if(!socialStage){
+              returnToInitial();
+              return;
+            }
+            fillSocials();
+            choiceVisible=false;
+            hideStage(choiceStage, socialStage, ()=>{
+              socialVisible=true;
+              if(socialVisitBtn && typeof socialVisitBtn.focus === 'function'){
+                socialVisitBtn.focus({ preventScroll:true });
+              }
+            });
+          });
+        }
+        if(visitBtn){
+          visitBtn.addEventListener('click', exitPreloader);
+        }
+        if(socialBackBtn){
+          socialBackBtn.addEventListener('click', ()=>{
+            socialVisible=false;
+            if(!choiceStage || !socialStage) return;
+            socialStage.classList.remove('stage-active');
+            socialStage.classList.remove('stage-visible');
+            socialStage.classList.add('stage-hidden');
+            let swapped=false;
+            const swapBack=()=>{
+              if(swapped) return;
+              swapped=true;
+              socialStage.hidden=true;
+              choiceStage.hidden=false;
+              requestAnimationFrame(()=>{
+                choiceStage.classList.add('stage-visible');
+                choiceStage.classList.remove('stage-hidden');
+                requestAnimationFrame(()=>{ choiceStage.classList.add('stage-active'); });
+                choiceVisible=true;
+                if(stayBtn && typeof stayBtn.focus === 'function'){
+                  stayBtn.focus({ preventScroll:true });
+                }
+              });
+            };
+            socialStage.addEventListener('transitionend', (e)=>{
+              if(e.propertyName === 'opacity'){
+                swapBack();
+              }
+            }, { once:true });
+            setTimeout(swapBack, 800);
+          });
+        }
+        if(socialVisitBtn){
+          socialVisitBtn.addEventListener('click', exitPreloader);
+        }
+
+        function fillSocials(){
+          if(socialsFilled || !socialSlot) return;
+          const source=document.getElementById('social-media-profiles');
+          if(!source) return;
+          const clone=source.cloneNode(true);
+          clone.id='preloader-social-clone';
+          clone.classList.remove('reveal');
+          const rows=clone.querySelectorAll('[id]');
+          rows.forEach(el=>{
+            if(el.id !== 'preloader-social-clone'){
+              el.removeAttribute('id');
+            }
+          });
+          socialSlot.innerHTML='';
+          socialSlot.appendChild(clone);
+          socialsFilled=true;
+        }
       })();
     </script>
 
