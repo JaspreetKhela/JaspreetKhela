@@ -2405,14 +2405,16 @@ blockquote p {
     width: 100%;
 }
 
-#preloader .preloader-social-slot .container {
+#preloader .preloader-social-slot .container,
+#contact-overlay .preloader-social-slot .container {
     max-width: none;
     padding-left: 0;
     padding-right: 0;
     width: 100%;
 }
 
-#preloader .preloader-social-slot .row {
+#preloader .preloader-social-slot .row,
+#contact-overlay .preloader-social-slot .row {
     display: flex;
     flex-wrap: nowrap;
     justify-content: center;
@@ -2421,24 +2423,40 @@ blockquote p {
     width: 100%;
 }
 
-#preloader .preloader-social-slot .row > * {
+#preloader .preloader-social-slot .row > *,
+#contact-overlay .preloader-social-slot .row > * {
     flex: 1 1 25%;
     min-width: 240px;
     max-width: 25%;
 }
 
+#contact-overlay .preloader-social-slot {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#contact-overlay .preloader-social-slot .row > * {
+    flex: 0 1 38%;
+    max-width: 38%;
+    min-width: 280px;
+}
+
 @media (max-width: 1200px) {
-    #preloader .preloader-social-slot .row {
+    #preloader .preloader-social-slot .row,
+    #contact-overlay .preloader-social-slot .row {
         flex-wrap: wrap;
     }
-    #preloader .preloader-social-slot .row > * {
+    #preloader .preloader-social-slot .row > *,
+    #contact-overlay .preloader-social-slot .row > * {
         flex: 1 1 50%;
         max-width: 50%;
     }
 }
 
 @media (max-width: 768px) {
-    #preloader .preloader-social-slot .row > * {
+    #preloader .preloader-social-slot .row > *,
+    #contact-overlay .preloader-social-slot .row > * {
         flex: 1 1 100%;
         max-width: 100%;
     }
@@ -2704,7 +2722,7 @@ blockquote p {
     justify-content: center;
     align-items: center;
     width: 100%;
-    margin: 1rem 0 0;
+    margin: 1.25rem 0 0;
     opacity: 0;
     transform: translateY(8px);
     transition: opacity 0.95s ease 4.6s, transform 0.95s ease 4.6s;
@@ -2712,12 +2730,25 @@ blockquote p {
 
 .contact-card-slot .card {
     margin: 0 auto;
-    max-width: 14.5rem !important;
+    max-width: none !important;
     width: 100%;
-    transform: scale(0.92);
-    transform-origin: top center;
     border: none;
     box-shadow: var(--contact-card-glow);
+}
+
+@media (orientation: landscape) and (max-width: 1180px) {
+    #preloader .preloader-social-slot .row,
+    #contact-overlay .preloader-social-slot .row {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 1.25rem;
+    }
+    #preloader .preloader-social-slot .row > *,
+    #contact-overlay .preloader-social-slot .row > * {
+        flex: 1 1 42%;
+        max-width: 42%;
+        min-width: 280px;
+    }
 }
 
 body.contact-overlay-open {
