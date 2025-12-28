@@ -91,7 +91,7 @@ This Latin proverb reminds me to lean into hard, stretching work where the bigge
 
 <a id="social-media-profiles-title"></a>
 ## Social & Work Hubs
-Jump to the four hubs where I share work: LinkedIn for roles, GitHub for code, YouTube for walkthroughs, and Hashnode for written deep dives.
+Jump to the four hubs where I share work: LinkedIn for roles, GitHub for code, YouTube for walkthroughs, and Hashnode for written deep dives. Each card uses the singular label "Social & Work Hub" so it stays clear when shown on its own.
 
 <a id="professional-work-history"></a>
 ### Professional Work History
