@@ -2307,6 +2307,7 @@ blockquote p {
     justify-items: center;
     min-height: 100vh;
     padding-top: calc(clamp(2.75rem, 8vh, 4rem) + env(safe-area-inset-top, 0px));
+    padding-bottom: calc(3rem + env(safe-area-inset-bottom, 0px));
 }
 
 #preloader .title, #contact-overlay .title {
@@ -2456,6 +2457,7 @@ blockquote p {
     transform: translateY(10px);
     transition: opacity 1s ease, transform 1s ease;
     transition-delay: 0s;
+    margin-bottom: 2.5rem;
 }
 
 #preloader-stage-social.stage-active .choice-actions {
@@ -2483,6 +2485,7 @@ blockquote p {
     gap: 0.75rem;
     flex-wrap: wrap;
     justify-content: center;
+    margin-bottom: 2.5rem;
 }
 
 #preloader .loading-group {
@@ -2581,6 +2584,7 @@ blockquote p {
     justify-self: center;
     align-self: center;
     margin-top: 2.5rem;
+    margin-bottom: 1.75rem;
     box-shadow: 0 0 20px rgba(111, 177, 255, 0.42), 0 0 0 1px rgba(255, 255, 255, 0.12);
     padding: 0.6rem 1.1rem;
     font-size: 1rem;
@@ -2732,7 +2736,7 @@ body.contact-overlay-open {
 }
 
 #contact-overlay .contact-back-btn {
-    margin: 0 auto;
+    margin: 0 auto 1.75rem;
 }
 
 .overlay-cta {
@@ -2775,6 +2779,7 @@ body.contact-overlay-open {
     justify-content: center;
     width: 100%;
     margin-top: -1rem;
+    margin-bottom: 2.5rem;
     opacity: 0;
     transform: translateY(10px);
     transition: opacity 1s ease 5.8s, transform 1s ease 5.8s;
