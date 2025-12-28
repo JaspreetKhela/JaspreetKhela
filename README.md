@@ -18,7 +18,7 @@ Below is a guided overview of what I’ve built so far, what I’m working on no
 ## Table of Contents
 - [About Me](#about-me)
 - [Academic, Professional, and Personal Focuses](#academic-professional-and-personal-focuses)
-- [General Webpages](#social-media-profiles-title)
+- [Social & Work Hubs](#social-media-profiles-title)
   - [Professional Work History](#professional-work-history)
   - [Technical Education and Work Repositories](#technical-education-and-work-repositories)
   - [Education and Work Videos](#education-and-work-videos)
@@ -90,7 +90,7 @@ I prototype side projects, study human factors and design, and keep tinkering to
 This Latin proverb reminds me to lean into hard, stretching work where the biggest learning happens. Prepare well, move with intent, stay patient, and iterate until the work is reliable, teachable, and useful to others.
 
 <a id="social-media-profiles-title"></a>
-## General Webpages
+## Social & Work Hubs
 Jump to the four hubs where I share work: LinkedIn for roles, GitHub for code, YouTube for walkthroughs, and Hashnode for written deep dives.
 
 <a id="professional-work-history"></a>
@@ -197,5 +197,5 @@ Training and development courses in voice/movement, acting, rehearsal/technique,
 ### Let's Chat Over a Virtual Latte!
 If you want to swap ideas, build together, or follow what I am shipping next, let's keep the conversation going.
 
-- Let's Connect: [General Webpages](#social-media-profiles-title)
+- Let's Connect: [Social & Work Hubs](#social-media-profiles-title)
 - Email: [jaspreet.khela@gmail.com](mailto:jaspreet.khela@gmail.com)
